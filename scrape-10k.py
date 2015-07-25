@@ -26,7 +26,7 @@ for page_index in range(1, 201):
     time.sleep(1)  # Be nice and slow down
 
 
-with open('10k.csv', 'a', newline='') as csvfile:
+with open('names.csv', 'a', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     for user_id, user_name in top10k.items():
         writer.writerow([user_id, user_name])
