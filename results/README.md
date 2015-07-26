@@ -28,7 +28,7 @@ A blank space means that whether the mod is active or not does not matter.
 | [FL + others](FL + others.markdown) |  |  |  | :heavy_check_mark: |  |  |  |  |  |  |  |
 | [EZ + others](EZ + others.markdown) |  |  |  |  | :heavy_check_mark: |  |  |  |  |  |  |
 | [HT + others](HT + others.markdown) |  |  |  |  |  | :heavy_check_mark: |  |  |  |  |  |
-| [NF + others](FL + others.markdown) |  |  |  |  |  |  |  |  |  | :heavy_check_mark: |  |
+| [NF + others](NF + others.markdown) |  |  |  |  |  |  |  |  |  | :heavy_check_mark: |  |
 | [DTHR(HD)](DTHR(HD).markdown) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |  |
 | [HDHR only](HDHR only.markdown) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |  |
 | [NoMod or HD](NoMod or HD.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: |  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |  |
