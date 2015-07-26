@@ -60,14 +60,15 @@ def exponential_decay(iterable, decay_rate):
 
 
 def to_markdown_table(result, names):
-    yield '| Rank | Player Name |  PP  |'
-    yield '| ----:|:----------- | ----:|'
+    yield '| Rank | Player Name |  PP  | Scores |'
+    yield '| ----:|:----------- | ----:| ------:|'
     for i, entry in enumerate(result, start=1):
-        user_id, pp = entry
+        user_id, entry_info = entry
+        pp, score_count = entry_info
         if pp == 0:
             break
         url = '[{}](https://osu.ppy.sh/u/{})'.format(names[user_id], user_id)
-        yield '| {} | {} | {} |'.format(i, url, round(pp, 2))
+        yield '| {} | {} | {} | {} | '.format(i, url, round(pp, 2), score_count)
 
 
 filters = {
@@ -94,7 +95,7 @@ data = load_scores()
 
 for filter_name, f in filters.items():
     processed_data = process(data, f)
-    weighted_data = {k: exponential_decay(v, 0.95) for k, v in processed_data.items()}
+    weighted_data = {k: (exponential_decay(v, 0.95), len(v)) for k, v in processed_data.items()}
     result = sorted(weighted_data.items(), key=lambda x: x[1], reverse=True)
     filename = '{}.markdown'.format(filter_name)
     with open(os.path.join('results', filename), 'w') as fd:
