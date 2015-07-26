@@ -7,25 +7,25 @@ The following table shows what mod combinations each table uses.
 :heavy_check_mark: means that that mod must be active.
 A blank space means that whether the mod is active or not does not matter.
 
-| Mod combination |  HR  |  DT  |  HD  |  FL  |  EZ  |  HT  |  SD  |  PF  |  SO  |
-| --------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [AnyMod](AnyMod.markdown) |  |  |  |  |  |  |
-| [NoMod](NoMod.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |
-| [HR only](HR only.markdown) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |
-| [DT only](DT only.markdown) | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |
-| [HD only](HD only.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |
-| [FL only](FL only.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |
-| [EZ only](EZ only.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: |  |  |  |
-| [HT only](HT only.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |  |  |  |
-| [HR + others](HR + others.markdown) | :heavy_check_mark: |  |  |  |  |  |  |  |  |
-| [DT + others](DT + others.markdown) |  | :heavy_check_mark: |  |  |  |  |  |  |  |
-| [HD + others](HD + others.markdown) |  |  | :heavy_check_mark: |  |  |  |  |  |  |
-| [FL + others](FL + others.markdown) |  |  |  | :heavy_check_mark: |  |  |  |  |  |
-| [EZ + others](EZ + others.markdown) |  |  |  |  | :heavy_check_mark: |  |  |  |  |
-| [HT + others](HT + others.markdown) |  |  |  |  |  | :heavy_check_mark: |  |  |  |
-| [DTHR(HD)](DTHR(HD).markdown) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |
-| [HDHR only](HDHR only.markdown) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |
-| [FullMod](FullMod.markdown) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |
+| Mod combination |  HR  |  DT  |  HD  |  FL  |  EZ  |  HT  |  SD  |  PF  |  SO  |  NF  |
+| --------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [AnyMod](AnyMod.markdown) |  |  |  |  |  |  |  |
+| [NoMod](NoMod.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |
+| [HR only](HR only.markdown) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |
+| [DT only](DT only.markdown) | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |
+| [HD only](HD only.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |
+| [FL only](FL only.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |
+| [EZ only](EZ only.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: |  |  |  |  |
+| [HT only](HT only.markdown) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |  |  |  |  |
+| [HR + others](HR + others.markdown) | :heavy_check_mark: |  |  |  |  |  |  |  |  |  |
+| [DT + others](DT + others.markdown) |  | :heavy_check_mark: |  |  |  |  |  |  |  |  |
+| [HD + others](HD + others.markdown) |  |  | :heavy_check_mark: |  |  |  |  |  |  |  |
+| [FL + others](FL + others.markdown) |  |  |  | :heavy_check_mark: |  |  |  |  |  |  |
+| [EZ + others](EZ + others.markdown) |  |  |  |  | :heavy_check_mark: |  |  |  |  |  |
+| [HT + others](HT + others.markdown) |  |  |  |  |  | :heavy_check_mark: |  |  |  |  |
+| [DTHR(HD)](DTHR(HD).markdown) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |
+| [HDHR only](HDHR only.markdown) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |
+| [FullMod](FullMod.markdown) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |  |  |  |  |
 
 ## Collection dates
 Collection period of the top 10 000 players was done on 25-07-2015 11:00 UTC.
