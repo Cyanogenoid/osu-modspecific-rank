@@ -24,8 +24,8 @@
 | 21 | [Mizuki-](https://osu.ppy.sh/u/903167) | 398.37 | 1 |
 | 22 | [BinJip](https://osu.ppy.sh/u/261694) | 384.37 | 2 |
 | 23 | [Startrick](https://osu.ppy.sh/u/2782104) | 316.02 | 1 |
-| 24 | [filsdelama](https://osu.ppy.sh/u/2831793) | 306.42 | 1 |
-| 25 | [TobiGH3](https://osu.ppy.sh/u/3341040) | 306.42 | 1 |
+| 24 | [TobiGH3](https://osu.ppy.sh/u/3341040) | 306.42 | 1 |
+| 25 | [filsdelama](https://osu.ppy.sh/u/2831793) | 306.42 | 1 |
 | 26 | [kei1123](https://osu.ppy.sh/u/834399) | 295.44 | 2 |
 | 27 | [pamiro](https://osu.ppy.sh/u/2095634) | 291.71 | 1 |
 | 28 | [DO96CH](https://osu.ppy.sh/u/4258029) | 283.83 | 1 |

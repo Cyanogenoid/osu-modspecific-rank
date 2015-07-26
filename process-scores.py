@@ -97,7 +97,7 @@ data = load_scores()
 for filter_name, f in filters.items():
     processed_data = process(data, f)
     weighted_data = {k: (exponential_decay(v, 0.95), len(v)) for k, v in processed_data.items()}
-    result = sorted(weighted_data.items(), key=lambda x: x[1], reverse=True)
+    result = sorted(weighted_data.items(), key=lambda x: x[::-1], reverse=True)
     filename = '{}.markdown'.format(filter_name)
     with open(os.path.join('results', filename), 'w') as fd:
         fd.write('# {}\n'.format(filter_name))
