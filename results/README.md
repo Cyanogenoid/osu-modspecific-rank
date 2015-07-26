@@ -16,4 +16,4 @@
 | [HT + others](HT + others.markdown) |  |  |  |  |  | :heavy_check_mark: |
 | [DTHR(HD)](DTHR(HD).markdown) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 | [HDHR (no DT)](HDHR (no DT).markdown) | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| [FullMod](FullMod.markdown) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [FullMod](FullMod.markdown) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: |
