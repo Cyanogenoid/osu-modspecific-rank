@@ -86,8 +86,8 @@ filters = {
     'FL + others': create_filter(FL=1),
     'EZ + others': create_filter(EZ=1),
     'HT + others': create_filter(HT=1),
+    'HDHR only': create_filter(HD=1, HR=1, DT=0, FL=0),
     'DTHR(HD)': create_filter(DT=1, HR=1, FL=0),
-    'HDHR (no DT)': create_filter(HD=1, HR=1, DT=0, FL=0),
     'FullMod': create_filter(DT=1, HR=1, HD=1, FL=1),
 }
 names = load_names()
