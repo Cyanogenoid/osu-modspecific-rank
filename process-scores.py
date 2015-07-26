@@ -80,6 +80,7 @@ filters = {
     'FL only': create_filter(DT=0, HT=0, HR=0, EZ=0, HD=0, FL=1),
     'EZ only': create_filter(DT=0, HT=0, EZ=1, HD=0, FL=0),
     'HT only': create_filter(HT=1, HR=0, EZ=0, HD=0, FL=0),
+    'NC only': create_filter(DT=1, HT=0, HR=0, EZ=0, HD=0, FL=0, NC=1),
     'HR + others': create_filter(HR=1),
     'DT + others': create_filter(DT=1),
     'HD + others': create_filter(HD=1),
