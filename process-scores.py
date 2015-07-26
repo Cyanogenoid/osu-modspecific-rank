@@ -68,7 +68,7 @@ def to_markdown_table(result, names):
         if pp == 0:
             break
         url = '[{}](https://osu.ppy.sh/u/{})'.format(names[user_id], user_id)
-        yield '| {} | {} | {} | {} | '.format(i, url, round(pp, 2), score_count)
+        yield '| {} | {} | {} | {} |'.format(i, url, round(pp, 2), score_count)
 
 
 filters = {
