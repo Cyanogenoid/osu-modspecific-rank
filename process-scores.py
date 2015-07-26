@@ -73,6 +73,12 @@ def to_markdown_table(result, names):
 filters = {
     'AnyMod': create_filter(),
     'NoMod': create_filter(DT=0, HT=0, HR=0, EZ=0, HD=0, FL=0),
+    'DT only': create_filter(DT=1, HR=0, EZ=0, HD=0, FL=0),
+    'HR only': create_filter(DT=0, HT=0, HR=1, HD=0, FL=0),
+    'FL only': create_filter(DT=0, HT=0, HR=0, EZ=0, HD=0, FL=1),
+    'EZ only': create_filter(DT=0, HT=0, EZ=1, HD=0, FL=0),
+    'HD only': create_filter(DT=0, HT=0, HR=0, EZ=0, HD=1, FL=0),
+    'HT only': create_filter(HT=1, HR=0, EZ=0, HD=0, FL=0),
     'DT + others': create_filter(DT=1),
     'FL + others': create_filter(FL=1),
     'HT + others': create_filter(HT=1),
