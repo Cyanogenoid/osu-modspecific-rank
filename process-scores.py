@@ -89,6 +89,8 @@ filters = {
     'NF + others': create_filter(NF=1),
     'HDHR only': create_filter(HD=1, HR=1, DT=0, FL=0),
     'DTHR(HD)': create_filter(DT=1, HR=1, FL=0),
+    'NoMod or HD': create_filter(DT=0, HT=0, HR=0, EZ=0, FL=0),
+    '!DT !HR': create_filter(DT=0, HR=0),
     'FullMod': create_filter(DT=1, HR=1, HD=1, FL=1),
 }
 names = load_names()
