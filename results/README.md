@@ -3,7 +3,7 @@ Ever wondered who the best NoMod players are?
 Ever wondered who the best at AR11 are?
 I compiled data from the best 10 000 players, grouped their best scores by mods, and used this to create leaderboards.
 Each leaderboard only takes the scores of each player fitting the criteria (as listed below) into account, which are then weighted and summed up, as in the regular performance ranking system.
-This allows comparisons of players on a mod-by-mod basis.
+This allows comparisons of player pp's on a mod-by-mod basis.
 
 ## Mod Leaderboards
 The following table shows what mod combinations each table uses.
