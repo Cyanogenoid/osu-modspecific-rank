@@ -14,8 +14,8 @@
 | 11 | [Valde](https://osu.ppy.sh/u/208531) | 193.23 | 1 |
 | 12 | [Micia](https://osu.ppy.sh/u/131118) | 178.94 | 1 |
 | 13 | [Mexita](https://osu.ppy.sh/u/1800183) | 176.24 | 1 |
-| 14 | [ExGon](https://osu.ppy.sh/u/214187) | 176.0 | 1 |
-| 15 | [Niz](https://osu.ppy.sh/u/1833186) | 171.0 | 1 |
+| 14 | [ExGon](https://osu.ppy.sh/u/214187) | 176.00 | 1 |
+| 15 | [Niz](https://osu.ppy.sh/u/1833186) | 171.00 | 1 |
 | 16 | [Lach](https://osu.ppy.sh/u/2108620) | 148.48 | 1 |
 | 17 | [Rusty](https://osu.ppy.sh/u/94364) | 145.56 | 1 |
 | 18 | [DosenSalatx3](https://osu.ppy.sh/u/3813433) | 32.08 | 1 |
