@@ -46,5 +46,5 @@ The difference between the value on the AnyMod leaderboard and the real pp resul
 Note that due to the weighting, people who have a bit of everything in their top performances will not rank highly in the more restrictive mod leaderboards.
 Also, since only the top 100 performances of every player are considered, people such as hvick225 who have some good NoMod scores will not appear in the NoMod leaderboards because they simply don't appear in their top 100 performances.
 
-Collection period of the top 10 000 players was done on 25-07-2015 11:00 UTC.
-Collection period of their corresponding scores was done from roughly 25-07-2015 21:30 UTC to 26-07-2015 00:30 UTC.
+Collection period of the top 10 000 players was done on 2015-08-07 12:18 UTC.
+Collection period of their corresponding scores was done from 2015-08-07 16:33 UTC to 2015-08-07 19:30 UTC.
