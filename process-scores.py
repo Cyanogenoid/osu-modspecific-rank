@@ -88,6 +88,7 @@ filters = {
     'EZ + others': create_filter(EZ=1),
     'HT + others': create_filter(HT=1),
     'NF + others': create_filter(NF=1),
+    'SO + others': create_filter(SO=1),
     '!HR': create_filter(HR=0),
     '!DT': create_filter(DT=0),
     'HDHR only': create_filter(HD=1, HR=1, DT=0, FL=0),
