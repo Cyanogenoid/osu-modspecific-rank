@@ -42,7 +42,7 @@ A blank space means that whether the mod is active or not does not matter.
 The dataset was created using the 100 best scores of every player with rank 10 000 or better.
 Bonus pp is not calculated.
 The default [exponential decay weighting](https://osu.ppy.sh/wiki/Performance_Points#Weightage_system) with the same decay rate is used.
-The difference between the value on the AnyMod leaderboard and the real pp results from the lack of bonus pp and the lack of scores that are not in the top 100 best scores of a player.
+The difference between the value on the AnyMod leaderboard and the real pp results from the lack of bonus pp and the lack of scores that are not in the top 100 best scores of a player (which contributes to no more than [45 pp](http://www.wolframalpha.com/input/?i=sum_x%3D100%5Einfinity+377*0.95%5Ex)).
 Note that due to the weighting, people who have a bit of everything in their top performances will not rank highly in the more restrictive mod leaderboards.
 Also, since only the top 100 performances of every player are considered, people such as hvick225 who have some good NoMod scores will not appear in the NoMod leaderboards because they simply don't appear in their top 100 performances.
 
