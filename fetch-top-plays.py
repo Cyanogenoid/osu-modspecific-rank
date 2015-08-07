@@ -29,7 +29,7 @@ for i, user_id in enumerate(user_ids):
         'u': user_id,
         'type': 'id',
         'm': 0,  # osu! standard
-        'limit': 50,
+        'limit': 100,
     }
     try:
         r = requests.get(url, params=payload)
