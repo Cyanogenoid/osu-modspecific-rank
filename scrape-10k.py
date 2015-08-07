@@ -1,11 +1,12 @@
 import csv
 import time
+import collections
 
 import requests
 import lxml.html
 
 
-top10k = {}
+top10k = collections.OrderedDict()
 for page_index in range(1, 201):
     print('Requesting page {}'.format(page_index))
     url = 'https://osu.ppy.sh/p/pp/'
