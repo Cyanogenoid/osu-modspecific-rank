@@ -2,6 +2,7 @@ import csv
 import json
 import time
 import collections
+import sys
 
 import requests
 
@@ -31,13 +32,17 @@ for i, user_id in enumerate(user_ids):
         'm': 0,  # osu! standard
         'limit': 100,
     }
-    try:
-        r = requests.get(url, params=payload)
-        r.raise_for_status()
-        best_scores = json.loads(r.text)
-    except Exception as e:
-        print('ERROR (user_id):', e)
-        continue
+    success = False
+    while not success:
+        try:
+            r = requests.get(url, params=payload)
+            r.raise_for_status()
+            best_scores = json.loads(r.text)
+            success = True
+        except Exception as e:
+            print('ERROR ({}): {}'.format(user_id, e), file=sys.stderr)
+            print('Retrying {}...'.format(user_id))
+            time.sleep(2)
 
     with open('scores.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
