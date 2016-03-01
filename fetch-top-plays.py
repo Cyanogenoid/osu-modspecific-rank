@@ -55,4 +55,3 @@ for i, user_id in enumerate(user_ids):
     time_diff = end_time - start_time
     wait_time = max(0, 60/REQUESTS_PER_MINUTE - time_diff)
     print('{0:.4f} s elapsed, waiting {1:.4f} s'.format(time_diff, wait_time))
-    time.sleep(wait_time)
