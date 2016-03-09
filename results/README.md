@@ -46,6 +46,3 @@ The default [exponential decay weighting](https://osu.ppy.sh/wiki/Performance_Po
 The difference between the value on the AnyMod leaderboard and the real pp results from the lack of bonus pp and the lack of scores that are not in the top 100 best scores of a player (which contributes to no more than [45 pp](http://www.wolframalpha.com/input/?i=sum_x%3D100%5Einfinity+382*0.95%5Ex)).
 Note that due to the weighting, people who have a bit of everything in their top performances will not rank highly in the more restrictive mod leaderboards.
 Also, since only the top 100 performances of every player are considered, people such as hvick225 who have some good NoMod scores will not appear in the NoMod leaderboards because they simply don't appear in their top 100 performances.
-
-Collection period of the top 10 000 players was done on 2015-08-07 12:18 UTC.
-Collection period of their corresponding scores was done from 2015-08-07 16:33 UTC to 2015-08-07 19:30 UTC.
