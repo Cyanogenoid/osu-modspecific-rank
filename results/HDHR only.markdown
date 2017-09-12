@@ -1,6034 +1,7467 @@
 # HDHR only
 | Rank | Player Name |  PP  | Scores |
 | ----:|:----------- | ----:| ------:|
-| 1 | [Cookiezi](https://osu.ppy.sh/u/124493) | 10839.78 | 45 |
-| 2 | [Wilchq](https://osu.ppy.sh/u/2021758) | 9683.62 | 91 |
-| 3 | [CXu](https://osu.ppy.sh/u/84841) | 9516.75 | 91 |
-| 4 | [My Aim Sucks](https://osu.ppy.sh/u/1883865) | 9501.21 | 78 |
-| 5 | [Rohulk](https://osu.ppy.sh/u/3219026) | 9413.75 | 84 |
-| 6 | [Recia](https://osu.ppy.sh/u/1787027) | 9299.88 | 61 |
-| 7 | [Beafowl](https://osu.ppy.sh/u/2438122) | 9218.58 | 93 |
-| 8 | [Rucker](https://osu.ppy.sh/u/147515) | 8969.28 | 78 |
-| 9 | [DoKito](https://osu.ppy.sh/u/537084) | 8953.99 | 67 |
-| 10 | [Fenrir](https://osu.ppy.sh/u/2644700) | 8909.03 | 88 |
-| 11 | [Reifos](https://osu.ppy.sh/u/2205189) | 8811.52 | 98 |
-| 12 | [hallowatcher](https://osu.ppy.sh/u/1874761) | 8783.93 | 92 |
-| 13 | [Musty](https://osu.ppy.sh/u/251683) | 8729.84 | 58 |
-| 14 | [WubWoofWolf](https://osu.ppy.sh/u/39828) | 8673.32 | 57 |
-| 15 | [[Toy]](https://osu.ppy.sh/u/2757689) | 8597.14 | 61 |
-| 16 | [Azer](https://osu.ppy.sh/u/2155578) | 8546.60 | 75 |
-| 17 | [Satoruu](https://osu.ppy.sh/u/2243452) | 8544.02 | 93 |
-| 18 | [Adamqs](https://osu.ppy.sh/u/613592) | 8417.48 | 84 |
-| 19 | [Riven](https://osu.ppy.sh/u/3638005) | 8415.86 | 90 |
-| 20 | [Emperorpenguin83](https://osu.ppy.sh/u/1688846) | 8309.01 | 76 |
-| 21 | [Kaoru](https://osu.ppy.sh/u/492699) | 8284.08 | 95 |
-| 22 | [Identical](https://osu.ppy.sh/u/3181676) | 8228.08 | 74 |
-| 23 | [Mathi](https://osu.ppy.sh/u/5339515) | 8106.63 | 52 |
-| 24 | [Zog](https://osu.ppy.sh/u/3722715) | 7991.23 | 74 |
-| 25 | [Enon](https://osu.ppy.sh/u/2043401) | 7960.89 | 68 |
-| 26 | [Seouless](https://osu.ppy.sh/u/3328676) | 7932.31 | 63 |
-| 27 | [Gokuri](https://osu.ppy.sh/u/343865) | 7862.67 | 62 |
-| 28 | [Sablestars](https://osu.ppy.sh/u/2429055) | 7820.52 | 89 |
-| 29 | [Dunois](https://osu.ppy.sh/u/4581715) | 7799.13 | 59 |
-| 30 | [thelewa](https://osu.ppy.sh/u/475021) | 7784.95 | 77 |
-| 31 | [Avenging_Goose](https://osu.ppy.sh/u/3985234) | 7768.89 | 66 |
-| 32 | [Karthy](https://osu.ppy.sh/u/4196808) | 7739.90 | 54 |
-| 33 | [MiruHong](https://osu.ppy.sh/u/2866814) | 7698.65 | 60 |
-| 34 | [FriendoFox](https://osu.ppy.sh/u/3678808) | 7673.80 | 74 |
-| 35 | [yellowy246](https://osu.ppy.sh/u/3833980) | 7637.44 | 60 |
-| 36 | [-T A R U L A S-](https://osu.ppy.sh/u/3179601) | 7587.37 | 40 |
-| 37 | [DudsonZ](https://osu.ppy.sh/u/3245028) | 7547.87 | 44 |
-| 38 | [NerO](https://osu.ppy.sh/u/1545031) | 7547.64 | 42 |
-| 39 | [Maffe](https://osu.ppy.sh/u/4773855) | 7539.53 | 71 |
-| 40 | [eLy](https://osu.ppy.sh/u/1014222) | 7525.93 | 82 |
-| 41 | [Fedora Goose](https://osu.ppy.sh/u/2323131) | 7484.55 | 46 |
-| 42 | [MarthXT](https://osu.ppy.sh/u/2909663) | 7470.57 | 67 |
-| 43 | [FunOrange](https://osu.ppy.sh/u/2051389) | 7465.64 | 48 |
-| 44 | [MrPotato](https://osu.ppy.sh/u/2787415) | 7426.26 | 58 |
-| 45 | [rafalbrew](https://osu.ppy.sh/u/3872602) | 7406.58 | 93 |
-| 46 | [[ G h o s t ]](https://osu.ppy.sh/u/3530678) | 7396.39 | 86 |
-| 47 | [Pray](https://osu.ppy.sh/u/2190336) | 7389.02 | 61 |
-| 48 | [Rekaru](https://osu.ppy.sh/u/4152967) | 7374.03 | 68 |
-| 49 | [[ AeonLust ]](https://osu.ppy.sh/u/2353490) | 7357.05 | 98 |
-| 50 | [ClawViper](https://osu.ppy.sh/u/2681361) | 7347.94 | 85 |
-| 51 | [Kuronora](https://osu.ppy.sh/u/2742030) | 7321.61 | 62 |
-| 52 | [muchy](https://osu.ppy.sh/u/1489475) | 7313.95 | 92 |
-| 53 | [Koba](https://osu.ppy.sh/u/4448118) | 7275.60 | 60 |
-| 54 | [Guy](https://osu.ppy.sh/u/91738) | 7269.52 | 79 |
-| 55 | [Yellow](https://osu.ppy.sh/u/1203216) | 7259.48 | 42 |
-| 56 | [Tetla](https://osu.ppy.sh/u/3545547) | 7216.68 | 56 |
-| 57 | [Hydra](https://osu.ppy.sh/u/940964) | 7202.70 | 90 |
-| 58 | [waaiiru](https://osu.ppy.sh/u/903978) | 7199.88 | 39 |
-| 59 | [Zodiaack](https://osu.ppy.sh/u/3096229) | 7187.78 | 59 |
-| 60 | [SpajdeR](https://osu.ppy.sh/u/3446664) | 7172.73 | 65 |
-| 61 | [My Angel Wilchq](https://osu.ppy.sh/u/844815) | 7161.34 | 41 |
-| 62 | [Mercurius](https://osu.ppy.sh/u/589550) | 7152.76 | 58 |
-| 63 | [zxxzxxz](https://osu.ppy.sh/u/1646474) | 7141.64 | 66 |
-| 64 | [schlafen](https://osu.ppy.sh/u/1590461) | 7132.62 | 71 |
-| 65 | [P1u70](https://osu.ppy.sh/u/4914055) | 7094.66 | 98 |
-| 66 | [Celis](https://osu.ppy.sh/u/1136098) | 7060.62 | 84 |
-| 67 | [Zola](https://osu.ppy.sh/u/4272894) | 7048.03 | 97 |
-| 68 | [TobiGH3](https://osu.ppy.sh/u/3341040) | 7030.52 | 56 |
-| 69 | [benjacala](https://osu.ppy.sh/u/1625740) | 7030.27 | 68 |
-| 70 | [AngeLDarkness](https://osu.ppy.sh/u/761968) | 7021.32 | 89 |
-| 71 | [ncuh](https://osu.ppy.sh/u/2891734) | 6995.46 | 84 |
-| 72 | [Niii-san](https://osu.ppy.sh/u/5403374) | 6964.03 | 85 |
-| 73 | [Nelissa](https://osu.ppy.sh/u/2948828) | 6934.71 | 55 |
-| 74 | [Kyschel](https://osu.ppy.sh/u/3305640) | 6927.31 | 83 |
-| 75 | [Boy_314](https://osu.ppy.sh/u/4757979) | 6922.62 | 79 |
-| 76 | [Shounen X](https://osu.ppy.sh/u/960621) | 6913.12 | 45 |
-| 77 | [sk0](https://osu.ppy.sh/u/3492649) | 6902.84 | 66 |
-| 78 | [Tobi](https://osu.ppy.sh/u/2970667) | 6879.51 | 89 |
-| 79 | [Ferelix](https://osu.ppy.sh/u/5580827) | 6864.58 | 61 |
-| 80 | [Mareyo](https://osu.ppy.sh/u/2479500) | 6856.24 | 90 |
-| 81 | [AtHeoN](https://osu.ppy.sh/u/1770367) | 6853.58 | 39 |
-| 82 | [Arthior](https://osu.ppy.sh/u/3274817) | 6851.20 | 83 |
-| 83 | [Neab](https://osu.ppy.sh/u/916693) | 6813.01 | 88 |
-| 84 | [kafaN](https://osu.ppy.sh/u/1489743) | 6798.01 | 53 |
-| 85 | [Forseen](https://osu.ppy.sh/u/556012) | 6797.36 | 85 |
-| 86 | [Sebu](https://osu.ppy.sh/u/3990173) | 6770.64 | 45 |
-| 87 | [MrBooM](https://osu.ppy.sh/u/1837989) | 6753.84 | 64 |
-| 88 | [fartownik](https://osu.ppy.sh/u/56917) | 6739.48 | 49 |
-| 89 | [Thunderbolt235](https://osu.ppy.sh/u/2546192) | 6734.59 | 82 |
-| 90 | [Wario](https://osu.ppy.sh/u/4361729) | 6687.40 | 49 |
-| 91 | [Epiphany](https://osu.ppy.sh/u/3256299) | 6681.08 | 87 |
-| 92 | [nibupls](https://osu.ppy.sh/u/4309886) | 6675.47 | 98 |
-| 93 | [Nitro](https://osu.ppy.sh/u/654098) | 6655.74 | 62 |
-| 94 | [YuLi](https://osu.ppy.sh/u/1655110) | 6655.60 | 84 |
-| 95 | [-Ekik-](https://osu.ppy.sh/u/2926676) | 6650.13 | 60 |
-| 96 | [xDarxen](https://osu.ppy.sh/u/4625954) | 6599.41 | 53 |
-| 97 | [Lulek](https://osu.ppy.sh/u/1022587) | 6578.53 | 80 |
-| 98 | [moca](https://osu.ppy.sh/u/2309855) | 6575.52 | 38 |
-| 99 | [Ranpo](https://osu.ppy.sh/u/3448024) | 6569.93 | 87 |
-| 100 | [TheKid217](https://osu.ppy.sh/u/4843831) | 6563.55 | 40 |
-| 101 | [-SoMoE-](https://osu.ppy.sh/u/3814776) | 6559.04 | 44 |
-| 102 | [Yuria](https://osu.ppy.sh/u/625988) | 6554.38 | 41 |
-| 103 | [Genny](https://osu.ppy.sh/u/2485447) | 6553.15 | 56 |
-| 104 | [Lexalia](https://osu.ppy.sh/u/1887616) | 6525.55 | 37 |
-| 105 | [Asion](https://osu.ppy.sh/u/5894953) | 6521.40 | 60 |
-| 106 | [Koltaylolz](https://osu.ppy.sh/u/4787843) | 6517.28 | 53 |
-| 107 | [Madokaaa](https://osu.ppy.sh/u/2558823) | 6507.26 | 89 |
-| 108 | [-GN](https://osu.ppy.sh/u/895581) | 6500.54 | 40 |
-| 109 | [One Miss](https://osu.ppy.sh/u/4476989) | 6500.16 | 91 |
-| 110 | [Rizer](https://osu.ppy.sh/u/5155973) | 6498.62 | 38 |
-| 111 | [- Slice -](https://osu.ppy.sh/u/4239265) | 6496.11 | 67 |
-| 112 | [dat boi waffle](https://osu.ppy.sh/u/4215381) | 6495.89 | 85 |
-| 113 | [Kardet](https://osu.ppy.sh/u/1438509) | 6495.63 | 56 |
-| 114 | [AYhaz](https://osu.ppy.sh/u/1669213) | 6490.33 | 61 |
-| 115 | [_Degenerate](https://osu.ppy.sh/u/2589649) | 6488.56 | 92 |
-| 116 | [Shana-](https://osu.ppy.sh/u/2267121) | 6483.21 | 65 |
-| 117 | [Blackskyline](https://osu.ppy.sh/u/2176282) | 6481.91 | 45 |
-| 118 | [Maxe191](https://osu.ppy.sh/u/2184751) | 6465.85 | 56 |
-| 119 | [Loli_Silica](https://osu.ppy.sh/u/1807167) | 6451.62 | 31 |
-| 120 | [Repulse](https://osu.ppy.sh/u/2414526) | 6449.44 | 56 |
-| 121 | [gasanww](https://osu.ppy.sh/u/487985) | 6444.59 | 47 |
-| 122 | [Summer Solstice](https://osu.ppy.sh/u/3233710) | 6417.36 | 56 |
-| 123 | [CookEasy](https://osu.ppy.sh/u/453226) | 6410.18 | 60 |
-| 124 | [Chinese_Yazi](https://osu.ppy.sh/u/5163991) | 6406.22 | 80 |
-| 125 | [Flaven](https://osu.ppy.sh/u/3213239) | 6382.49 | 33 |
-| 126 | [kittenrequiem](https://osu.ppy.sh/u/3513687) | 6381.41 | 83 |
-| 127 | [Ciao](https://osu.ppy.sh/u/2674642) | 6374.75 | 43 |
-| 128 | [5231_Kinoko](https://osu.ppy.sh/u/181057) | 6374.42 | 44 |
-| 129 | [Far_Q](https://osu.ppy.sh/u/2896273) | 6372.93 | 36 |
-| 130 | [Davyroo](https://osu.ppy.sh/u/2641039) | 6372.67 | 86 |
-| 131 | [Ma yin](https://osu.ppy.sh/u/1706092) | 6363.26 | 64 |
-| 132 | [hvick810](https://osu.ppy.sh/u/2400141) | 6359.86 | 64 |
-| 133 | [No01](https://osu.ppy.sh/u/2259709) | 6344.28 | 43 |
-| 134 | [W3SON](https://osu.ppy.sh/u/2070822) | 6342.57 | 32 |
-| 135 | [4mpy](https://osu.ppy.sh/u/3755451) | 6334.29 | 44 |
-| 136 | [Talbadar](https://osu.ppy.sh/u/741407) | 6326.68 | 89 |
-| 137 | [Ruru](https://osu.ppy.sh/u/1724626) | 6318.92 | 62 |
-| 138 | [shortpotato](https://osu.ppy.sh/u/1266102) | 6311.97 | 37 |
-| 139 | [_vu69](https://osu.ppy.sh/u/2345079) | 6299.03 | 63 |
-| 140 | [YuyuKo sama](https://osu.ppy.sh/u/234788) | 6296.59 | 51 |
-| 141 | [-Hebel-](https://osu.ppy.sh/u/6169483) | 6296.01 | 44 |
-| 142 | [[ Yozzied ]](https://osu.ppy.sh/u/675132) | 6291.89 | 57 |
-| 143 | [xaxreid](https://osu.ppy.sh/u/4227431) | 6291.69 | 71 |
-| 144 | [randomizer89](https://osu.ppy.sh/u/648613) | 6282.87 | 85 |
-| 145 | [xasuma](https://osu.ppy.sh/u/3172980) | 6280.44 | 53 |
-| 146 | [_---_](https://osu.ppy.sh/u/2930683) | 6275.31 | 38 |
-| 147 | [Hyppyri](https://osu.ppy.sh/u/3123423) | 6266.93 | 34 |
-| 148 | [[C u r i]](https://osu.ppy.sh/u/4746949) | 6255.56 | 37 |
-| 149 | [NNAisle](https://osu.ppy.sh/u/5979619) | 6251.38 | 35 |
-| 150 | [SyeruP](https://osu.ppy.sh/u/1725495) | 6244.95 | 76 |
-| 151 | [Seto Kousuke](https://osu.ppy.sh/u/2857314) | 6234.33 | 67 |
-| 152 | [- Menma-](https://osu.ppy.sh/u/4392909) | 6224.23 | 54 |
-| 153 | [FzimoNN](https://osu.ppy.sh/u/1937445) | 6224.11 | 47 |
-| 154 | [Koalazy](https://osu.ppy.sh/u/286740) | 6221.61 | 37 |
-| 155 | [-HERO-](https://osu.ppy.sh/u/1884516) | 6217.93 | 30 |
-| 156 | [jtpetino](https://osu.ppy.sh/u/3824934) | 6203.29 | 66 |
-| 157 | [[ Lili ]](https://osu.ppy.sh/u/4952690) | 6203.01 | 54 |
-| 158 | [Myjowski](https://osu.ppy.sh/u/3983028) | 6201.09 | 66 |
-| 159 | [step_201064](https://osu.ppy.sh/u/1590115) | 6193.18 | 50 |
-| 160 | [Nakocchi](https://osu.ppy.sh/u/4039773) | 6192.96 | 42 |
-| 161 | [Kouhai](https://osu.ppy.sh/u/3054147) | 6191.92 | 81 |
-| 162 | [Ultraplex](https://osu.ppy.sh/u/4848200) | 6184.85 | 84 |
-| 163 | [lahphnya](https://osu.ppy.sh/u/1722835) | 6182.00 | 43 |
-| 164 | [Korilak](https://osu.ppy.sh/u/7260014) | 6173.75 | 46 |
-| 165 | [ArKeda](https://osu.ppy.sh/u/4765925) | 6169.28 | 63 |
-| 166 | [Freezei](https://osu.ppy.sh/u/7188614) | 6168.76 | 96 |
-| 167 | [Fetish](https://osu.ppy.sh/u/3071262) | 6168.52 | 77 |
-| 168 | [banana_sa](https://osu.ppy.sh/u/1934445) | 6153.09 | 64 |
-| 169 | [Mira-san](https://osu.ppy.sh/u/1587999) | 6138.75 | 36 |
-| 170 | [morikuso](https://osu.ppy.sh/u/751834) | 6136.47 | 65 |
-| 171 | [HI_IM_TENMA](https://osu.ppy.sh/u/1544433) | 6134.12 | 65 |
-| 172 | [whosHxrtz](https://osu.ppy.sh/u/4634953) | 6134.08 | 90 |
-| 173 | [Chronomarly](https://osu.ppy.sh/u/4991464) | 6126.42 | 36 |
-| 174 | [Prograf](https://osu.ppy.sh/u/1549088) | 6114.32 | 39 |
-| 175 | [Kipley](https://osu.ppy.sh/u/2372045) | 6114.10 | 82 |
-| 176 | [Mood Breaker](https://osu.ppy.sh/u/692065) | 6108.89 | 53 |
-| 177 | [Spork Lover](https://osu.ppy.sh/u/3417469) | 6108.63 | 46 |
-| 178 | [Poofie](https://osu.ppy.sh/u/3517198) | 6099.10 | 84 |
-| 179 | [Shield](https://osu.ppy.sh/u/2587424) | 6096.92 | 53 |
-| 180 | [pooptartsonas](https://osu.ppy.sh/u/1334453) | 6095.22 | 84 |
-| 181 | [Melanch0wl](https://osu.ppy.sh/u/3123773) | 6093.00 | 89 |
-| 182 | [[Chrono]](https://osu.ppy.sh/u/2308331) | 6089.35 | 91 |
-| 183 | [SevenTeen-](https://osu.ppy.sh/u/1859195) | 6082.34 | 52 |
-| 184 | [haruurara222](https://osu.ppy.sh/u/85491) | 6076.46 | 65 |
-| 185 | [kLeptO](https://osu.ppy.sh/u/2902534) | 6068.04 | 57 |
-| 186 | [fabriciorby](https://osu.ppy.sh/u/209664) | 6055.54 | 30 |
-| 187 | [Alecto](https://osu.ppy.sh/u/1215045) | 6052.66 | 97 |
-| 188 | [Tengu](https://osu.ppy.sh/u/380836) | 6045.01 | 39 |
-| 189 | [Haii](https://osu.ppy.sh/u/3290152) | 6035.35 | 95 |
-| 190 | [Hazukashi](https://osu.ppy.sh/u/3477760) | 6034.03 | 54 |
-| 191 | [Hey](https://osu.ppy.sh/u/4764882) | 6032.36 | 72 |
-| 192 | [3D Printer](https://osu.ppy.sh/u/5051617) | 6030.31 | 44 |
-| 193 | [jiantz](https://osu.ppy.sh/u/330252) | 6028.28 | 92 |
-| 194 | [SkyzWai-](https://osu.ppy.sh/u/2353581) | 6009.95 | 42 |
-| 195 | [xElectroGH](https://osu.ppy.sh/u/3251373) | 5998.18 | 32 |
-| 196 | [Franc[e]sco](https://osu.ppy.sh/u/157972) | 5991.11 | 68 |
-| 197 | [Mirtrax](https://osu.ppy.sh/u/2290888) | 5976.13 | 39 |
-| 198 | [Faics](https://osu.ppy.sh/u/4133758) | 5972.33 | 46 |
-| 199 | [realslim](https://osu.ppy.sh/u/2374682) | 5969.27 | 75 |
-| 200 | [PeaChick](https://osu.ppy.sh/u/213014) | 5967.87 | 49 |
-| 201 | [Kanan-](https://osu.ppy.sh/u/3596296) | 5963.79 | 59 |
-| 202 | [Tyguyy](https://osu.ppy.sh/u/2830070) | 5956.84 | 58 |
-| 203 | [Firebool](https://osu.ppy.sh/u/6182439) | 5951.39 | 49 |
-| 204 | [- 2301 -](https://osu.ppy.sh/u/4411725) | 5949.34 | 69 |
-| 205 | [scuoa](https://osu.ppy.sh/u/2295787) | 5947.75 | 32 |
-| 206 | [nrl](https://osu.ppy.sh/u/1138435) | 5939.85 | 94 |
-| 207 | [Amane-](https://osu.ppy.sh/u/2276847) | 5934.09 | 41 |
-| 208 | [NoNameAlter](https://osu.ppy.sh/u/2206079) | 5930.06 | 66 |
-| 209 | [SodaCatz](https://osu.ppy.sh/u/1483659) | 5926.46 | 55 |
-| 210 | [k a i m u](https://osu.ppy.sh/u/6702666) | 5922.07 | 53 |
-| 211 | [Vinsu](https://osu.ppy.sh/u/2803031) | 5918.99 | 56 |
-| 212 | [Molester Moon](https://osu.ppy.sh/u/3440388) | 5917.20 | 48 |
-| 213 | [BoT-Shirt](https://osu.ppy.sh/u/1045281) | 5913.34 | 94 |
-| 214 | [Xim](https://osu.ppy.sh/u/2083664) | 5900.17 | 46 |
-| 215 | [Koni Kinmo](https://osu.ppy.sh/u/2106534) | 5897.59 | 37 |
-| 216 | [Potofu](https://osu.ppy.sh/u/657404) | 5896.94 | 36 |
-| 217 | [-Kanzaki](https://osu.ppy.sh/u/1652478) | 5894.76 | 65 |
-| 218 | [hard to freeze](https://osu.ppy.sh/u/448316) | 5893.91 | 100 |
-| 219 | [cannedfruit](https://osu.ppy.sh/u/5102089) | 5890.60 | 94 |
-| 220 | [Peekamoo](https://osu.ppy.sh/u/2337263) | 5887.29 | 54 |
-| 221 | [-S h o u k o-](https://osu.ppy.sh/u/5522789) | 5886.08 | 94 |
-| 222 | [MetoA](https://osu.ppy.sh/u/3909629) | 5882.12 | 26 |
-| 223 | [Rzzzzz](https://osu.ppy.sh/u/1874014) | 5880.72 | 72 |
-| 224 | [Kulezi](https://osu.ppy.sh/u/2603251) | 5877.40 | 37 |
-| 225 | [Cremation](https://osu.ppy.sh/u/1059525) | 5876.87 | 50 |
-| 226 | [Chewin](https://osu.ppy.sh/u/617323) | 5875.77 | 33 |
-| 227 | [[ Matcha ]](https://osu.ppy.sh/u/2489146) | 5875.35 | 97 |
-| 228 | [mrspazzaneve17](https://osu.ppy.sh/u/3516241) | 5867.55 | 35 |
-| 229 | [Mooha](https://osu.ppy.sh/u/2705430) | 5864.63 | 36 |
-| 230 | [PajWoj](https://osu.ppy.sh/u/4899393) | 5863.31 | 59 |
-| 231 | [turretxbuddy](https://osu.ppy.sh/u/2203646) | 5858.23 | 84 |
-| 232 | [YuaKKuma](https://osu.ppy.sh/u/655545) | 5855.64 | 51 |
-| 233 | [Warrock](https://osu.ppy.sh/u/2841744) | 5854.43 | 34 |
-| 234 | [Turbo-Tapczan](https://osu.ppy.sh/u/4947742) | 5835.13 | 63 |
-| 235 | [Linckey](https://osu.ppy.sh/u/982778) | 5832.85 | 59 |
-| 236 | [GHAngeloid](https://osu.ppy.sh/u/2792595) | 5832.19 | 34 |
-| 237 | [Dakke](https://osu.ppy.sh/u/3334945) | 5827.39 | 50 |
-| 238 | [Frostspark](https://osu.ppy.sh/u/4510153) | 5819.61 | 61 |
-| 239 | [_iV_](https://osu.ppy.sh/u/3711142) | 5816.66 | 48 |
-| 240 | [xXKorreal420Xx](https://osu.ppy.sh/u/4470107) | 5811.31 | 48 |
-| 241 | [karory](https://osu.ppy.sh/u/2147086) | 5809.60 | 99 |
-| 242 | [[ baka 3b ]](https://osu.ppy.sh/u/3016611) | 5804.15 | 60 |
-| 243 | [Dzyre](https://osu.ppy.sh/u/2456599) | 5797.63 | 46 |
-| 244 | [- NAN0 -](https://osu.ppy.sh/u/5132353) | 5796.51 | 44 |
-| 245 | [Amamiya](https://osu.ppy.sh/u/3934999) | 5794.53 | 26 |
-| 246 | [Playboy](https://osu.ppy.sh/u/2165558) | 5791.79 | 39 |
-| 247 | [DarkCrims0n](https://osu.ppy.sh/u/3961178) | 5789.95 | 71 |
-| 248 | [Potet](https://osu.ppy.sh/u/6156216) | 5788.28 | 49 |
-| 249 | [Dazefix](https://osu.ppy.sh/u/5217060) | 5784.68 | 41 |
-| 250 | [Qapitol](https://osu.ppy.sh/u/4909088) | 5782.67 | 86 |
-| 251 | [Bradley](https://osu.ppy.sh/u/1219567) | 5778.62 | 79 |
-| 252 | [-o-](https://osu.ppy.sh/u/5295272) | 5775.30 | 82 |
-| 253 | [Koller](https://osu.ppy.sh/u/687325) | 5765.02 | 66 |
-| 254 | [Xtra](https://osu.ppy.sh/u/4255229) | 5762.74 | 36 |
-| 255 | [MAJINAx](https://osu.ppy.sh/u/669808) | 5762.55 | 36 |
-| 256 | [Sancho](https://osu.ppy.sh/u/6569619) | 5761.47 | 47 |
-| 257 | [Antipathy](https://osu.ppy.sh/u/2795520) | 5757.53 | 78 |
-| 258 | [WilczekCK](https://osu.ppy.sh/u/2427116) | 5750.00 | 86 |
-| 259 | [Naxurin](https://osu.ppy.sh/u/3589423) | 5748.78 | 44 |
-| 260 | [Twintail](https://osu.ppy.sh/u/2197482) | 5748.18 | 27 |
-| 261 | [oohily](https://osu.ppy.sh/u/551450) | 5744.41 | 32 |
-| 262 | [ian](https://osu.ppy.sh/u/3535601) | 5742.37 | 74 |
-| 263 | [esemoka57](https://osu.ppy.sh/u/2272413) | 5741.14 | 36 |
-| 264 | [Calm-](https://osu.ppy.sh/u/5042825) | 5729.73 | 48 |
-| 265 | [azger](https://osu.ppy.sh/u/2335982) | 5725.52 | 47 |
-| 266 | [Sanko](https://osu.ppy.sh/u/3286679) | 5723.60 | 56 |
-| 267 | [Blitzcrieg](https://osu.ppy.sh/u/3831003) | 5720.17 | 73 |
-| 268 | [Rinzler](https://osu.ppy.sh/u/2133381) | 5716.88 | 35 |
-| 269 | [oshon](https://osu.ppy.sh/u/3962718) | 5714.17 | 92 |
-| 270 | [Clyine](https://osu.ppy.sh/u/1275211) | 5710.78 | 50 |
-| 271 | [-Babixz-](https://osu.ppy.sh/u/4984632) | 5706.18 | 77 |
-| 272 | [SKaiBlue](https://osu.ppy.sh/u/579370) | 5705.03 | 43 |
-| 273 | [tomatoh4wk](https://osu.ppy.sh/u/4598564) | 5701.70 | 54 |
-| 274 | [norbertosnt3](https://osu.ppy.sh/u/3644289) | 5698.48 | 51 |
-| 275 | [Idealism](https://osu.ppy.sh/u/3869519) | 5690.38 | 45 |
-| 276 | [Qchan](https://osu.ppy.sh/u/3847274) | 5685.95 | 40 |
-| 277 | [nicogame14](https://osu.ppy.sh/u/3812213) | 5681.55 | 43 |
-| 278 | [Kymera](https://osu.ppy.sh/u/2709322) | 5675.75 | 50 |
-| 279 | [Phenomenol](https://osu.ppy.sh/u/5247739) | 5675.13 | 54 |
-| 280 | [byFlowee](https://osu.ppy.sh/u/2395241) | 5674.66 | 91 |
-| 281 | [DizzeY](https://osu.ppy.sh/u/2928305) | 5673.12 | 80 |
-| 282 | [CeilingWaffle](https://osu.ppy.sh/u/3336090) | 5671.77 | 75 |
-| 283 | [Oxia](https://osu.ppy.sh/u/1825928) | 5670.05 | 39 |
-| 284 | [PikaPwn](https://osu.ppy.sh/u/2012453) | 5669.34 | 35 |
-| 285 | [Firstus](https://osu.ppy.sh/u/1856829) | 5663.83 | 26 |
-| 286 | [[Neetwork]](https://osu.ppy.sh/u/2765201) | 5662.16 | 47 |
-| 287 | [Andrew](https://osu.ppy.sh/u/1776275) | 5653.00 | 33 |
-| 288 | [Zavarka](https://osu.ppy.sh/u/4607565) | 5646.18 | 32 |
-| 289 | [[ DANIEZ ]](https://osu.ppy.sh/u/887924) | 5638.72 | 28 |
-| 290 | [Alacartx](https://osu.ppy.sh/u/1959767) | 5637.82 | 65 |
-| 291 | [_derp](https://osu.ppy.sh/u/6168403) | 5632.87 | 50 |
-| 292 | [Wynner](https://osu.ppy.sh/u/4657263) | 5629.15 | 42 |
-| 293 | [beeco](https://osu.ppy.sh/u/1424884) | 5628.28 | 73 |
-| 294 | [gbacca](https://osu.ppy.sh/u/4848423) | 5626.71 | 46 |
-| 295 | [rapiersux](https://osu.ppy.sh/u/3477450) | 5613.44 | 92 |
-| 296 | [001thefish](https://osu.ppy.sh/u/4121535) | 5604.91 | 40 |
-| 297 | [Barbex](https://osu.ppy.sh/u/4904410) | 5602.87 | 52 |
-| 298 | [- Drummer-](https://osu.ppy.sh/u/4102249) | 5599.82 | 78 |
-| 299 | [EAASYMONEEY](https://osu.ppy.sh/u/83114) | 5599.76 | 49 |
-| 300 | [Mijn Aim Zuigt](https://osu.ppy.sh/u/4587487) | 5589.88 | 44 |
-| 301 | [Saferon](https://osu.ppy.sh/u/1825822) | 5582.97 | 55 |
-| 302 | [legekka](https://osu.ppy.sh/u/4142446) | 5577.02 | 30 |
-| 303 | [jeydude](https://osu.ppy.sh/u/2145193) | 5576.57 | 36 |
-| 304 | [Feraza](https://osu.ppy.sh/u/2263344) | 5575.01 | 43 |
-| 305 | [Haganenno](https://osu.ppy.sh/u/4692344) | 5571.96 | 29 |
-| 306 | [Neet_o](https://osu.ppy.sh/u/5336113) | 5571.72 | 97 |
-| 307 | [Pyrocks](https://osu.ppy.sh/u/5879559) | 5570.03 | 48 |
-| 308 | [Visemir](https://osu.ppy.sh/u/4846616) | 5563.13 | 57 |
-| 309 | [CrtReXn](https://osu.ppy.sh/u/1810239) | 5557.79 | 32 |
-| 310 | [Patriot720](https://osu.ppy.sh/u/5652163) | 5552.26 | 58 |
-| 311 | [Doritos](https://osu.ppy.sh/u/2890714) | 5543.87 | 99 |
-| 312 | [Volcanism](https://osu.ppy.sh/u/2316751) | 5537.30 | 54 |
-| 313 | [Snow Wind](https://osu.ppy.sh/u/2163585) | 5533.14 | 54 |
-| 314 | [GaTu](https://osu.ppy.sh/u/3583351) | 5529.15 | 33 |
-| 315 | [NPJn00bs](https://osu.ppy.sh/u/4960191) | 5525.82 | 61 |
-| 316 | [mugio3](https://osu.ppy.sh/u/491522) | 5525.32 | 35 |
-| 317 | [TheLamaHD](https://osu.ppy.sh/u/5297955) | 5511.07 | 49 |
-| 318 | [cappuChino](https://osu.ppy.sh/u/3215546) | 5510.84 | 59 |
-| 319 | [LLoyd-chan](https://osu.ppy.sh/u/2849149) | 5503.52 | 37 |
-| 320 | [nadesico](https://osu.ppy.sh/u/634035) | 5501.40 | 79 |
-| 321 | [Skrelt Potet](https://osu.ppy.sh/u/5201225) | 5492.10 | 34 |
-| 322 | [xxVapeWizardxx](https://osu.ppy.sh/u/2799835) | 5490.80 | 82 |
-| 323 | [WhiteLily](https://osu.ppy.sh/u/4060366) | 5478.24 | 41 |
-| 324 | [Jemmmmy](https://osu.ppy.sh/u/1921587) | 5478.13 | 53 |
-| 325 | [Burgerpower](https://osu.ppy.sh/u/1567069) | 5472.93 | 47 |
-| 326 | [ZeCryptic](https://osu.ppy.sh/u/3381441) | 5471.19 | 43 |
-| 327 | [gijs123a](https://osu.ppy.sh/u/3631885) | 5468.60 | 59 |
-| 328 | [Win](https://osu.ppy.sh/u/3166197) | 5465.04 | 51 |
-| 329 | [diciestaking](https://osu.ppy.sh/u/5701369) | 5464.90 | 29 |
-| 330 | [Kert](https://osu.ppy.sh/u/119933) | 5460.17 | 48 |
-| 331 | [twofor199](https://osu.ppy.sh/u/3199927) | 5450.53 | 43 |
-| 332 | [Yumeko](https://osu.ppy.sh/u/5198953) | 5449.40 | 80 |
-| 333 | [chugleader](https://osu.ppy.sh/u/1622883) | 5449.38 | 31 |
-| 334 | [yandri](https://osu.ppy.sh/u/3824470) | 5446.55 | 55 |
-| 335 | [TrySail](https://osu.ppy.sh/u/2238234) | 5425.06 | 51 |
-| 336 | [oOFrostOo](https://osu.ppy.sh/u/3869815) | 5421.43 | 56 |
-| 337 | [Fuyu HaNa](https://osu.ppy.sh/u/2667239) | 5418.13 | 41 |
-| 338 | [21_sucks](https://osu.ppy.sh/u/3020593) | 5415.98 | 31 |
-| 339 | [Kruncher](https://osu.ppy.sh/u/4866665) | 5413.17 | 77 |
-| 340 | [MrFluffy](https://osu.ppy.sh/u/6462592) | 5405.17 | 50 |
-| 341 | [Elco](https://osu.ppy.sh/u/2878139) | 5401.46 | 39 |
-| 342 | [Catalysis](https://osu.ppy.sh/u/5958063) | 5399.60 | 38 |
-| 343 | [MatsumotoRise](https://osu.ppy.sh/u/672726) | 5387.06 | 31 |
-| 344 | [OneRing](https://osu.ppy.sh/u/5968647) | 5381.86 | 63 |
-| 345 | [Alleros](https://osu.ppy.sh/u/4258689) | 5365.60 | 37 |
-| 346 | [Mango Berry](https://osu.ppy.sh/u/2400120) | 5362.08 | 79 |
-| 347 | [iMinimal](https://osu.ppy.sh/u/2567768) | 5361.49 | 57 |
-| 348 | [kek](https://osu.ppy.sh/u/2148013) | 5358.61 | 33 |
-| 349 | [Synchrostar](https://osu.ppy.sh/u/419705) | 5355.34 | 55 |
-| 350 | [Bupi](https://osu.ppy.sh/u/2578677) | 5353.19 | 84 |
-| 351 | [SASADUKA](https://osu.ppy.sh/u/440918) | 5345.73 | 41 |
-| 352 | [Pavriel](https://osu.ppy.sh/u/2677809) | 5342.60 | 36 |
-| 353 | [st0nebull](https://osu.ppy.sh/u/3214055) | 5341.17 | 59 |
-| 354 | [OuO](https://osu.ppy.sh/u/1638303) | 5335.70 | 28 |
-| 355 | [Akariin](https://osu.ppy.sh/u/4584973) | 5331.97 | 43 |
-| 356 | [iYiyo](https://osu.ppy.sh/u/3919785) | 5331.84 | 51 |
-| 357 | [trek5900](https://osu.ppy.sh/u/3755276) | 5323.49 | 61 |
-| 358 | [-PC](https://osu.ppy.sh/u/2916414) | 5318.96 | 29 |
-| 359 | [[hamiy]](https://osu.ppy.sh/u/2018768) | 5316.88 | 30 |
-| 360 | [KKale](https://osu.ppy.sh/u/2885130) | 5312.73 | 49 |
-| 361 | [xelo ns](https://osu.ppy.sh/u/3182941) | 5304.51 | 39 |
-| 362 | [[-Anjellebot-]](https://osu.ppy.sh/u/3535685) | 5301.16 | 39 |
-| 363 | [Horo](https://osu.ppy.sh/u/992439) | 5298.10 | 41 |
-| 364 | [dlynb](https://osu.ppy.sh/u/3253056) | 5291.63 | 61 |
-| 365 | [hshs](https://osu.ppy.sh/u/1644514) | 5274.12 | 22 |
-| 366 | [-Archangel-](https://osu.ppy.sh/u/1545019) | 5271.60 | 25 |
-| 367 | [DarkwildDuck](https://osu.ppy.sh/u/3068520) | 5270.64 | 47 |
-| 368 | [Paul Stein](https://osu.ppy.sh/u/7375340) | 5269.32 | 97 |
-| 369 | [doki doki](https://osu.ppy.sh/u/2772381) | 5267.08 | 32 |
-| 370 | [Oooooo661](https://osu.ppy.sh/u/6204579) | 5263.54 | 79 |
-| 371 | [DOPZI](https://osu.ppy.sh/u/2511007) | 5261.72 | 51 |
-| 372 | [Kairi](https://osu.ppy.sh/u/1586237) | 5258.07 | 41 |
-| 373 | [agar](https://osu.ppy.sh/u/614138) | 5255.93 | 36 |
-| 374 | [Arkamy](https://osu.ppy.sh/u/1917516) | 5253.77 | 43 |
-| 375 | [WORSTPOLACKEU](https://osu.ppy.sh/u/2686293) | 5253.29 | 27 |
-| 376 | [Guminis](https://osu.ppy.sh/u/4146394) | 5251.24 | 46 |
-| 377 | [WeanXianzheng](https://osu.ppy.sh/u/2715574) | 5244.42 | 32 |
-| 378 | [Frostt](https://osu.ppy.sh/u/4950536) | 5233.22 | 42 |
-| 379 | [Tomadoi](https://osu.ppy.sh/u/5712451) | 5230.00 | 33 |
-| 380 | [rustbell](https://osu.ppy.sh/u/227717) | 5225.05 | 19 |
-| 381 | [PisunJr](https://osu.ppy.sh/u/5978515) | 5215.25 | 52 |
-| 382 | [Saizen](https://osu.ppy.sh/u/4517221) | 5213.50 | 65 |
-| 383 | [- Croma -](https://osu.ppy.sh/u/1752181) | 5203.42 | 31 |
-| 384 | [DukeOfDoom](https://osu.ppy.sh/u/3347903) | 5200.98 | 48 |
-| 385 | [agyn](https://osu.ppy.sh/u/3923523) | 5199.71 | 51 |
-| 386 | [CheshireBreak](https://osu.ppy.sh/u/438959) | 5197.75 | 53 |
-| 387 | [TokisakiKurumi-](https://osu.ppy.sh/u/2158499) | 5192.48 | 55 |
-| 388 | [velocimactor](https://osu.ppy.sh/u/5192566) | 5187.79 | 59 |
-| 389 | [Abolaspany](https://osu.ppy.sh/u/4261853) | 5183.57 | 54 |
-| 390 | [Tiger Claw](https://osu.ppy.sh/u/2064445) | 5181.92 | 24 |
-| 391 | [Mordrok54](https://osu.ppy.sh/u/5606735) | 5179.12 | 77 |
-| 392 | [quickly die](https://osu.ppy.sh/u/2823991) | 5175.56 | 23 |
-| 393 | [amidel](https://osu.ppy.sh/u/1737661) | 5174.74 | 90 |
-| 394 | [-Stoney](https://osu.ppy.sh/u/2785209) | 5172.19 | 63 |
-| 395 | [Miyazono](https://osu.ppy.sh/u/529036) | 5172.00 | 39 |
-| 396 | [S4suk3](https://osu.ppy.sh/u/401955) | 5171.88 | 62 |
-| 397 | [KeigoClear](https://osu.ppy.sh/u/512319) | 5171.17 | 30 |
-| 398 | [[ Steph ]](https://osu.ppy.sh/u/4062170) | 5170.08 | 43 |
-| 399 | [Minil](https://osu.ppy.sh/u/6662652) | 5166.54 | 28 |
-| 400 | [iamVill](https://osu.ppy.sh/u/6295380) | 5165.16 | 28 |
-| 401 | [Sage](https://osu.ppy.sh/u/1795094) | 5164.60 | 36 |
-| 402 | [MightyDJ](https://osu.ppy.sh/u/4329544) | 5161.83 | 72 |
-| 403 | [Volkke](https://osu.ppy.sh/u/3270303) | 5151.01 | 51 |
-| 404 | [oppaiman](https://osu.ppy.sh/u/1771826) | 5150.52 | 48 |
-| 405 | [Golden-Lin](https://osu.ppy.sh/u/615442) | 5149.62 | 29 |
-| 406 | [Risiing](https://osu.ppy.sh/u/2282047) | 5142.81 | 23 |
-| 407 | [wooz](https://osu.ppy.sh/u/6888206) | 5142.35 | 40 |
-| 408 | [Dungeon](https://osu.ppy.sh/u/461720) | 5138.25 | 26 |
-| 409 | [viola d amore](https://osu.ppy.sh/u/2280009) | 5124.33 | 40 |
-| 410 | [Ritzeh](https://osu.ppy.sh/u/1028387) | 5123.68 | 20 |
-| 411 | [Sam GoRiRa](https://osu.ppy.sh/u/2310776) | 5120.20 | 79 |
-| 412 | [Shirone](https://osu.ppy.sh/u/1426098) | 5119.24 | 24 |
-| 413 | [Criss](https://osu.ppy.sh/u/3188017) | 5119.24 | 45 |
-| 414 | [-SuHeRa-](https://osu.ppy.sh/u/3044576) | 5106.36 | 40 |
-| 415 | [[Haku]](https://osu.ppy.sh/u/2329184) | 5104.00 | 44 |
-| 416 | [Rinquin](https://osu.ppy.sh/u/4050465) | 5097.24 | 33 |
-| 417 | [LukerMaster](https://osu.ppy.sh/u/2093623) | 5090.04 | 39 |
-| 418 | [Kagetsu](https://osu.ppy.sh/u/6203841) | 5089.10 | 48 |
-| 419 | [chrisny](https://osu.ppy.sh/u/3119955) | 5088.46 | 91 |
-| 420 | [MrGloves](https://osu.ppy.sh/u/4097769) | 5086.27 | 60 |
-| 421 | [blednak](https://osu.ppy.sh/u/912627) | 5082.89 | 40 |
-| 422 | [Nayrus](https://osu.ppy.sh/u/6566698) | 5082.85 | 85 |
-| 423 | [ivaz](https://osu.ppy.sh/u/496424) | 5081.18 | 45 |
-| 424 | [Rikuu](https://osu.ppy.sh/u/1828631) | 5080.36 | 51 |
-| 425 | [teko8](https://osu.ppy.sh/u/1743162) | 5077.06 | 59 |
-| 426 | [Yuza](https://osu.ppy.sh/u/3077037) | 5076.34 | 25 |
-| 427 | [Mythol](https://osu.ppy.sh/u/735289) | 5073.60 | 59 |
-| 428 | [tecu](https://osu.ppy.sh/u/2652155) | 5073.57 | 49 |
-| 429 | [Janga](https://osu.ppy.sh/u/3917884) | 5071.25 | 52 |
-| 430 | [Tenori-Taiga](https://osu.ppy.sh/u/2445162) | 5068.92 | 68 |
-| 431 | [Floob](https://osu.ppy.sh/u/3997200) | 5065.38 | 40 |
-| 432 | [LolForest](https://osu.ppy.sh/u/1429071) | 5064.80 | 44 |
-| 433 | [Nocturne [AR]](https://osu.ppy.sh/u/4776674) | 5062.67 | 66 |
-| 434 | [Fl0master1337](https://osu.ppy.sh/u/2964008) | 5061.10 | 33 |
-| 435 | [hisuiironosora](https://osu.ppy.sh/u/2137028) | 5060.64 | 37 |
-| 436 | [Posco](https://osu.ppy.sh/u/3261991) | 5058.46 | 34 |
-| 437 | [Xbox](https://osu.ppy.sh/u/4050740) | 5054.19 | 26 |
-| 438 | [- Josro -](https://osu.ppy.sh/u/4338711) | 5051.79 | 37 |
-| 439 | [TheDude](https://osu.ppy.sh/u/6240365) | 5051.00 | 85 |
-| 440 | [Kirisaki](https://osu.ppy.sh/u/1281122) | 5050.87 | 82 |
-| 441 | [TakkuPelle](https://osu.ppy.sh/u/4766423) | 5050.71 | 39 |
-| 442 | [esoragoto](https://osu.ppy.sh/u/2050849) | 5049.77 | 45 |
-| 443 | [thr1ve](https://osu.ppy.sh/u/55378) | 5044.69 | 68 |
-| 444 | [SiLviZ](https://osu.ppy.sh/u/1687524) | 5042.65 | 41 |
-| 445 | [rrtyui](https://osu.ppy.sh/u/352328) | 5040.86 | 21 |
-| 446 | [Stevenn](https://osu.ppy.sh/u/2164528) | 5039.39 | 45 |
-| 447 | [jayK](https://osu.ppy.sh/u/2307746) | 5039.03 | 35 |
-| 448 | [Goodstein](https://osu.ppy.sh/u/7318540) | 5035.12 | 60 |
-| 449 | [zakipwnz](https://osu.ppy.sh/u/1612947) | 5033.50 | 39 |
-| 450 | [KoTo](https://osu.ppy.sh/u/1382805) | 5028.57 | 30 |
-| 451 | [Lako](https://osu.ppy.sh/u/2906436) | 5027.89 | 50 |
-| 452 | [hello-rabbit](https://osu.ppy.sh/u/1513758) | 5022.03 | 44 |
-| 453 | [rEdo](https://osu.ppy.sh/u/49329) | 5016.18 | 45 |
-| 454 | [Noopiezi](https://osu.ppy.sh/u/4824078) | 5010.60 | 60 |
-| 455 | [OVanillaO](https://osu.ppy.sh/u/1566382) | 5007.67 | 59 |
-| 456 | [Markden](https://osu.ppy.sh/u/4188624) | 4993.42 | 53 |
-| 457 | [N a s y a](https://osu.ppy.sh/u/1473106) | 4990.14 | 42 |
-| 458 | [Woey](https://osu.ppy.sh/u/3792472) | 4987.78 | 26 |
-| 459 | [Mrotaku](https://osu.ppy.sh/u/2266860) | 4979.90 | 21 |
-| 460 | [OsunMoM-](https://osu.ppy.sh/u/1856728) | 4971.81 | 22 |
-| 461 | [Kon](https://osu.ppy.sh/u/4344404) | 4970.14 | 41 |
-| 462 | [Flandre-](https://osu.ppy.sh/u/2624025) | 4969.71 | 64 |
-| 463 | [TrainStation](https://osu.ppy.sh/u/2508243) | 4967.27 | 58 |
-| 464 | [Seni](https://osu.ppy.sh/u/4830261) | 4962.34 | 38 |
-| 465 | [Shirasaka Koume](https://osu.ppy.sh/u/3062998) | 4962.17 | 31 |
-| 466 | [Rabi](https://osu.ppy.sh/u/3645876) | 4957.65 | 72 |
-| 467 | [RealCuT](https://osu.ppy.sh/u/1610850) | 4948.69 | 32 |
-| 468 | [Write](https://osu.ppy.sh/u/5113673) | 4946.97 | 25 |
-| 469 | [Scuderia-](https://osu.ppy.sh/u/2704753) | 4944.47 | 41 |
-| 470 | [auux](https://osu.ppy.sh/u/2182866) | 4943.33 | 34 |
-| 471 | [Claximillions](https://osu.ppy.sh/u/2574144) | 4940.69 | 42 |
-| 472 | [Max Caulfield](https://osu.ppy.sh/u/6363218) | 4937.25 | 32 |
-| 473 | [B e N i](https://osu.ppy.sh/u/733878) | 4934.95 | 21 |
-| 474 | [WardoX](https://osu.ppy.sh/u/2649393) | 4934.83 | 44 |
-| 475 | [LastKiss](https://osu.ppy.sh/u/1510670) | 4930.33 | 42 |
-| 476 | [hvick225](https://osu.ppy.sh/u/50265) | 4926.34 | 14 |
-| 477 | [2xExp](https://osu.ppy.sh/u/6576002) | 4923.54 | 66 |
-| 478 | [RRReol](https://osu.ppy.sh/u/4326267) | 4923.10 | 41 |
-| 479 | [[ xFrozZ ]](https://osu.ppy.sh/u/6462387) | 4922.33 | 39 |
-| 480 | [YewJoeChai](https://osu.ppy.sh/u/5218753) | 4921.15 | 60 |
-| 481 | [Gaburieru-](https://osu.ppy.sh/u/2560714) | 4917.14 | 56 |
-| 482 | [Ai_SiN](https://osu.ppy.sh/u/4928691) | 4916.75 | 63 |
-| 483 | [Jarvis](https://osu.ppy.sh/u/4814060) | 4915.06 | 39 |
-| 484 | [Tomoko Kuroki-](https://osu.ppy.sh/u/4418213) | 4914.21 | 23 |
-| 485 | [-phurion](https://osu.ppy.sh/u/5184551) | 4912.60 | 36 |
-| 486 | [hawty](https://osu.ppy.sh/u/6063120) | 4911.16 | 58 |
-| 487 | [m1cro_wave](https://osu.ppy.sh/u/1992040) | 4911.01 | 61 |
-| 488 | [Crissinop](https://osu.ppy.sh/u/3429926) | 4910.95 | 24 |
-| 489 | [xXGrimmsXx](https://osu.ppy.sh/u/4476949) | 4907.08 | 33 |
-| 490 | [Slendy](https://osu.ppy.sh/u/2689577) | 4904.81 | 34 |
-| 491 | [Informous](https://osu.ppy.sh/u/4734244) | 4903.88 | 32 |
-| 492 | [Elfice](https://osu.ppy.sh/u/479331) | 4903.75 | 39 |
-| 493 | [-Miyano Kotone-](https://osu.ppy.sh/u/3935438) | 4902.08 | 35 |
-| 494 | [ZeChan](https://osu.ppy.sh/u/925752) | 4901.82 | 91 |
-| 495 | [HappyStick](https://osu.ppy.sh/u/256802) | 4899.09 | 16 |
-| 496 | [America](https://osu.ppy.sh/u/2348585) | 4898.57 | 66 |
-| 497 | [hmrkhmrk](https://osu.ppy.sh/u/2372102) | 4895.53 | 28 |
-| 498 | [-P0INT-](https://osu.ppy.sh/u/751908) | 4893.47 | 29 |
-| 499 | [[ThisUsername]](https://osu.ppy.sh/u/3971908) | 4890.00 | 43 |
-| 500 | [VeselaHranolka](https://osu.ppy.sh/u/6149947) | 4888.42 | 29 |
-| 501 | [[ -Sora- ]](https://osu.ppy.sh/u/3373128) | 4887.66 | 78 |
-| 502 | [MouseEasy](https://osu.ppy.sh/u/1558603) | 4886.43 | 20 |
-| 503 | [Yuusuke](https://osu.ppy.sh/u/3937562) | 4884.77 | 42 |
-| 504 | [DavidEd](https://osu.ppy.sh/u/4287454) | 4883.40 | 56 |
-| 505 | [Raiku](https://osu.ppy.sh/u/1525538) | 4880.35 | 35 |
-| 506 | [Colors](https://osu.ppy.sh/u/2468171) | 4878.05 | 28 |
-| 507 | [SugarCat](https://osu.ppy.sh/u/471554) | 4870.81 | 38 |
-| 508 | [HySkoa](https://osu.ppy.sh/u/956974) | 4869.52 | 47 |
-| 509 | [Lovestruck](https://osu.ppy.sh/u/5691595) | 4867.47 | 27 |
-| 510 | [Hanburgeric](https://osu.ppy.sh/u/5379557) | 4866.13 | 61 |
-| 511 | [Doginator](https://osu.ppy.sh/u/3574127) | 4865.95 | 34 |
-| 512 | [Undead](https://osu.ppy.sh/u/5458069) | 4864.72 | 84 |
-| 513 | [fumis](https://osu.ppy.sh/u/355152) | 4860.57 | 52 |
-| 514 | [ChronoTrig](https://osu.ppy.sh/u/3687489) | 4859.03 | 22 |
-| 515 | [Crone](https://osu.ppy.sh/u/5183111) | 4857.96 | 55 |
-| 516 | [BarkingMadDog](https://osu.ppy.sh/u/3475189) | 4857.38 | 41 |
-| 517 | [Van Darkholme](https://osu.ppy.sh/u/1661517) | 4855.16 | 22 |
-| 518 | [Ora](https://osu.ppy.sh/u/5171995) | 4852.57 | 61 |
-| 519 | [Shelfdon](https://osu.ppy.sh/u/2535716) | 4850.64 | 44 |
-| 520 | [AkaSUN](https://osu.ppy.sh/u/2011880) | 4849.39 | 43 |
-| 521 | [Nakano-](https://osu.ppy.sh/u/1893953) | 4849.31 | 24 |
-| 522 | [BugIt](https://osu.ppy.sh/u/6845847) | 4840.40 | 52 |
-| 523 | [- Aki](https://osu.ppy.sh/u/5225646) | 4835.52 | 24 |
-| 524 | [aeS](https://osu.ppy.sh/u/3181837) | 4834.74 | 68 |
-| 525 | [SunglassesEmoji](https://osu.ppy.sh/u/2772753) | 4832.99 | 39 |
-| 526 | [_steini_](https://osu.ppy.sh/u/5676259) | 4832.05 | 44 |
-| 527 | [Giocasta](https://osu.ppy.sh/u/3547370) | 4826.91 | 90 |
-| 528 | [Vettel](https://osu.ppy.sh/u/1208858) | 4820.00 | 18 |
-| 529 | [shARPII](https://osu.ppy.sh/u/776257) | 4816.33 | 38 |
-| 530 | [AimNeet](https://osu.ppy.sh/u/1573703) | 4808.26 | 42 |
-| 531 | [potap](https://osu.ppy.sh/u/1056329) | 4806.41 | 50 |
-| 532 | [m o m o c o_](https://osu.ppy.sh/u/3180264) | 4804.07 | 55 |
-| 533 | [Pandarix](https://osu.ppy.sh/u/1721994) | 4802.15 | 42 |
-| 534 | [HKrecords_](https://osu.ppy.sh/u/2246417) | 4798.31 | 32 |
-| 535 | [vitoco09](https://osu.ppy.sh/u/4282963) | 4797.85 | 30 |
-| 536 | [Pein](https://osu.ppy.sh/u/2212941) | 4793.77 | 25 |
-| 537 | [Acceptable](https://osu.ppy.sh/u/4901625) | 4793.47 | 51 |
-| 538 | [Constelletion](https://osu.ppy.sh/u/3074650) | 4783.78 | 21 |
-| 539 | [Strykerto](https://osu.ppy.sh/u/6326722) | 4779.94 | 39 |
-| 540 | [GraySilvers](https://osu.ppy.sh/u/1382032) | 4774.00 | 45 |
-| 541 | [YoKoNikov](https://osu.ppy.sh/u/2039647) | 4772.76 | 36 |
-| 542 | [Aden](https://osu.ppy.sh/u/4342841) | 4771.16 | 22 |
-| 543 | [ReaL motion](https://osu.ppy.sh/u/2556958) | 4770.85 | 21 |
-| 544 | [HesuTeia](https://osu.ppy.sh/u/973981) | 4770.04 | 35 |
-| 545 | [VXB](https://osu.ppy.sh/u/2597452) | 4768.88 | 24 |
-| 546 | [GranDSenpai](https://osu.ppy.sh/u/3997580) | 4765.06 | 37 |
-| 547 | [Kevini](https://osu.ppy.sh/u/2577278) | 4763.53 | 47 |
-| 548 | [mosvannen](https://osu.ppy.sh/u/5312766) | 4761.47 | 45 |
-| 549 | [[ Niku ]](https://osu.ppy.sh/u/4325547) | 4755.57 | 30 |
-| 550 | [Kagami Hekiru](https://osu.ppy.sh/u/4577393) | 4754.47 | 30 |
-| 551 | [Hawkuru](https://osu.ppy.sh/u/980816) | 4752.85 | 59 |
-| 552 | [Settia](https://osu.ppy.sh/u/2445897) | 4749.52 | 34 |
-| 553 | [Strategas](https://osu.ppy.sh/u/2971837) | 4748.49 | 37 |
-| 554 | [tfg50](https://osu.ppy.sh/u/3312720) | 4746.85 | 34 |
-| 555 | [Lecana](https://osu.ppy.sh/u/1476203) | 4744.18 | 82 |
-| 556 | [Domingo Cavallo](https://osu.ppy.sh/u/3984742) | 4742.20 | 79 |
-| 557 | [LinV](https://osu.ppy.sh/u/2831511) | 4737.99 | 73 |
-| 558 | [Qash](https://osu.ppy.sh/u/3648411) | 4730.97 | 29 |
-| 559 | [Aya TenSai](https://osu.ppy.sh/u/4374631) | 4725.76 | 37 |
-| 560 | [ShadowSoul](https://osu.ppy.sh/u/494970) | 4723.90 | 29 |
-| 561 | [orangedough](https://osu.ppy.sh/u/5056999) | 4722.90 | 29 |
-| 562 | [v6842951370](https://osu.ppy.sh/u/1021342) | 4717.96 | 59 |
-| 563 | [Mya](https://osu.ppy.sh/u/2868952) | 4716.93 | 22 |
-| 564 | [PhaCeLia](https://osu.ppy.sh/u/483523) | 4713.64 | 28 |
-| 565 | [Cecile](https://osu.ppy.sh/u/1735143) | 4711.47 | 26 |
-| 566 | [Drezi](https://osu.ppy.sh/u/3936645) | 4707.60 | 32 |
-| 567 | [Ellevenfox](https://osu.ppy.sh/u/2499930) | 4707.51 | 65 |
-| 568 | [Yumia](https://osu.ppy.sh/u/4694829) | 4704.54 | 34 |
-| 569 | [Rain](https://osu.ppy.sh/u/865724) | 4695.96 | 32 |
-| 570 | [BetaStar](https://osu.ppy.sh/u/2036217) | 4688.84 | 43 |
-| 571 | [Aernat](https://osu.ppy.sh/u/4073754) | 4687.80 | 31 |
-| 572 | [putigame](https://osu.ppy.sh/u/1484652) | 4682.99 | 37 |
-| 573 | [Cubic](https://osu.ppy.sh/u/5077396) | 4680.38 | 32 |
-| 574 | [TB 358](https://osu.ppy.sh/u/3632016) | 4677.88 | 36 |
-| 575 | [LaZyAzN](https://osu.ppy.sh/u/2031877) | 4676.63 | 36 |
-| 576 | [TattiJaakko](https://osu.ppy.sh/u/4550849) | 4669.56 | 54 |
-| 577 | [Colonel-](https://osu.ppy.sh/u/3679052) | 4669.08 | 49 |
-| 578 | [influxd](https://osu.ppy.sh/u/1579374) | 4658.87 | 33 |
-| 579 | [Uzi I](https://osu.ppy.sh/u/6042123) | 4657.51 | 38 |
-| 580 | [Sashimio](https://osu.ppy.sh/u/4437710) | 4650.37 | 62 |
-| 581 | [Phyloukz](https://osu.ppy.sh/u/5710809) | 4644.82 | 29 |
-| 582 | [MiauMeowMiau](https://osu.ppy.sh/u/1379717) | 4643.57 | 37 |
-| 583 | [Shionji Yuuko](https://osu.ppy.sh/u/88712) | 4643.26 | 52 |
-| 584 | [mgr_96](https://osu.ppy.sh/u/4789153) | 4641.07 | 65 |
-| 585 | [c00kiezecky](https://osu.ppy.sh/u/2225267) | 4637.51 | 27 |
-| 586 | [Zadkiel](https://osu.ppy.sh/u/4579703) | 4636.32 | 33 |
-| 587 | [oneplusone](https://osu.ppy.sh/u/1843447) | 4636.26 | 28 |
-| 588 | [[-Lethal-]](https://osu.ppy.sh/u/2133379) | 4631.67 | 47 |
-| 589 | [Kennen](https://osu.ppy.sh/u/5426392) | 4631.08 | 59 |
-| 590 | [[ - A N - ]](https://osu.ppy.sh/u/2706166) | 4630.82 | 98 |
-| 591 | [Manu028](https://osu.ppy.sh/u/6192633) | 4630.74 | 43 |
-| 592 | [juliancala](https://osu.ppy.sh/u/3272902) | 4627.71 | 41 |
-| 593 | [_indecchi](https://osu.ppy.sh/u/3936503) | 4627.54 | 31 |
-| 594 | [[Soope]](https://osu.ppy.sh/u/4909240) | 4625.28 | 45 |
-| 595 | [Time Disrupts](https://osu.ppy.sh/u/5456921) | 4622.96 | 87 |
-| 596 | [naruuru](https://osu.ppy.sh/u/5199996) | 4617.66 | 40 |
-| 597 | [-Saiko](https://osu.ppy.sh/u/4437309) | 4615.98 | 36 |
-| 598 | [Wavilia](https://osu.ppy.sh/u/2994317) | 4613.34 | 78 |
-| 599 | [yaboytanner](https://osu.ppy.sh/u/4718170) | 4609.59 | 35 |
-| 600 | [Vergnobyl](https://osu.ppy.sh/u/2212376) | 4608.79 | 39 |
-| 601 | [L u m i n o u s](https://osu.ppy.sh/u/1637989) | 4605.21 | 44 |
-| 602 | [Pyroboom](https://osu.ppy.sh/u/689882) | 4603.99 | 31 |
-| 603 | [SkyArrow](https://osu.ppy.sh/u/4039647) | 4603.82 | 41 |
-| 604 | [Ramhh](https://osu.ppy.sh/u/1734772) | 4603.31 | 51 |
-| 605 | [Roksuu-](https://osu.ppy.sh/u/4290833) | 4602.56 | 37 |
-| 606 | [sprItzEr](https://osu.ppy.sh/u/818633) | 4598.65 | 33 |
-| 607 | [cabbage](https://osu.ppy.sh/u/2358072) | 4598.51 | 31 |
-| 608 | [Cocaine dog](https://osu.ppy.sh/u/3213014) | 4591.30 | 24 |
-| 609 | [Pixy_wow](https://osu.ppy.sh/u/1319156) | 4591.25 | 31 |
-| 610 | [KyoshiDeath](https://osu.ppy.sh/u/6314143) | 4590.78 | 41 |
-| 611 | [Spender-R](https://osu.ppy.sh/u/3824279) | 4590.08 | 37 |
-| 612 | [Warui Kitsune](https://osu.ppy.sh/u/2658457) | 4585.86 | 42 |
-| 613 | [VINXIS](https://osu.ppy.sh/u/4323406) | 4584.75 | 23 |
-| 614 | [Ichii Yui](https://osu.ppy.sh/u/3070426) | 4581.97 | 44 |
-| 615 | [ChrisMiuchiz](https://osu.ppy.sh/u/2415565) | 4579.18 | 31 |
-| 616 | [Yumbtah](https://osu.ppy.sh/u/2784663) | 4579.00 | 27 |
-| 617 | [Cilly](https://osu.ppy.sh/u/2675039) | 4577.46 | 31 |
-| 618 | [JaviLALA](https://osu.ppy.sh/u/4945665) | 4574.02 | 34 |
-| 619 | [Klomi](https://osu.ppy.sh/u/2391358) | 4572.93 | 31 |
-| 620 | [klubek](https://osu.ppy.sh/u/112265) | 4570.55 | 36 |
-| 621 | [Abyssal](https://osu.ppy.sh/u/5527745) | 4566.74 | 21 |
-| 622 | [skySoranano](https://osu.ppy.sh/u/2380030) | 4563.89 | 25 |
-| 623 | [Jup3KW](https://osu.ppy.sh/u/5424170) | 4563.70 | 63 |
-| 624 | [RhuvRCZ](https://osu.ppy.sh/u/6736010) | 4563.29 | 28 |
-| 625 | [Psycopath-](https://osu.ppy.sh/u/3233957) | 4562.81 | 24 |
-| 626 | [forevehappy](https://osu.ppy.sh/u/447813) | 4560.61 | 48 |
-| 627 | [yourich](https://osu.ppy.sh/u/3916059) | 4558.78 | 38 |
-| 628 | [Crescendo Blue](https://osu.ppy.sh/u/3494254) | 4553.68 | 39 |
-| 629 | [jeanzy](https://osu.ppy.sh/u/4884852) | 4550.91 | 39 |
-| 630 | [sumeshi](https://osu.ppy.sh/u/1170977) | 4549.31 | 44 |
-| 631 | [BasedGod](https://osu.ppy.sh/u/3756668) | 4545.35 | 72 |
-| 632 | [KonataN](https://osu.ppy.sh/u/1243556) | 4544.43 | 27 |
-| 633 | [Ragnawrawk](https://osu.ppy.sh/u/1838239) | 4543.92 | 24 |
-| 634 | [Tichus](https://osu.ppy.sh/u/2599106) | 4542.87 | 48 |
-| 635 | [Ayane](https://osu.ppy.sh/u/4287296) | 4542.51 | 29 |
-| 636 | [Mad Maiden](https://osu.ppy.sh/u/4223876) | 4538.20 | 43 |
-| 637 | [m00nboy](https://osu.ppy.sh/u/3309674) | 4535.21 | 47 |
-| 638 | [[D I O]](https://osu.ppy.sh/u/2472934) | 4535.06 | 29 |
-| 639 | [Netz](https://osu.ppy.sh/u/2443758) | 4534.92 | 29 |
-| 640 | [Glinky](https://osu.ppy.sh/u/3629953) | 4534.14 | 27 |
-| 641 | [rips](https://osu.ppy.sh/u/626367) | 4531.91 | 34 |
-| 642 | [OnlyBjarne](https://osu.ppy.sh/u/3131461) | 4530.66 | 34 |
-| 643 | [Beako](https://osu.ppy.sh/u/3065571) | 4530.53 | 27 |
-| 644 | [FelixNy](https://osu.ppy.sh/u/2814070) | 4529.98 | 30 |
-| 645 | [Qylwok](https://osu.ppy.sh/u/1179760) | 4527.23 | 60 |
-| 646 | [Endu](https://osu.ppy.sh/u/4984843) | 4525.38 | 26 |
-| 647 | [Piratex](https://osu.ppy.sh/u/4638668) | 4522.54 | 54 |
-| 648 | [DeletedAccount](https://osu.ppy.sh/u/4435332) | 4520.20 | 33 |
-| 649 | [JuZu](https://osu.ppy.sh/u/1062960) | 4519.48 | 59 |
-| 650 | [edamame](https://osu.ppy.sh/u/4690290) | 4518.58 | 66 |
-| 651 | [doghowler45](https://osu.ppy.sh/u/4126039) | 4516.74 | 33 |
-| 652 | [Bubbleman](https://osu.ppy.sh/u/5182050) | 4513.96 | 16 |
-| 653 | [Heal](https://osu.ppy.sh/u/2768128) | 4510.25 | 39 |
-| 654 | [[ Umaruun ]](https://osu.ppy.sh/u/4734632) | 4505.10 | 33 |
-| 655 | [Amalgamation](https://osu.ppy.sh/u/1523555) | 4504.42 | 37 |
-| 656 | [cleverdmg](https://osu.ppy.sh/u/2147829) | 4502.68 | 36 |
-| 657 | [Alisson](https://osu.ppy.sh/u/3716924) | 4502.09 | 38 |
-| 658 | [ithgyu](https://osu.ppy.sh/u/5113781) | 4500.18 | 19 |
-| 659 | [Blank-](https://osu.ppy.sh/u/3394763) | 4498.65 | 23 |
-| 660 | [NyaKame](https://osu.ppy.sh/u/2026980) | 4498.20 | 32 |
-| 661 | [Toukai](https://osu.ppy.sh/u/1541390) | 4491.50 | 21 |
-| 662 | [adoragirl](https://osu.ppy.sh/u/2309545) | 4491.27 | 32 |
-| 663 | [aod](https://osu.ppy.sh/u/723100) | 4489.33 | 25 |
-| 664 | [[ Hero ]](https://osu.ppy.sh/u/4457661) | 4488.83 | 52 |
-| 665 | [CopyWrite](https://osu.ppy.sh/u/3382168) | 4484.55 | 85 |
-| 666 | [Happy New Year](https://osu.ppy.sh/u/4600341) | 4479.72 | 22 |
-| 667 | [LoliFow](https://osu.ppy.sh/u/4803374) | 4470.42 | 38 |
-| 668 | [-Marika](https://osu.ppy.sh/u/2199427) | 4470.30 | 20 |
-| 669 | [MortalStriker](https://osu.ppy.sh/u/4759050) | 4468.33 | 32 |
-| 670 | [Himeragi Yukina](https://osu.ppy.sh/u/708630) | 4464.72 | 43 |
-| 671 | [michta](https://osu.ppy.sh/u/3197799) | 4462.05 | 43 |
-| 672 | [MFZ](https://osu.ppy.sh/u/2162960) | 4454.24 | 26 |
-| 673 | [Widelux13](https://osu.ppy.sh/u/3938945) | 4452.93 | 31 |
-| 674 | [xfxsnake](https://osu.ppy.sh/u/313045) | 4452.36 | 91 |
-| 675 | [Luskor](https://osu.ppy.sh/u/3807032) | 4448.80 | 33 |
-| 676 | [Kobra](https://osu.ppy.sh/u/4012607) | 4446.50 | 86 |
-| 677 | [folence](https://osu.ppy.sh/u/2790454) | 4445.37 | 27 |
-| 678 | [Ashes](https://osu.ppy.sh/u/6914639) | 4444.44 | 32 |
-| 679 | [Dustice](https://osu.ppy.sh/u/754565) | 4433.52 | 13 |
-| 680 | [[Suiseiseki]](https://osu.ppy.sh/u/3963109) | 4430.52 | 47 |
-| 681 | [Quite Cynical](https://osu.ppy.sh/u/3361154) | 4427.38 | 52 |
-| 682 | [FllareA](https://osu.ppy.sh/u/1163931) | 4426.75 | 21 |
-| 683 | [SwENeMbO](https://osu.ppy.sh/u/652793) | 4424.92 | 50 |
-| 684 | [umpshy](https://osu.ppy.sh/u/6458365) | 4424.84 | 38 |
-| 685 | [Peak](https://osu.ppy.sh/u/7348524) | 4423.42 | 28 |
-| 686 | [rosshi](https://osu.ppy.sh/u/6224704) | 4417.66 | 27 |
-| 687 | [[-Kurobuta-]](https://osu.ppy.sh/u/3876121) | 4412.35 | 36 |
-| 688 | [Otters](https://osu.ppy.sh/u/4817162) | 4411.45 | 23 |
-| 689 | [E n d](https://osu.ppy.sh/u/5942615) | 4410.79 | 35 |
-| 690 | [CaLiA Ruin](https://osu.ppy.sh/u/2700583) | 4405.30 | 28 |
-| 691 | [Takei Hisa](https://osu.ppy.sh/u/640011) | 4404.00 | 34 |
-| 692 | [HDHRPF](https://osu.ppy.sh/u/5708403) | 4400.02 | 51 |
-| 693 | [Drew](https://osu.ppy.sh/u/1200005) | 4396.55 | 38 |
-| 694 | [PixelRafael](https://osu.ppy.sh/u/1458651) | 4395.33 | 46 |
-| 695 | [[ WayZ ]](https://osu.ppy.sh/u/2008278) | 4388.72 | 29 |
-| 696 | [ChokoretoMiruku](https://osu.ppy.sh/u/4712799) | 4386.61 | 21 |
-| 697 | [Zekker](https://osu.ppy.sh/u/4663554) | 4385.14 | 17 |
-| 698 | [Lt XVII](https://osu.ppy.sh/u/4896825) | 4382.81 | 21 |
-| 699 | [murasaki_sk](https://osu.ppy.sh/u/1022958) | 4382.12 | 26 |
-| 700 | [ohiyaa](https://osu.ppy.sh/u/1254788) | 4381.87 | 29 |
-| 701 | [Iris](https://osu.ppy.sh/u/758181) | 4378.39 | 34 |
-| 702 | [r0ck](https://osu.ppy.sh/u/1549620) | 4377.02 | 15 |
-| 703 | [waefwerf](https://osu.ppy.sh/u/3868653) | 4376.74 | 28 |
-| 704 | [haxsu](https://osu.ppy.sh/u/1042325) | 4374.47 | 24 |
-| 705 | [deathmarc4](https://osu.ppy.sh/u/3529616) | 4373.28 | 69 |
-| 706 | [Sakura no Hana](https://osu.ppy.sh/u/5433546) | 4372.72 | 37 |
-| 707 | [Cato](https://osu.ppy.sh/u/6225420) | 4370.75 | 37 |
-| 708 | [Aerislol](https://osu.ppy.sh/u/3134502) | 4368.49 | 74 |
-| 709 | [Melt3dCheeze](https://osu.ppy.sh/u/634837) | 4366.47 | 21 |
-| 710 | [Sickoh](https://osu.ppy.sh/u/5411474) | 4365.92 | 24 |
-| 711 | [Onodera-](https://osu.ppy.sh/u/6292501) | 4364.88 | 40 |
-| 712 | [Serah](https://osu.ppy.sh/u/1314651) | 4363.00 | 26 |
-| 713 | [Synnphony](https://osu.ppy.sh/u/4274195) | 4359.82 | 80 |
-| 714 | [6974892](https://osu.ppy.sh/u/4006126) | 4356.57 | 66 |
-| 715 | [FrostxE](https://osu.ppy.sh/u/199669) | 4351.23 | 20 |
-| 716 | [Pelzio](https://osu.ppy.sh/u/4775226) | 4351.09 | 37 |
-| 717 | [Hsiao Yao](https://osu.ppy.sh/u/3709847) | 4350.87 | 70 |
-| 718 | [Kakiage](https://osu.ppy.sh/u/3104031) | 4347.49 | 23 |
-| 719 | [alexrb22](https://osu.ppy.sh/u/2842428) | 4346.58 | 34 |
-| 720 | [dVz](https://osu.ppy.sh/u/2258076) | 4345.25 | 56 |
-| 721 | [Ayako](https://osu.ppy.sh/u/5401723) | 4341.65 | 57 |
-| 722 | [Sealeet](https://osu.ppy.sh/u/2466360) | 4337.32 | 29 |
-| 723 | [-Raisa](https://osu.ppy.sh/u/4566450) | 4336.72 | 24 |
-| 724 | [Mikumo](https://osu.ppy.sh/u/1769638) | 4336.16 | 37 |
-| 725 | [unberlin](https://osu.ppy.sh/u/2408278) | 4335.19 | 20 |
-| 726 | [FayeurS](https://osu.ppy.sh/u/3105416) | 4328.42 | 17 |
-| 727 | [Kungen](https://osu.ppy.sh/u/5000648) | 4323.42 | 25 |
-| 728 | [[Cheir]](https://osu.ppy.sh/u/1626187) | 4323.15 | 33 |
-| 729 | [MinG3012](https://osu.ppy.sh/u/1583218) | 4322.15 | 24 |
-| 730 | [imPriDex](https://osu.ppy.sh/u/5359223) | 4319.47 | 45 |
-| 731 | [ReiKatt](https://osu.ppy.sh/u/5082552) | 4317.82 | 27 |
-| 732 | [KevstracK](https://osu.ppy.sh/u/5325213) | 4317.69 | 25 |
-| 733 | [WEIRD FACE](https://osu.ppy.sh/u/1431354) | 4316.64 | 26 |
-| 734 | [Lucy-](https://osu.ppy.sh/u/1692989) | 4305.46 | 57 |
-| 735 | [SaRyuKB](https://osu.ppy.sh/u/542505) | 4304.56 | 55 |
-| 736 | [Oreemo](https://osu.ppy.sh/u/3832571) | 4304.01 | 31 |
-| 737 | [-Rafterz-](https://osu.ppy.sh/u/464677) | 4301.75 | 64 |
-| 738 | [----](https://osu.ppy.sh/u/4304495) | 4299.92 | 28 |
-| 739 | [Adam_tw](https://osu.ppy.sh/u/3414615) | 4294.41 | 19 |
-| 740 | [Creamy](https://osu.ppy.sh/u/2522600) | 4292.81 | 38 |
-| 741 | [Lirufication](https://osu.ppy.sh/u/3651111) | 4291.29 | 26 |
-| 742 | [Ashtar](https://osu.ppy.sh/u/1565856) | 4289.68 | 18 |
-| 743 | [-DarkAngel-](https://osu.ppy.sh/u/6646894) | 4288.45 | 36 |
-| 744 | [Der](https://osu.ppy.sh/u/4405666) | 4288.34 | 25 |
-| 745 | [Umbre](https://osu.ppy.sh/u/2766034) | 4287.09 | 21 |
-| 746 | [GGdub](https://osu.ppy.sh/u/5690455) | 4287.01 | 28 |
-| 747 | [Agni](https://osu.ppy.sh/u/4808281) | 4284.73 | 23 |
-| 748 | [a humble duck](https://osu.ppy.sh/u/3997788) | 4284.54 | 36 |
-| 749 | [Spellsman](https://osu.ppy.sh/u/6900708) | 4273.35 | 55 |
-| 750 | [FreeSongs](https://osu.ppy.sh/u/2116792) | 4271.55 | 26 |
-| 751 | [Xyhalion](https://osu.ppy.sh/u/5487179) | 4265.49 | 35 |
-| 752 | [kjuszino](https://osu.ppy.sh/u/3623805) | 4260.76 | 24 |
-| 753 | [Reinam](https://osu.ppy.sh/u/5114248) | 4260.25 | 34 |
-| 754 | [Asterix-](https://osu.ppy.sh/u/5138193) | 4258.81 | 29 |
-| 755 | [Malolat](https://osu.ppy.sh/u/4317480) | 4257.17 | 27 |
-| 756 | [Duftende Pizza](https://osu.ppy.sh/u/2316517) | 4255.42 | 20 |
-| 757 | [Araragi Karen](https://osu.ppy.sh/u/5051859) | 4250.40 | 23 |
-| 758 | [Celstea](https://osu.ppy.sh/u/704047) | 4247.77 | 34 |
-| 759 | [Synopse](https://osu.ppy.sh/u/4385862) | 4246.53 | 30 |
-| 760 | [Prosternick](https://osu.ppy.sh/u/3554237) | 4246.10 | 19 |
-| 761 | [Xilver](https://osu.ppy.sh/u/3099689) | 4245.85 | 13 |
-| 762 | [Glazbom](https://osu.ppy.sh/u/608277) | 4243.78 | 27 |
-| 763 | [RaOn-](https://osu.ppy.sh/u/1251071) | 4243.51 | 29 |
-| 764 | [Ry4chikA](https://osu.ppy.sh/u/6095098) | 4240.82 | 31 |
-| 765 | [FlamingPony](https://osu.ppy.sh/u/3771576) | 4240.08 | 30 |
-| 766 | [Sj-Sama](https://osu.ppy.sh/u/2977954) | 4236.47 | 22 |
-| 767 | [yuuch](https://osu.ppy.sh/u/2509587) | 4235.33 | 41 |
-| 768 | [Aikyuu-Chan](https://osu.ppy.sh/u/3932190) | 4232.52 | 29 |
-| 769 | [s6mjk](https://osu.ppy.sh/u/1954988) | 4231.34 | 68 |
-| 770 | [Planksu](https://osu.ppy.sh/u/2713543) | 4230.32 | 30 |
-| 771 | [Rk0](https://osu.ppy.sh/u/979519) | 4229.69 | 43 |
-| 772 | [_WinRAWR](https://osu.ppy.sh/u/3360947) | 4229.49 | 24 |
-| 773 | [Nicko](https://osu.ppy.sh/u/3599371) | 4229.14 | 36 |
-| 774 | [Noobish](https://osu.ppy.sh/u/502592) | 4227.05 | 43 |
-| 775 | [Hasawa Kraenes](https://osu.ppy.sh/u/1568047) | 4226.91 | 18 |
-| 776 | [azuraer](https://osu.ppy.sh/u/145851) | 4226.52 | 48 |
-| 777 | [lemu lemu](https://osu.ppy.sh/u/3024746) | 4226.30 | 34 |
-| 778 | [Pikasha-](https://osu.ppy.sh/u/1643193) | 4225.84 | 56 |
-| 779 | [YammZe](https://osu.ppy.sh/u/4496446) | 4222.64 | 31 |
-| 780 | [smh](https://osu.ppy.sh/u/1629553) | 4222.50 | 19 |
-| 781 | [Chiasm](https://osu.ppy.sh/u/1639495) | 4213.78 | 32 |
-| 782 | [mostwk](https://osu.ppy.sh/u/7647502) | 4208.79 | 75 |
-| 783 | [Timowoof](https://osu.ppy.sh/u/6390912) | 4206.97 | 28 |
-| 784 | [Zurgdude](https://osu.ppy.sh/u/5207702) | 4204.88 | 41 |
-| 785 | [[ YukiNone ]](https://osu.ppy.sh/u/3916547) | 4203.03 | 26 |
-| 786 | [gusrua123](https://osu.ppy.sh/u/1336437) | 4202.94 | 39 |
-| 787 | [[ -Scarlet- ]](https://osu.ppy.sh/u/2427693) | 4202.48 | 33 |
-| 788 | [iWinnie](https://osu.ppy.sh/u/3592149) | 4199.93 | 26 |
-| 789 | [3ckokill](https://osu.ppy.sh/u/1253972) | 4199.03 | 27 |
-| 790 | [Kiwigreen](https://osu.ppy.sh/u/5087866) | 4196.82 | 28 |
-| 791 | [Raishu](https://osu.ppy.sh/u/2356242) | 4195.87 | 22 |
-| 792 | [Liqh](https://osu.ppy.sh/u/3409838) | 4193.09 | 24 |
-| 793 | [Azerite](https://osu.ppy.sh/u/2562987) | 4191.07 | 17 |
-| 794 | [Watsaiye](https://osu.ppy.sh/u/3770761) | 4191.04 | 20 |
-| 795 | [Sevigoth](https://osu.ppy.sh/u/2675982) | 4190.28 | 48 |
-| 796 | [GreyWarrior](https://osu.ppy.sh/u/1264653) | 4188.25 | 91 |
-| 797 | [soadmaniac](https://osu.ppy.sh/u/5166041) | 4187.70 | 43 |
-| 798 | [Miku-chan](https://osu.ppy.sh/u/3340677) | 4187.58 | 54 |
-| 799 | [Nick-](https://osu.ppy.sh/u/4729876) | 4186.35 | 39 |
-| 800 | [Kujinn](https://osu.ppy.sh/u/3723568) | 4183.15 | 28 |
-| 801 | [kenji-](https://osu.ppy.sh/u/7546212) | 4177.98 | 28 |
-| 802 | [-AiAe](https://osu.ppy.sh/u/5800133) | 4175.01 | 59 |
-| 803 | [Rediozes](https://osu.ppy.sh/u/6634946) | 4174.87 | 64 |
-| 804 | [Mad Carrot](https://osu.ppy.sh/u/2236064) | 4174.83 | 30 |
-| 805 | [Elzbieta](https://osu.ppy.sh/u/3734954) | 4174.28 | 23 |
-| 806 | [theez35](https://osu.ppy.sh/u/4230827) | 4172.88 | 26 |
-| 807 | [Chaya](https://osu.ppy.sh/u/4768570) | 4172.39 | 32 |
-| 808 | [Hime Lotus -](https://osu.ppy.sh/u/3449887) | 4172.09 | 21 |
-| 809 | [Soy Sauce](https://osu.ppy.sh/u/3124617) | 4171.01 | 30 |
-| 810 | [Piotrekol](https://osu.ppy.sh/u/304520) | 4164.69 | 21 |
-| 811 | [Snowwy](https://osu.ppy.sh/u/4393092) | 4164.01 | 39 |
-| 812 | [Antynum](https://osu.ppy.sh/u/4291334) | 4159.22 | 18 |
-| 813 | [- Yuuma](https://osu.ppy.sh/u/6598355) | 4157.11 | 44 |
-| 814 | [MrSergio](https://osu.ppy.sh/u/2581696) | 4156.21 | 35 |
-| 815 | [Reira](https://osu.ppy.sh/u/1184175) | 4155.30 | 33 |
-| 816 | [Orangelightning](https://osu.ppy.sh/u/6658249) | 4154.24 | 33 |
-| 817 | [Yuukeh](https://osu.ppy.sh/u/6315052) | 4150.33 | 34 |
-| 818 | [SiLCRo](https://osu.ppy.sh/u/2214102) | 4144.38 | 37 |
-| 819 | [hopperhtkn](https://osu.ppy.sh/u/311550) | 4140.52 | 55 |
-| 820 | [Haxwell](https://osu.ppy.sh/u/1726105) | 4140.12 | 34 |
-| 821 | [PeteX](https://osu.ppy.sh/u/1285945) | 4139.42 | 17 |
-| 822 | [Elily](https://osu.ppy.sh/u/1436140) | 4135.99 | 63 |
-| 823 | [Kampaku](https://osu.ppy.sh/u/1770559) | 4135.10 | 42 |
-| 824 | [Breiz](https://osu.ppy.sh/u/2105946) | 4132.91 | 23 |
-| 825 | [[ Kubolo ]](https://osu.ppy.sh/u/2998299) | 4132.77 | 43 |
-| 826 | [Unforgiven](https://osu.ppy.sh/u/4889672) | 4128.08 | 37 |
-| 827 | [AEIM](https://osu.ppy.sh/u/3703731) | 4128.08 | 39 |
-| 828 | [lensaiqq](https://osu.ppy.sh/u/4504926) | 4126.93 | 45 |
-| 829 | [Usagi sama](https://osu.ppy.sh/u/384478) | 4122.45 | 19 |
-| 830 | [Fluffy-](https://osu.ppy.sh/u/6237817) | 4121.34 | 52 |
-| 831 | [mniminwoo](https://osu.ppy.sh/u/3929529) | 4120.88 | 16 |
-| 832 | [Puccho](https://osu.ppy.sh/u/1259972) | 4120.79 | 80 |
-| 833 | [Specksan](https://osu.ppy.sh/u/6189944) | 4118.93 | 31 |
-| 834 | [LordTimeWaste](https://osu.ppy.sh/u/4105747) | 4117.43 | 21 |
-| 835 | [Hayasaka Mirei](https://osu.ppy.sh/u/3921145) | 4116.48 | 38 |
-| 836 | [Kaname Madoka](https://osu.ppy.sh/u/682968) | 4116.07 | 29 |
-| 837 | [Gwishki](https://osu.ppy.sh/u/3765098) | 4114.98 | 29 |
-| 838 | [SnowMery](https://osu.ppy.sh/u/3768153) | 4109.78 | 35 |
-| 839 | [Linkle](https://osu.ppy.sh/u/3253550) | 4098.14 | 22 |
-| 840 | [Chooc](https://osu.ppy.sh/u/3699735) | 4094.10 | 25 |
-| 841 | [AAA](https://osu.ppy.sh/u/4374853) | 4093.26 | 16 |
-| 842 | [_AvA](https://osu.ppy.sh/u/7058132) | 4093.04 | 19 |
-| 843 | [Deed](https://osu.ppy.sh/u/3864523) | 4092.93 | 22 |
-| 844 | [-[ DarkGsTON ]-](https://osu.ppy.sh/u/1237190) | 4091.15 | 35 |
-| 845 | [[-Lockon-]](https://osu.ppy.sh/u/6726331) | 4086.38 | 25 |
-| 846 | [hamanaka](https://osu.ppy.sh/u/1579122) | 4086.36 | 27 |
-| 847 | [Soulg](https://osu.ppy.sh/u/2356980) | 4084.79 | 25 |
-| 848 | [Shapy](https://osu.ppy.sh/u/2705769) | 4084.29 | 25 |
-| 849 | [Reicsa](https://osu.ppy.sh/u/7822062) | 4081.27 | 46 |
-| 850 | [Eldera](https://osu.ppy.sh/u/3861234) | 4073.39 | 23 |
-| 851 | [MakaPunchaYo](https://osu.ppy.sh/u/4955458) | 4073.00 | 33 |
-| 852 | [Aphromoo](https://osu.ppy.sh/u/2736959) | 4066.23 | 18 |
-| 853 | [tripl3ag3nt](https://osu.ppy.sh/u/7252032) | 4066.23 | 25 |
-| 854 | [teamplayer51](https://osu.ppy.sh/u/3084508) | 4062.57 | 30 |
-| 855 | [rimidalvdd](https://osu.ppy.sh/u/4785835) | 4056.56 | 65 |
-| 856 | [Bry Guy](https://osu.ppy.sh/u/3261131) | 4055.77 | 25 |
-| 857 | [Lunirs](https://osu.ppy.sh/u/2118945) | 4055.65 | 19 |
-| 858 | [thebandit56](https://osu.ppy.sh/u/2893286) | 4055.03 | 41 |
-| 859 | [mugikoEX](https://osu.ppy.sh/u/3891662) | 4054.86 | 53 |
-| 860 | [K i w i](https://osu.ppy.sh/u/1226208) | 4050.00 | 40 |
-| 861 | [El Guido](https://osu.ppy.sh/u/1497994) | 4049.72 | 43 |
-| 862 | [serea](https://osu.ppy.sh/u/371961) | 4049.30 | 17 |
-| 863 | [-Nanaka-](https://osu.ppy.sh/u/3001783) | 4048.34 | 51 |
-| 864 | [Broodich](https://osu.ppy.sh/u/2484629) | 4042.83 | 15 |
-| 865 | [Ball](https://osu.ppy.sh/u/3098148) | 4041.52 | 32 |
-| 866 | [ShinyEmerald](https://osu.ppy.sh/u/4118537) | 4039.45 | 60 |
-| 867 | [toreizu](https://osu.ppy.sh/u/1563537) | 4037.00 | 49 |
-| 868 | [Fantastic_Cake](https://osu.ppy.sh/u/2274634) | 4035.43 | 46 |
-| 869 | [OK_Kenny](https://osu.ppy.sh/u/3888456) | 4031.25 | 21 |
-| 870 | [- Daichi -](https://osu.ppy.sh/u/6602580) | 4025.31 | 17 |
-| 871 | [punikidesu-](https://osu.ppy.sh/u/1443338) | 4019.87 | 19 |
-| 872 | [Voidle](https://osu.ppy.sh/u/887921) | 4018.71 | 30 |
-| 873 | [NekoYakumo](https://osu.ppy.sh/u/5500927) | 4017.13 | 57 |
-| 874 | [wairo](https://osu.ppy.sh/u/6369405) | 4016.01 | 26 |
-| 875 | [Keepu](https://osu.ppy.sh/u/4145363) | 4015.19 | 28 |
-| 876 | [Noverdy](https://osu.ppy.sh/u/2329990) | 4015.07 | 34 |
-| 877 | [KurouHei](https://osu.ppy.sh/u/4956643) | 4012.99 | 27 |
-| 878 | [Titus](https://osu.ppy.sh/u/2014867) | 4004.09 | 23 |
-| 879 | [ningalu](https://osu.ppy.sh/u/6934358) | 3998.77 | 24 |
-| 880 | [Smilevie](https://osu.ppy.sh/u/957635) | 3997.53 | 27 |
-| 881 | [harunaruna](https://osu.ppy.sh/u/2932923) | 3996.35 | 14 |
-| 882 | [ObviousBBQ](https://osu.ppy.sh/u/4100144) | 3995.30 | 28 |
-| 883 | [BlakeTheKid](https://osu.ppy.sh/u/5551925) | 3993.23 | 39 |
-| 884 | [iyasine](https://osu.ppy.sh/u/1331937) | 3990.98 | 42 |
-| 885 | [Ascendance](https://osu.ppy.sh/u/2931883) | 3990.96 | 37 |
-| 886 | [WhiteCat](https://osu.ppy.sh/u/4504101) | 3987.00 | 15 |
-| 887 | [Bauxe](https://osu.ppy.sh/u/1881685) | 3986.26 | 16 |
-| 888 | [Bzer](https://osu.ppy.sh/u/980956) | 3977.20 | 24 |
-| 889 | [-Daku-](https://osu.ppy.sh/u/4762839) | 3973.35 | 20 |
-| 890 | [okiokiokio](https://osu.ppy.sh/u/866016) | 3971.14 | 62 |
-| 891 | [Paov](https://osu.ppy.sh/u/4491264) | 3968.76 | 44 |
-| 892 | [Daoski](https://osu.ppy.sh/u/4752536) | 3961.22 | 30 |
-| 893 | [euphonious zero](https://osu.ppy.sh/u/1166152) | 3960.12 | 33 |
-| 894 | [Hiromu](https://osu.ppy.sh/u/625429) | 3959.22 | 23 |
-| 895 | [Terra](https://osu.ppy.sh/u/3297385) | 3958.03 | 21 |
-| 896 | [[ HSNL ]](https://osu.ppy.sh/u/2140437) | 3956.47 | 27 |
-| 897 | [Winky Face](https://osu.ppy.sh/u/2228371) | 3955.52 | 31 |
-| 898 | [Evis-](https://osu.ppy.sh/u/3434954) | 3951.05 | 49 |
-| 899 | [w00t98](https://osu.ppy.sh/u/3735603) | 3947.90 | 45 |
-| 900 | [Youkai](https://osu.ppy.sh/u/2714117) | 3946.50 | 26 |
-| 901 | [PhilippeDesu](https://osu.ppy.sh/u/3684035) | 3946.12 | 33 |
-| 902 | [Mikkuri](https://osu.ppy.sh/u/317494) | 3945.00 | 20 |
-| 903 | [Rosalie Lu](https://osu.ppy.sh/u/4507345) | 3941.30 | 19 |
-| 904 | [TeaBiscuitz](https://osu.ppy.sh/u/2265679) | 3939.64 | 25 |
-| 905 | [GG_ITOI](https://osu.ppy.sh/u/373970) | 3938.99 | 37 |
-| 906 | [Satori_TL](https://osu.ppy.sh/u/3221705) | 3931.85 | 24 |
-| 907 | [No Image](https://osu.ppy.sh/u/6120498) | 3929.52 | 38 |
-| 908 | [sangu](https://osu.ppy.sh/u/2813430) | 3926.39 | 65 |
-| 909 | [sub_WHISTLE](https://osu.ppy.sh/u/6286388) | 3926.10 | 44 |
-| 910 | [S o n y](https://osu.ppy.sh/u/3564530) | 3925.31 | 26 |
-| 911 | [Destroter](https://osu.ppy.sh/u/3822001) | 3922.01 | 22 |
-| 912 | [Truth](https://osu.ppy.sh/u/3388375) | 3913.70 | 26 |
-| 913 | [Great Banter](https://osu.ppy.sh/u/3112472) | 3910.42 | 34 |
-| 914 | [Lonelyginger](https://osu.ppy.sh/u/3799991) | 3908.83 | 42 |
-| 915 | [Lazypity](https://osu.ppy.sh/u/2231017) | 3908.74 | 33 |
-| 916 | [NesoKaiyoH](https://osu.ppy.sh/u/5770355) | 3908.31 | 30 |
-| 917 | [rasssler](https://osu.ppy.sh/u/3289000) | 3907.58 | 23 |
-| 918 | [MiLu](https://osu.ppy.sh/u/303929) | 3905.75 | 53 |
-| 919 | [Liiraye](https://osu.ppy.sh/u/1280641) | 3904.69 | 38 |
-| 920 | [DJ VaGGoS 13](https://osu.ppy.sh/u/3906178) | 3904.50 | 28 |
-| 921 | [NaLDeey](https://osu.ppy.sh/u/6891679) | 3899.43 | 38 |
-| 922 | [Cristian](https://osu.ppy.sh/u/194345) | 3894.74 | 29 |
-| 923 | [Konnu](https://osu.ppy.sh/u/4024379) | 3894.35 | 21 |
-| 924 | [voidlessheart](https://osu.ppy.sh/u/4295838) | 3893.26 | 29 |
-| 925 | [Shigure-](https://osu.ppy.sh/u/4473980) | 3892.94 | 18 |
-| 926 | [nf_nl](https://osu.ppy.sh/u/1202460) | 3885.79 | 19 |
-| 927 | [My Angel Hannii](https://osu.ppy.sh/u/4731835) | 3884.26 | 21 |
-| 928 | [-Chiyorin-](https://osu.ppy.sh/u/5164134) | 3882.92 | 38 |
-| 929 | [Equitler](https://osu.ppy.sh/u/4818510) | 3882.57 | 23 |
-| 930 | [ferchifiu](https://osu.ppy.sh/u/2540245) | 3880.92 | 23 |
-| 931 | [ruruuJr](https://osu.ppy.sh/u/4642884) | 3878.51 | 23 |
-| 932 | [Awe](https://osu.ppy.sh/u/3692180) | 3876.54 | 50 |
-| 933 | [EZNF](https://osu.ppy.sh/u/6175709) | 3874.29 | 23 |
-| 934 | [AcyOrt](https://osu.ppy.sh/u/1433919) | 3873.75 | 41 |
-| 935 | [Rabbit Urabe](https://osu.ppy.sh/u/2856659) | 3872.96 | 42 |
-| 936 | [imoTT](https://osu.ppy.sh/u/1529033) | 3871.53 | 30 |
-| 937 | [mithral](https://osu.ppy.sh/u/1365500) | 3871.44 | 36 |
-| 938 | [Kabu](https://osu.ppy.sh/u/4866962) | 3868.27 | 19 |
-| 939 | [Meg](https://osu.ppy.sh/u/1872496) | 3867.94 | 18 |
-| 940 | [Flare](https://osu.ppy.sh/u/3698691) | 3863.22 | 23 |
-| 941 | [Wat](https://osu.ppy.sh/u/5009103) | 3862.83 | 39 |
-| 942 | [keryann](https://osu.ppy.sh/u/2817156) | 3862.28 | 32 |
-| 943 | [kril ns](https://osu.ppy.sh/u/3187674) | 3861.75 | 35 |
-| 944 | [[ Victoria ]](https://osu.ppy.sh/u/5911367) | 3857.96 | 56 |
-| 945 | [Spicker](https://osu.ppy.sh/u/425595) | 3856.53 | 25 |
-| 946 | [-Pikachu-](https://osu.ppy.sh/u/946102) | 3854.83 | 46 |
-| 947 | [jairocor](https://osu.ppy.sh/u/4124047) | 3854.39 | 35 |
-| 948 | [froon](https://osu.ppy.sh/u/371546) | 3852.03 | 30 |
-| 949 | [[-Griffin-]](https://osu.ppy.sh/u/7162035) | 3845.52 | 64 |
-| 950 | [Mlaw22](https://osu.ppy.sh/u/3126596) | 3842.41 | 13 |
-| 951 | [xinksprin9](https://osu.ppy.sh/u/6027139) | 3842.29 | 27 |
-| 952 | [[Yuki]iona-san](https://osu.ppy.sh/u/2799888) | 3842.13 | 28 |
-| 953 | [kolgar](https://osu.ppy.sh/u/3123488) | 3834.91 | 30 |
-| 954 | [Uzairr](https://osu.ppy.sh/u/4542811) | 3833.17 | 18 |
-| 955 | [Space Chicken](https://osu.ppy.sh/u/6465867) | 3832.02 | 28 |
-| 956 | [Quallinski](https://osu.ppy.sh/u/3063460) | 3828.40 | 17 |
-| 957 | [Hikaru Rose](https://osu.ppy.sh/u/4811275) | 3826.45 | 25 |
-| 958 | [Flat Cat](https://osu.ppy.sh/u/6278447) | 3824.90 | 32 |
-| 959 | [puh-puh](https://osu.ppy.sh/u/4267803) | 3824.26 | 24 |
-| 960 | [Shiinon](https://osu.ppy.sh/u/2114523) | 3824.22 | 44 |
-| 961 | [yykkrr](https://osu.ppy.sh/u/1306161) | 3821.96 | 24 |
-| 962 | [chasebeleren](https://osu.ppy.sh/u/5696185) | 3821.17 | 27 |
-| 963 | [ShadOhhh](https://osu.ppy.sh/u/3110986) | 3815.92 | 32 |
-| 964 | [Exceptional](https://osu.ppy.sh/u/3323098) | 3813.88 | 28 |
-| 965 | [gapzaa54120](https://osu.ppy.sh/u/1461872) | 3811.42 | 29 |
-| 966 | [RouSGu](https://osu.ppy.sh/u/937340) | 3810.64 | 51 |
-| 967 | [GuChangeDeWorld](https://osu.ppy.sh/u/7125579) | 3809.08 | 57 |
-| 968 | [RIPCURE](https://osu.ppy.sh/u/7071503) | 3806.61 | 22 |
-| 969 | [Trygve](https://osu.ppy.sh/u/4302206) | 3806.02 | 26 |
-| 970 | [Morgan](https://osu.ppy.sh/u/4466673) | 3804.43 | 32 |
-| 971 | [Pollo](https://osu.ppy.sh/u/2440864) | 3802.95 | 34 |
-| 972 | [AustinsGuitar](https://osu.ppy.sh/u/4307655) | 3798.23 | 52 |
-| 973 | [vick](https://osu.ppy.sh/u/4729546) | 3793.79 | 18 |
-| 974 | [Yui Nyan Nyan](https://osu.ppy.sh/u/2577225) | 3791.81 | 30 |
-| 975 | [DigitalHypno](https://osu.ppy.sh/u/4384207) | 3790.69 | 21 |
-| 976 | [Darken](https://osu.ppy.sh/u/4829231) | 3790.68 | 23 |
-| 977 | [Reishara](https://osu.ppy.sh/u/4952448) | 3790.08 | 42 |
-| 978 | [Vocal](https://osu.ppy.sh/u/2369650) | 3787.42 | 19 |
-| 979 | [Python](https://osu.ppy.sh/u/7315928) | 3787.02 | 25 |
-| 980 | [DaDobster](https://osu.ppy.sh/u/4630536) | 3782.22 | 17 |
-| 981 | [Uan](https://osu.ppy.sh/u/147623) | 3771.95 | 22 |
-| 982 | [Browsco](https://osu.ppy.sh/u/4464941) | 3771.22 | 24 |
-| 983 | [kuroshiroJack](https://osu.ppy.sh/u/3304682) | 3769.97 | 30 |
-| 984 | [Rain12](https://osu.ppy.sh/u/2658982) | 3760.32 | 42 |
-| 985 | [AlexXerox](https://osu.ppy.sh/u/4764671) | 3760.06 | 24 |
-| 986 | [zhixuan21](https://osu.ppy.sh/u/6622650) | 3754.99 | 29 |
-| 987 | [funshine](https://osu.ppy.sh/u/772111) | 3749.93 | 33 |
-| 988 | [MadHypnofrog](https://osu.ppy.sh/u/6068934) | 3745.25 | 26 |
-| 989 | [Urusai](https://osu.ppy.sh/u/469808) | 3743.40 | 24 |
-| 990 | [Poofin](https://osu.ppy.sh/u/2237979) | 3741.98 | 25 |
-| 991 | [Useful](https://osu.ppy.sh/u/6197288) | 3741.29 | 23 |
-| 992 | [SubLimeLight](https://osu.ppy.sh/u/3181662) | 3739.27 | 31 |
-| 993 | [Commy](https://osu.ppy.sh/u/1023420) | 3736.74 | 16 |
-| 994 | [Radusek](https://osu.ppy.sh/u/3217345) | 3735.69 | 21 |
-| 995 | [a loli](https://osu.ppy.sh/u/1488796) | 3734.31 | 16 |
-| 996 | [[ Mishka ]](https://osu.ppy.sh/u/1847193) | 3731.79 | 21 |
-| 997 | [f i z i k](https://osu.ppy.sh/u/2276286) | 3729.72 | 25 |
-| 998 | [eoehd1ek](https://osu.ppy.sh/u/3938876) | 3729.05 | 14 |
-| 999 | [Sakurai MomokaP](https://osu.ppy.sh/u/1978650) | 3728.95 | 15 |
-| 1000 | [NeNe_GoShyuJiN](https://osu.ppy.sh/u/373320) | 3728.75 | 20 |
-| 1001 | [Reyuza](https://osu.ppy.sh/u/2454767) | 3727.21 | 18 |
-| 1002 | [AoiMe](https://osu.ppy.sh/u/6145243) | 3725.68 | 27 |
-| 1003 | [Dualshock](https://osu.ppy.sh/u/1902591) | 3725.28 | 22 |
-| 1004 | [waruo](https://osu.ppy.sh/u/300011) | 3722.86 | 23 |
-| 1005 | [Reset-](https://osu.ppy.sh/u/3850861) | 3719.60 | 52 |
-| 1006 | [Onii Chan](https://osu.ppy.sh/u/3759172) | 3719.58 | 56 |
-| 1007 | [Maguro](https://osu.ppy.sh/u/2405429) | 3717.28 | 26 |
-| 1008 | [EpIcRaPtOr](https://osu.ppy.sh/u/2424857) | 3717.09 | 35 |
-| 1009 | [Kafuu Chino](https://osu.ppy.sh/u/2451651) | 3717.03 | 17 |
-| 1010 | [620](https://osu.ppy.sh/u/6139582) | 3715.85 | 26 |
-| 1011 | [Celosia](https://osu.ppy.sh/u/6388317) | 3713.11 | 28 |
-| 1012 | [Ralyks](https://osu.ppy.sh/u/3700648) | 3705.86 | 18 |
-| 1013 | [Febreeze](https://osu.ppy.sh/u/5665183) | 3704.25 | 23 |
-| 1014 | [KIRANAGAMATU](https://osu.ppy.sh/u/2086811) | 3700.88 | 25 |
-| 1015 | [Rutayu](https://osu.ppy.sh/u/156833) | 3699.35 | 41 |
-| 1016 | [Znon](https://osu.ppy.sh/u/2367162) | 3696.70 | 19 |
-| 1017 | [_Dysania](https://osu.ppy.sh/u/6252415) | 3693.02 | 38 |
-| 1018 | [Baim](https://osu.ppy.sh/u/4740488) | 3691.67 | 22 |
-| 1019 | [- S a K u N o -](https://osu.ppy.sh/u/1950624) | 3683.17 | 34 |
-| 1020 | [Karube](https://osu.ppy.sh/u/1249737) | 3680.07 | 20 |
-| 1021 | [ikhebepicmuis](https://osu.ppy.sh/u/4163430) | 3678.87 | 21 |
-| 1022 | [OPJames](https://osu.ppy.sh/u/4117142) | 3678.17 | 16 |
-| 1023 | [Vanillaire](https://osu.ppy.sh/u/2359549) | 3677.28 | 20 |
-| 1024 | [- G I D Z -](https://osu.ppy.sh/u/2286528) | 3676.46 | 14 |
-| 1025 | [My_](https://osu.ppy.sh/u/739343) | 3672.65 | 28 |
-| 1026 | [pandemicxlr](https://osu.ppy.sh/u/3770558) | 3672.11 | 44 |
-| 1027 | [Gon](https://osu.ppy.sh/u/583765) | 3667.97 | 21 |
-| 1028 | [SolariS](https://osu.ppy.sh/u/4467950) | 3667.38 | 30 |
-| 1029 | [Xho](https://osu.ppy.sh/u/2064219) | 3664.58 | 28 |
-| 1030 | [MrPopCraft](https://osu.ppy.sh/u/3675733) | 3663.81 | 24 |
-| 1031 | [Jakesoly](https://osu.ppy.sh/u/2236407) | 3662.97 | 22 |
-| 1032 | [- Akio](https://osu.ppy.sh/u/2976823) | 3661.95 | 31 |
-| 1033 | [finalist](https://osu.ppy.sh/u/3089043) | 3660.65 | 32 |
-| 1034 | [cc5838p](https://osu.ppy.sh/u/679524) | 3660.20 | 29 |
-| 1035 | [BtCCCY](https://osu.ppy.sh/u/1039355) | 3659.78 | 19 |
-| 1036 | [Fuccho](https://osu.ppy.sh/u/3053382) | 3654.65 | 29 |
-| 1037 | [Zhen Ji](https://osu.ppy.sh/u/3495610) | 3653.35 | 18 |
-| 1038 | [Supi](https://osu.ppy.sh/u/296448) | 3652.61 | 27 |
-| 1039 | [Shiro-](https://osu.ppy.sh/u/2170128) | 3650.79 | 25 |
-| 1040 | [[Twinkle]](https://osu.ppy.sh/u/1964251) | 3647.65 | 30 |
-| 1041 | [TheBlueEight](https://osu.ppy.sh/u/6096166) | 3646.61 | 23 |
-| 1042 | [Worne](https://osu.ppy.sh/u/1019489) | 3646.11 | 14 |
-| 1043 | [InfiWong](https://osu.ppy.sh/u/4259366) | 3642.05 | 22 |
-| 1044 | [sarvikuono](https://osu.ppy.sh/u/4302675) | 3641.22 | 23 |
-| 1045 | [Syrte](https://osu.ppy.sh/u/2806486) | 3640.72 | 19 |
-| 1046 | [ededed028](https://osu.ppy.sh/u/3932796) | 3639.24 | 16 |
-| 1047 | [X rated](https://osu.ppy.sh/u/6373863) | 3637.45 | 19 |
-| 1048 | [Subbie](https://osu.ppy.sh/u/1590138) | 3634.15 | 17 |
-| 1049 | [Ducki](https://osu.ppy.sh/u/3680832) | 3634.09 | 26 |
-| 1050 | [Maji](https://osu.ppy.sh/u/624029) | 3633.85 | 25 |
-| 1051 | [UnderControl](https://osu.ppy.sh/u/5005621) | 3632.91 | 27 |
-| 1052 | [Dare](https://osu.ppy.sh/u/3953269) | 3632.89 | 19 |
-| 1053 | [Fureimuu](https://osu.ppy.sh/u/2268330) | 3631.98 | 25 |
-| 1054 | [broodjepure](https://osu.ppy.sh/u/3868012) | 3630.68 | 18 |
-| 1055 | [Nidopasvn](https://osu.ppy.sh/u/3891241) | 3624.06 | 28 |
-| 1056 | [Aiko-chan](https://osu.ppy.sh/u/5187234) | 3622.92 | 27 |
-| 1057 | [HICCA](https://osu.ppy.sh/u/2627688) | 3621.78 | 27 |
-| 1058 | [[-Snark-]](https://osu.ppy.sh/u/5120979) | 3621.40 | 36 |
-| 1059 | [Keanu](https://osu.ppy.sh/u/3394048) | 3620.59 | 20 |
-| 1060 | [davidqu2](https://osu.ppy.sh/u/6090175) | 3618.56 | 18 |
-| 1061 | [SyoZohma](https://osu.ppy.sh/u/4138281) | 3617.66 | 16 |
-| 1062 | [Free yourself](https://osu.ppy.sh/u/3983814) | 3615.38 | 33 |
-| 1063 | [diabolo77](https://osu.ppy.sh/u/4056694) | 3614.70 | 19 |
-| 1064 | [Kanwa](https://osu.ppy.sh/u/2197761) | 3611.82 | 21 |
-| 1065 | [Ruko](https://osu.ppy.sh/u/5156989) | 3607.36 | 34 |
-| 1066 | [Kurumix](https://osu.ppy.sh/u/4229598) | 3607.13 | 22 |
-| 1067 | [Gusty](https://osu.ppy.sh/u/2904287) | 3606.74 | 31 |
-| 1068 | [0203okaT](https://osu.ppy.sh/u/1897445) | 3606.56 | 16 |
-| 1069 | [MALATANG](https://osu.ppy.sh/u/7805379) | 3605.94 | 31 |
-| 1070 | [Osuuki](https://osu.ppy.sh/u/1472763) | 3602.67 | 44 |
-| 1071 | [Skill](https://osu.ppy.sh/u/7802027) | 3599.62 | 29 |
-| 1072 | [konawiki](https://osu.ppy.sh/u/4003979) | 3595.06 | 19 |
-| 1073 | [[ Enju-chan ]](https://osu.ppy.sh/u/3533706) | 3591.11 | 24 |
-| 1074 | [Mrguilty](https://osu.ppy.sh/u/2383996) | 3588.78 | 30 |
-| 1075 | [Horolynn](https://osu.ppy.sh/u/478364) | 3587.74 | 25 |
-| 1076 | [VeLias](https://osu.ppy.sh/u/1433838) | 3585.70 | 19 |
-| 1077 | [Aoiyuuki-](https://osu.ppy.sh/u/1820694) | 3584.86 | 20 |
-| 1078 | [Cinia Pacifica](https://osu.ppy.sh/u/1414625) | 3583.43 | 13 |
-| 1079 | [- M I m o -](https://osu.ppy.sh/u/3703833) | 3582.01 | 38 |
-| 1080 | [Sahyuk](https://osu.ppy.sh/u/1687218) | 3579.49 | 26 |
-| 1081 | [Angelsim](https://osu.ppy.sh/u/1777162) | 3578.65 | 8 |
-| 1082 | [J u s M i o](https://osu.ppy.sh/u/792943) | 3578.40 | 37 |
-| 1083 | [Darrile](https://osu.ppy.sh/u/4591451) | 3577.85 | 30 |
-| 1084 | [Geartech1](https://osu.ppy.sh/u/2612451) | 3577.29 | 36 |
-| 1085 | [Shokobear](https://osu.ppy.sh/u/2476728) | 3574.12 | 15 |
-| 1086 | [NexT50](https://osu.ppy.sh/u/3090187) | 3570.07 | 19 |
-| 1087 | [hisk](https://osu.ppy.sh/u/1728880) | 3569.54 | 27 |
-| 1088 | [s3552515](https://osu.ppy.sh/u/2149845) | 3567.49 | 30 |
-| 1089 | [Qzio](https://osu.ppy.sh/u/1508032) | 3565.93 | 35 |
-| 1090 | [t-fg](https://osu.ppy.sh/u/2730286) | 3563.46 | 29 |
-| 1091 | [Snow Driver](https://osu.ppy.sh/u/5293065) | 3560.07 | 22 |
-| 1092 | [HybRidChrome](https://osu.ppy.sh/u/2606470) | 3553.88 | 16 |
-| 1093 | [ArzatoRx](https://osu.ppy.sh/u/372256) | 3552.85 | 23 |
-| 1094 | [soondevil](https://osu.ppy.sh/u/2352568) | 3550.89 | 18 |
-| 1095 | [ShaFT](https://osu.ppy.sh/u/3626710) | 3546.58 | 22 |
-| 1096 | [Xcstasy](https://osu.ppy.sh/u/1306875) | 3545.90 | 31 |
-| 1097 | [Sonoda Umi](https://osu.ppy.sh/u/746866) | 3539.56 | 18 |
-| 1098 | [Flute](https://osu.ppy.sh/u/211278) | 3539.29 | 26 |
-| 1099 | [baobob](https://osu.ppy.sh/u/1796438) | 3538.04 | 16 |
-| 1100 | [Herbiv](https://osu.ppy.sh/u/6152602) | 3537.96 | 26 |
-| 1101 | [Eriror](https://osu.ppy.sh/u/45444) | 3537.00 | 22 |
-| 1102 | [Nyaamara](https://osu.ppy.sh/u/1860236) | 3535.79 | 34 |
-| 1103 | [P R O C C E S S](https://osu.ppy.sh/u/3559516) | 3535.23 | 24 |
-| 1104 | [Fl0nka](https://osu.ppy.sh/u/3737611) | 3526.13 | 22 |
-| 1105 | [Kay-](https://osu.ppy.sh/u/1068829) | 3522.55 | 18 |
-| 1106 | [xLautaPvP](https://osu.ppy.sh/u/4403112) | 3510.67 | 19 |
-| 1107 | [Winfall](https://osu.ppy.sh/u/3894968) | 3510.65 | 26 |
-| 1108 | [Sacrifice](https://osu.ppy.sh/u/3799269) | 3507.38 | 37 |
-| 1109 | [1RoHa_](https://osu.ppy.sh/u/4632503) | 3506.71 | 26 |
-| 1110 | [RandykhaRu](https://osu.ppy.sh/u/2158836) | 3505.67 | 27 |
-| 1111 | [K N i S](https://osu.ppy.sh/u/1042234) | 3504.12 | 37 |
-| 1112 | [NiceBoy95](https://osu.ppy.sh/u/1322869) | 3495.86 | 30 |
-| 1113 | [DPPt444444](https://osu.ppy.sh/u/1819342) | 3495.61 | 19 |
-| 1114 | [Sophia](https://osu.ppy.sh/u/3778766) | 3495.06 | 19 |
-| 1115 | [DJ_Nyanodesu](https://osu.ppy.sh/u/1490678) | 3493.44 | 23 |
-| 1116 | [ugly](https://osu.ppy.sh/u/3410151) | 3491.09 | 29 |
-| 1117 | [Nikosbks](https://osu.ppy.sh/u/3803747) | 3490.50 | 17 |
-| 1118 | [-AIAI-](https://osu.ppy.sh/u/2133598) | 3488.19 | 21 |
-| 1119 | [Monko2k](https://osu.ppy.sh/u/4852013) | 3487.17 | 12 |
-| 1120 | [fabivs](https://osu.ppy.sh/u/4747188) | 3483.83 | 27 |
-| 1121 | [-raizen-](https://osu.ppy.sh/u/3872987) | 3483.10 | 13 |
-| 1122 | [Kim Tae-yeon](https://osu.ppy.sh/u/1623209) | 3482.01 | 25 |
-| 1123 | [Kestler](https://osu.ppy.sh/u/4750710) | 3474.93 | 26 |
-| 1124 | [[ Sao ]](https://osu.ppy.sh/u/3584861) | 3474.18 | 27 |
-| 1125 | [maaagic](https://osu.ppy.sh/u/1170595) | 3472.05 | 37 |
-| 1126 | [Cup](https://osu.ppy.sh/u/2110902) | 3470.52 | 23 |
-| 1127 | [Potla](https://osu.ppy.sh/u/1788022) | 3469.76 | 22 |
-| 1128 | [abinsan](https://osu.ppy.sh/u/3363171) | 3466.67 | 22 |
-| 1129 | [Ayakura Mei](https://osu.ppy.sh/u/1083002) | 3466.12 | 21 |
-| 1130 | [Rewolution](https://osu.ppy.sh/u/6458028) | 3461.64 | 21 |
-| 1131 | [Juzaa](https://osu.ppy.sh/u/620661) | 3459.18 | 22 |
-| 1132 | [darkzana](https://osu.ppy.sh/u/2200719) | 3458.46 | 36 |
-| 1133 | [Dag](https://osu.ppy.sh/u/4045400) | 3457.70 | 20 |
-| 1134 | [jotape1](https://osu.ppy.sh/u/2857229) | 3456.62 | 28 |
-| 1135 | [Kyle](https://osu.ppy.sh/u/2694475) | 3451.99 | 14 |
-| 1136 | [Sequence](https://osu.ppy.sh/u/3478883) | 3451.47 | 12 |
-| 1137 | [SlySly](https://osu.ppy.sh/u/715220) | 3449.01 | 25 |
-| 1138 | [Subak](https://osu.ppy.sh/u/6343003) | 3447.81 | 19 |
-| 1139 | [WhatTheDuck](https://osu.ppy.sh/u/790216) | 3441.47 | 17 |
-| 1140 | [NaMiHeY](https://osu.ppy.sh/u/525368) | 3440.24 | 18 |
-| 1141 | [Pedro yH](https://osu.ppy.sh/u/5579031) | 3439.42 | 21 |
-| 1142 | [Ametsuchi](https://osu.ppy.sh/u/3398482) | 3439.17 | 19 |
-| 1143 | [AcevZ](https://osu.ppy.sh/u/3534256) | 3438.18 | 20 |
-| 1144 | [ParkourWizard](https://osu.ppy.sh/u/6938249) | 3437.37 | 16 |
-| 1145 | [nomen](https://osu.ppy.sh/u/1439018) | 3435.56 | 23 |
-| 1146 | [NoSanity420](https://osu.ppy.sh/u/6032386) | 3434.59 | 19 |
-| 1147 | [Reswery](https://osu.ppy.sh/u/3021716) | 3432.17 | 17 |
-| 1148 | [koksu0123](https://osu.ppy.sh/u/4180985) | 3420.24 | 16 |
-| 1149 | [Heroic](https://osu.ppy.sh/u/4756229) | 3420.03 | 27 |
-| 1150 | [Homura-](https://osu.ppy.sh/u/482120) | 3416.14 | 18 |
-| 1151 | [Tyrrrz](https://osu.ppy.sh/u/7611297) | 3415.43 | 32 |
-| 1152 | [nosnox](https://osu.ppy.sh/u/2445189) | 3412.70 | 34 |
-| 1153 | [Arcadeas](https://osu.ppy.sh/u/3216875) | 3411.26 | 12 |
-| 1154 | [SnowyFox](https://osu.ppy.sh/u/5324810) | 3410.65 | 18 |
-| 1155 | [Stonecollection](https://osu.ppy.sh/u/4426760) | 3407.91 | 25 |
-| 1156 | [matt9998](https://osu.ppy.sh/u/5601239) | 3403.05 | 19 |
-| 1157 | [Kix](https://osu.ppy.sh/u/3586792) | 3397.88 | 15 |
-| 1158 | [xLeoSOULx](https://osu.ppy.sh/u/2981029) | 3397.32 | 20 |
-| 1159 | [Tsumia](https://osu.ppy.sh/u/2244234) | 3393.03 | 20 |
-| 1160 | [SugKuken](https://osu.ppy.sh/u/3886870) | 3391.20 | 24 |
-| 1161 | [GureN](https://osu.ppy.sh/u/5507475) | 3391.18 | 20 |
-| 1162 | [Deoscillate](https://osu.ppy.sh/u/1307614) | 3390.65 | 23 |
-| 1163 | [CCK-](https://osu.ppy.sh/u/6959914) | 3390.29 | 27 |
-| 1164 | [subtle](https://osu.ppy.sh/u/3575629) | 3384.72 | 30 |
-| 1165 | [-Machine-](https://osu.ppy.sh/u/5459981) | 3383.85 | 17 |
-| 1166 | [Kano](https://osu.ppy.sh/u/3036203) | 3382.72 | 19 |
-| 1167 | [Chippy](https://osu.ppy.sh/u/2314115) | 3382.62 | 14 |
-| 1168 | [Lucid Astray](https://osu.ppy.sh/u/1773225) | 3377.53 | 16 |
-| 1169 | [Myst1k](https://osu.ppy.sh/u/5302223) | 3376.50 | 12 |
-| 1170 | [Antares-](https://osu.ppy.sh/u/2194763) | 3374.32 | 20 |
-| 1171 | [-KazZzee-](https://osu.ppy.sh/u/3594509) | 3370.91 | 18 |
-| 1172 | [Turism0remix](https://osu.ppy.sh/u/800641) | 3369.54 | 31 |
-| 1173 | [- Phantasma -](https://osu.ppy.sh/u/1427407) | 3365.80 | 12 |
-| 1174 | [imagaK](https://osu.ppy.sh/u/2022445) | 3365.17 | 12 |
-| 1175 | [Mr HeliX](https://osu.ppy.sh/u/2330619) | 3364.81 | 22 |
-| 1176 | [Hino](https://osu.ppy.sh/u/2052511) | 3360.23 | 20 |
-| 1177 | [Darksonic](https://osu.ppy.sh/u/570042) | 3359.80 | 17 |
-| 1178 | [Wucki](https://osu.ppy.sh/u/5287410) | 3359.02 | 18 |
-| 1179 | [Too Slow](https://osu.ppy.sh/u/2944449) | 3346.84 | 22 |
-| 1180 | [Ducks](https://osu.ppy.sh/u/2374880) | 3345.86 | 17 |
-| 1181 | [Hellstorm](https://osu.ppy.sh/u/4796838) | 3343.28 | 30 |
-| 1182 | [S I C L A](https://osu.ppy.sh/u/5718797) | 3340.18 | 22 |
-| 1183 | [MentaLoli](https://osu.ppy.sh/u/817840) | 3339.85 | 15 |
-| 1184 | [lighttoheaven](https://osu.ppy.sh/u/3275970) | 3339.70 | 26 |
-| 1185 | [Clarity](https://osu.ppy.sh/u/3441616) | 3339.15 | 12 |
-| 1186 | [Seirov](https://osu.ppy.sh/u/3552760) | 3334.39 | 29 |
-| 1187 | [Plomppa](https://osu.ppy.sh/u/3937175) | 3334.10 | 16 |
-| 1188 | [M A I D](https://osu.ppy.sh/u/216472) | 3331.19 | 19 |
-| 1189 | [_Mayuri](https://osu.ppy.sh/u/1955058) | 3326.42 | 17 |
-| 1190 | [-Stella man](https://osu.ppy.sh/u/2910507) | 3325.45 | 20 |
-| 1191 | [Azers Mom](https://osu.ppy.sh/u/2303856) | 3322.93 | 21 |
-| 1192 | [Yoon](https://osu.ppy.sh/u/4359858) | 3322.89 | 22 |
-| 1193 | [saikurondark](https://osu.ppy.sh/u/2060046) | 3320.26 | 14 |
-| 1194 | [Shikatsu](https://osu.ppy.sh/u/3392418) | 3314.93 | 19 |
-| 1195 | [LordGeezer](https://osu.ppy.sh/u/4362314) | 3314.66 | 17 |
-| 1196 | [mynamesfake](https://osu.ppy.sh/u/2718122) | 3310.32 | 23 |
-| 1197 | [KinomiCandy](https://osu.ppy.sh/u/375143) | 3309.80 | 18 |
-| 1198 | [Lolitoro](https://osu.ppy.sh/u/2095222) | 3308.85 | 21 |
-| 1199 | [NonxE](https://osu.ppy.sh/u/319312) | 3305.52 | 17 |
-| 1200 | [SlimeDrippy](https://osu.ppy.sh/u/6119147) | 3300.11 | 17 |
-| 1201 | [Lazer](https://osu.ppy.sh/u/1799925) | 3297.21 | 13 |
-| 1202 | [schultzika](https://osu.ppy.sh/u/3629410) | 3296.09 | 15 |
-| 1203 | [Rime](https://osu.ppy.sh/u/1397232) | 3293.90 | 18 |
-| 1204 | [ThiagOtaku](https://osu.ppy.sh/u/5609833) | 3292.69 | 24 |
-| 1205 | [[Arkdn]](https://osu.ppy.sh/u/2870675) | 3292.57 | 17 |
-| 1206 | [Moshu_X](https://osu.ppy.sh/u/3611422) | 3280.49 | 18 |
-| 1207 | [a href](https://osu.ppy.sh/u/3785523) | 3279.31 | 20 |
-| 1208 | [-hb](https://osu.ppy.sh/u/7078544) | 3276.56 | 25 |
-| 1209 | [Linx](https://osu.ppy.sh/u/3881305) | 3275.58 | 23 |
-| 1210 | [xChorse](https://osu.ppy.sh/u/2217628) | 3274.71 | 22 |
-| 1211 | [Takane Enomoto](https://osu.ppy.sh/u/1208491) | 3270.67 | 22 |
-| 1212 | [FeriOP](https://osu.ppy.sh/u/2052847) | 3269.81 | 16 |
-| 1213 | [Jag](https://osu.ppy.sh/u/2499388) | 3268.86 | 33 |
-| 1214 | [-[Snitch]-](https://osu.ppy.sh/u/1222625) | 3266.04 | 33 |
-| 1215 | [ice_box](https://osu.ppy.sh/u/675200) | 3263.87 | 36 |
-| 1216 | [Mizuru](https://osu.ppy.sh/u/4495871) | 3263.44 | 9 |
-| 1217 | [Citoxe](https://osu.ppy.sh/u/3958540) | 3261.52 | 20 |
-| 1218 | [x-treme](https://osu.ppy.sh/u/1454687) | 3260.40 | 19 |
-| 1219 | [_AfterWind](https://osu.ppy.sh/u/2086138) | 3258.36 | 16 |
-| 1220 | [tit](https://osu.ppy.sh/u/255669) | 3255.50 | 20 |
-| 1221 | [Weabole](https://osu.ppy.sh/u/6806754) | 3253.65 | 17 |
-| 1222 | [nietoperek](https://osu.ppy.sh/u/1505793) | 3251.96 | 25 |
-| 1223 | [Dsan](https://osu.ppy.sh/u/1266166) | 3250.44 | 10 |
-| 1224 | [Noname0](https://osu.ppy.sh/u/280147) | 3244.40 | 13 |
-| 1225 | [Osama](https://osu.ppy.sh/u/799218) | 3243.53 | 16 |
-| 1226 | [instantlovee](https://osu.ppy.sh/u/2533128) | 3240.44 | 22 |
-| 1227 | [Z 3 R 0](https://osu.ppy.sh/u/4465395) | 3239.40 | 16 |
-| 1228 | [Zeny](https://osu.ppy.sh/u/3311424) | 3237.51 | 19 |
-| 1229 | [PossessedRabbit](https://osu.ppy.sh/u/4586031) | 3237.38 | 26 |
-| 1230 | [HulbeH](https://osu.ppy.sh/u/3866848) | 3236.50 | 19 |
-| 1231 | [RubyObrer](https://osu.ppy.sh/u/5218320) | 3234.89 | 26 |
-| 1232 | [hlx_groden](https://osu.ppy.sh/u/2041322) | 3230.45 | 12 |
-| 1233 | [serobor](https://osu.ppy.sh/u/1144238) | 3227.06 | 19 |
-| 1234 | [agent123cd](https://osu.ppy.sh/u/5587267) | 3224.93 | 19 |
-| 1235 | [skyegrey](https://osu.ppy.sh/u/3186952) | 3220.92 | 23 |
-| 1236 | [fieryrage](https://osu.ppy.sh/u/3533958) | 3217.98 | 12 |
-| 1237 | [kevimgod](https://osu.ppy.sh/u/4142213) | 3216.64 | 22 |
-| 1238 | [Shiroi Yami](https://osu.ppy.sh/u/6465273) | 3214.12 | 25 |
-| 1239 | [Atheneon](https://osu.ppy.sh/u/2164627) | 3209.87 | 16 |
-| 1240 | [Serary](https://osu.ppy.sh/u/2283331) | 3208.91 | 17 |
-| 1241 | [Splinter572](https://osu.ppy.sh/u/846038) | 3207.29 | 11 |
-| 1242 | [TrueForce](https://osu.ppy.sh/u/4682174) | 3205.66 | 18 |
-| 1243 | [Jakuu](https://osu.ppy.sh/u/3067549) | 3204.68 | 23 |
-| 1244 | [DeleteNumber](https://osu.ppy.sh/u/4837956) | 3203.91 | 14 |
-| 1245 | [WHITE COMB](https://osu.ppy.sh/u/1263080) | 3201.18 | 23 |
-| 1246 | [Skrypt3d](https://osu.ppy.sh/u/5557599) | 3201.02 | 24 |
-| 1247 | [Leotic](https://osu.ppy.sh/u/4263943) | 3199.30 | 14 |
-| 1248 | [r3venger](https://osu.ppy.sh/u/4325601) | 3195.00 | 21 |
-| 1249 | [Myramong](https://osu.ppy.sh/u/3872647) | 3192.26 | 28 |
-| 1250 | [Effole](https://osu.ppy.sh/u/2159014) | 3191.57 | 12 |
-| 1251 | [potatoes](https://osu.ppy.sh/u/2490088) | 3189.99 | 14 |
-| 1252 | [Faker](https://osu.ppy.sh/u/704099) | 3184.31 | 24 |
-| 1253 | [Skydiver](https://osu.ppy.sh/u/4750008) | 3181.60 | 16 |
-| 1254 | [TRH](https://osu.ppy.sh/u/976239) | 3180.56 | 29 |
-| 1255 | [_Mattia_](https://osu.ppy.sh/u/3636065) | 3175.26 | 19 |
-| 1256 | [bossan](https://osu.ppy.sh/u/972949) | 3173.79 | 15 |
-| 1257 | [scps940205](https://osu.ppy.sh/u/3353661) | 3170.97 | 15 |
-| 1258 | [Helix](https://osu.ppy.sh/u/3322597) | 3165.47 | 14 |
-| 1259 | [Skycries](https://osu.ppy.sh/u/4608074) | 3164.28 | 14 |
-| 1260 | [Kirin](https://osu.ppy.sh/u/1852356) | 3163.47 | 12 |
-| 1261 | [namaenanka](https://osu.ppy.sh/u/3291572) | 3162.30 | 14 |
-| 1262 | [Toraschrein](https://osu.ppy.sh/u/4236997) | 3161.37 | 21 |
-| 1263 | [[Tsunderella]](https://osu.ppy.sh/u/4332644) | 3159.79 | 20 |
-| 1264 | [Deolink](https://osu.ppy.sh/u/457523) | 3156.94 | 19 |
-| 1265 | [Spring Roll](https://osu.ppy.sh/u/2499198) | 3156.74 | 16 |
-| 1266 | [2124](https://osu.ppy.sh/u/5315077) | 3156.33 | 17 |
-| 1267 | [PLANT](https://osu.ppy.sh/u/7291628) | 3155.01 | 26 |
-| 1268 | [Zerg](https://osu.ppy.sh/u/2069595) | 3154.13 | 22 |
-| 1269 | [ToLove](https://osu.ppy.sh/u/4772355) | 3151.39 | 12 |
-| 1270 | [DipG](https://osu.ppy.sh/u/2983311) | 3150.14 | 16 |
-| 1271 | [ikar0ss](https://osu.ppy.sh/u/3972443) | 3149.00 | 18 |
-| 1272 | [PdPr0x_](https://osu.ppy.sh/u/4086716) | 3145.40 | 15 |
-| 1273 | [tsugi](https://osu.ppy.sh/u/3595954) | 3145.18 | 21 |
-| 1274 | [Lucker96](https://osu.ppy.sh/u/1416472) | 3144.25 | 20 |
-| 1275 | [isuzukawaii](https://osu.ppy.sh/u/4266448) | 3142.21 | 18 |
-| 1276 | [shAe1eck](https://osu.ppy.sh/u/1553672) | 3137.30 | 18 |
-| 1277 | [SpellStorm](https://osu.ppy.sh/u/4249778) | 3136.06 | 24 |
-| 1278 | [LanJay](https://osu.ppy.sh/u/5210595) | 3129.97 | 13 |
-| 1279 | [renoxz](https://osu.ppy.sh/u/686093) | 3129.06 | 12 |
-| 1280 | [Mayuri Hana](https://osu.ppy.sh/u/7151382) | 3128.97 | 15 |
-| 1281 | [kamr](https://osu.ppy.sh/u/6988252) | 3127.18 | 18 |
-| 1282 | [Hanatan](https://osu.ppy.sh/u/1349849) | 3115.17 | 12 |
-| 1283 | [Zayn](https://osu.ppy.sh/u/1518469) | 3113.57 | 18 |
-| 1284 | [Saizu](https://osu.ppy.sh/u/4064914) | 3109.54 | 11 |
-| 1285 | [[Sudar]](https://osu.ppy.sh/u/6903773) | 3108.65 | 32 |
-| 1286 | [Kevinneth](https://osu.ppy.sh/u/2244452) | 3108.19 | 18 |
-| 1287 | [Super Arrow](https://osu.ppy.sh/u/1970239) | 3106.09 | 13 |
-| 1288 | [-Kazuki-](https://osu.ppy.sh/u/3614356) | 3100.21 | 12 |
-| 1289 | [KA73N](https://osu.ppy.sh/u/7081485) | 3098.49 | 22 |
-| 1290 | [-Wolfy-](https://osu.ppy.sh/u/4497582) | 3098.23 | 12 |
-| 1291 | [Bonsai](https://osu.ppy.sh/u/987334) | 3096.20 | 26 |
-| 1292 | [RATATAI](https://osu.ppy.sh/u/6073841) | 3095.47 | 25 |
-| 1293 | [Enify](https://osu.ppy.sh/u/5061403) | 3094.90 | 16 |
-| 1294 | [Fourcuber_](https://osu.ppy.sh/u/4919398) | 3094.17 | 14 |
-| 1295 | [- Amatsukaze-](https://osu.ppy.sh/u/5364944) | 3093.13 | 18 |
-| 1296 | [Midi](https://osu.ppy.sh/u/3636617) | 3090.44 | 15 |
-| 1297 | [Hudda](https://osu.ppy.sh/u/4103629) | 3090.14 | 16 |
-| 1298 | [abu0921715330](https://osu.ppy.sh/u/2845158) | 3088.82 | 16 |
-| 1299 | [Lakx](https://osu.ppy.sh/u/668255) | 3080.76 | 29 |
-| 1300 | [Painketsu](https://osu.ppy.sh/u/2127432) | 3080.69 | 17 |
-| 1301 | [[Mila]](https://osu.ppy.sh/u/6563760) | 3079.64 | 19 |
-| 1302 | [FancyMouse](https://osu.ppy.sh/u/2698767) | 3077.12 | 21 |
-| 1303 | [Garden](https://osu.ppy.sh/u/2849992) | 3076.60 | 13 |
-| 1304 | [Yangu](https://osu.ppy.sh/u/4652902) | 3074.59 | 24 |
-| 1305 | [Mikan](https://osu.ppy.sh/u/645109) | 3073.54 | 29 |
-| 1306 | [Jimzzyyy](https://osu.ppy.sh/u/3600441) | 3072.46 | 14 |
-| 1307 | [DanyL](https://osu.ppy.sh/u/3069354) | 3070.22 | 10 |
-| 1308 | [Ramy](https://osu.ppy.sh/u/4739782) | 3070.21 | 20 |
-| 1309 | [Crundelic](https://osu.ppy.sh/u/3970969) | 3069.32 | 19 |
-| 1310 | [Hikari-](https://osu.ppy.sh/u/2056105) | 3068.52 | 17 |
-| 1311 | [Mut4nte](https://osu.ppy.sh/u/3304114) | 3064.34 | 15 |
-| 1312 | [Miralyn](https://osu.ppy.sh/u/4839771) | 3063.41 | 20 |
-| 1313 | [NeGaTiVeMinD](https://osu.ppy.sh/u/965038) | 3062.32 | 19 |
-| 1314 | [nice_safaleen](https://osu.ppy.sh/u/2946715) | 3061.90 | 25 |
-| 1315 | [yooriko](https://osu.ppy.sh/u/4976346) | 3059.20 | 15 |
-| 1316 | [HeeJin](https://osu.ppy.sh/u/2773410) | 3057.50 | 17 |
-| 1317 | [TheFoxz](https://osu.ppy.sh/u/6822573) | 3057.25 | 19 |
-| 1318 | [i8atree](https://osu.ppy.sh/u/2091761) | 3053.29 | 21 |
-| 1319 | [Stampapa](https://osu.ppy.sh/u/2772204) | 3049.47 | 20 |
-| 1320 | [ffstar0716](https://osu.ppy.sh/u/1163205) | 3049.47 | 18 |
-| 1321 | [SloppySeal](https://osu.ppy.sh/u/3161312) | 3047.85 | 14 |
-| 1322 | [byfar](https://osu.ppy.sh/u/4674054) | 3046.86 | 18 |
-| 1323 | [ZachiZombie](https://osu.ppy.sh/u/4597600) | 3044.86 | 13 |
-| 1324 | [Bites](https://osu.ppy.sh/u/1671598) | 3041.42 | 21 |
-| 1325 | [Death Zone](https://osu.ppy.sh/u/1886902) | 3040.59 | 13 |
-| 1326 | [_Otouto](https://osu.ppy.sh/u/4931888) | 3040.13 | 16 |
-| 1327 | [Anticipate](https://osu.ppy.sh/u/1643990) | 3040.09 | 20 |
-| 1328 | [Lunchaniru](https://osu.ppy.sh/u/1270850) | 3038.15 | 17 |
-| 1329 | [Mayoi Hachikuji](https://osu.ppy.sh/u/2114273) | 3038.04 | 11 |
-| 1330 | [shaneoyo](https://osu.ppy.sh/u/527298) | 3036.86 | 20 |
-| 1331 | [Dailycare](https://osu.ppy.sh/u/1634445) | 3036.59 | 16 |
-| 1332 | [ZomboUser](https://osu.ppy.sh/u/3327889) | 3035.36 | 21 |
-| 1333 | [-RInx-](https://osu.ppy.sh/u/1572035) | 3031.82 | 18 |
-| 1334 | [Aoba Karingo](https://osu.ppy.sh/u/4012621) | 3027.50 | 16 |
-| 1335 | [Bad Pandah](https://osu.ppy.sh/u/2983749) | 3025.86 | 22 |
-| 1336 | [Diallo](https://osu.ppy.sh/u/3695865) | 3020.43 | 15 |
-| 1337 | [ChitogeOP](https://osu.ppy.sh/u/4732944) | 3018.39 | 15 |
-| 1338 | [Dat_Neko](https://osu.ppy.sh/u/2765253) | 3018.08 | 22 |
-| 1339 | [Senbonzakura](https://osu.ppy.sh/u/1357150) | 3016.69 | 18 |
-| 1340 | [-Haunted-](https://osu.ppy.sh/u/4454456) | 3013.14 | 23 |
-| 1341 | [VereSis](https://osu.ppy.sh/u/2163544) | 3010.79 | 21 |
-| 1342 | [Sweetie Belle](https://osu.ppy.sh/u/2291870) | 3009.05 | 20 |
-| 1343 | [wRRigLe](https://osu.ppy.sh/u/2482783) | 3006.10 | 18 |
-| 1344 | [Arne-](https://osu.ppy.sh/u/3110444) | 3004.13 | 21 |
-| 1345 | [Kintrai](https://osu.ppy.sh/u/5221108) | 3003.03 | 21 |
-| 1346 | [MyHand](https://osu.ppy.sh/u/1571481) | 3001.51 | 18 |
-| 1347 | [Chiyuyu](https://osu.ppy.sh/u/4343242) | 2998.49 | 19 |
-| 1348 | [Arcamenel](https://osu.ppy.sh/u/4489161) | 2997.12 | 14 |
-| 1349 | [FujiwaraNoMokou](https://osu.ppy.sh/u/685188) | 2995.22 | 19 |
-| 1350 | [John the Dog](https://osu.ppy.sh/u/3455623) | 2994.98 | 14 |
-| 1351 | [Grove200996](https://osu.ppy.sh/u/4525232) | 2992.18 | 18 |
-| 1352 | [Ryze to Fall](https://osu.ppy.sh/u/2763960) | 2990.75 | 24 |
-| 1353 | [Nyrhiade](https://osu.ppy.sh/u/4720080) | 2989.70 | 19 |
-| 1354 | [DarkZephyr3](https://osu.ppy.sh/u/6589047) | 2987.96 | 24 |
-| 1355 | [Kyoko](https://osu.ppy.sh/u/3382084) | 2987.47 | 10 |
-| 1356 | [kriers](https://osu.ppy.sh/u/333241) | 2987.15 | 19 |
-| 1357 | [Chupalika](https://osu.ppy.sh/u/1926383) | 2985.09 | 18 |
-| 1358 | [Revenge76](https://osu.ppy.sh/u/7003939) | 2984.01 | 20 |
-| 1359 | [PortalLife](https://osu.ppy.sh/u/929134) | 2978.66 | 20 |
-| 1360 | [morcfiz](https://osu.ppy.sh/u/2728802) | 2978.22 | 20 |
-| 1361 | [Climate](https://osu.ppy.sh/u/1735867) | 2976.31 | 12 |
-| 1362 | [Toumei Dragon](https://osu.ppy.sh/u/6673830) | 2974.38 | 22 |
-| 1363 | [Horocchi](https://osu.ppy.sh/u/4033874) | 2971.63 | 18 |
-| 1364 | [DokiPon](https://osu.ppy.sh/u/3283468) | 2970.75 | 16 |
-| 1365 | [Shockwave000](https://osu.ppy.sh/u/2295157) | 2970.46 | 12 |
-| 1366 | [TojoO](https://osu.ppy.sh/u/4237800) | 2969.66 | 22 |
-| 1367 | [ShotgunApe](https://osu.ppy.sh/u/5116930) | 2968.98 | 12 |
-| 1368 | [Natorin](https://osu.ppy.sh/u/617194) | 2967.69 | 14 |
-| 1369 | [Sp0rk](https://osu.ppy.sh/u/6854393) | 2965.71 | 20 |
-| 1370 | [MeiMei](https://osu.ppy.sh/u/1597068) | 2964.28 | 12 |
-| 1371 | [Wolkid](https://osu.ppy.sh/u/924007) | 2964.16 | 19 |
-| 1372 | [MintyOne92](https://osu.ppy.sh/u/5092583) | 2962.47 | 23 |
-| 1373 | [[Hope]](https://osu.ppy.sh/u/5283769) | 2960.65 | 20 |
-| 1374 | [WildzDesire](https://osu.ppy.sh/u/2153336) | 2953.77 | 17 |
-| 1375 | [- iFeint](https://osu.ppy.sh/u/4239223) | 2950.90 | 27 |
-| 1376 | [Cryaq](https://osu.ppy.sh/u/3642394) | 2945.22 | 17 |
-| 1377 | [Neplock](https://osu.ppy.sh/u/5010464) | 2945.19 | 24 |
-| 1378 | [Gorgotz](https://osu.ppy.sh/u/1903394) | 2945.02 | 21 |
-| 1379 | [pekolove](https://osu.ppy.sh/u/177886) | 2942.89 | 19 |
-| 1380 | [salsa](https://osu.ppy.sh/u/2788798) | 2942.69 | 23 |
-| 1381 | [xsrsbsns](https://osu.ppy.sh/u/414427) | 2941.79 | 10 |
-| 1382 | [zVicho_](https://osu.ppy.sh/u/4202315) | 2941.42 | 24 |
-| 1383 | [Ana Oreo](https://osu.ppy.sh/u/7953111) | 2941.25 | 21 |
-| 1384 | [Canozo](https://osu.ppy.sh/u/2189709) | 2939.23 | 13 |
-| 1385 | [Metasynth](https://osu.ppy.sh/u/6157605) | 2938.27 | 13 |
-| 1386 | [taka33](https://osu.ppy.sh/u/6550532) | 2935.79 | 15 |
-| 1387 | [TheOnlyLeon](https://osu.ppy.sh/u/4201807) | 2935.45 | 21 |
-| 1388 | [Kanye](https://osu.ppy.sh/u/3630638) | 2934.99 | 24 |
-| 1389 | [Resia](https://osu.ppy.sh/u/843086) | 2934.01 | 11 |
-| 1390 | [Gian](https://osu.ppy.sh/u/2105981) | 2932.08 | 13 |
-| 1391 | [Sh3ddz](https://osu.ppy.sh/u/3837965) | 2930.84 | 19 |
-| 1392 | [momoyo-san](https://osu.ppy.sh/u/2038069) | 2930.39 | 14 |
-| 1393 | [-Vanilla](https://osu.ppy.sh/u/4660116) | 2926.22 | 23 |
-| 1394 | [NeXoN-PL](https://osu.ppy.sh/u/5029319) | 2923.78 | 22 |
-| 1395 | [Frostcage](https://osu.ppy.sh/u/4200090) | 2922.95 | 19 |
-| 1396 | [everlasting](https://osu.ppy.sh/u/3440337) | 2920.77 | 23 |
-| 1397 | [tubarukara](https://osu.ppy.sh/u/837003) | 2920.38 | 22 |
-| 1398 | [Z3R0Xx](https://osu.ppy.sh/u/3813559) | 2917.09 | 18 |
-| 1399 | [harti5](https://osu.ppy.sh/u/1948208) | 2916.22 | 16 |
-| 1400 | [Linada](https://osu.ppy.sh/u/5239047) | 2915.51 | 20 |
-| 1401 | [Twizth](https://osu.ppy.sh/u/2911160) | 2913.91 | 17 |
-| 1402 | [vandabe](https://osu.ppy.sh/u/7050754) | 2911.44 | 15 |
-| 1403 | [H Y D R A](https://osu.ppy.sh/u/4403272) | 2910.20 | 15 |
-| 1404 | [Miezekatze](https://osu.ppy.sh/u/913697) | 2910.13 | 19 |
-| 1405 | [sumomo EX](https://osu.ppy.sh/u/1229144) | 2910.07 | 15 |
-| 1406 | [Pada](https://osu.ppy.sh/u/4333913) | 2908.79 | 21 |
-| 1407 | [EyesMan](https://osu.ppy.sh/u/1762155) | 2906.38 | 15 |
-| 1408 | [Arthrighteous](https://osu.ppy.sh/u/3600549) | 2903.92 | 12 |
-| 1409 | [Kauha](https://osu.ppy.sh/u/2612284) | 2901.65 | 22 |
-| 1410 | [Reimu-Desu](https://osu.ppy.sh/u/948713) | 2901.26 | 8 |
-| 1411 | [kec2005](https://osu.ppy.sh/u/2392880) | 2894.89 | 15 |
-| 1412 | [Cyan Yoshi](https://osu.ppy.sh/u/3283935) | 2893.52 | 15 |
-| 1413 | [Pelton Baka](https://osu.ppy.sh/u/5810973) | 2891.83 | 22 |
-| 1414 | [Fawx](https://osu.ppy.sh/u/7093736) | 2891.42 | 15 |
-| 1415 | [wertter](https://osu.ppy.sh/u/2192767) | 2890.12 | 26 |
-| 1416 | [pattrik](https://osu.ppy.sh/u/2823017) | 2886.57 | 11 |
-| 1417 | [Kencho](https://osu.ppy.sh/u/3178411) | 2885.78 | 21 |
-| 1418 | [-Seena-](https://osu.ppy.sh/u/822314) | 2885.67 | 22 |
-| 1419 | [coflAinsane](https://osu.ppy.sh/u/551445) | 2884.34 | 21 |
-| 1420 | [Chaosu](https://osu.ppy.sh/u/5486217) | 2883.80 | 15 |
-| 1421 | [[ Jewel Yuki ]](https://osu.ppy.sh/u/1749413) | 2883.54 | 11 |
-| 1422 | [wgz1w9a08](https://osu.ppy.sh/u/1639721) | 2879.76 | 18 |
-| 1423 | [Sotarks](https://osu.ppy.sh/u/4452992) | 2877.69 | 21 |
-| 1424 | [KuKu_QY](https://osu.ppy.sh/u/2598812) | 2876.78 | 15 |
-| 1425 | [- UMR -](https://osu.ppy.sh/u/5392289) | 2871.30 | 14 |
-| 1426 | [Sync](https://osu.ppy.sh/u/806921) | 2869.83 | 22 |
-| 1427 | [- Ilysa -](https://osu.ppy.sh/u/7796881) | 2869.09 | 16 |
-| 1428 | [Herbayse](https://osu.ppy.sh/u/4924094) | 2866.16 | 14 |
-| 1429 | [Ayll](https://osu.ppy.sh/u/5680885) | 2865.13 | 18 |
-| 1430 | [Quanteck](https://osu.ppy.sh/u/2122400) | 2865.06 | 11 |
-| 1431 | [Seiren](https://osu.ppy.sh/u/616536) | 2864.89 | 20 |
-| 1432 | [Skaemon](https://osu.ppy.sh/u/3888468) | 2859.13 | 22 |
-| 1433 | [- Christian -](https://osu.ppy.sh/u/3757665) | 2857.70 | 17 |
-| 1434 | [Aeril](https://osu.ppy.sh/u/4334976) | 2854.84 | 11 |
-| 1435 | [Bureizu](https://osu.ppy.sh/u/4310165) | 2854.63 | 14 |
-| 1436 | [Mentalol](https://osu.ppy.sh/u/6877456) | 2854.12 | 19 |
-| 1437 | [mmaasslloo](https://osu.ppy.sh/u/3526708) | 2850.61 | 11 |
-| 1438 | [Sandsky0](https://osu.ppy.sh/u/2217753) | 2850.11 | 14 |
-| 1439 | [suki desu](https://osu.ppy.sh/u/3451077) | 2848.46 | 21 |
-| 1440 | [Log](https://osu.ppy.sh/u/3917358) | 2843.42 | 13 |
-| 1441 | [Kanjer](https://osu.ppy.sh/u/2892405) | 2843.18 | 18 |
-| 1442 | [[ Wakson ]](https://osu.ppy.sh/u/3048222) | 2841.82 | 13 |
-| 1443 | [Salvage](https://osu.ppy.sh/u/242119) | 2841.65 | 13 |
-| 1444 | [Small K](https://osu.ppy.sh/u/952751) | 2837.29 | 10 |
-| 1445 | [Pam](https://osu.ppy.sh/u/2690339) | 2834.05 | 20 |
-| 1446 | [Remu Rin](https://osu.ppy.sh/u/8600920) | 2829.64 | 16 |
-| 1447 | [Rost94](https://osu.ppy.sh/u/490568) | 2829.53 | 17 |
-| 1448 | [SoullessTM](https://osu.ppy.sh/u/4060073) | 2829.06 | 13 |
-| 1449 | [Mastaah](https://osu.ppy.sh/u/1876565) | 2828.79 | 15 |
-| 1450 | [-Famous-](https://osu.ppy.sh/u/814328) | 2828.48 | 16 |
-| 1451 | [Muffins13](https://osu.ppy.sh/u/2717555) | 2827.97 | 16 |
-| 1452 | [squirrelxoxo](https://osu.ppy.sh/u/3842877) | 2821.60 | 19 |
-| 1453 | [krnk819](https://osu.ppy.sh/u/2858210) | 2818.65 | 17 |
-| 1454 | [Osuology](https://osu.ppy.sh/u/3988540) | 2818.63 | 18 |
-| 1455 | [quipo](https://osu.ppy.sh/u/3177141) | 2818.07 | 15 |
-| 1456 | [[ Soulless ]](https://osu.ppy.sh/u/5081973) | 2817.65 | 19 |
-| 1457 | [davidercool](https://osu.ppy.sh/u/4043420) | 2817.33 | 22 |
-| 1458 | [Konomi](https://osu.ppy.sh/u/3871716) | 2814.80 | 11 |
-| 1459 | [Kotomi](https://osu.ppy.sh/u/7611372) | 2814.58 | 23 |
-| 1460 | [FluffyLuffy](https://osu.ppy.sh/u/2334901) | 2811.61 | 14 |
-| 1461 | [Treekii](https://osu.ppy.sh/u/1998030) | 2811.50 | 15 |
-| 1462 | [_35](https://osu.ppy.sh/u/4367225) | 2810.52 | 21 |
-| 1463 | [chtioploute62](https://osu.ppy.sh/u/4381959) | 2809.97 | 14 |
-| 1464 | [DazzLE_Wind](https://osu.ppy.sh/u/2537924) | 2809.94 | 12 |
-| 1465 | [Leetrapoi](https://osu.ppy.sh/u/3147457) | 2809.72 | 14 |
-| 1466 | [ExCellRaD](https://osu.ppy.sh/u/2189591) | 2808.46 | 17 |
-| 1467 | [Doddaz](https://osu.ppy.sh/u/4900042) | 2807.45 | 15 |
-| 1468 | [kiyumi](https://osu.ppy.sh/u/3701898) | 2806.08 | 12 |
-| 1469 | [Kagami Yuki](https://osu.ppy.sh/u/1319686) | 2800.74 | 25 |
-| 1470 | [Kakit](https://osu.ppy.sh/u/102951) | 2799.96 | 18 |
-| 1471 | [Callum](https://osu.ppy.sh/u/2476935) | 2794.75 | 14 |
-| 1472 | [Meelera](https://osu.ppy.sh/u/4295865) | 2793.86 | 23 |
-| 1473 | [IOSYS](https://osu.ppy.sh/u/6319707) | 2793.26 | 19 |
-| 1474 | [Suzutsuki-](https://osu.ppy.sh/u/1026028) | 2793.25 | 12 |
-| 1475 | [Sichtfeld](https://osu.ppy.sh/u/6533011) | 2792.81 | 17 |
-| 1476 | [InabaTewi](https://osu.ppy.sh/u/1078004) | 2792.69 | 11 |
-| 1477 | [kazamabc](https://osu.ppy.sh/u/6937470) | 2791.80 | 15 |
-| 1478 | [- Osugui -](https://osu.ppy.sh/u/5730821) | 2789.92 | 17 |
-| 1479 | [Valdyr](https://osu.ppy.sh/u/2980356) | 2788.58 | 18 |
-| 1480 | [HaruHong](https://osu.ppy.sh/u/2971423) | 2788.50 | 14 |
-| 1481 | [Auto](https://osu.ppy.sh/u/834861) | 2787.14 | 22 |
-| 1482 | [Hydrobubble](https://osu.ppy.sh/u/4598888) | 2787.01 | 20 |
-| 1483 | [legendcrazyman](https://osu.ppy.sh/u/2644828) | 2784.68 | 10 |
-| 1484 | [Czaczii](https://osu.ppy.sh/u/2502644) | 2784.32 | 17 |
-| 1485 | [AxewB](https://osu.ppy.sh/u/4928776) | 2782.52 | 11 |
-| 1486 | [WatcherofTime](https://osu.ppy.sh/u/4986705) | 2782.37 | 16 |
-| 1487 | [xiAmME](https://osu.ppy.sh/u/1428960) | 2780.37 | 10 |
-| 1488 | [squidfish](https://osu.ppy.sh/u/4480218) | 2776.34 | 18 |
-| 1489 | [GooDly](https://osu.ppy.sh/u/2497096) | 2775.31 | 21 |
-| 1490 | [Unity](https://osu.ppy.sh/u/3374028) | 2775.04 | 12 |
-| 1491 | [[Chiyo]](https://osu.ppy.sh/u/2000416) | 2774.90 | 10 |
-| 1492 | [TrickMirror](https://osu.ppy.sh/u/2138739) | 2774.69 | 12 |
-| 1493 | [winterNebs](https://osu.ppy.sh/u/4344596) | 2774.66 | 15 |
-| 1494 | [Ignite](https://osu.ppy.sh/u/3122948) | 2774.06 | 10 |
-| 1495 | [[Sayori]](https://osu.ppy.sh/u/1251249) | 2773.95 | 16 |
-| 1496 | [Holmsey](https://osu.ppy.sh/u/2063123) | 2772.07 | 19 |
-| 1497 | [KGaryry](https://osu.ppy.sh/u/5740191) | 2771.54 | 13 |
-| 1498 | [Kyouko Burst](https://osu.ppy.sh/u/480984) | 2770.21 | 16 |
-| 1499 | [VankaTa](https://osu.ppy.sh/u/4780525) | 2769.23 | 16 |
-| 1500 | [obtio](https://osu.ppy.sh/u/4007897) | 2769.16 | 10 |
-| 1501 | [ruitica](https://osu.ppy.sh/u/4302002) | 2765.45 | 15 |
-| 1502 | [GuessWho](https://osu.ppy.sh/u/5272823) | 2762.96 | 11 |
-| 1503 | [FreshMint](https://osu.ppy.sh/u/2751056) | 2760.91 | 13 |
-| 1504 | [Swishi](https://osu.ppy.sh/u/2795639) | 2760.63 | 15 |
-| 1505 | [ThePonite](https://osu.ppy.sh/u/5283210) | 2758.88 | 12 |
-| 1506 | [Jigolo](https://osu.ppy.sh/u/2080552) | 2758.24 | 21 |
-| 1507 | [HarddS](https://osu.ppy.sh/u/2389346) | 2755.45 | 15 |
-| 1508 | [DLYC](https://osu.ppy.sh/u/1741786) | 2754.73 | 18 |
-| 1509 | [Kalvin](https://osu.ppy.sh/u/4420138) | 2753.62 | 12 |
-| 1510 | [revurii](https://osu.ppy.sh/u/4180036) | 2753.51 | 12 |
-| 1511 | [divinehate](https://osu.ppy.sh/u/3262174) | 2750.03 | 16 |
-| 1512 | [[Diego]](https://osu.ppy.sh/u/2456443) | 2749.70 | 23 |
-| 1513 | [okada malphite](https://osu.ppy.sh/u/652084) | 2742.62 | 18 |
-| 1514 | [LifeDrink](https://osu.ppy.sh/u/727028) | 2742.09 | 22 |
-| 1515 | [c-atsuit](https://osu.ppy.sh/u/6904819) | 2742.06 | 17 |
-| 1516 | [Unknown](https://osu.ppy.sh/u/1390623) | 2741.35 | 12 |
-| 1517 | [Pozepi](https://osu.ppy.sh/u/2265659) | 2739.71 | 17 |
-| 1518 | [Rose Pacifica](https://osu.ppy.sh/u/1393255) | 2739.66 | 14 |
-| 1519 | [Ishoku](https://osu.ppy.sh/u/2874183) | 2738.64 | 16 |
-| 1520 | [YellowPomelo](https://osu.ppy.sh/u/4006307) | 2738.50 | 16 |
-| 1521 | [powerstream89](https://osu.ppy.sh/u/2293274) | 2736.88 | 15 |
-| 1522 | [OsuVil](https://osu.ppy.sh/u/4217546) | 2735.09 | 13 |
-| 1523 | [stablest](https://osu.ppy.sh/u/2796903) | 2728.58 | 13 |
-| 1524 | [Ultrasone](https://osu.ppy.sh/u/590421) | 2728.34 | 14 |
-| 1525 | [avalanche](https://osu.ppy.sh/u/5910601) | 2728.21 | 12 |
-| 1526 | [Zer0-](https://osu.ppy.sh/u/4260033) | 2727.63 | 17 |
-| 1527 | [vectus69](https://osu.ppy.sh/u/6913278) | 2718.91 | 15 |
-| 1528 | [yans601](https://osu.ppy.sh/u/2268262) | 2718.86 | 17 |
-| 1529 | [Riobener](https://osu.ppy.sh/u/6529833) | 2717.02 | 20 |
-| 1530 | [Coolgav](https://osu.ppy.sh/u/1703089) | 2716.41 | 12 |
-| 1531 | [xBeast](https://osu.ppy.sh/u/2825198) | 2715.83 | 19 |
-| 1532 | [teakn](https://osu.ppy.sh/u/1256768) | 2713.12 | 14 |
-| 1533 | [toara_fict](https://osu.ppy.sh/u/1786588) | 2710.84 | 22 |
-| 1534 | [StasiekXD](https://osu.ppy.sh/u/1367955) | 2709.40 | 16 |
-| 1535 | [Manakura](https://osu.ppy.sh/u/2414602) | 2707.26 | 10 |
-| 1536 | [silverL](https://osu.ppy.sh/u/1087496) | 2706.42 | 15 |
-| 1537 | [GenDoNL](https://osu.ppy.sh/u/5939445) | 2706.06 | 17 |
-| 1538 | [hyheleh](https://osu.ppy.sh/u/2522197) | 2703.80 | 10 |
-| 1539 | [JanteSmith](https://osu.ppy.sh/u/371772) | 2703.58 | 19 |
-| 1540 | [[ ToMo ]](https://osu.ppy.sh/u/2478119) | 2703.09 | 17 |
-| 1541 | [sobatsuyu](https://osu.ppy.sh/u/2076374) | 2702.77 | 19 |
-| 1542 | [Wales](https://osu.ppy.sh/u/2057457) | 2702.42 | 12 |
-| 1543 | [MyAngelHye](https://osu.ppy.sh/u/4292029) | 2698.87 | 17 |
-| 1544 | [mackattack](https://osu.ppy.sh/u/2540301) | 2697.64 | 19 |
-| 1545 | [Meltina](https://osu.ppy.sh/u/946990) | 2697.44 | 8 |
-| 1546 | [Ex6TenZ](https://osu.ppy.sh/u/2676512) | 2690.84 | 16 |
-| 1547 | [Tang](https://osu.ppy.sh/u/2162609) | 2689.13 | 14 |
-| 1548 | [zDevor](https://osu.ppy.sh/u/5038837) | 2688.62 | 15 |
-| 1549 | [iDeztructionZ](https://osu.ppy.sh/u/4301217) | 2688.50 | 19 |
-| 1550 | [Nepo](https://osu.ppy.sh/u/5602459) | 2687.17 | 21 |
-| 1551 | [Rizzo](https://osu.ppy.sh/u/717873) | 2686.26 | 14 |
-| 1552 | [Zhabk](https://osu.ppy.sh/u/5890019) | 2685.82 | 13 |
-| 1553 | [3ta](https://osu.ppy.sh/u/4279545) | 2685.05 | 16 |
-| 1554 | [RoundNight](https://osu.ppy.sh/u/4313991) | 2684.74 | 14 |
-| 1555 | [Futaba aoi](https://osu.ppy.sh/u/472545) | 2683.90 | 22 |
-| 1556 | [Lunaii](https://osu.ppy.sh/u/3683387) | 2682.82 | 12 |
-| 1557 | [Iago-S](https://osu.ppy.sh/u/5070210) | 2682.09 | 15 |
-| 1558 | [TheANDRAXY](https://osu.ppy.sh/u/2435672) | 2678.87 | 13 |
-| 1559 | [z980838928](https://osu.ppy.sh/u/1355695) | 2671.14 | 12 |
-| 1560 | [Megure](https://osu.ppy.sh/u/3468264) | 2670.20 | 10 |
-| 1561 | [UltraCyberstar](https://osu.ppy.sh/u/2268509) | 2669.98 | 19 |
-| 1562 | [Curvely](https://osu.ppy.sh/u/2414531) | 2668.82 | 13 |
-| 1563 | [kasztaneqqq](https://osu.ppy.sh/u/6231778) | 2668.24 | 13 |
-| 1564 | [[ Emperor ]](https://osu.ppy.sh/u/5917917) | 2666.58 | 13 |
-| 1565 | [Keksbla](https://osu.ppy.sh/u/2417616) | 2663.20 | 12 |
-| 1566 | [Broccoly](https://osu.ppy.sh/u/1629059) | 2662.38 | 9 |
-| 1567 | [Epsile](https://osu.ppy.sh/u/4045954) | 2661.09 | 14 |
-| 1568 | [EphemeralFetish](https://osu.ppy.sh/u/4433793) | 2660.57 | 12 |
-| 1569 | [Nailuo](https://osu.ppy.sh/u/923012) | 2660.54 | 16 |
-| 1570 | [Team Rocket](https://osu.ppy.sh/u/3923409) | 2657.38 | 14 |
-| 1571 | [-HM](https://osu.ppy.sh/u/2735631) | 2657.15 | 13 |
-| 1572 | [vaporlol](https://osu.ppy.sh/u/3007738) | 2656.65 | 10 |
-| 1573 | [- Jelly -](https://osu.ppy.sh/u/2555102) | 2653.10 | 15 |
-| 1574 | [FreytagMorgan](https://osu.ppy.sh/u/2517668) | 2652.46 | 15 |
-| 1575 | [Crystal](https://osu.ppy.sh/u/1646397) | 2649.90 | 11 |
-| 1576 | [BygyJoel](https://osu.ppy.sh/u/4990524) | 2649.55 | 13 |
-| 1577 | [blizzen](https://osu.ppy.sh/u/5139223) | 2647.69 | 16 |
-| 1578 | [itukenn](https://osu.ppy.sh/u/1554054) | 2643.54 | 15 |
-| 1579 | [BluOxy](https://osu.ppy.sh/u/580925) | 2643.53 | 14 |
-| 1580 | [CPUGeek](https://osu.ppy.sh/u/4172839) | 2642.81 | 11 |
-| 1581 | [tommy0519](https://osu.ppy.sh/u/2455360) | 2642.80 | 16 |
-| 1582 | [XVoIR](https://osu.ppy.sh/u/2845588) | 2642.25 | 13 |
-| 1583 | [Naattori](https://osu.ppy.sh/u/4274394) | 2642.15 | 19 |
-| 1584 | [Musieq](https://osu.ppy.sh/u/3307040) | 2639.94 | 12 |
-| 1585 | [Phirt](https://osu.ppy.sh/u/2075784) | 2638.11 | 20 |
-| 1586 | [i7Minions](https://osu.ppy.sh/u/6291789) | 2637.29 | 16 |
-| 1587 | [Maxx115](https://osu.ppy.sh/u/2278706) | 2635.48 | 19 |
-| 1588 | [Jacob](https://osu.ppy.sh/u/2786413) | 2633.77 | 10 |
-| 1589 | [SrSkyPlayer](https://osu.ppy.sh/u/3860376) | 2632.62 | 10 |
-| 1590 | [Slow Twitch](https://osu.ppy.sh/u/3172543) | 2632.44 | 18 |
-| 1591 | [Squilly](https://osu.ppy.sh/u/4681578) | 2630.07 | 9 |
-| 1592 | [Miroku](https://osu.ppy.sh/u/1492771) | 2626.36 | 12 |
-| 1593 | [Meet](https://osu.ppy.sh/u/2003720) | 2626.08 | 13 |
-| 1594 | [_s3raph](https://osu.ppy.sh/u/5252968) | 2625.72 | 12 |
-| 1595 | [Aknama](https://osu.ppy.sh/u/4322869) | 2625.58 | 15 |
-| 1596 | [yorsk](https://osu.ppy.sh/u/766468) | 2624.41 | 13 |
-| 1597 | [Blazemon](https://osu.ppy.sh/u/6718427) | 2622.80 | 13 |
-| 1598 | [Raiin](https://osu.ppy.sh/u/4117912) | 2618.71 | 15 |
-| 1599 | [Maus](https://osu.ppy.sh/u/4450095) | 2618.61 | 15 |
-| 1600 | [Arakune](https://osu.ppy.sh/u/3689111) | 2613.45 | 10 |
-| 1601 | [Ryugar](https://osu.ppy.sh/u/3997638) | 2612.00 | 12 |
-| 1602 | [Teriyaki](https://osu.ppy.sh/u/1431589) | 2611.96 | 10 |
-| 1603 | [hamato](https://osu.ppy.sh/u/2998382) | 2611.58 | 12 |
-| 1604 | [T I T](https://osu.ppy.sh/u/1278397) | 2609.93 | 11 |
-| 1605 | [CRISTOPHER](https://osu.ppy.sh/u/1782977) | 2609.76 | 13 |
-| 1606 | [Fridolin](https://osu.ppy.sh/u/3667125) | 2609.00 | 12 |
-| 1607 | [Zero-](https://osu.ppy.sh/u/4396295) | 2608.47 | 16 |
-| 1608 | [Alexy the Cat](https://osu.ppy.sh/u/6985079) | 2607.82 | 19 |
-| 1609 | [All21](https://osu.ppy.sh/u/1175321) | 2607.05 | 16 |
-| 1610 | [Juno](https://osu.ppy.sh/u/2588961) | 2604.23 | 10 |
-| 1611 | [Darksteam](https://osu.ppy.sh/u/2103638) | 2603.80 | 14 |
-| 1612 | [T o y](https://osu.ppy.sh/u/989056) | 2602.41 | 14 |
-| 1613 | [whiteMoCa](https://osu.ppy.sh/u/3072729) | 2601.61 | 21 |
-| 1614 | [reyler](https://osu.ppy.sh/u/3059562) | 2598.12 | 17 |
-| 1615 | [DOM](https://osu.ppy.sh/u/1667603) | 2593.86 | 13 |
-| 1616 | [SanTisy](https://osu.ppy.sh/u/1815399) | 2591.08 | 13 |
-| 1617 | [Silver_Cr0w](https://osu.ppy.sh/u/6754712) | 2589.29 | 12 |
-| 1618 | [livingrim](https://osu.ppy.sh/u/5300686) | 2587.86 | 22 |
-| 1619 | [encryptedsalad](https://osu.ppy.sh/u/3688602) | 2583.52 | 15 |
-| 1620 | [Electovoid](https://osu.ppy.sh/u/6648263) | 2582.90 | 13 |
-| 1621 | [Giffen](https://osu.ppy.sh/u/903117) | 2582.69 | 18 |
-| 1622 | [Rudi](https://osu.ppy.sh/u/1775313) | 2582.53 | 18 |
-| 1623 | [Utaha](https://osu.ppy.sh/u/2828591) | 2581.68 | 15 |
-| 1624 | [Weeaboo Jones](https://osu.ppy.sh/u/4356602) | 2579.97 | 18 |
-| 1625 | [Ya-Mitan](https://osu.ppy.sh/u/8516410) | 2577.32 | 16 |
-| 1626 | [GfMRT](https://osu.ppy.sh/u/3163649) | 2576.59 | 17 |
-| 1627 | [masterowl](https://osu.ppy.sh/u/2768641) | 2573.26 | 18 |
-| 1628 | [xRillerx](https://osu.ppy.sh/u/4439444) | 2572.90 | 15 |
-| 1629 | [DarknesStealth](https://osu.ppy.sh/u/6398160) | 2570.06 | 15 |
-| 1630 | [Ikki](https://osu.ppy.sh/u/4712690) | 2568.76 | 16 |
-| 1631 | [Karpio](https://osu.ppy.sh/u/4242626) | 2562.43 | 19 |
-| 1632 | [Beenrz](https://osu.ppy.sh/u/3865674) | 2561.74 | 16 |
-| 1633 | [Yusomi](https://osu.ppy.sh/u/4174940) | 2561.65 | 11 |
-| 1634 | [Koshiur](https://osu.ppy.sh/u/3627225) | 2561.46 | 16 |
-| 1635 | [Angry](https://osu.ppy.sh/u/4432964) | 2560.02 | 16 |
-| 1636 | [umii](https://osu.ppy.sh/u/2538695) | 2558.08 | 10 |
-| 1637 | [Human Trash](https://osu.ppy.sh/u/5039267) | 2557.61 | 13 |
-| 1638 | [Spicy Salsa](https://osu.ppy.sh/u/3582320) | 2556.60 | 13 |
-| 1639 | [Morrowind](https://osu.ppy.sh/u/4433108) | 2554.84 | 12 |
-| 1640 | [Michni](https://osu.ppy.sh/u/3543130) | 2554.03 | 14 |
-| 1641 | [AstroFP](https://osu.ppy.sh/u/6661913) | 2552.92 | 13 |
-| 1642 | [Hisui-iro](https://osu.ppy.sh/u/4912037) | 2552.54 | 17 |
-| 1643 | [Wolpis Kater](https://osu.ppy.sh/u/2534607) | 2547.75 | 13 |
-| 1644 | [Kanon](https://osu.ppy.sh/u/109249) | 2545.04 | 13 |
-| 1645 | [joker-](https://osu.ppy.sh/u/1468261) | 2543.29 | 21 |
-| 1646 | [Konsekvens](https://osu.ppy.sh/u/2882572) | 2541.65 | 14 |
-| 1647 | [Mattisticus](https://osu.ppy.sh/u/4260755) | 2541.38 | 12 |
-| 1648 | [Scarlet_Wolf](https://osu.ppy.sh/u/6959506) | 2540.99 | 18 |
-| 1649 | [momotayan](https://osu.ppy.sh/u/1448729) | 2540.76 | 9 |
-| 1650 | [Dub_Z](https://osu.ppy.sh/u/4787223) | 2533.49 | 14 |
-| 1651 | [Shikinami Asuka](https://osu.ppy.sh/u/3148520) | 2530.30 | 13 |
-| 1652 | [DarkenedShad](https://osu.ppy.sh/u/7246165) | 2525.12 | 18 |
-| 1653 | [Silvercross](https://osu.ppy.sh/u/1203449) | 2524.40 | 20 |
-| 1654 | [-Remilia-](https://osu.ppy.sh/u/2513995) | 2517.18 | 18 |
-| 1655 | [GitahMuttan](https://osu.ppy.sh/u/2706715) | 2516.94 | 15 |
-| 1656 | [Alternater](https://osu.ppy.sh/u/4980256) | 2515.98 | 15 |
-| 1657 | [Blondazz](https://osu.ppy.sh/u/6415654) | 2515.74 | 16 |
-| 1658 | [XzCraftP](https://osu.ppy.sh/u/1593180) | 2514.19 | 14 |
-| 1659 | [[-Neon-]](https://osu.ppy.sh/u/6064382) | 2509.35 | 16 |
-| 1660 | [JappyBabes](https://osu.ppy.sh/u/697783) | 2506.68 | 9 |
-| 1661 | [ayy lmao](https://osu.ppy.sh/u/4680149) | 2506.32 | 10 |
-| 1662 | [[ KamKurGi521 ]](https://osu.ppy.sh/u/4511522) | 2506.03 | 10 |
-| 1663 | [Arnica](https://osu.ppy.sh/u/1337292) | 2503.06 | 14 |
-| 1664 | [Afrodafro](https://osu.ppy.sh/u/3551255) | 2502.09 | 9 |
-| 1665 | [bbqplox](https://osu.ppy.sh/u/2893763) | 2500.71 | 17 |
-| 1666 | [_NekoYuno](https://osu.ppy.sh/u/4018443) | 2500.25 | 18 |
-| 1667 | [Kor3ry3-Kun](https://osu.ppy.sh/u/6279567) | 2498.59 | 13 |
-| 1668 | [Blanco](https://osu.ppy.sh/u/4106400) | 2498.42 | 10 |
-| 1669 | [icebucket](https://osu.ppy.sh/u/4577520) | 2498.39 | 14 |
-| 1670 | [Leissss](https://osu.ppy.sh/u/4750716) | 2494.37 | 11 |
-| 1671 | [Trance](https://osu.ppy.sh/u/2170951) | 2493.37 | 15 |
-| 1672 | [etejuano](https://osu.ppy.sh/u/2243537) | 2492.47 | 10 |
-| 1673 | [noplz](https://osu.ppy.sh/u/3166476) | 2492.26 | 15 |
-| 1674 | [Willump](https://osu.ppy.sh/u/2480755) | 2491.99 | 16 |
-| 1675 | [dethindays](https://osu.ppy.sh/u/3857985) | 2491.37 | 16 |
-| 1676 | [NameAcht](https://osu.ppy.sh/u/7037315) | 2490.42 | 15 |
-| 1677 | [bep](https://osu.ppy.sh/u/2922393) | 2486.45 | 13 |
-| 1678 | [FeiSe fantasy](https://osu.ppy.sh/u/521384) | 2486.38 | 17 |
-| 1679 | [PainSinger](https://osu.ppy.sh/u/697843) | 2486.02 | 10 |
-| 1680 | [Skystar](https://osu.ppy.sh/u/873961) | 2484.96 | 13 |
-| 1681 | [Danidesu](https://osu.ppy.sh/u/2748187) | 2483.49 | 10 |
-| 1682 | [caned](https://osu.ppy.sh/u/4944043) | 2482.73 | 13 |
-| 1683 | [Italo](https://osu.ppy.sh/u/1164677) | 2480.17 | 10 |
-| 1684 | [Coreanmaluco](https://osu.ppy.sh/u/3149577) | 2479.71 | 13 |
-| 1685 | [Thankyoubomb](https://osu.ppy.sh/u/2589843) | 2473.93 | 14 |
-| 1686 | [PudiPudi](https://osu.ppy.sh/u/2245807) | 2470.81 | 10 |
-| 1687 | [Ruchika](https://osu.ppy.sh/u/2657537) | 2468.58 | 9 |
-| 1688 | [xGx](https://osu.ppy.sh/u/3790274) | 2466.87 | 18 |
-| 1689 | [The100500](https://osu.ppy.sh/u/4491034) | 2466.47 | 11 |
-| 1690 | [Eifi](https://osu.ppy.sh/u/7026613) | 2465.07 | 14 |
-| 1691 | [w i k i-](https://osu.ppy.sh/u/3826037) | 2464.76 | 13 |
-| 1692 | [Allas](https://osu.ppy.sh/u/763872) | 2464.71 | 15 |
-| 1693 | [Piggey](https://osu.ppy.sh/u/4163860) | 2459.30 | 8 |
-| 1694 | [Vaxei](https://osu.ppy.sh/u/4787150) | 2459.14 | 6 |
-| 1695 | [Asahina Momoko](https://osu.ppy.sh/u/3650145) | 2458.13 | 12 |
-| 1696 | [deredere-](https://osu.ppy.sh/u/3941988) | 2456.52 | 12 |
-| 1697 | [Flezlin](https://osu.ppy.sh/u/3696423) | 2454.07 | 13 |
-| 1698 | [Joy Boy](https://osu.ppy.sh/u/2848040) | 2453.66 | 12 |
-| 1699 | [forever](https://osu.ppy.sh/u/856785) | 2450.50 | 19 |
-| 1700 | [Cinderella Time](https://osu.ppy.sh/u/2808004) | 2450.20 | 13 |
-| 1701 | [Sophy](https://osu.ppy.sh/u/7403100) | 2445.94 | 10 |
-| 1702 | [BlackDisplay](https://osu.ppy.sh/u/2114348) | 2441.54 | 12 |
-| 1703 | [Dris](https://osu.ppy.sh/u/3680558) | 2440.65 | 15 |
-| 1704 | [Startrick](https://osu.ppy.sh/u/2782104) | 2440.38 | 10 |
-| 1705 | [VicoTeen](https://osu.ppy.sh/u/4339470) | 2438.13 | 12 |
-| 1706 | [LilDoc](https://osu.ppy.sh/u/5887647) | 2435.44 | 10 |
-| 1707 | [CocoaLion](https://osu.ppy.sh/u/1224334) | 2430.99 | 10 |
-| 1708 | [Azir](https://osu.ppy.sh/u/4852907) | 2430.15 | 12 |
-| 1709 | [Teazkor](https://osu.ppy.sh/u/5695241) | 2427.43 | 10 |
-| 1710 | [RyuuBei](https://osu.ppy.sh/u/2222447) | 2426.26 | 12 |
-| 1711 | [Orange Mushroom](https://osu.ppy.sh/u/2088084) | 2425.55 | 11 |
-| 1712 | [oamaok](https://osu.ppy.sh/u/3844204) | 2422.49 | 13 |
-| 1713 | [samsam2233](https://osu.ppy.sh/u/1285128) | 2421.65 | 15 |
-| 1714 | [So Amy](https://osu.ppy.sh/u/1708517) | 2420.02 | 11 |
-| 1715 | [mokoro](https://osu.ppy.sh/u/1367313) | 2419.05 | 11 |
-| 1716 | [-[CoalMiester]-](https://osu.ppy.sh/u/5028144) | 2415.21 | 11 |
-| 1717 | [SiLviA](https://osu.ppy.sh/u/409747) | 2414.07 | 12 |
-| 1718 | [Battquif](https://osu.ppy.sh/u/2389333) | 2413.25 | 11 |
-| 1719 | [Elinia](https://osu.ppy.sh/u/1406196) | 2409.33 | 14 |
-| 1720 | [Jesderp](https://osu.ppy.sh/u/5506275) | 2406.58 | 15 |
-| 1721 | [Restia](https://osu.ppy.sh/u/647766) | 2406.27 | 13 |
-| 1722 | [sLeekzz](https://osu.ppy.sh/u/5111036) | 2405.47 | 14 |
-| 1723 | [vickdude](https://osu.ppy.sh/u/3006693) | 2405.26 | 17 |
-| 1724 | [breathrow](https://osu.ppy.sh/u/7302447) | 2405.12 | 18 |
-| 1725 | [Pittigbaasje](https://osu.ppy.sh/u/2167433) | 2400.71 | 8 |
-| 1726 | [Dendei](https://osu.ppy.sh/u/2368367) | 2396.66 | 9 |
-| 1727 | [Azerak](https://osu.ppy.sh/u/4730392) | 2396.25 | 11 |
-| 1728 | [Daqi](https://osu.ppy.sh/u/3899112) | 2395.68 | 13 |
-| 1729 | [AntoN](https://osu.ppy.sh/u/2538562) | 2394.64 | 9 |
-| 1730 | [Iris Makina](https://osu.ppy.sh/u/575596) | 2394.46 | 20 |
-| 1731 | [Kaoura](https://osu.ppy.sh/u/5831631) | 2393.65 | 16 |
-| 1732 | [K_N](https://osu.ppy.sh/u/3158922) | 2393.01 | 10 |
-| 1733 | [Pato](https://osu.ppy.sh/u/3860604) | 2392.19 | 12 |
-| 1734 | [Leaf](https://osu.ppy.sh/u/1380419) | 2390.73 | 7 |
-| 1735 | [ShuFunG-](https://osu.ppy.sh/u/7785421) | 2389.95 | 12 |
-| 1736 | [suchy1k2w](https://osu.ppy.sh/u/2403847) | 2389.88 | 15 |
-| 1737 | [hayami](https://osu.ppy.sh/u/5599541) | 2385.47 | 14 |
-| 1738 | [Mafham](https://osu.ppy.sh/u/3660531) | 2384.96 | 9 |
-| 1739 | [YukiNeko](https://osu.ppy.sh/u/889331) | 2383.64 | 12 |
-| 1740 | [[Trinity]](https://osu.ppy.sh/u/1867571) | 2383.57 | 10 |
-| 1741 | [doctorindark](https://osu.ppy.sh/u/609227) | 2382.91 | 12 |
-| 1742 | [_Iris_Heart_](https://osu.ppy.sh/u/4799031) | 2382.76 | 14 |
-| 1743 | [LeMainManCarfan](https://osu.ppy.sh/u/4050895) | 2381.27 | 14 |
-| 1744 | [KniVe](https://osu.ppy.sh/u/5905835) | 2379.16 | 12 |
-| 1745 | [Aken-](https://osu.ppy.sh/u/1578073) | 2378.83 | 13 |
-| 1746 | [Shiny Gardevoir](https://osu.ppy.sh/u/4360718) | 2378.75 | 10 |
-| 1747 | [Satonaka](https://osu.ppy.sh/u/767009) | 2377.93 | 15 |
-| 1748 | [Stoof](https://osu.ppy.sh/u/4916057) | 2377.15 | 8 |
-| 1749 | [- Y u K a R i -](https://osu.ppy.sh/u/4548637) | 2376.93 | 14 |
-| 1750 | [Tjolahop](https://osu.ppy.sh/u/2288174) | 2375.27 | 19 |
-| 1751 | [QbaDoo](https://osu.ppy.sh/u/2395405) | 2375.18 | 12 |
-| 1752 | [sonicyellow](https://osu.ppy.sh/u/1240962) | 2374.69 | 13 |
-| 1753 | [LarssenArnaldo](https://osu.ppy.sh/u/5784075) | 2374.20 | 10 |
-| 1754 | [-jei-](https://osu.ppy.sh/u/2971822) | 2374.00 | 13 |
-| 1755 | [-JoKer](https://osu.ppy.sh/u/3647931) | 2372.97 | 13 |
-| 1756 | [JaaiMiTo](https://osu.ppy.sh/u/317242) | 2367.37 | 18 |
-| 1757 | [Vyshus](https://osu.ppy.sh/u/7812798) | 2366.58 | 16 |
-| 1758 | [Tger201](https://osu.ppy.sh/u/4182969) | 2366.49 | 12 |
-| 1759 | [dracrosinos](https://osu.ppy.sh/u/2470818) | 2365.83 | 14 |
-| 1760 | [HineX](https://osu.ppy.sh/u/13854) | 2365.58 | 11 |
-| 1761 | [Snow still](https://osu.ppy.sh/u/2709233) | 2365.09 | 11 |
-| 1762 | [Noomn](https://osu.ppy.sh/u/4698603) | 2364.55 | 13 |
-| 1763 | [Hey lululu](https://osu.ppy.sh/u/4086497) | 2363.88 | 13 |
-| 1764 | [synergy_shade](https://osu.ppy.sh/u/5895047) | 2362.80 | 11 |
-| 1765 | [WhyareyousoDiao](https://osu.ppy.sh/u/3205984) | 2361.61 | 15 |
-| 1766 | [Lolzored](https://osu.ppy.sh/u/3115903) | 2359.19 | 15 |
-| 1767 | [sengoku380](https://osu.ppy.sh/u/565719) | 2354.54 | 16 |
-| 1768 | [Skiddly](https://osu.ppy.sh/u/4116244) | 2353.80 | 15 |
-| 1769 | [flat1k](https://osu.ppy.sh/u/2511321) | 2352.08 | 16 |
-| 1770 | [Arkaia](https://osu.ppy.sh/u/2659461) | 2350.26 | 18 |
-| 1771 | [Gizu-](https://osu.ppy.sh/u/3504715) | 2350.12 | 12 |
-| 1772 | [Jugment](https://osu.ppy.sh/u/3727686) | 2346.05 | 11 |
-| 1773 | [xNate](https://osu.ppy.sh/u/6893425) | 2343.99 | 14 |
-| 1774 | [aaah400](https://osu.ppy.sh/u/2818278) | 2343.31 | 20 |
-| 1775 | [Lotragon](https://osu.ppy.sh/u/6063342) | 2341.33 | 12 |
-| 1776 | [deyo](https://osu.ppy.sh/u/654296) | 2341.09 | 10 |
-| 1777 | [Poppahns](https://osu.ppy.sh/u/4269368) | 2339.63 | 13 |
-| 1778 | [Syoru](https://osu.ppy.sh/u/3508414) | 2339.58 | 11 |
-| 1779 | [Zerophyne](https://osu.ppy.sh/u/3758072) | 2334.58 | 12 |
-| 1780 | [Vorsatz](https://osu.ppy.sh/u/3654630) | 2331.01 | 11 |
-| 1781 | [Sungmo](https://osu.ppy.sh/u/1193823) | 2330.42 | 11 |
-| 1782 | [TheForgiven](https://osu.ppy.sh/u/3402318) | 2326.70 | 13 |
-| 1783 | [Gimows](https://osu.ppy.sh/u/3462910) | 2324.24 | 13 |
-| 1784 | [Madou Zakura](https://osu.ppy.sh/u/2708009) | 2323.77 | 12 |
-| 1785 | [WeanNeuer](https://osu.ppy.sh/u/4655584) | 2322.11 | 10 |
-| 1786 | [Tmkk](https://osu.ppy.sh/u/2304675) | 2321.89 | 15 |
-| 1787 | [Luniel](https://osu.ppy.sh/u/1922849) | 2320.61 | 13 |
-| 1788 | [GaryRock123](https://osu.ppy.sh/u/519474) | 2319.90 | 16 |
-| 1789 | [The Hope](https://osu.ppy.sh/u/4282087) | 2319.43 | 10 |
-| 1790 | [follon](https://osu.ppy.sh/u/3973474) | 2319.25 | 8 |
-| 1791 | [shmily1019](https://osu.ppy.sh/u/1468903) | 2316.36 | 12 |
-| 1792 | [sbsonic](https://osu.ppy.sh/u/7716455) | 2316.31 | 12 |
-| 1793 | [Deyv](https://osu.ppy.sh/u/4063127) | 2315.15 | 11 |
-| 1794 | [omnu](https://osu.ppy.sh/u/4547370) | 2313.73 | 14 |
-| 1795 | [Dalis](https://osu.ppy.sh/u/2253815) | 2313.66 | 8 |
-| 1796 | [Raydric](https://osu.ppy.sh/u/648462) | 2313.22 | 9 |
-| 1797 | [- Remi -](https://osu.ppy.sh/u/4122683) | 2312.83 | 12 |
-| 1798 | [Y o u Y o u](https://osu.ppy.sh/u/3863328) | 2311.67 | 9 |
-| 1799 | [KittyForz](https://osu.ppy.sh/u/7304580) | 2309.90 | 13 |
-| 1800 | [Neko God](https://osu.ppy.sh/u/3870749) | 2309.52 | 10 |
-| 1801 | [Cloz1k](https://osu.ppy.sh/u/4548264) | 2308.69 | 11 |
-| 1802 | [Weyland](https://osu.ppy.sh/u/1794083) | 2308.14 | 12 |
-| 1803 | [Glacial](https://osu.ppy.sh/u/3181548) | 2306.63 | 10 |
-| 1804 | [ClystaL-](https://osu.ppy.sh/u/4467080) | 2306.10 | 9 |
-| 1805 | [Trayle](https://osu.ppy.sh/u/4430642) | 2305.29 | 14 |
-| 1806 | [Gyuunyu](https://osu.ppy.sh/u/799102) | 2303.26 | 10 |
-| 1807 | [lazyines](https://osu.ppy.sh/u/5339311) | 2298.88 | 15 |
-| 1808 | [Crouly](https://osu.ppy.sh/u/4587375) | 2298.20 | 13 |
-| 1809 | [Burgersen](https://osu.ppy.sh/u/3022354) | 2296.53 | 18 |
-| 1810 | [G3k0771](https://osu.ppy.sh/u/4632259) | 2295.65 | 11 |
-| 1811 | [quattro cani](https://osu.ppy.sh/u/2154153) | 2294.73 | 9 |
-| 1812 | [[KOR]Rem](https://osu.ppy.sh/u/5538115) | 2288.79 | 9 |
-| 1813 | [mukachu](https://osu.ppy.sh/u/930825) | 2286.97 | 11 |
-| 1814 | [rooodi](https://osu.ppy.sh/u/2363401) | 2285.15 | 11 |
-| 1815 | [Borealisnow](https://osu.ppy.sh/u/2930084) | 2284.03 | 17 |
-| 1816 | [Kenchocow](https://osu.ppy.sh/u/3569225) | 2283.23 | 12 |
-| 1817 | [megamaid](https://osu.ppy.sh/u/3214959) | 2281.35 | 15 |
-| 1818 | [gith](https://osu.ppy.sh/u/1583060) | 2280.15 | 13 |
-| 1819 | [VileFury](https://osu.ppy.sh/u/2745099) | 2279.62 | 11 |
-| 1820 | [Aireu](https://osu.ppy.sh/u/1650010) | 2279.49 | 7 |
-| 1821 | [Ether](https://osu.ppy.sh/u/636615) | 2279.12 | 18 |
-| 1822 | [kouyou](https://osu.ppy.sh/u/1000411) | 2278.52 | 13 |
-| 1823 | [Lolparty](https://osu.ppy.sh/u/3820315) | 2276.07 | 12 |
-| 1824 | [Brig](https://osu.ppy.sh/u/948553) | 2275.14 | 16 |
-| 1825 | [anchobi](https://osu.ppy.sh/u/592034) | 2274.07 | 10 |
-| 1826 | [Magicmanx](https://osu.ppy.sh/u/2183182) | 2272.71 | 10 |
-| 1827 | [Shan-nyan](https://osu.ppy.sh/u/2944014) | 2270.85 | 10 |
-| 1828 | [Agozz](https://osu.ppy.sh/u/3052776) | 2267.78 | 10 |
-| 1829 | [D A N G O N](https://osu.ppy.sh/u/1845375) | 2267.03 | 13 |
-| 1830 | [[ Erina ]](https://osu.ppy.sh/u/1040250) | 2266.52 | 10 |
-| 1831 | [L A P I S](https://osu.ppy.sh/u/1663328) | 2266.14 | 11 |
-| 1832 | [quickiez](https://osu.ppy.sh/u/2789037) | 2265.98 | 13 |
-| 1833 | [minozourruz](https://osu.ppy.sh/u/1474935) | 2262.96 | 12 |
-| 1834 | [Redmoss](https://osu.ppy.sh/u/3364526) | 2260.00 | 12 |
-| 1835 | [Paladin1us](https://osu.ppy.sh/u/2714158) | 2258.00 | 11 |
-| 1836 | [LeQuack](https://osu.ppy.sh/u/7121588) | 2257.39 | 16 |
-| 1837 | [ShAvi](https://osu.ppy.sh/u/572948) | 2254.34 | 11 |
-| 1838 | [jhonddr](https://osu.ppy.sh/u/454182) | 2252.42 | 14 |
-| 1839 | [[ Taco ]](https://osu.ppy.sh/u/6078862) | 2251.49 | 13 |
-| 1840 | [Taeyang](https://osu.ppy.sh/u/2732340) | 2251.23 | 11 |
-| 1841 | [Snorlaax](https://osu.ppy.sh/u/3820683) | 2251.21 | 9 |
-| 1842 | [reborn503](https://osu.ppy.sh/u/2495528) | 2250.98 | 10 |
-| 1843 | [Lucipur](https://osu.ppy.sh/u/5295576) | 2249.82 | 15 |
-| 1844 | [My Angel Kaoura](https://osu.ppy.sh/u/456788) | 2248.89 | 8 |
-| 1845 | [-Konpaku-](https://osu.ppy.sh/u/2258797) | 2248.42 | 7 |
-| 1846 | [Riku-Desu](https://osu.ppy.sh/u/5192400) | 2242.48 | 14 |
-| 1847 | [Emperium](https://osu.ppy.sh/u/6670974) | 2241.65 | 15 |
-| 1848 | [Isabella](https://osu.ppy.sh/u/3782115) | 2240.83 | 13 |
-| 1849 | [aerith1025](https://osu.ppy.sh/u/1293069) | 2240.77 | 13 |
-| 1850 | [Suzumiya-H](https://osu.ppy.sh/u/693917) | 2240.07 | 13 |
-| 1851 | [-Ray](https://osu.ppy.sh/u/3395214) | 2231.94 | 11 |
-| 1852 | [sitaso](https://osu.ppy.sh/u/1424687) | 2230.35 | 14 |
-| 1853 | [Toph](https://osu.ppy.sh/u/2296458) | 2229.79 | 17 |
-| 1854 | [Yes Gay](https://osu.ppy.sh/u/4690120) | 2228.88 | 10 |
-| 1855 | [NoiiZeDesignS](https://osu.ppy.sh/u/4386188) | 2227.77 | 11 |
-| 1856 | [Micro](https://osu.ppy.sh/u/4801080) | 2225.40 | 15 |
-| 1857 | [Redd -](https://osu.ppy.sh/u/3931582) | 2223.26 | 13 |
-| 1858 | [Chadi](https://osu.ppy.sh/u/4651050) | 2221.79 | 14 |
-| 1859 | [ExSpringWind](https://osu.ppy.sh/u/2805775) | 2217.95 | 16 |
-| 1860 | [DrayZess](https://osu.ppy.sh/u/2329891) | 2215.06 | 9 |
-| 1861 | [lynyrd47](https://osu.ppy.sh/u/6939649) | 2214.93 | 13 |
-| 1862 | [I am Aim Spook](https://osu.ppy.sh/u/3493249) | 2210.01 | 15 |
-| 1863 | [-Fusein-](https://osu.ppy.sh/u/3789701) | 2209.44 | 12 |
-| 1864 | [Jok3r](https://osu.ppy.sh/u/1521035) | 2207.66 | 10 |
-| 1865 | [KafuuChino](https://osu.ppy.sh/u/427355) | 2203.21 | 9 |
-| 1866 | [Mei misakii](https://osu.ppy.sh/u/4365151) | 2199.63 | 10 |
-| 1867 | [[Danny-senpai]](https://osu.ppy.sh/u/4263153) | 2199.04 | 11 |
-| 1868 | [dabovo](https://osu.ppy.sh/u/3522753) | 2198.83 | 9 |
-| 1869 | [RagingSmile](https://osu.ppy.sh/u/5150811) | 2195.51 | 13 |
-| 1870 | [bobkobab](https://osu.ppy.sh/u/4626579) | 2193.70 | 15 |
-| 1871 | [Shieq](https://osu.ppy.sh/u/1562705) | 2193.49 | 15 |
-| 1872 | [YuziRussianHax](https://osu.ppy.sh/u/1562137) | 2191.39 | 11 |
-| 1873 | [Maivo](https://osu.ppy.sh/u/4403287) | 2191.28 | 11 |
-| 1874 | [Michi](https://osu.ppy.sh/u/932342) | 2188.69 | 10 |
-| 1875 | [Humbergas](https://osu.ppy.sh/u/3609276) | 2187.29 | 13 |
-| 1876 | [SirChronus](https://osu.ppy.sh/u/3938593) | 2186.70 | 14 |
-| 1877 | [Tosino Kyoko](https://osu.ppy.sh/u/4224060) | 2185.80 | 7 |
-| 1878 | [-Kupo-](https://osu.ppy.sh/u/4343103) | 2185.47 | 8 |
-| 1879 | [Shinoa](https://osu.ppy.sh/u/5077157) | 2185.33 | 9 |
-| 1880 | [Summer](https://osu.ppy.sh/u/3301656) | 2183.64 | 9 |
-| 1881 | [-MapleLeaf-](https://osu.ppy.sh/u/7488955) | 2181.69 | 8 |
-| 1882 | [Benpoi](https://osu.ppy.sh/u/4361380) | 2179.87 | 14 |
-| 1883 | [aleho8](https://osu.ppy.sh/u/6127312) | 2179.02 | 7 |
-| 1884 | [[ -Ichor- ]](https://osu.ppy.sh/u/4751678) | 2177.33 | 11 |
-| 1885 | [Sakuradesu](https://osu.ppy.sh/u/4179800) | 2177.11 | 10 |
-| 1886 | [Raidex](https://osu.ppy.sh/u/2244606) | 2176.76 | 10 |
-| 1887 | [Hakuma](https://osu.ppy.sh/u/5394550) | 2174.51 | 14 |
-| 1888 | [-Rookie-](https://osu.ppy.sh/u/3292377) | 2174.33 | 13 |
-| 1889 | [wojciooo](https://osu.ppy.sh/u/2924415) | 2173.27 | 10 |
-| 1890 | [- BLiTz -](https://osu.ppy.sh/u/2921265) | 2170.45 | 9 |
-| 1891 | [Littleboy40](https://osu.ppy.sh/u/4396915) | 2170.10 | 12 |
-| 1892 | [Ponyawka](https://osu.ppy.sh/u/4082445) | 2168.76 | 10 |
-| 1893 | [Pretonom](https://osu.ppy.sh/u/2210201) | 2168.42 | 10 |
-| 1894 | [- Angel Dust -](https://osu.ppy.sh/u/1122052) | 2166.23 | 7 |
-| 1895 | [Vexisu](https://osu.ppy.sh/u/5170627) | 2165.08 | 11 |
-| 1896 | [Rakyero](https://osu.ppy.sh/u/137441) | 2163.02 | 9 |
-| 1897 | [[ Mocha ]](https://osu.ppy.sh/u/3812331) | 2161.74 | 16 |
-| 1898 | [jaijhon](https://osu.ppy.sh/u/5317775) | 2161.43 | 16 |
-| 1899 | [Cactuar](https://osu.ppy.sh/u/3434885) | 2159.79 | 12 |
-| 1900 | [Kenzo](https://osu.ppy.sh/u/4222488) | 2158.39 | 13 |
-| 1901 | [Sublime](https://osu.ppy.sh/u/5190362) | 2154.92 | 14 |
-| 1902 | [DarK-AnGeL](https://osu.ppy.sh/u/2044501) | 2154.60 | 12 |
-| 1903 | [[- S o r a -]](https://osu.ppy.sh/u/1756301) | 2154.43 | 16 |
-| 1904 | [Eminence](https://osu.ppy.sh/u/3172380) | 2153.01 | 16 |
-| 1905 | [- s t e n-](https://osu.ppy.sh/u/4623347) | 2151.55 | 8 |
-| 1906 | [MomoXv](https://osu.ppy.sh/u/1207955) | 2151.40 | 11 |
-| 1907 | [nep](https://osu.ppy.sh/u/3023072) | 2150.28 | 12 |
-| 1908 | [Gunnar](https://osu.ppy.sh/u/2169104) | 2147.60 | 13 |
-| 1909 | [glodzio10](https://osu.ppy.sh/u/3043301) | 2147.39 | 10 |
-| 1910 | [Astana](https://osu.ppy.sh/u/4170037) | 2147.09 | 7 |
-| 1911 | [Wodahshian](https://osu.ppy.sh/u/2304449) | 2146.03 | 11 |
-| 1912 | [YukiBot](https://osu.ppy.sh/u/4198930) | 2145.04 | 14 |
-| 1913 | [Rinna](https://osu.ppy.sh/u/4144093) | 2144.61 | 13 |
-| 1914 | [Eileyn](https://osu.ppy.sh/u/4607327) | 2142.67 | 8 |
-| 1915 | [Zeciarz](https://osu.ppy.sh/u/5913551) | 2142.05 | 14 |
-| 1916 | [Yurii](https://osu.ppy.sh/u/2023601) | 2141.53 | 12 |
-| 1917 | [dudey7ftw](https://osu.ppy.sh/u/4620465) | 2140.25 | 8 |
-| 1918 | [Silleth](https://osu.ppy.sh/u/408088) | 2139.95 | 8 |
-| 1919 | [Hvick711](https://osu.ppy.sh/u/4702209) | 2138.11 | 11 |
-| 1920 | [soap](https://osu.ppy.sh/u/3786813) | 2137.68 | 11 |
-| 1921 | [[ Emillia ]](https://osu.ppy.sh/u/2003326) | 2136.87 | 6 |
-| 1922 | [LiB](https://osu.ppy.sh/u/1810964) | 2136.65 | 12 |
-| 1923 | [Axarious](https://osu.ppy.sh/u/2614511) | 2135.94 | 6 |
-| 1924 | [Fixrnator](https://osu.ppy.sh/u/2762603) | 2135.50 | 10 |
-| 1925 | [moyamoyano_sa](https://osu.ppy.sh/u/3891439) | 2135.27 | 12 |
-| 1926 | [Snase](https://osu.ppy.sh/u/4258410) | 2130.78 | 9 |
-| 1927 | [BiG_ChilD](https://osu.ppy.sh/u/596196) | 2129.56 | 12 |
-| 1928 | [Yuii](https://osu.ppy.sh/u/3468063) | 2125.84 | 13 |
-| 1929 | [Qcks](https://osu.ppy.sh/u/2379893) | 2120.79 | 10 |
-| 1930 | [Shika](https://osu.ppy.sh/u/5295283) | 2120.49 | 10 |
-| 1931 | [_windex](https://osu.ppy.sh/u/7107711) | 2116.12 | 15 |
-| 1932 | [AirProject](https://osu.ppy.sh/u/3350639) | 2115.81 | 12 |
-| 1933 | [JesterTLJ](https://osu.ppy.sh/u/3747845) | 2115.17 | 12 |
-| 1934 | [karott90](https://osu.ppy.sh/u/6200807) | 2113.14 | 11 |
-| 1935 | [Megatron](https://osu.ppy.sh/u/3639090) | 2113.08 | 12 |
-| 1936 | [Kiiwa](https://osu.ppy.sh/u/231111) | 2110.47 | 13 |
-| 1937 | [SakiZ](https://osu.ppy.sh/u/4347191) | 2107.91 | 10 |
-| 1938 | [Atsuhito](https://osu.ppy.sh/u/2583912) | 2105.22 | 10 |
-| 1939 | [DualAkira](https://osu.ppy.sh/u/5220933) | 2103.80 | 8 |
-| 1940 | [Coyri](https://osu.ppy.sh/u/6353097) | 2100.67 | 8 |
-| 1941 | [vellya](https://osu.ppy.sh/u/5549697) | 2100.34 | 9 |
-| 1942 | [Sey-](https://osu.ppy.sh/u/5191255) | 2099.84 | 11 |
-| 1943 | [Eldinox](https://osu.ppy.sh/u/3219580) | 2098.47 | 14 |
-| 1944 | [Sorega](https://osu.ppy.sh/u/2582632) | 2098.07 | 10 |
-| 1945 | [Bawpalo](https://osu.ppy.sh/u/3113135) | 2097.52 | 10 |
-| 1946 | [mookss1231](https://osu.ppy.sh/u/1483371) | 2096.30 | 9 |
-| 1947 | [z0mbir](https://osu.ppy.sh/u/4939107) | 2092.89 | 11 |
-| 1948 | [Scisly](https://osu.ppy.sh/u/2116476) | 2091.47 | 14 |
-| 1949 | [WagnerWarrior](https://osu.ppy.sh/u/4149140) | 2090.76 | 11 |
-| 1950 | [Shott](https://osu.ppy.sh/u/965354) | 2089.98 | 8 |
-| 1951 | [_zepH](https://osu.ppy.sh/u/2847332) | 2087.82 | 12 |
-| 1952 | [Azure Desu](https://osu.ppy.sh/u/4294599) | 2087.77 | 12 |
-| 1953 | [Ninfia](https://osu.ppy.sh/u/4215672) | 2087.62 | 10 |
-| 1954 | [VeNTo9071](https://osu.ppy.sh/u/4796794) | 2084.81 | 11 |
-| 1955 | [Darmyster](https://osu.ppy.sh/u/4739165) | 2084.38 | 14 |
-| 1956 | [Sinch](https://osu.ppy.sh/u/360552) | 2083.75 | 7 |
-| 1957 | [georgewday](https://osu.ppy.sh/u/4244200) | 2082.48 | 14 |
-| 1958 | [space potato](https://osu.ppy.sh/u/6545407) | 2080.70 | 12 |
-| 1959 | [Hexii](https://osu.ppy.sh/u/1066242) | 2080.61 | 10 |
-| 1960 | [Meiph](https://osu.ppy.sh/u/2367544) | 2080.06 | 8 |
-| 1961 | [xtend](https://osu.ppy.sh/u/1794903) | 2077.84 | 8 |
-| 1962 | [jvt](https://osu.ppy.sh/u/6884370) | 2077.21 | 10 |
-| 1963 | [Sknight](https://osu.ppy.sh/u/1465386) | 2076.86 | 9 |
-| 1964 | [Synxx3](https://osu.ppy.sh/u/3290322) | 2076.64 | 13 |
-| 1965 | [Enns](https://osu.ppy.sh/u/6375834) | 2075.40 | 7 |
-| 1966 | [Poly](https://osu.ppy.sh/u/1917071) | 2071.56 | 13 |
-| 1967 | [-Kaos](https://osu.ppy.sh/u/2511295) | 2071.21 | 9 |
-| 1968 | [raycoN](https://osu.ppy.sh/u/2971468) | 2071.13 | 8 |
-| 1969 | [waterandroid](https://osu.ppy.sh/u/4239101) | 2070.09 | 13 |
-| 1970 | [mrzomb](https://osu.ppy.sh/u/1694887) | 2068.65 | 8 |
-| 1971 | [www](https://osu.ppy.sh/u/1240512) | 2067.87 | 12 |
-| 1972 | [[Kiri]](https://osu.ppy.sh/u/4365973) | 2067.77 | 11 |
-| 1973 | [Basiria](https://osu.ppy.sh/u/1412234) | 2066.07 | 13 |
-| 1974 | [seris](https://osu.ppy.sh/u/1907689) | 2065.36 | 14 |
-| 1975 | [gu0910](https://osu.ppy.sh/u/7915070) | 2064.85 | 10 |
-| 1976 | [Muuki](https://osu.ppy.sh/u/2482261) | 2064.50 | 9 |
-| 1977 | [Melty](https://osu.ppy.sh/u/956741) | 2062.07 | 13 |
-| 1978 | [Gun-_-](https://osu.ppy.sh/u/2695890) | 2062.06 | 11 |
-| 1979 | [MeSuck](https://osu.ppy.sh/u/2803956) | 2059.64 | 9 |
-| 1980 | [Incera](https://osu.ppy.sh/u/2159415) | 2058.62 | 9 |
-| 1981 | [ntnt](https://osu.ppy.sh/u/3236948) | 2058.53 | 12 |
-| 1982 | [CaptainAug](https://osu.ppy.sh/u/4395111) | 2057.57 | 15 |
-| 1983 | [SeGin](https://osu.ppy.sh/u/2449894) | 2057.49 | 9 |
-| 1984 | [lespi6](https://osu.ppy.sh/u/4595465) | 2056.73 | 15 |
-| 1985 | [HolyMoly123123](https://osu.ppy.sh/u/4124538) | 2056.61 | 17 |
-| 1986 | [MiniGame](https://osu.ppy.sh/u/1136426) | 2056.13 | 13 |
-| 1987 | [UDQN](https://osu.ppy.sh/u/2547953) | 2055.19 | 8 |
-| 1988 | [AvPXx](https://osu.ppy.sh/u/4647831) | 2053.27 | 11 |
-| 1989 | [ifailedatlife](https://osu.ppy.sh/u/6331918) | 2052.52 | 9 |
-| 1990 | [NaCoIa](https://osu.ppy.sh/u/1701610) | 2051.04 | 10 |
-| 1991 | [Mathyu](https://osu.ppy.sh/u/6303313) | 2049.75 | 10 |
-| 1992 | [zaqlev](https://osu.ppy.sh/u/3188703) | 2049.59 | 12 |
-| 1993 | [236Dennis](https://osu.ppy.sh/u/663552) | 2044.71 | 15 |
-| 1994 | [appleeaterx](https://osu.ppy.sh/u/2407160) | 2043.96 | 10 |
-| 1995 | [Voyen](https://osu.ppy.sh/u/2920725) | 2041.71 | 12 |
-| 1996 | [96013M88](https://osu.ppy.sh/u/7095800) | 2041.47 | 11 |
-| 1997 | [IceYoshi](https://osu.ppy.sh/u/1021715) | 2038.95 | 12 |
-| 1998 | [epocsodielaK](https://osu.ppy.sh/u/1480755) | 2038.52 | 12 |
-| 1999 | [HueFlakes](https://osu.ppy.sh/u/4339086) | 2034.60 | 8 |
-| 2000 | [Woffel](https://osu.ppy.sh/u/3915122) | 2033.81 | 6 |
-| 2001 | [SaD](https://osu.ppy.sh/u/1274825) | 2033.05 | 9 |
-| 2002 | [semisen4397](https://osu.ppy.sh/u/4218146) | 2030.30 | 13 |
-| 2003 | [Cuneyt Arkin](https://osu.ppy.sh/u/4864962) | 2029.13 | 11 |
-| 2004 | [- Y A M I K O -](https://osu.ppy.sh/u/3106564) | 2028.90 | 11 |
-| 2005 | [darklord142](https://osu.ppy.sh/u/2714540) | 2028.15 | 11 |
-| 2006 | [Pain](https://osu.ppy.sh/u/1460263) | 2027.94 | 8 |
-| 2007 | [Low Low](https://osu.ppy.sh/u/4333630) | 2024.75 | 10 |
-| 2008 | [FANTAstic](https://osu.ppy.sh/u/4546036) | 2023.81 | 8 |
-| 2009 | [yuzu](https://osu.ppy.sh/u/3511138) | 2023.58 | 8 |
-| 2010 | [juanpitox87](https://osu.ppy.sh/u/4994103) | 2023.45 | 10 |
-| 2011 | [RIPPO](https://osu.ppy.sh/u/1230246) | 2020.88 | 15 |
-| 2012 | [Sakuzyo](https://osu.ppy.sh/u/2509328) | 2020.53 | 11 |
-| 2013 | [lolwuts](https://osu.ppy.sh/u/6138966) | 2019.38 | 14 |
-| 2014 | [jitsumin](https://osu.ppy.sh/u/2621843) | 2018.46 | 9 |
-| 2015 | [JFRN](https://osu.ppy.sh/u/877082) | 2017.68 | 11 |
-| 2016 | [Malisa](https://osu.ppy.sh/u/635151) | 2014.37 | 12 |
-| 2017 | [Snookie](https://osu.ppy.sh/u/1484934) | 2013.75 | 14 |
-| 2018 | [Misraphin](https://osu.ppy.sh/u/2132302) | 2009.87 | 14 |
-| 2019 | [Uta - chan](https://osu.ppy.sh/u/4600838) | 2009.19 | 9 |
-| 2020 | [Foxxo](https://osu.ppy.sh/u/5206423) | 2008.76 | 11 |
-| 2021 | [darken1](https://osu.ppy.sh/u/2940158) | 2006.71 | 12 |
-| 2022 | [dsvd](https://osu.ppy.sh/u/6369513) | 2005.77 | 12 |
-| 2023 | [SmiLe999](https://osu.ppy.sh/u/267776) | 2003.67 | 10 |
-| 2024 | [PandaCattle](https://osu.ppy.sh/u/6703655) | 2003.27 | 10 |
-| 2025 | [Kuon](https://osu.ppy.sh/u/4325822) | 2003.18 | 10 |
-| 2026 | [meibiskyper](https://osu.ppy.sh/u/1502243) | 2002.93 | 10 |
-| 2027 | [-DjNemas-](https://osu.ppy.sh/u/3908797) | 2002.77 | 10 |
-| 2028 | [Blobby3000](https://osu.ppy.sh/u/6916774) | 2002.31 | 9 |
-| 2029 | [Yahari](https://osu.ppy.sh/u/3118489) | 2001.74 | 10 |
-| 2030 | [C l o p e n](https://osu.ppy.sh/u/1864698) | 2001.72 | 8 |
-| 2031 | [Houkago Stride](https://osu.ppy.sh/u/5708643) | 1999.90 | 7 |
-| 2032 | [_tsubasa_](https://osu.ppy.sh/u/1365316) | 1996.74 | 8 |
-| 2033 | [Stoney](https://osu.ppy.sh/u/4366565) | 1996.66 | 12 |
-| 2034 | [N a n o](https://osu.ppy.sh/u/694114) | 1995.19 | 8 |
-| 2035 | [Stift-chan](https://osu.ppy.sh/u/2696338) | 1994.94 | 10 |
-| 2036 | [AreYouAnime](https://osu.ppy.sh/u/4620294) | 1993.68 | 14 |
-| 2037 | [Yakisoba_Pan](https://osu.ppy.sh/u/3345902) | 1993.63 | 6 |
-| 2038 | [Nujaabes](https://osu.ppy.sh/u/5373624) | 1992.97 | 10 |
-| 2039 | [-PloX](https://osu.ppy.sh/u/6404583) | 1992.87 | 11 |
-| 2040 | [chak](https://osu.ppy.sh/u/1401004) | 1992.05 | 9 |
-| 2041 | [Millzo](https://osu.ppy.sh/u/4959541) | 1989.02 | 13 |
-| 2042 | [PotatoeSalad](https://osu.ppy.sh/u/3852076) | 1986.23 | 10 |
-| 2043 | [Niphora](https://osu.ppy.sh/u/6566312) | 1984.52 | 11 |
-| 2044 | [Jace](https://osu.ppy.sh/u/4394718) | 1983.98 | 7 |
-| 2045 | [LoGo](https://osu.ppy.sh/u/750382) | 1983.83 | 8 |
-| 2046 | [kaminogi](https://osu.ppy.sh/u/3987661) | 1983.47 | 8 |
-| 2047 | [serepa](https://osu.ppy.sh/u/3515347) | 1983.06 | 8 |
-| 2048 | [shigurin](https://osu.ppy.sh/u/1328523) | 1982.43 | 13 |
-| 2049 | [Ldd-D](https://osu.ppy.sh/u/1407094) | 1982.40 | 10 |
-| 2050 | [Fortuner](https://osu.ppy.sh/u/2036685) | 1980.97 | 9 |
-| 2051 | [Venyera](https://osu.ppy.sh/u/1477258) | 1977.80 | 7 |
-| 2052 | [Your Bae](https://osu.ppy.sh/u/4705559) | 1977.66 | 10 |
-| 2053 | [sunbob](https://osu.ppy.sh/u/4382428) | 1977.20 | 12 |
-| 2054 | [YKocome](https://osu.ppy.sh/u/5326467) | 1971.07 | 10 |
-| 2055 | [Destirox](https://osu.ppy.sh/u/3083976) | 1968.61 | 13 |
-| 2056 | [A Mystery](https://osu.ppy.sh/u/2558570) | 1963.59 | 12 |
-| 2057 | [GameBear](https://osu.ppy.sh/u/3277091) | 1961.86 | 10 |
-| 2058 | [Bladma](https://osu.ppy.sh/u/3493078) | 1959.26 | 9 |
-| 2059 | [Emula](https://osu.ppy.sh/u/2891792) | 1958.92 | 6 |
-| 2060 | [Hiyorin](https://osu.ppy.sh/u/493961) | 1957.86 | 10 |
-| 2061 | [RiasG](https://osu.ppy.sh/u/7386201) | 1956.41 | 11 |
-| 2062 | [Muzkan](https://osu.ppy.sh/u/3975143) | 1955.23 | 10 |
-| 2063 | [Not Tomori](https://osu.ppy.sh/u/2758279) | 1954.20 | 10 |
-| 2064 | [goma](https://osu.ppy.sh/u/1150349) | 1952.49 | 11 |
-| 2065 | [Domino](https://osu.ppy.sh/u/6104093) | 1952.32 | 9 |
-| 2066 | [KinakoN](https://osu.ppy.sh/u/4733185) | 1952.32 | 12 |
-| 2067 | [Grae](https://osu.ppy.sh/u/2950218) | 1949.64 | 13 |
-| 2068 | [MikaeL](https://osu.ppy.sh/u/3862192) | 1948.04 | 13 |
-| 2069 | [LongExistence](https://osu.ppy.sh/u/2380426) | 1947.39 | 11 |
-| 2070 | [Ana_Koppora](https://osu.ppy.sh/u/258104) | 1945.80 | 9 |
-| 2071 | [dokhakerok](https://osu.ppy.sh/u/6979693) | 1943.31 | 10 |
-| 2072 | [Dhaox](https://osu.ppy.sh/u/1778120) | 1942.80 | 10 |
-| 2073 | [Bakt Potet](https://osu.ppy.sh/u/5779181) | 1941.81 | 9 |
-| 2074 | [JinKuRa](https://osu.ppy.sh/u/2420777) | 1941.31 | 15 |
-| 2075 | [Black fires](https://osu.ppy.sh/u/2296938) | 1940.78 | 10 |
-| 2076 | [KingKitsaer](https://osu.ppy.sh/u/4252812) | 1939.92 | 9 |
-| 2077 | [Gonker](https://osu.ppy.sh/u/5575703) | 1934.33 | 13 |
-| 2078 | [[Custer]](https://osu.ppy.sh/u/7100967) | 1934.20 | 12 |
-| 2079 | [Dracu876](https://osu.ppy.sh/u/3441041) | 1933.42 | 13 |
-| 2080 | [Straszna Bzdura](https://osu.ppy.sh/u/1712900) | 1932.95 | 11 |
-| 2081 | [gtfo](https://osu.ppy.sh/u/2114760) | 1928.47 | 8 |
-| 2082 | [Kahoria](https://osu.ppy.sh/u/2473397) | 1928.04 | 8 |
-| 2083 | [Nyanaro](https://osu.ppy.sh/u/4157611) | 1927.79 | 11 |
-| 2084 | [wa_](https://osu.ppy.sh/u/1572001) | 1927.44 | 10 |
-| 2085 | [dastea1752](https://osu.ppy.sh/u/4359069) | 1925.58 | 9 |
-| 2086 | [kkk](https://osu.ppy.sh/u/4735736) | 1924.76 | 9 |
-| 2087 | [Hallfar](https://osu.ppy.sh/u/3012273) | 1924.40 | 12 |
-| 2088 | [Yukino Miko](https://osu.ppy.sh/u/2069974) | 1924.33 | 8 |
-| 2089 | [Bluecrow309](https://osu.ppy.sh/u/4375933) | 1922.97 | 10 |
-| 2090 | [408](https://osu.ppy.sh/u/2487447) | 1922.83 | 12 |
-| 2091 | [m a u](https://osu.ppy.sh/u/5241025) | 1922.73 | 12 |
-| 2092 | [Shakira](https://osu.ppy.sh/u/4493453) | 1922.63 | 8 |
-| 2093 | [pamiro](https://osu.ppy.sh/u/2095634) | 1920.13 | 9 |
-| 2094 | [-Akuro](https://osu.ppy.sh/u/5841333) | 1919.61 | 10 |
-| 2095 | [MalcoraX](https://osu.ppy.sh/u/1812692) | 1918.81 | 8 |
-| 2096 | [nacyaki](https://osu.ppy.sh/u/1640405) | 1918.26 | 14 |
-| 2097 | [In Vitro](https://osu.ppy.sh/u/4506671) | 1918.13 | 11 |
-| 2098 | [- Exstez -](https://osu.ppy.sh/u/7585910) | 1917.76 | 13 |
-| 2099 | [Icinose Rika](https://osu.ppy.sh/u/1144105) | 1917.33 | 9 |
-| 2100 | [Zenden](https://osu.ppy.sh/u/3070694) | 1917.31 | 9 |
-| 2101 | [Beniek](https://osu.ppy.sh/u/1649633) | 1917.06 | 12 |
-| 2102 | [TechnoTrance123](https://osu.ppy.sh/u/4903850) | 1916.95 | 9 |
-| 2103 | [God Bless You](https://osu.ppy.sh/u/5338466) | 1915.39 | 9 |
-| 2104 | [cptnXn](https://osu.ppy.sh/u/495272) | 1914.92 | 7 |
-| 2105 | [Xalen](https://osu.ppy.sh/u/4479549) | 1914.86 | 10 |
-| 2106 | [Lamina](https://osu.ppy.sh/u/2988018) | 1913.54 | 10 |
-| 2107 | [OneMissMan](https://osu.ppy.sh/u/7606060) | 1913.45 | 12 |
-| 2108 | [Cinia Atlantica](https://osu.ppy.sh/u/4045925) | 1913.17 | 11 |
-| 2109 | [GhostlyPresence](https://osu.ppy.sh/u/5028535) | 1913.01 | 10 |
-| 2110 | [TwentyOne](https://osu.ppy.sh/u/3379204) | 1912.55 | 16 |
-| 2111 | [KRZY](https://osu.ppy.sh/u/114017) | 1912.02 | 9 |
-| 2112 | [Qinec14](https://osu.ppy.sh/u/2308998) | 1911.38 | 8 |
-| 2113 | [Xeiiryuu](https://osu.ppy.sh/u/6043591) | 1910.54 | 10 |
-| 2114 | [ilift](https://osu.ppy.sh/u/4903239) | 1910.04 | 10 |
-| 2115 | [iHeartSnuSnu](https://osu.ppy.sh/u/4863687) | 1908.77 | 9 |
-| 2116 | [Metafase](https://osu.ppy.sh/u/4389419) | 1907.79 | 9 |
-| 2117 | [Trigonoculus](https://osu.ppy.sh/u/7627013) | 1904.29 | 9 |
-| 2118 | [Num](https://osu.ppy.sh/u/5198060) | 1902.57 | 7 |
-| 2119 | [NucleaRaven](https://osu.ppy.sh/u/6216919) | 1900.89 | 11 |
-| 2120 | [Nashiro-](https://osu.ppy.sh/u/5840679) | 1898.53 | 10 |
-| 2121 | [Apricot](https://osu.ppy.sh/u/438547) | 1895.83 | 9 |
-| 2122 | [Kana_M](https://osu.ppy.sh/u/742764) | 1895.11 | 16 |
-| 2123 | [Wrys](https://osu.ppy.sh/u/3093139) | 1894.82 | 10 |
-| 2124 | [kbwaaablya](https://osu.ppy.sh/u/6473092) | 1894.53 | 8 |
-| 2125 | [TheKoala](https://osu.ppy.sh/u/3906405) | 1894.17 | 7 |
-| 2126 | [jub](https://osu.ppy.sh/u/5538837) | 1889.42 | 9 |
-| 2127 | [Asymmetry Echo](https://osu.ppy.sh/u/4290324) | 1888.78 | 10 |
-| 2128 | [Asclepius](https://osu.ppy.sh/u/5803003) | 1888.47 | 14 |
-| 2129 | [AndreasHD](https://osu.ppy.sh/u/369956) | 1888.14 | 9 |
-| 2130 | [[- Nishi -]](https://osu.ppy.sh/u/3992582) | 1886.84 | 8 |
-| 2131 | [Dymond](https://osu.ppy.sh/u/7297416) | 1884.25 | 10 |
-| 2132 | [Old K](https://osu.ppy.sh/u/2385405) | 1884.22 | 9 |
-| 2133 | [Yuiteru](https://osu.ppy.sh/u/2197474) | 1883.52 | 7 |
-| 2134 | [koki6](https://osu.ppy.sh/u/1149010) | 1882.38 | 8 |
-| 2135 | [VRainbow](https://osu.ppy.sh/u/3635214) | 1882.32 | 11 |
-| 2136 | [TeeVee](https://osu.ppy.sh/u/2470887) | 1881.84 | 9 |
-| 2137 | [God GMN](https://osu.ppy.sh/u/5824193) | 1878.73 | 11 |
-| 2138 | [sAraShina](https://osu.ppy.sh/u/723565) | 1877.58 | 7 |
-| 2139 | [dcv](https://osu.ppy.sh/u/1511973) | 1877.50 | 8 |
-| 2140 | [hanari](https://osu.ppy.sh/u/443377) | 1876.30 | 9 |
-| 2141 | [Guliak](https://osu.ppy.sh/u/3922750) | 1876.19 | 11 |
-| 2142 | [Meepoex](https://osu.ppy.sh/u/4516675) | 1871.35 | 10 |
-| 2143 | [AR10](https://osu.ppy.sh/u/4483245) | 1870.23 | 8 |
-| 2144 | [novaaa](https://osu.ppy.sh/u/953405) | 1870.21 | 8 |
-| 2145 | [Area](https://osu.ppy.sh/u/4100604) | 1868.30 | 7 |
-| 2146 | [DeviLDarkness](https://osu.ppy.sh/u/8743598) | 1866.20 | 10 |
-| 2147 | [Kuzuryu Kyoma](https://osu.ppy.sh/u/1980539) | 1865.64 | 12 |
-| 2148 | [Laviria](https://osu.ppy.sh/u/2250232) | 1864.78 | 12 |
-| 2149 | [Club Sound](https://osu.ppy.sh/u/6131130) | 1863.49 | 9 |
-| 2150 | [-s h i n o-](https://osu.ppy.sh/u/2097082) | 1861.86 | 10 |
-| 2151 | [Liselsia](https://osu.ppy.sh/u/2641141) | 1861.70 | 8 |
-| 2152 | [rinrinB](https://osu.ppy.sh/u/1653277) | 1861.36 | 8 |
-| 2153 | [xsTiLt](https://osu.ppy.sh/u/4091717) | 1860.00 | 11 |
-| 2154 | [Tofas](https://osu.ppy.sh/u/2755584) | 1859.73 | 8 |
-| 2155 | [- Ninef -](https://osu.ppy.sh/u/2610325) | 1858.43 | 9 |
-| 2156 | [nO_Clu](https://osu.ppy.sh/u/4179446) | 1858.35 | 10 |
-| 2157 | [MY STORY](https://osu.ppy.sh/u/5137553) | 1857.52 | 10 |
-| 2158 | [Lucent Dragon](https://osu.ppy.sh/u/2934211) | 1857.36 | 9 |
-| 2159 | [DrunkMan](https://osu.ppy.sh/u/4138822) | 1856.34 | 9 |
-| 2160 | [Enomoto kotaro](https://osu.ppy.sh/u/5065549) | 1853.61 | 10 |
-| 2161 | [Izikz](https://osu.ppy.sh/u/5785515) | 1852.94 | 10 |
-| 2162 | [Niu](https://osu.ppy.sh/u/7297551) | 1851.73 | 15 |
-| 2163 | [MelodyP](https://osu.ppy.sh/u/4607215) | 1848.84 | 10 |
-| 2164 | [Slowest](https://osu.ppy.sh/u/5580057) | 1848.53 | 8 |
-| 2165 | [SonicShinobu](https://osu.ppy.sh/u/3457063) | 1846.89 | 9 |
-| 2166 | [Shleffles](https://osu.ppy.sh/u/6357349) | 1846.72 | 9 |
-| 2167 | [1miss shotgun](https://osu.ppy.sh/u/5144843) | 1846.67 | 8 |
-| 2168 | [Doomsday](https://osu.ppy.sh/u/18983) | 1844.96 | 5 |
-| 2169 | [awokeN-](https://osu.ppy.sh/u/1331641) | 1843.98 | 11 |
-| 2170 | [Failmasing](https://osu.ppy.sh/u/2444962) | 1843.20 | 10 |
-| 2171 | [LightCute](https://osu.ppy.sh/u/4312196) | 1837.49 | 12 |
-| 2172 | [Huna](https://osu.ppy.sh/u/7714873) | 1837.22 | 11 |
-| 2173 | [Lahael](https://osu.ppy.sh/u/3324693) | 1835.79 | 9 |
-| 2174 | [[- Siki -]](https://osu.ppy.sh/u/4462112) | 1835.54 | 11 |
-| 2175 | [Arcley](https://osu.ppy.sh/u/1916349) | 1829.40 | 9 |
-| 2176 | [Saping](https://osu.ppy.sh/u/877131) | 1828.01 | 9 |
-| 2177 | [Proviteus](https://osu.ppy.sh/u/4686342) | 1826.60 | 9 |
-| 2178 | [ikaNyai](https://osu.ppy.sh/u/7088526) | 1825.99 | 8 |
-| 2179 | [nycto](https://osu.ppy.sh/u/2867764) | 1824.51 | 6 |
-| 2180 | [Fuma_zenkum](https://osu.ppy.sh/u/1501956) | 1823.70 | 10 |
-| 2181 | [DEAD END](https://osu.ppy.sh/u/5590013) | 1822.39 | 10 |
-| 2182 | [My Not](https://osu.ppy.sh/u/1572405) | 1819.93 | 6 |
-| 2183 | [Akani](https://osu.ppy.sh/u/2323137) | 1819.62 | 7 |
-| 2184 | [MelwesT](https://osu.ppy.sh/u/2974417) | 1817.43 | 9 |
-| 2185 | [Lema](https://osu.ppy.sh/u/5622751) | 1816.67 | 10 |
-| 2186 | [Viveliam](https://osu.ppy.sh/u/3506793) | 1816.42 | 9 |
-| 2187 | [a_Blue](https://osu.ppy.sh/u/5645667) | 1814.87 | 10 |
-| 2188 | [Absoluto](https://osu.ppy.sh/u/4660202) | 1814.20 | 10 |
-| 2189 | [Eiikon](https://osu.ppy.sh/u/2553519) | 1813.40 | 8 |
-| 2190 | [Vanz](https://osu.ppy.sh/u/3452011) | 1812.73 | 10 |
-| 2191 | [Farengate](https://osu.ppy.sh/u/6278935) | 1812.38 | 12 |
-| 2192 | [- HideKi -](https://osu.ppy.sh/u/2892702) | 1812.10 | 10 |
-| 2193 | [Polo Master](https://osu.ppy.sh/u/3739240) | 1812.00 | 9 |
-| 2194 | [Snoo0w](https://osu.ppy.sh/u/3750926) | 1810.91 | 10 |
-| 2195 | [ksg](https://osu.ppy.sh/u/1234448) | 1810.10 | 10 |
-| 2196 | [Spooky Ougi](https://osu.ppy.sh/u/2658660) | 1810.01 | 7 |
-| 2197 | [-Shiro Yuki-](https://osu.ppy.sh/u/7048091) | 1806.41 | 9 |
-| 2198 | [talala](https://osu.ppy.sh/u/1389663) | 1805.49 | 5 |
-| 2199 | [Icsia](https://osu.ppy.sh/u/548250) | 1805.07 | 7 |
-| 2200 | [eliolias](https://osu.ppy.sh/u/4228408) | 1802.56 | 10 |
-| 2201 | [Kitiku](https://osu.ppy.sh/u/6585952) | 1801.64 | 9 |
-| 2202 | [- Akira Len -](https://osu.ppy.sh/u/1899986) | 1801.49 | 7 |
-| 2203 | [takeki3gou](https://osu.ppy.sh/u/447472) | 1800.86 | 8 |
-| 2204 | [tehbchoi](https://osu.ppy.sh/u/2237283) | 1800.57 | 9 |
-| 2205 | [hasukii](https://osu.ppy.sh/u/291295) | 1800.19 | 11 |
-| 2206 | [KnightWar](https://osu.ppy.sh/u/5560055) | 1799.41 | 13 |
-| 2207 | [Clueless Man](https://osu.ppy.sh/u/6924125) | 1796.49 | 8 |
-| 2208 | [_YuriNee](https://osu.ppy.sh/u/1794082) | 1795.53 | 6 |
-| 2209 | [4ikos](https://osu.ppy.sh/u/5211231) | 1795.45 | 8 |
-| 2210 | [Daffy](https://osu.ppy.sh/u/5968633) | 1793.45 | 7 |
-| 2211 | [Dekarian](https://osu.ppy.sh/u/3573973) | 1793.32 | 11 |
-| 2212 | [Siege](https://osu.ppy.sh/u/4402173) | 1792.78 | 13 |
-| 2213 | [Kyatami](https://osu.ppy.sh/u/7801022) | 1792.20 | 10 |
-| 2214 | [Moly](https://osu.ppy.sh/u/1843224) | 1791.06 | 7 |
-| 2215 | [Kyuri](https://osu.ppy.sh/u/4219058) | 1789.26 | 9 |
-| 2216 | [Shogud](https://osu.ppy.sh/u/4505479) | 1787.42 | 10 |
-| 2217 | [Van3x](https://osu.ppy.sh/u/1105135) | 1787.32 | 8 |
-| 2218 | [roo](https://osu.ppy.sh/u/6845521) | 1786.95 | 9 |
-| 2219 | [Muukeh](https://osu.ppy.sh/u/3577226) | 1785.35 | 8 |
-| 2220 | [Myfs](https://osu.ppy.sh/u/2694889) | 1782.90 | 10 |
-| 2221 | [spark_sk](https://osu.ppy.sh/u/615088) | 1780.61 | 10 |
-| 2222 | [Aki Misato](https://osu.ppy.sh/u/2617563) | 1779.32 | 9 |
-| 2223 | [blyat](https://osu.ppy.sh/u/2691391) | 1779.17 | 10 |
-| 2224 | [Rare](https://osu.ppy.sh/u/445907) | 1776.39 | 12 |
-| 2225 | [deniska6364](https://osu.ppy.sh/u/534818) | 1775.82 | 7 |
-| 2226 | [Kalamitous](https://osu.ppy.sh/u/6124671) | 1775.22 | 9 |
-| 2227 | [[D a f o n z]](https://osu.ppy.sh/u/6667041) | 1775.18 | 8 |
-| 2228 | [Mikagura Seisa](https://osu.ppy.sh/u/1990956) | 1772.36 | 8 |
-| 2229 | [huezil](https://osu.ppy.sh/u/5396411) | 1771.08 | 8 |
-| 2230 | [[ Haruka-Chan ]](https://osu.ppy.sh/u/2445727) | 1770.77 | 7 |
-| 2231 | [Veky](https://osu.ppy.sh/u/4365081) | 1768.75 | 11 |
-| 2232 | [Tom94](https://osu.ppy.sh/u/1857058) | 1767.47 | 8 |
-| 2233 | [Sportai](https://osu.ppy.sh/u/4168651) | 1766.10 | 7 |
-| 2234 | [Cerkie](https://osu.ppy.sh/u/2533400) | 1762.37 | 5 |
-| 2235 | [Benud](https://osu.ppy.sh/u/2734971) | 1762.30 | 7 |
-| 2236 | [xenoframium](https://osu.ppy.sh/u/4502584) | 1761.49 | 8 |
-| 2237 | [twenty](https://osu.ppy.sh/u/2485920) | 1761.47 | 8 |
-| 2238 | [Tess](https://osu.ppy.sh/u/3408126) | 1761.17 | 11 |
-| 2239 | [Deramok](https://osu.ppy.sh/u/1428455) | 1754.00 | 10 |
-| 2240 | [hello hoonzi](https://osu.ppy.sh/u/8896931) | 1753.81 | 11 |
-| 2241 | [arrtyui](https://osu.ppy.sh/u/2896396) | 1753.79 | 9 |
-| 2242 | [Chiwu](https://osu.ppy.sh/u/1557374) | 1753.07 | 8 |
-| 2243 | [cptLevi](https://osu.ppy.sh/u/3574151) | 1752.95 | 6 |
-| 2244 | [[O]nLy](https://osu.ppy.sh/u/5829759) | 1752.01 | 8 |
-| 2245 | [Ancelia](https://osu.ppy.sh/u/4408391) | 1750.10 | 8 |
-| 2246 | [--Shizuru--](https://osu.ppy.sh/u/6008727) | 1749.25 | 10 |
-| 2247 | [raw0123](https://osu.ppy.sh/u/4681947) | 1748.46 | 10 |
-| 2248 | [Finshie](https://osu.ppy.sh/u/2018960) | 1748.27 | 10 |
-| 2249 | [Kania](https://osu.ppy.sh/u/6156928) | 1747.71 | 10 |
-| 2250 | [TikTak](https://osu.ppy.sh/u/4423405) | 1746.39 | 9 |
-| 2251 | [Huang Melin](https://osu.ppy.sh/u/643390) | 1746.22 | 6 |
-| 2252 | [DakiniBrave](https://osu.ppy.sh/u/5174427) | 1745.60 | 10 |
-| 2253 | [7-40](https://osu.ppy.sh/u/3668462) | 1744.89 | 11 |
-| 2254 | [anEgrahm](https://osu.ppy.sh/u/2086524) | 1744.72 | 9 |
-| 2255 | [Banana-](https://osu.ppy.sh/u/4557083) | 1743.75 | 6 |
-| 2256 | [xX-salkin-Xx](https://osu.ppy.sh/u/6499356) | 1741.47 | 9 |
-| 2257 | [Darkness3436](https://osu.ppy.sh/u/2962708) | 1733.68 | 9 |
-| 2258 | [Ryuiji](https://osu.ppy.sh/u/3499512) | 1730.90 | 9 |
-| 2259 | [Jatie](https://osu.ppy.sh/u/4628965) | 1727.49 | 8 |
-| 2260 | [heetami](https://osu.ppy.sh/u/1039001) | 1726.29 | 9 |
-| 2261 | [Yui-nya](https://osu.ppy.sh/u/3329867) | 1725.92 | 10 |
-| 2262 | [[ Lesu ]](https://osu.ppy.sh/u/6552632) | 1725.87 | 10 |
-| 2263 | [pain0728](https://osu.ppy.sh/u/927520) | 1725.50 | 8 |
-| 2264 | [Frikandel](https://osu.ppy.sh/u/3735705) | 1724.83 | 8 |
-| 2265 | [Damage](https://osu.ppy.sh/u/5212441) | 1723.82 | 8 |
-| 2266 | [-Sakuya Izayoi](https://osu.ppy.sh/u/4277691) | 1723.45 | 9 |
-| 2267 | [XincSoldier](https://osu.ppy.sh/u/4459442) | 1723.20 | 8 |
-| 2268 | [Asahi](https://osu.ppy.sh/u/1634116) | 1722.35 | 7 |
-| 2269 | [- Sana -](https://osu.ppy.sh/u/4720880) | 1721.36 | 7 |
-| 2270 | [vshttps](https://osu.ppy.sh/u/2156189) | 1721.34 | 9 |
-| 2271 | [PrakMR](https://osu.ppy.sh/u/344613) | 1720.95 | 8 |
-| 2272 | [Syriusi](https://osu.ppy.sh/u/4477543) | 1720.52 | 9 |
-| 2273 | [BDDav](https://osu.ppy.sh/u/1164526) | 1719.96 | 5 |
-| 2274 | [Seeker](https://osu.ppy.sh/u/3152005) | 1716.96 | 10 |
-| 2275 | [whitegun](https://osu.ppy.sh/u/1925050) | 1716.08 | 11 |
-| 2276 | [[MoorE]](https://osu.ppy.sh/u/2262143) | 1715.79 | 7 |
-| 2277 | [Ohrami](https://osu.ppy.sh/u/285711) | 1715.72 | 7 |
-| 2278 | [Zetaku](https://osu.ppy.sh/u/1615897) | 1713.39 | 10 |
-| 2279 | [[Innocent]](https://osu.ppy.sh/u/7002028) | 1713.28 | 9 |
-| 2280 | [Shinaa](https://osu.ppy.sh/u/6094053) | 1712.22 | 9 |
-| 2281 | [dabanlong](https://osu.ppy.sh/u/624254) | 1710.41 | 8 |
-| 2282 | [uyghti](https://osu.ppy.sh/u/3641404) | 1708.26 | 5 |
-| 2283 | [Martinch](https://osu.ppy.sh/u/4659495) | 1707.87 | 9 |
-| 2284 | [Runeandre4](https://osu.ppy.sh/u/4930482) | 1707.25 | 9 |
-| 2285 | [Symacon](https://osu.ppy.sh/u/5185236) | 1706.70 | 7 |
-| 2286 | [Ampoz](https://osu.ppy.sh/u/2949928) | 1705.43 | 8 |
-| 2287 | [D non](https://osu.ppy.sh/u/2036268) | 1705.42 | 7 |
-| 2288 | [Hendrix89](https://osu.ppy.sh/u/2343315) | 1704.64 | 9 |
-| 2289 | [O AzusaCat O](https://osu.ppy.sh/u/3026833) | 1704.44 | 10 |
-| 2290 | [Benton](https://osu.ppy.sh/u/791477) | 1704.25 | 8 |
-| 2291 | [Fancyguy](https://osu.ppy.sh/u/4186648) | 1703.83 | 10 |
-| 2292 | [yuugeki1234](https://osu.ppy.sh/u/99457) | 1702.10 | 9 |
-| 2293 | [LuckDOTexe](https://osu.ppy.sh/u/6879408) | 1701.38 | 8 |
-| 2294 | [Fastenz](https://osu.ppy.sh/u/3549711) | 1700.38 | 7 |
-| 2295 | [Dagresha](https://osu.ppy.sh/u/3780145) | 1700.05 | 10 |
-| 2296 | [Pengrio](https://osu.ppy.sh/u/6255471) | 1698.98 | 9 |
-| 2297 | [Flask](https://osu.ppy.sh/u/959763) | 1697.16 | 6 |
-| 2298 | [Savag3blow](https://osu.ppy.sh/u/2934864) | 1696.21 | 8 |
-| 2299 | [Cooper](https://osu.ppy.sh/u/4782829) | 1692.22 | 10 |
-| 2300 | [Boxes](https://osu.ppy.sh/u/3288018) | 1692.07 | 6 |
-| 2301 | [Megapcmx](https://osu.ppy.sh/u/4442138) | 1691.59 | 8 |
-| 2302 | [Barracudaa](https://osu.ppy.sh/u/2392720) | 1690.86 | 9 |
-| 2303 | [n0ah](https://osu.ppy.sh/u/3086393) | 1690.74 | 7 |
-| 2304 | [Mjc](https://osu.ppy.sh/u/3789226) | 1690.06 | 11 |
-| 2305 | [24480091](https://osu.ppy.sh/u/632393) | 1689.69 | 8 |
-| 2306 | [psychedelic-](https://osu.ppy.sh/u/3747440) | 1688.88 | 8 |
-| 2307 | [Seelder](https://osu.ppy.sh/u/5263422) | 1688.53 | 6 |
-| 2308 | [Aruka](https://osu.ppy.sh/u/2935432) | 1686.13 | 8 |
-| 2309 | [owatan](https://osu.ppy.sh/u/2539431) | 1685.45 | 7 |
-| 2310 | [[-Voust-]](https://osu.ppy.sh/u/6306191) | 1685.06 | 8 |
-| 2311 | [[Byul_Ha]](https://osu.ppy.sh/u/3137188) | 1684.12 | 8 |
-| 2312 | [Suron00](https://osu.ppy.sh/u/3014032) | 1684.12 | 13 |
-| 2313 | [TCN](https://osu.ppy.sh/u/1175528) | 1683.39 | 8 |
-| 2314 | [Stance](https://osu.ppy.sh/u/3230354) | 1683.05 | 11 |
-| 2315 | [Northern](https://osu.ppy.sh/u/3595112) | 1679.74 | 8 |
-| 2316 | [Naidaaka](https://osu.ppy.sh/u/6988856) | 1675.30 | 9 |
-| 2317 | [Zweib](https://osu.ppy.sh/u/1211737) | 1674.37 | 7 |
-| 2318 | [Rampax](https://osu.ppy.sh/u/3995630) | 1673.14 | 6 |
-| 2319 | [Proteus](https://osu.ppy.sh/u/4073572) | 1672.54 | 7 |
-| 2320 | [Cl9n](https://osu.ppy.sh/u/4674207) | 1672.49 | 7 |
-| 2321 | [Mokuteki](https://osu.ppy.sh/u/2715720) | 1672.30 | 10 |
-| 2322 | [Nuko Nya](https://osu.ppy.sh/u/6373391) | 1672.27 | 6 |
-| 2323 | [KuyaKoala](https://osu.ppy.sh/u/2494575) | 1672.21 | 8 |
-| 2324 | [My Name Is R](https://osu.ppy.sh/u/1872256) | 1671.45 | 11 |
-| 2325 | [kimchii42](https://osu.ppy.sh/u/6551312) | 1671.26 | 9 |
-| 2326 | [Touhou Project](https://osu.ppy.sh/u/1595370) | 1670.82 | 8 |
-| 2327 | [You Cheng Deng](https://osu.ppy.sh/u/2660065) | 1668.79 | 8 |
-| 2328 | [Noec](https://osu.ppy.sh/u/1026762) | 1668.47 | 8 |
-| 2329 | [BigHake](https://osu.ppy.sh/u/2510320) | 1666.66 | 8 |
-| 2330 | [-Kurisu](https://osu.ppy.sh/u/4192842) | 1666.63 | 6 |
-| 2331 | [xootynator](https://osu.ppy.sh/u/3717598) | 1665.32 | 9 |
-| 2332 | [xxWeedWizardxx](https://osu.ppy.sh/u/4501004) | 1664.92 | 7 |
-| 2333 | [Layfon-Alseif](https://osu.ppy.sh/u/445718) | 1664.65 | 10 |
-| 2334 | [uzzi](https://osu.ppy.sh/u/1928230) | 1663.61 | 7 |
-| 2335 | [_Reisen_](https://osu.ppy.sh/u/4244993) | 1663.30 | 7 |
-| 2336 | [Vita](https://osu.ppy.sh/u/567434) | 1662.41 | 9 |
-| 2337 | [Solo](https://osu.ppy.sh/u/4285255) | 1659.09 | 10 |
-| 2338 | [twirle](https://osu.ppy.sh/u/2240585) | 1658.24 | 10 |
-| 2339 | [chainpullz](https://osu.ppy.sh/u/2736105) | 1657.90 | 11 |
-| 2340 | [Shiranui](https://osu.ppy.sh/u/4308954) | 1657.51 | 10 |
-| 2341 | [Cryros](https://osu.ppy.sh/u/6959335) | 1656.33 | 11 |
-| 2342 | [Griffdiff](https://osu.ppy.sh/u/6150187) | 1654.97 | 9 |
-| 2343 | [Nucoin](https://osu.ppy.sh/u/1089803) | 1654.02 | 9 |
-| 2344 | [Rough Rhythm](https://osu.ppy.sh/u/4275838) | 1653.70 | 10 |
-| 2345 | [Cookieboy](https://osu.ppy.sh/u/6473713) | 1653.18 | 10 |
-| 2346 | [BlazeITA](https://osu.ppy.sh/u/3340376) | 1651.66 | 10 |
-| 2347 | [Nhan](https://osu.ppy.sh/u/1240981) | 1651.29 | 7 |
-| 2348 | [dtlxb](https://osu.ppy.sh/u/1824868) | 1650.29 | 9 |
-| 2349 | [Keirun](https://osu.ppy.sh/u/3517105) | 1650.10 | 6 |
-| 2350 | [Cerulis](https://osu.ppy.sh/u/7013424) | 1649.07 | 10 |
-| 2351 | [ArLiuE](https://osu.ppy.sh/u/4315025) | 1646.77 | 6 |
-| 2352 | [d777b](https://osu.ppy.sh/u/1371800) | 1646.36 | 8 |
-| 2353 | [JohnyZ](https://osu.ppy.sh/u/4508048) | 1645.11 | 6 |
-| 2354 | [Ling-degree](https://osu.ppy.sh/u/4438502) | 1642.52 | 11 |
-| 2355 | [[Raye]](https://osu.ppy.sh/u/4507211) | 1641.14 | 8 |
-| 2356 | [Emorevenant](https://osu.ppy.sh/u/3290288) | 1640.67 | 11 |
-| 2357 | [Anzu Takakura](https://osu.ppy.sh/u/6466331) | 1639.73 | 5 |
-| 2358 | [Rupertion](https://osu.ppy.sh/u/5774823) | 1639.50 | 9 |
-| 2359 | [Qweik](https://osu.ppy.sh/u/5147099) | 1638.60 | 8 |
-| 2360 | [Milo](https://osu.ppy.sh/u/2216084) | 1636.15 | 8 |
-| 2361 | [Zboys](https://osu.ppy.sh/u/2876906) | 1633.88 | 6 |
-| 2362 | [Anxious](https://osu.ppy.sh/u/6247868) | 1633.86 | 8 |
-| 2363 | [BannedForever](https://osu.ppy.sh/u/3127339) | 1631.93 | 6 |
-| 2364 | [tomer149](https://osu.ppy.sh/u/2555859) | 1631.68 | 7 |
-| 2365 | [Shiny Gliscor](https://osu.ppy.sh/u/2065098) | 1629.02 | 8 |
-| 2366 | [Harutora](https://osu.ppy.sh/u/4924835) | 1628.55 | 8 |
-| 2367 | [Schabek](https://osu.ppy.sh/u/6371965) | 1628.42 | 8 |
-| 2368 | [- Rashy -](https://osu.ppy.sh/u/4387328) | 1625.01 | 10 |
-| 2369 | [[ Rigel ]](https://osu.ppy.sh/u/3201620) | 1624.68 | 9 |
-| 2370 | [Bloody](https://osu.ppy.sh/u/3674696) | 1623.41 | 7 |
-| 2371 | [Sylveon](https://osu.ppy.sh/u/4321256) | 1622.55 | 9 |
-| 2372 | [HeTopT](https://osu.ppy.sh/u/1017953) | 1621.52 | 10 |
-| 2373 | [Kettioh](https://osu.ppy.sh/u/3037647) | 1620.12 | 7 |
-| 2374 | [Patjoo](https://osu.ppy.sh/u/3552361) | 1619.01 | 9 |
-| 2375 | [OctopusXOX](https://osu.ppy.sh/u/3449648) | 1618.92 | 11 |
-| 2376 | [aster11](https://osu.ppy.sh/u/3989765) | 1617.34 | 7 |
-| 2377 | [Tsuchimikado](https://osu.ppy.sh/u/2696453) | 1616.72 | 10 |
-| 2378 | [Jaybladezz](https://osu.ppy.sh/u/3725492) | 1616.04 | 6 |
-| 2379 | [PantyDev](https://osu.ppy.sh/u/5420543) | 1614.80 | 8 |
-| 2380 | [NeruL](https://osu.ppy.sh/u/2497197) | 1613.21 | 8 |
-| 2381 | [PandaWolf9a](https://osu.ppy.sh/u/5110677) | 1612.82 | 9 |
-| 2382 | [H O L Y](https://osu.ppy.sh/u/505137) | 1612.23 | 10 |
-| 2383 | [Sharpgold](https://osu.ppy.sh/u/2493539) | 1610.57 | 9 |
-| 2384 | [Lunedill](https://osu.ppy.sh/u/3811954) | 1610.37 | 6 |
-| 2385 | [xSaiyajin](https://osu.ppy.sh/u/3199855) | 1609.20 | 7 |
-| 2386 | [Kuuki ToRa](https://osu.ppy.sh/u/2447066) | 1608.84 | 6 |
-| 2387 | [Leaftsu](https://osu.ppy.sh/u/2767935) | 1606.99 | 9 |
-| 2388 | [BismuthOwl](https://osu.ppy.sh/u/1709406) | 1606.46 | 8 |
-| 2389 | [Bob Ross](https://osu.ppy.sh/u/4042903) | 1605.92 | 7 |
-| 2390 | [jieusieu](https://osu.ppy.sh/u/759439) | 1605.19 | 10 |
-| 2391 | [DuhGamingPotato](https://osu.ppy.sh/u/4250296) | 1603.72 | 7 |
-| 2392 | [Janixs](https://osu.ppy.sh/u/3014683) | 1603.43 | 9 |
-| 2393 | [Near-N](https://osu.ppy.sh/u/2009479) | 1602.71 | 10 |
-| 2394 | [dlawlgns](https://osu.ppy.sh/u/5018659) | 1600.59 | 7 |
-| 2395 | [ChronoNig](https://osu.ppy.sh/u/3545323) | 1599.87 | 6 |
-| 2396 | [Wuffles](https://osu.ppy.sh/u/2971858) | 1599.35 | 8 |
-| 2397 | [sleviNN](https://osu.ppy.sh/u/1631256) | 1597.77 | 10 |
-| 2398 | [kawaine](https://osu.ppy.sh/u/4628308) | 1597.07 | 5 |
-| 2399 | [DrichAldrich](https://osu.ppy.sh/u/3701237) | 1596.65 | 7 |
-| 2400 | [ehutyan](https://osu.ppy.sh/u/929492) | 1594.69 | 7 |
-| 2401 | [Aldarole](https://osu.ppy.sh/u/5141092) | 1594.33 | 9 |
-| 2402 | [ExLeaF](https://osu.ppy.sh/u/4115408) | 1592.15 | 5 |
-| 2403 | [xQuAle](https://osu.ppy.sh/u/4955893) | 1592.15 | 7 |
-| 2404 | [Justin](https://osu.ppy.sh/u/3437581) | 1591.72 | 8 |
-| 2405 | [HiPat](https://osu.ppy.sh/u/6070138) | 1590.91 | 7 |
-| 2406 | [Crystal-](https://osu.ppy.sh/u/2006663) | 1590.88 | 5 |
-| 2407 | [-Crazy-](https://osu.ppy.sh/u/5368855) | 1589.76 | 9 |
-| 2408 | [Hugobolt](https://osu.ppy.sh/u/602760) | 1587.40 | 7 |
-| 2409 | [degatz](https://osu.ppy.sh/u/2217022) | 1586.52 | 9 |
-| 2410 | [Kyoujii](https://osu.ppy.sh/u/4843657) | 1585.55 | 7 |
-| 2411 | [Nicholasvtn](https://osu.ppy.sh/u/6647401) | 1584.71 | 9 |
-| 2412 | [KaanKorkmaz](https://osu.ppy.sh/u/4906401) | 1582.82 | 6 |
-| 2413 | [Miko-chan](https://osu.ppy.sh/u/3723798) | 1581.99 | 9 |
-| 2414 | [YoonA-](https://osu.ppy.sh/u/1639250) | 1580.36 | 6 |
-| 2415 | [Hentomi](https://osu.ppy.sh/u/938409) | 1579.78 | 6 |
-| 2416 | [[ Fade ]](https://osu.ppy.sh/u/4833541) | 1579.37 | 8 |
-| 2417 | [inchanpiyu](https://osu.ppy.sh/u/927490) | 1577.85 | 7 |
-| 2418 | [crisco13](https://osu.ppy.sh/u/3562488) | 1577.22 | 8 |
-| 2419 | [Come[Back]Home](https://osu.ppy.sh/u/1131716) | 1575.93 | 9 |
-| 2420 | [greenbelt210](https://osu.ppy.sh/u/4137215) | 1575.78 | 9 |
-| 2421 | [rmeon](https://osu.ppy.sh/u/648343) | 1575.64 | 10 |
-| 2422 | [Sururi](https://osu.ppy.sh/u/4585377) | 1575.41 | 8 |
-| 2423 | [Sio-](https://osu.ppy.sh/u/3933693) | 1574.69 | 7 |
-| 2424 | [Tehron](https://osu.ppy.sh/u/4544907) | 1572.86 | 7 |
-| 2425 | [Master](https://osu.ppy.sh/u/3973608) | 1572.52 | 5 |
-| 2426 | [kgdbian](https://osu.ppy.sh/u/120006) | 1571.22 | 10 |
-| 2427 | [TaNaBaTa](https://osu.ppy.sh/u/756273) | 1569.96 | 5 |
-| 2428 | [AA00AA](https://osu.ppy.sh/u/2928612) | 1568.33 | 10 |
-| 2429 | [Yuzucat](https://osu.ppy.sh/u/6119385) | 1567.83 | 9 |
-| 2430 | [Popo[Mikoto]](https://osu.ppy.sh/u/445236) | 1566.94 | 8 |
-| 2431 | [Pandemonium12](https://osu.ppy.sh/u/6334009) | 1566.27 | 11 |
-| 2432 | [Zetsubou](https://osu.ppy.sh/u/1901026) | 1565.66 | 7 |
-| 2433 | [tetsuya77_sk](https://osu.ppy.sh/u/305828) | 1564.38 | 7 |
-| 2434 | [[ Lusso-Kun ]](https://osu.ppy.sh/u/2993901) | 1563.98 | 7 |
-| 2435 | [-Rei-](https://osu.ppy.sh/u/2707498) | 1563.82 | 7 |
-| 2436 | [Wookiezi](https://osu.ppy.sh/u/4407567) | 1563.57 | 6 |
-| 2437 | [Hopran](https://osu.ppy.sh/u/1732810) | 1563.10 | 8 |
-| 2438 | [HPK](https://osu.ppy.sh/u/979471) | 1562.87 | 7 |
-| 2439 | [shoucanhuanzhe](https://osu.ppy.sh/u/5270534) | 1561.69 | 10 |
-| 2440 | [rafalsky](https://osu.ppy.sh/u/5106555) | 1560.08 | 10 |
-| 2441 | [dinopwn](https://osu.ppy.sh/u/2838003) | 1557.41 | 6 |
-| 2442 | [Wadas](https://osu.ppy.sh/u/3201658) | 1556.53 | 7 |
-| 2443 | [Licorne](https://osu.ppy.sh/u/3858242) | 1554.21 | 8 |
-| 2444 | [Distant years](https://osu.ppy.sh/u/1515238) | 1553.60 | 5 |
-| 2445 | [Flathel](https://osu.ppy.sh/u/2368932) | 1553.51 | 6 |
-| 2446 | [n0mercy](https://osu.ppy.sh/u/5536431) | 1552.18 | 7 |
-| 2447 | [Timal](https://osu.ppy.sh/u/1570253) | 1551.09 | 9 |
-| 2448 | [Hangovers](https://osu.ppy.sh/u/960248) | 1551.00 | 8 |
-| 2449 | [Touchette](https://osu.ppy.sh/u/2370889) | 1550.44 | 5 |
-| 2450 | [lanbokarn](https://osu.ppy.sh/u/2223073) | 1548.72 | 8 |
-| 2451 | [E N J U](https://osu.ppy.sh/u/932127) | 1548.69 | 9 |
-| 2452 | [4311](https://osu.ppy.sh/u/924876) | 1548.30 | 11 |
-| 2453 | [MedMango](https://osu.ppy.sh/u/5071125) | 1547.93 | 6 |
-| 2454 | [krieger126](https://osu.ppy.sh/u/1077026) | 1547.65 | 6 |
-| 2455 | [Nalae](https://osu.ppy.sh/u/6056637) | 1547.53 | 8 |
-| 2456 | [Magnath](https://osu.ppy.sh/u/5345462) | 1547.15 | 7 |
-| 2457 | [Verniy](https://osu.ppy.sh/u/2498807) | 1546.37 | 8 |
-| 2458 | [Blur](https://osu.ppy.sh/u/4825480) | 1545.03 | 9 |
-| 2459 | [Yushi](https://osu.ppy.sh/u/1301770) | 1545.01 | 7 |
-| 2460 | [Pata2](https://osu.ppy.sh/u/5558939) | 1544.21 | 7 |
-| 2461 | [ymkmys](https://osu.ppy.sh/u/1552493) | 1544.07 | 10 |
-| 2462 | [NeVe12p4wNeD](https://osu.ppy.sh/u/1874669) | 1542.96 | 7 |
-| 2463 | [I A](https://osu.ppy.sh/u/1996126) | 1540.22 | 7 |
-| 2464 | [MiyazonoKuma](https://osu.ppy.sh/u/3366658) | 1540.13 | 8 |
-| 2465 | [Rekens](https://osu.ppy.sh/u/1073575) | 1540.01 | 7 |
-| 2466 | [Domal](https://osu.ppy.sh/u/6638200) | 1539.15 | 8 |
-| 2467 | [weakerr](https://osu.ppy.sh/u/2771211) | 1538.55 | 6 |
-| 2468 | [Principe](https://osu.ppy.sh/u/2796962) | 1538.38 | 5 |
-| 2469 | [[ Katz ]](https://osu.ppy.sh/u/3446938) | 1537.64 | 9 |
-| 2470 | [TheWildTree](https://osu.ppy.sh/u/4667632) | 1536.39 | 8 |
-| 2471 | [The_Herobrine](https://osu.ppy.sh/u/3628837) | 1535.83 | 7 |
-| 2472 | [sullyjhf](https://osu.ppy.sh/u/1994780) | 1535.38 | 6 |
-| 2473 | [ProEzreal](https://osu.ppy.sh/u/5379679) | 1531.96 | 9 |
-| 2474 | [Sway](https://osu.ppy.sh/u/2412218) | 1528.02 | 7 |
-| 2475 | [SBackflip](https://osu.ppy.sh/u/3273955) | 1527.81 | 7 |
-| 2476 | [M o M i Z i](https://osu.ppy.sh/u/153770) | 1526.78 | 7 |
-| 2477 | [skayweed](https://osu.ppy.sh/u/6480903) | 1525.54 | 9 |
-| 2478 | [kuroino[ni-so]](https://osu.ppy.sh/u/5123426) | 1525.53 | 8 |
-| 2479 | [poptartnyan55](https://osu.ppy.sh/u/7287236) | 1524.31 | 7 |
-| 2480 | [Terces](https://osu.ppy.sh/u/3148418) | 1523.76 | 8 |
-| 2481 | [Lethereal](https://osu.ppy.sh/u/6063492) | 1519.90 | 9 |
-| 2482 | [baundo](https://osu.ppy.sh/u/496311) | 1516.58 | 9 |
-| 2483 | [Nesinnu](https://osu.ppy.sh/u/3665047) | 1515.63 | 9 |
-| 2484 | [-rocket](https://osu.ppy.sh/u/5277344) | 1514.83 | 7 |
-| 2485 | [alcolata](https://osu.ppy.sh/u/4638684) | 1513.92 | 7 |
-| 2486 | [Wivaiien](https://osu.ppy.sh/u/898306) | 1512.38 | 8 |
-| 2487 | [MyAccSucks](https://osu.ppy.sh/u/5197941) | 1511.85 | 8 |
-| 2488 | [Cuitzi](https://osu.ppy.sh/u/1807070) | 1511.20 | 8 |
-| 2489 | [djsettle](https://osu.ppy.sh/u/4010354) | 1511.07 | 7 |
-| 2490 | [Shigekazu-](https://osu.ppy.sh/u/3085401) | 1505.91 | 8 |
-| 2491 | [bob1595](https://osu.ppy.sh/u/2961990) | 1504.48 | 9 |
-| 2492 | [Yukiyo](https://osu.ppy.sh/u/4541873) | 1504.25 | 7 |
-| 2493 | [TJay93](https://osu.ppy.sh/u/4045862) | 1503.93 | 8 |
-| 2494 | [Allsiss](https://osu.ppy.sh/u/4434831) | 1501.12 | 9 |
-| 2495 | [Elscar](https://osu.ppy.sh/u/2253511) | 1500.83 | 5 |
-| 2496 | [Selfish Zwartje](https://osu.ppy.sh/u/5285945) | 1500.49 | 8 |
-| 2497 | [Boggles](https://osu.ppy.sh/u/3923278) | 1497.13 | 5 |
-| 2498 | [ShiroKuuhaku27](https://osu.ppy.sh/u/7290539) | 1496.98 | 8 |
-| 2499 | [Yogurtt](https://osu.ppy.sh/u/2649717) | 1496.04 | 7 |
-| 2500 | [yoshiyoyoyo](https://osu.ppy.sh/u/5020258) | 1495.90 | 9 |
-| 2501 | [mellerr](https://osu.ppy.sh/u/2610315) | 1495.18 | 8 |
-| 2502 | [Aika S](https://osu.ppy.sh/u/851659) | 1494.40 | 8 |
-| 2503 | [Sanapri](https://osu.ppy.sh/u/4180105) | 1493.93 | 7 |
-| 2504 | [KAKALOTE](https://osu.ppy.sh/u/1840225) | 1493.76 | 6 |
-| 2505 | [Mocha Choco](https://osu.ppy.sh/u/4198055) | 1493.61 | 9 |
-| 2506 | [NymphSan05](https://osu.ppy.sh/u/5340700) | 1493.11 | 9 |
-| 2507 | [kasuga-ayumu](https://osu.ppy.sh/u/1358586) | 1491.52 | 7 |
-| 2508 | [Trillion](https://osu.ppy.sh/u/5341816) | 1488.18 | 6 |
-| 2509 | [Ahresty](https://osu.ppy.sh/u/1069451) | 1487.51 | 7 |
-| 2510 | [Blezzing](https://osu.ppy.sh/u/4695713) | 1487.29 | 6 |
-| 2511 | [Casual Agent](https://osu.ppy.sh/u/2710997) | 1484.93 | 10 |
-| 2512 | [Tavi](https://osu.ppy.sh/u/2675372) | 1483.07 | 6 |
-| 2513 | [Miro](https://osu.ppy.sh/u/4291512) | 1480.87 | 7 |
-| 2514 | [ruby1254](https://osu.ppy.sh/u/2730027) | 1480.28 | 7 |
-| 2515 | [iamthecman](https://osu.ppy.sh/u/2237934) | 1479.08 | 7 |
-| 2516 | [Burrito](https://osu.ppy.sh/u/6483962) | 1478.87 | 6 |
-| 2517 | [Taihe](https://osu.ppy.sh/u/4985379) | 1477.89 | 8 |
-| 2518 | [JoJoe](https://osu.ppy.sh/u/2749481) | 1477.47 | 6 |
-| 2519 | [Chazoshtare](https://osu.ppy.sh/u/4185189) | 1477.22 | 8 |
-| 2520 | [HiIamEdward](https://osu.ppy.sh/u/4792543) | 1476.99 | 7 |
-| 2521 | [SlipperyKeys](https://osu.ppy.sh/u/4866376) | 1476.48 | 7 |
-| 2522 | [Kasen](https://osu.ppy.sh/u/98030) | 1476.39 | 7 |
-| 2523 | [erictran0](https://osu.ppy.sh/u/2846454) | 1474.36 | 5 |
-| 2524 | [Miyurissan](https://osu.ppy.sh/u/6188468) | 1473.04 | 9 |
-| 2525 | [Okinotori](https://osu.ppy.sh/u/4346274) | 1471.84 | 7 |
-| 2526 | [Seichi](https://osu.ppy.sh/u/7189845) | 1470.67 | 7 |
-| 2527 | [[ Mew ]](https://osu.ppy.sh/u/5316454) | 1469.59 | 9 |
-| 2528 | [goust566](https://osu.ppy.sh/u/5724467) | 1468.88 | 8 |
-| 2529 | [MishaVB](https://osu.ppy.sh/u/3137415) | 1467.09 | 10 |
-| 2530 | [Cherie](https://osu.ppy.sh/u/1869975) | 1466.20 | 6 |
-| 2531 | [White Lolita](https://osu.ppy.sh/u/999832) | 1465.66 | 7 |
-| 2532 | [Neptune -](https://osu.ppy.sh/u/2089171) | 1465.54 | 7 |
-| 2533 | [LoverJuzu](https://osu.ppy.sh/u/2198706) | 1462.63 | 8 |
-| 2534 | [Keysama](https://osu.ppy.sh/u/3376034) | 1462.36 | 6 |
-| 2535 | [SnowNiNo_](https://osu.ppy.sh/u/2506267) | 1461.25 | 7 |
-| 2536 | [BloodM0nk](https://osu.ppy.sh/u/2174403) | 1460.87 | 6 |
-| 2537 | [[ -Silver- ]](https://osu.ppy.sh/u/2784757) | 1460.66 | 7 |
-| 2538 | [Game](https://osu.ppy.sh/u/1872675) | 1460.35 | 5 |
-| 2539 | [Juhmall](https://osu.ppy.sh/u/3831425) | 1459.25 | 6 |
-| 2540 | [Gengi III](https://osu.ppy.sh/u/4084446) | 1459.17 | 6 |
-| 2541 | [R - S](https://osu.ppy.sh/u/2420472) | 1458.50 | 9 |
-| 2542 | [Xeamith](https://osu.ppy.sh/u/4044601) | 1458.20 | 7 |
-| 2543 | [CocoaBeanie](https://osu.ppy.sh/u/6440247) | 1457.68 | 9 |
-| 2544 | [Silkan](https://osu.ppy.sh/u/5446553) | 1455.39 | 9 |
-| 2545 | [[ZN]](https://osu.ppy.sh/u/1030696) | 1454.67 | 5 |
-| 2546 | [Slinslin](https://osu.ppy.sh/u/4116425) | 1454.65 | 7 |
-| 2547 | [Ririi](https://osu.ppy.sh/u/1860752) | 1451.69 | 7 |
-| 2548 | [Elveti_slana](https://osu.ppy.sh/u/4338985) | 1451.20 | 8 |
-| 2549 | [KR1998](https://osu.ppy.sh/u/8781892) | 1450.48 | 12 |
-| 2550 | [-Currz-](https://osu.ppy.sh/u/4835905) | 1449.33 | 7 |
-| 2551 | [-cr1mmy-](https://osu.ppy.sh/u/803766) | 1448.87 | 5 |
-| 2552 | [Kitsunebi](https://osu.ppy.sh/u/6072979) | 1448.25 | 8 |
-| 2553 | [T_Yozora](https://osu.ppy.sh/u/3738760) | 1447.82 | 7 |
-| 2554 | [HaNa-](https://osu.ppy.sh/u/2938458) | 1447.33 | 8 |
-| 2555 | [[ Roku ]](https://osu.ppy.sh/u/4238971) | 1447.17 | 9 |
-| 2556 | [moricy](https://osu.ppy.sh/u/7354116) | 1447.00 | 7 |
-| 2557 | [Fleimi](https://osu.ppy.sh/u/2728326) | 1446.95 | 7 |
-| 2558 | [Scythe_Kun](https://osu.ppy.sh/u/5216145) | 1446.90 | 11 |
-| 2559 | [theironnoah](https://osu.ppy.sh/u/2233881) | 1445.14 | 8 |
-| 2560 | [diino](https://osu.ppy.sh/u/4701393) | 1444.93 | 7 |
-| 2561 | [Fangslash](https://osu.ppy.sh/u/3236372) | 1444.69 | 8 |
-| 2562 | [Capu](https://osu.ppy.sh/u/2474015) | 1444.35 | 5 |
-| 2563 | [Kup92](https://osu.ppy.sh/u/1606295) | 1442.18 | 5 |
-| 2564 | [Kerie](https://osu.ppy.sh/u/3599809) | 1441.54 | 5 |
-| 2565 | [Yuuthi](https://osu.ppy.sh/u/4346550) | 1441.28 | 8 |
-| 2566 | [IIlIllIllI](https://osu.ppy.sh/u/3929623) | 1438.16 | 8 |
-| 2567 | [[ Lukita ]](https://osu.ppy.sh/u/4138568) | 1437.19 | 7 |
-| 2568 | [Unlucky Team](https://osu.ppy.sh/u/3925586) | 1435.95 | 6 |
-| 2569 | [w1sp](https://osu.ppy.sh/u/2770796) | 1433.76 | 5 |
-| 2570 | [Astar](https://osu.ppy.sh/u/27055) | 1433.11 | 4 |
-| 2571 | [SanteriP](https://osu.ppy.sh/u/1981187) | 1432.66 | 6 |
-| 2572 | [126](https://osu.ppy.sh/u/4362911) | 1432.57 | 9 |
-| 2573 | [Zectro](https://osu.ppy.sh/u/2594097) | 1432.52 | 7 |
-| 2574 | [Souko](https://osu.ppy.sh/u/417431) | 1430.56 | 6 |
-| 2575 | [Highslider](https://osu.ppy.sh/u/169423) | 1428.59 | 7 |
-| 2576 | [playa](https://osu.ppy.sh/u/1436340) | 1427.35 | 7 |
-| 2577 | [Aikalisa](https://osu.ppy.sh/u/2424684) | 1427.24 | 7 |
-| 2578 | [Apraxia](https://osu.ppy.sh/u/4194445) | 1427.14 | 5 |
-| 2579 | [Haynoru](https://osu.ppy.sh/u/3281136) | 1426.71 | 5 |
-| 2580 | [chinmeitou](https://osu.ppy.sh/u/2788605) | 1425.80 | 6 |
-| 2581 | [IsaiasFavera](https://osu.ppy.sh/u/7329960) | 1425.20 | 7 |
-| 2582 | [NyaNekoMiau](https://osu.ppy.sh/u/5149397) | 1423.12 | 6 |
-| 2583 | [Kami[Yama]san](https://osu.ppy.sh/u/2209714) | 1422.63 | 7 |
-| 2584 | [iaace](https://osu.ppy.sh/u/4374286) | 1422.24 | 6 |
-| 2585 | [mcy3](https://osu.ppy.sh/u/2165650) | 1419.94 | 5 |
-| 2586 | [awesomegamer](https://osu.ppy.sh/u/3216815) | 1419.49 | 7 |
-| 2587 | [OK_oreGENKI](https://osu.ppy.sh/u/2444995) | 1419.20 | 6 |
-| 2588 | [Drazzible](https://osu.ppy.sh/u/2574130) | 1417.26 | 8 |
-| 2589 | [Jpeypey](https://osu.ppy.sh/u/5836555) | 1415.71 | 7 |
-| 2590 | [ZefyrKun](https://osu.ppy.sh/u/3425317) | 1414.63 | 8 |
-| 2591 | [Yken](https://osu.ppy.sh/u/6082212) | 1414.24 | 8 |
-| 2592 | [NickIB](https://osu.ppy.sh/u/2123482) | 1412.63 | 8 |
-| 2593 | [krotoxx](https://osu.ppy.sh/u/4444957) | 1411.84 | 6 |
-| 2594 | [Sexual Tentacle](https://osu.ppy.sh/u/3521203) | 1410.58 | 6 |
-| 2595 | [Mithyra](https://osu.ppy.sh/u/5226219) | 1408.30 | 6 |
-| 2596 | [birgers](https://osu.ppy.sh/u/3511247) | 1405.50 | 7 |
-| 2597 | [terryaa](https://osu.ppy.sh/u/4311251) | 1405.47 | 7 |
-| 2598 | [Awesomeskillz](https://osu.ppy.sh/u/3673083) | 1403.90 | 9 |
-| 2599 | [Segregate](https://osu.ppy.sh/u/4627467) | 1403.89 | 7 |
-| 2600 | [Olofmeister](https://osu.ppy.sh/u/2900292) | 1403.76 | 6 |
-| 2601 | [yuilemo](https://osu.ppy.sh/u/707242) | 1400.42 | 4 |
-| 2602 | [pcl5x2008](https://osu.ppy.sh/u/809832) | 1399.57 | 7 |
-| 2603 | [Iron Man](https://osu.ppy.sh/u/4242381) | 1399.24 | 7 |
-| 2604 | [MFW PP](https://osu.ppy.sh/u/3229378) | 1398.43 | 7 |
-| 2605 | [Zabergan](https://osu.ppy.sh/u/5346609) | 1398.19 | 8 |
-| 2606 | [samlove1994](https://osu.ppy.sh/u/2367690) | 1398.13 | 7 |
-| 2607 | [Rakyu](https://osu.ppy.sh/u/2319843) | 1398.01 | 8 |
-| 2608 | [KiroKusA](https://osu.ppy.sh/u/4355621) | 1396.64 | 7 |
-| 2609 | [Infil7](https://osu.ppy.sh/u/2607123) | 1396.53 | 7 |
-| 2610 | [Fyan](https://osu.ppy.sh/u/2841570) | 1396.35 | 7 |
-| 2611 | [Elaixy](https://osu.ppy.sh/u/4279483) | 1395.78 | 7 |
-| 2612 | [Maxium](https://osu.ppy.sh/u/3147619) | 1395.01 | 6 |
-| 2613 | [sora ate 9](https://osu.ppy.sh/u/7302766) | 1394.03 | 8 |
-| 2614 | [[ - Sora - ]](https://osu.ppy.sh/u/2987120) | 1389.80 | 5 |
-| 2615 | [Sumaru](https://osu.ppy.sh/u/3770975) | 1388.58 | 8 |
-| 2616 | [Miyanaga Saki](https://osu.ppy.sh/u/2174082) | 1386.95 | 9 |
-| 2617 | [seirone](https://osu.ppy.sh/u/6284353) | 1386.89 | 8 |
-| 2618 | [astract](https://osu.ppy.sh/u/4419282) | 1386.73 | 9 |
-| 2619 | [na2tu](https://osu.ppy.sh/u/5066908) | 1386.32 | 5 |
-| 2620 | [Henry-](https://osu.ppy.sh/u/793536) | 1385.52 | 5 |
-| 2621 | [_Fami](https://osu.ppy.sh/u/4805435) | 1383.99 | 7 |
-| 2622 | [Elysion](https://osu.ppy.sh/u/106269) | 1380.38 | 4 |
-| 2623 | [Heavn_Ly](https://osu.ppy.sh/u/7642720) | 1379.86 | 7 |
-| 2624 | [xXFireeXx](https://osu.ppy.sh/u/4120369) | 1377.53 | 9 |
-| 2625 | [Cinderella-](https://osu.ppy.sh/u/5020386) | 1375.92 | 9 |
-| 2626 | [Starry-](https://osu.ppy.sh/u/2166199) | 1372.71 | 8 |
-| 2627 | [Markone](https://osu.ppy.sh/u/2971502) | 1368.81 | 9 |
-| 2628 | [qwe0570](https://osu.ppy.sh/u/2220282) | 1368.01 | 9 |
-| 2629 | [StreaminDemon](https://osu.ppy.sh/u/6245906) | 1367.12 | 8 |
-| 2630 | [xiao-](https://osu.ppy.sh/u/4270257) | 1366.95 | 8 |
-| 2631 | [chydal](https://osu.ppy.sh/u/6409320) | 1366.44 | 6 |
-| 2632 | [Weber](https://osu.ppy.sh/u/6410432) | 1366.21 | 5 |
-| 2633 | [Flamie](https://osu.ppy.sh/u/3789802) | 1365.81 | 7 |
-| 2634 | [Szczur](https://osu.ppy.sh/u/2326970) | 1365.76 | 7 |
-| 2635 | [SdubsSM](https://osu.ppy.sh/u/2246831) | 1364.08 | 8 |
-| 2636 | [MuffubZ](https://osu.ppy.sh/u/2327103) | 1364.03 | 5 |
-| 2637 | [KabbaRam](https://osu.ppy.sh/u/6156091) | 1362.89 | 8 |
-| 2638 | [Starger4ru](https://osu.ppy.sh/u/3398715) | 1361.48 | 6 |
-| 2639 | [Cursetyl](https://osu.ppy.sh/u/6045788) | 1361.06 | 8 |
-| 2640 | [Carbone](https://osu.ppy.sh/u/5783315) | 1360.04 | 6 |
-| 2641 | [nr_pm](https://osu.ppy.sh/u/6690651) | 1358.15 | 6 |
-| 2642 | [- Mizure -](https://osu.ppy.sh/u/2807233) | 1357.54 | 6 |
-| 2643 | [Maggiea](https://osu.ppy.sh/u/4301627) | 1354.37 | 7 |
-| 2644 | [RndGuy](https://osu.ppy.sh/u/1201586) | 1352.75 | 9 |
-| 2645 | [SaikoNo](https://osu.ppy.sh/u/3987567) | 1352.02 | 7 |
-| 2646 | [Nachoo711](https://osu.ppy.sh/u/4738338) | 1351.53 | 8 |
-| 2647 | [Neoo](https://osu.ppy.sh/u/3368568) | 1351.40 | 5 |
-| 2648 | [Nagata-](https://osu.ppy.sh/u/4437068) | 1348.58 | 6 |
-| 2649 | [sangii99](https://osu.ppy.sh/u/5044969) | 1348.01 | 7 |
-| 2650 | [-AnatA-](https://osu.ppy.sh/u/4092428) | 1346.64 | 6 |
-| 2651 | [handsome](https://osu.ppy.sh/u/2123087) | 1345.34 | 7 |
-| 2652 | [disonnected](https://osu.ppy.sh/u/4177600) | 1344.70 | 7 |
-| 2653 | [Runa](https://osu.ppy.sh/u/4643294) | 1344.19 | 4 |
-| 2654 | [rosianpanda](https://osu.ppy.sh/u/1228951) | 1344.11 | 7 |
-| 2655 | [bjbmw](https://osu.ppy.sh/u/4294741) | 1343.42 | 6 |
-| 2656 | [tomichom](https://osu.ppy.sh/u/884270) | 1341.92 | 8 |
-| 2657 | [Zhao](https://osu.ppy.sh/u/2477387) | 1341.22 | 7 |
-| 2658 | [Pavciok](https://osu.ppy.sh/u/6046187) | 1338.45 | 6 |
-| 2659 | [Arbane](https://osu.ppy.sh/u/4150829) | 1335.06 | 8 |
-| 2660 | [Bowzaa](https://osu.ppy.sh/u/3229391) | 1334.32 | 5 |
-| 2661 | [tcefrepton](https://osu.ppy.sh/u/6534914) | 1334.31 | 6 |
-| 2662 | [-Hades](https://osu.ppy.sh/u/4299402) | 1333.80 | 6 |
-| 2663 | [Sh1ko](https://osu.ppy.sh/u/4056014) | 1333.25 | 6 |
-| 2664 | [KuRumii](https://osu.ppy.sh/u/3002585) | 1333.07 | 7 |
-| 2665 | [My Angel Ja-hee](https://osu.ppy.sh/u/2670608) | 1332.58 | 8 |
-| 2666 | [sorotot](https://osu.ppy.sh/u/7178728) | 1330.44 | 8 |
-| 2667 | [[-Shana-]](https://osu.ppy.sh/u/2776029) | 1330.08 | 7 |
-| 2668 | [Trent-Sama](https://osu.ppy.sh/u/1309451) | 1329.97 | 7 |
-| 2669 | [ibrocky](https://osu.ppy.sh/u/3423039) | 1329.55 | 6 |
-| 2670 | [LoLerzzz](https://osu.ppy.sh/u/3460968) | 1326.07 | 6 |
-| 2671 | [XaXaTySH](https://osu.ppy.sh/u/6068055) | 1325.53 | 7 |
-| 2672 | [peng](https://osu.ppy.sh/u/6043452) | 1325.47 | 6 |
-| 2673 | [Arieeru](https://osu.ppy.sh/u/1811271) | 1322.11 | 5 |
-| 2674 | [PikachuFanHD](https://osu.ppy.sh/u/6560131) | 1320.50 | 7 |
-| 2675 | [dark4rrow](https://osu.ppy.sh/u/1637718) | 1319.99 | 7 |
-| 2676 | [Shiyuri](https://osu.ppy.sh/u/6661094) | 1319.17 | 7 |
-| 2677 | [Faylie](https://osu.ppy.sh/u/5041722) | 1318.05 | 8 |
-| 2678 | [Asmodeusa](https://osu.ppy.sh/u/3043440) | 1317.65 | 7 |
-| 2679 | [Pizzarro](https://osu.ppy.sh/u/4971596) | 1316.99 | 5 |
-| 2680 | [R04R hello](https://osu.ppy.sh/u/3103367) | 1315.62 | 6 |
-| 2681 | [Lantash](https://osu.ppy.sh/u/4205085) | 1315.03 | 9 |
-| 2682 | [pandazzz](https://osu.ppy.sh/u/1562782) | 1314.94 | 8 |
-| 2683 | [Otsukimi](https://osu.ppy.sh/u/3124308) | 1314.61 | 6 |
-| 2684 | [RockBrens](https://osu.ppy.sh/u/6680785) | 1314.36 | 7 |
-| 2685 | [ScarletSisters](https://osu.ppy.sh/u/1541485) | 1314.03 | 8 |
-| 2686 | [Dinkles](https://osu.ppy.sh/u/4706588) | 1313.71 | 5 |
-| 2687 | [Sullus](https://osu.ppy.sh/u/3278919) | 1313.38 | 7 |
-| 2688 | [LaoBxiao6](https://osu.ppy.sh/u/866678) | 1312.68 | 9 |
-| 2689 | [Pwae](https://osu.ppy.sh/u/4765794) | 1312.60 | 6 |
-| 2690 | [TayGames](https://osu.ppy.sh/u/5667763) | 1312.17 | 6 |
-| 2691 | [Arnold24x24](https://osu.ppy.sh/u/2291265) | 1311.43 | 5 |
-| 2692 | [ShaNai-](https://osu.ppy.sh/u/5992667) | 1311.32 | 7 |
-| 2693 | [Ginestg](https://osu.ppy.sh/u/3556012) | 1311.12 | 6 |
-| 2694 | [Krilex](https://osu.ppy.sh/u/4072191) | 1309.67 | 7 |
-| 2695 | [DiarK](https://osu.ppy.sh/u/2302569) | 1309.32 | 6 |
-| 2696 | [plaatinum](https://osu.ppy.sh/u/3385566) | 1303.50 | 6 |
-| 2697 | [ItsSoby](https://osu.ppy.sh/u/3479190) | 1302.14 | 7 |
-| 2698 | [Rampage](https://osu.ppy.sh/u/4068611) | 1301.97 | 7 |
-| 2699 | [[Frost]](https://osu.ppy.sh/u/2473265) | 1300.10 | 7 |
-| 2700 | [Shyhna](https://osu.ppy.sh/u/2967977) | 1299.51 | 8 |
-| 2701 | [[ Raito ]](https://osu.ppy.sh/u/2635960) | 1299.39 | 6 |
-| 2702 | [Bruh](https://osu.ppy.sh/u/3461705) | 1299.31 | 7 |
-| 2703 | [Almyt](https://osu.ppy.sh/u/6430025) | 1298.29 | 7 |
-| 2704 | [iOniigiri](https://osu.ppy.sh/u/3806706) | 1297.37 | 5 |
-| 2705 | [Fichi](https://osu.ppy.sh/u/6437445) | 1297.34 | 7 |
-| 2706 | [Suminoze](https://osu.ppy.sh/u/5308780) | 1294.23 | 6 |
-| 2707 | [AdveNt](https://osu.ppy.sh/u/592971) | 1294.08 | 5 |
-| 2708 | [-Angra Mainyu-](https://osu.ppy.sh/u/4913631) | 1293.40 | 8 |
-| 2709 | [Aizen](https://osu.ppy.sh/u/7789239) | 1292.79 | 6 |
-| 2710 | [Tarix](https://osu.ppy.sh/u/2610433) | 1291.84 | 5 |
-| 2711 | [Kuro Fuyusaki](https://osu.ppy.sh/u/2667496) | 1291.31 | 7 |
-| 2712 | [Bless](https://osu.ppy.sh/u/229654) | 1290.42 | 7 |
-| 2713 | [Nexius](https://osu.ppy.sh/u/5166438) | 1290.39 | 8 |
-| 2714 | [xarathas](https://osu.ppy.sh/u/3551117) | 1290.13 | 7 |
-| 2715 | [a happy doge](https://osu.ppy.sh/u/3106249) | 1289.56 | 7 |
-| 2716 | [DrakesDragon](https://osu.ppy.sh/u/3423408) | 1287.60 | 8 |
-| 2717 | [BlueSky-](https://osu.ppy.sh/u/6410154) | 1286.79 | 5 |
-| 2718 | [Mikako](https://osu.ppy.sh/u/2676427) | 1286.50 | 7 |
-| 2719 | [Naruhodo](https://osu.ppy.sh/u/1986262) | 1285.70 | 4 |
-| 2720 | [Fratziii](https://osu.ppy.sh/u/3736075) | 1285.46 | 6 |
-| 2721 | [T-lex](https://osu.ppy.sh/u/1008703) | 1285.09 | 5 |
-| 2722 | [zMiizu](https://osu.ppy.sh/u/3493696) | 1284.06 | 7 |
-| 2723 | [Kumano](https://osu.ppy.sh/u/3802286) | 1281.84 | 5 |
-| 2724 | [DPL](https://osu.ppy.sh/u/3024454) | 1281.39 | 5 |
-| 2725 | [Kaanibaru](https://osu.ppy.sh/u/3117824) | 1281.38 | 4 |
-| 2726 | [Ponoyoshi](https://osu.ppy.sh/u/4610047) | 1281.35 | 6 |
-| 2727 | [LifeTree](https://osu.ppy.sh/u/5309981) | 1280.64 | 8 |
-| 2728 | [nyanmi-1828](https://osu.ppy.sh/u/6866480) | 1280.55 | 10 |
-| 2729 | [IRise](https://osu.ppy.sh/u/3881275) | 1280.23 | 6 |
-| 2730 | [First Love](https://osu.ppy.sh/u/3905273) | 1276.62 | 6 |
-| 2731 | [MakePastaNotWar](https://osu.ppy.sh/u/3849404) | 1276.60 | 8 |
-| 2732 | [TNGStorM](https://osu.ppy.sh/u/3163495) | 1276.27 | 5 |
-| 2733 | [FlashLight](https://osu.ppy.sh/u/2055807) | 1274.98 | 8 |
-| 2734 | [[ EvilePat ]](https://osu.ppy.sh/u/2789063) | 1273.50 | 8 |
-| 2735 | [Auji](https://osu.ppy.sh/u/4114438) | 1272.82 | 4 |
-| 2736 | [Titan W](https://osu.ppy.sh/u/5080462) | 1272.57 | 6 |
-| 2737 | [xRaigekix](https://osu.ppy.sh/u/2129816) | 1270.03 | 5 |
-| 2738 | [Rishe](https://osu.ppy.sh/u/5043454) | 1268.65 | 7 |
-| 2739 | [Shiimara](https://osu.ppy.sh/u/4672061) | 1268.60 | 6 |
-| 2740 | [ranses666](https://osu.ppy.sh/u/5221639) | 1268.45 | 6 |
-| 2741 | [YesTak](https://osu.ppy.sh/u/7311057) | 1263.94 | 6 |
-| 2742 | [XZ19](https://osu.ppy.sh/u/1656340) | 1262.57 | 5 |
-| 2743 | [NotTheRealJohn](https://osu.ppy.sh/u/6395214) | 1261.99 | 6 |
-| 2744 | [CatBagasm](https://osu.ppy.sh/u/6351962) | 1261.01 | 6 |
-| 2745 | [zasq112](https://osu.ppy.sh/u/4786393) | 1260.05 | 7 |
-| 2746 | [gman](https://osu.ppy.sh/u/3408715) | 1260.00 | 7 |
-| 2747 | [yuuki999](https://osu.ppy.sh/u/4336699) | 1259.79 | 7 |
-| 2748 | [Nicholas](https://osu.ppy.sh/u/2214351) | 1259.22 | 8 |
-| 2749 | [aoto0813](https://osu.ppy.sh/u/3162741) | 1257.46 | 5 |
-| 2750 | [Nicekenny](https://osu.ppy.sh/u/2405669) | 1257.08 | 5 |
-| 2751 | [-LoliCore-](https://osu.ppy.sh/u/640575) | 1255.39 | 5 |
-| 2752 | [Megami Aqua](https://osu.ppy.sh/u/3682852) | 1254.86 | 5 |
-| 2753 | [Ayucchi](https://osu.ppy.sh/u/7823498) | 1254.18 | 7 |
-| 2754 | [Asunamaru](https://osu.ppy.sh/u/4507179) | 1253.94 | 5 |
-| 2755 | [Abrown516](https://osu.ppy.sh/u/3345466) | 1253.77 | 6 |
-| 2756 | [jean11killer](https://osu.ppy.sh/u/5238661) | 1253.19 | 7 |
-| 2757 | [Greeney](https://osu.ppy.sh/u/6880168) | 1251.76 | 7 |
-| 2758 | [NISSAN001](https://osu.ppy.sh/u/4352977) | 1251.72 | 7 |
-| 2759 | [Bockara](https://osu.ppy.sh/u/3392405) | 1251.11 | 6 |
-| 2760 | [W A R I](https://osu.ppy.sh/u/2263723) | 1250.77 | 6 |
-| 2761 | [Lita](https://osu.ppy.sh/u/1468578) | 1248.50 | 5 |
-| 2762 | [LeeSinOrAfk](https://osu.ppy.sh/u/3381370) | 1247.30 | 5 |
-| 2763 | [Saya-Eternal](https://osu.ppy.sh/u/2865291) | 1246.39 | 5 |
-| 2764 | [PyNe](https://osu.ppy.sh/u/3157567) | 1243.49 | 8 |
-| 2765 | [Uxnij](https://osu.ppy.sh/u/3212155) | 1243.26 | 8 |
-| 2766 | [Finjaninja](https://osu.ppy.sh/u/997906) | 1241.56 | 9 |
-| 2767 | [Truite](https://osu.ppy.sh/u/6145547) | 1240.80 | 7 |
-| 2768 | [pielak213](https://osu.ppy.sh/u/310455) | 1240.77 | 5 |
-| 2769 | [Papika](https://osu.ppy.sh/u/6048741) | 1240.24 | 7 |
-| 2770 | [Lolisim](https://osu.ppy.sh/u/5623417) | 1239.68 | 4 |
-| 2771 | [Swiftaay](https://osu.ppy.sh/u/3562137) | 1239.30 | 5 |
-| 2772 | [wobeinimacao](https://osu.ppy.sh/u/350723) | 1239.19 | 4 |
-| 2773 | [w8212887](https://osu.ppy.sh/u/2253195) | 1238.71 | 6 |
-| 2774 | [Gshp_Szk](https://osu.ppy.sh/u/1461481) | 1238.58 | 5 |
-| 2775 | [Ulquiorra](https://osu.ppy.sh/u/4783153) | 1238.57 | 6 |
-| 2776 | [Yunomi](https://osu.ppy.sh/u/4369739) | 1237.26 | 5 |
-| 2777 | [EnEMy](https://osu.ppy.sh/u/476757) | 1236.37 | 5 |
-| 2778 | [Down](https://osu.ppy.sh/u/4694602) | 1234.83 | 6 |
-| 2779 | [kennyyam](https://osu.ppy.sh/u/1225459) | 1234.64 | 5 |
-| 2780 | [Sharuru](https://osu.ppy.sh/u/3436126) | 1232.50 | 7 |
-| 2781 | [Circular](https://osu.ppy.sh/u/4514908) | 1231.24 | 7 |
-| 2782 | [Goobiz](https://osu.ppy.sh/u/3560573) | 1227.81 | 5 |
-| 2783 | [swtk](https://osu.ppy.sh/u/3775259) | 1226.78 | 7 |
-| 2784 | [Curse](https://osu.ppy.sh/u/4596906) | 1226.21 | 5 |
-| 2785 | [momura](https://osu.ppy.sh/u/5390182) | 1226.06 | 5 |
-| 2786 | [LosingCrayon](https://osu.ppy.sh/u/4710974) | 1224.97 | 5 |
-| 2787 | [Sniff](https://osu.ppy.sh/u/1161243) | 1224.78 | 7 |
-| 2788 | [Fon](https://osu.ppy.sh/u/2824988) | 1222.52 | 7 |
-| 2789 | [MrCrowley](https://osu.ppy.sh/u/5720463) | 1222.30 | 8 |
-| 2790 | [[ ZhengS ]](https://osu.ppy.sh/u/2671317) | 1220.61 | 4 |
-| 2791 | [Tatoe](https://osu.ppy.sh/u/5219551) | 1219.16 | 6 |
-| 2792 | [- -](https://osu.ppy.sh/u/3794345) | 1217.77 | 5 |
-| 2793 | [____](https://osu.ppy.sh/u/2748546) | 1215.86 | 7 |
-| 2794 | [ExpertBOT](https://osu.ppy.sh/u/2378346) | 1214.68 | 4 |
-| 2795 | [Chaoslitz](https://osu.ppy.sh/u/3621552) | 1214.56 | 4 |
-| 2796 | [pshxe](https://osu.ppy.sh/u/7753330) | 1214.08 | 7 |
-| 2797 | [Satao](https://osu.ppy.sh/u/1822784) | 1212.89 | 7 |
-| 2798 | [Sir Teapot](https://osu.ppy.sh/u/5482531) | 1212.33 | 7 |
-| 2799 | [-R_](https://osu.ppy.sh/u/7633616) | 1210.63 | 7 |
-| 2800 | [872316468](https://osu.ppy.sh/u/3504594) | 1210.23 | 4 |
-| 2801 | [lil04](https://osu.ppy.sh/u/5836013) | 1209.10 | 7 |
-| 2802 | [Logic Agent](https://osu.ppy.sh/u/6341262) | 1209.00 | 6 |
-| 2803 | [namewithnumber9](https://osu.ppy.sh/u/5867839) | 1207.42 | 5 |
-| 2804 | [Flizzzan](https://osu.ppy.sh/u/6743402) | 1207.12 | 6 |
-| 2805 | [Daramar](https://osu.ppy.sh/u/3522442) | 1206.32 | 6 |
-| 2806 | [Illya love](https://osu.ppy.sh/u/3366708) | 1202.64 | 5 |
-| 2807 | [Aswababa](https://osu.ppy.sh/u/2475730) | 1202.53 | 6 |
-| 2808 | [[Kergio]](https://osu.ppy.sh/u/5404081) | 1202.35 | 7 |
-| 2809 | [DeltavKosmiic](https://osu.ppy.sh/u/6252221) | 1200.91 | 7 |
-| 2810 | [Miucs](https://osu.ppy.sh/u/2364169) | 1200.84 | 5 |
-| 2811 | [Falling Snow](https://osu.ppy.sh/u/4268722) | 1197.36 | 5 |
-| 2812 | [RobotTermite](https://osu.ppy.sh/u/2713287) | 1197.08 | 6 |
-| 2813 | [Pana](https://osu.ppy.sh/u/2655062) | 1196.34 | 6 |
-| 2814 | [- Ryuujou -](https://osu.ppy.sh/u/4737169) | 1195.97 | 5 |
-| 2815 | [sonuvabetch](https://osu.ppy.sh/u/4447977) | 1193.00 | 6 |
-| 2816 | [Josh14](https://osu.ppy.sh/u/5312333) | 1192.48 | 5 |
-| 2817 | [winber1](https://osu.ppy.sh/u/270328) | 1192.39 | 6 |
-| 2818 | [DrakRainbow](https://osu.ppy.sh/u/1320231) | 1191.30 | 5 |
-| 2819 | [-Lemons](https://osu.ppy.sh/u/1779680) | 1191.24 | 7 |
-| 2820 | [Ulti](https://osu.ppy.sh/u/1839540) | 1190.37 | 6 |
-| 2821 | [Eyr](https://osu.ppy.sh/u/4354977) | 1190.35 | 5 |
-| 2822 | [Amamiya Mayuri](https://osu.ppy.sh/u/6347283) | 1189.31 | 5 |
-| 2823 | [Amatsukaze](https://osu.ppy.sh/u/4844496) | 1189.30 | 6 |
-| 2824 | [yoshiFTW69](https://osu.ppy.sh/u/6708955) | 1188.38 | 6 |
-| 2825 | [Azxrni](https://osu.ppy.sh/u/6141826) | 1187.28 | 5 |
-| 2826 | [islatc](https://osu.ppy.sh/u/4524081) | 1186.07 | 8 |
-| 2827 | [Reo](https://osu.ppy.sh/u/2249297) | 1185.59 | 6 |
-| 2828 | [[ Hisoka ]](https://osu.ppy.sh/u/4406973) | 1185.04 | 6 |
-| 2829 | [Menthuthuyoupi](https://osu.ppy.sh/u/2715937) | 1184.86 | 4 |
-| 2830 | [ghosty98](https://osu.ppy.sh/u/4681038) | 1184.60 | 6 |
-| 2831 | [Materix](https://osu.ppy.sh/u/2065416) | 1184.55 | 5 |
-| 2832 | [IProPenguin](https://osu.ppy.sh/u/3849313) | 1183.89 | 7 |
-| 2833 | [whuppo](https://osu.ppy.sh/u/2064234) | 1183.87 | 5 |
-| 2834 | [Krallee](https://osu.ppy.sh/u/3848711) | 1183.86 | 7 |
-| 2835 | [Brickleri](https://osu.ppy.sh/u/6211190) | 1183.12 | 6 |
-| 2836 | [Im so mad bro](https://osu.ppy.sh/u/2664682) | 1183.12 | 5 |
-| 2837 | [Cynosure](https://osu.ppy.sh/u/4219530) | 1182.98 | 5 |
-| 2838 | [Tsubajashi](https://osu.ppy.sh/u/4513500) | 1182.05 | 5 |
-| 2839 | [Akemi Yume](https://osu.ppy.sh/u/5814737) | 1181.37 | 5 |
-| 2840 | [Rezlyy](https://osu.ppy.sh/u/4946619) | 1181.28 | 6 |
-| 2841 | [Kenshin](https://osu.ppy.sh/u/4452066) | 1180.07 | 5 |
-| 2842 | [Red_Pixel](https://osu.ppy.sh/u/4170932) | 1179.58 | 3 |
-| 2843 | [Jnasty](https://osu.ppy.sh/u/3728157) | 1179.36 | 6 |
-| 2844 | [Skyzo](https://osu.ppy.sh/u/2271722) | 1179.06 | 5 |
-| 2845 | [Pyrek](https://osu.ppy.sh/u/4123770) | 1178.12 | 7 |
-| 2846 | [lingonberra](https://osu.ppy.sh/u/1659008) | 1177.98 | 6 |
-| 2847 | [Small New](https://osu.ppy.sh/u/1384874) | 1176.85 | 6 |
-| 2848 | [Zeltcon](https://osu.ppy.sh/u/3630130) | 1176.22 | 6 |
-| 2849 | [Baustein](https://osu.ppy.sh/u/950517) | 1173.91 | 6 |
-| 2850 | [Element22](https://osu.ppy.sh/u/6195814) | 1172.71 | 6 |
-| 2851 | [Sh4k4L](https://osu.ppy.sh/u/3499990) | 1168.43 | 5 |
-| 2852 | [Suo](https://osu.ppy.sh/u/1314251) | 1167.86 | 6 |
-| 2853 | [YeeI](https://osu.ppy.sh/u/6162099) | 1167.52 | 6 |
-| 2854 | [Heibel](https://osu.ppy.sh/u/983000) | 1167.22 | 6 |
-| 2855 | [erikreki](https://osu.ppy.sh/u/4042277) | 1166.61 | 6 |
-| 2856 | [[ Renekton ]](https://osu.ppy.sh/u/6818003) | 1166.59 | 6 |
-| 2857 | [markii](https://osu.ppy.sh/u/3049046) | 1166.00 | 5 |
-| 2858 | [pyrowar56](https://osu.ppy.sh/u/5330236) | 1165.17 | 4 |
-| 2859 | [K47](https://osu.ppy.sh/u/1730835) | 1163.10 | 5 |
-| 2860 | [Paint-Tool](https://osu.ppy.sh/u/4637208) | 1163.02 | 5 |
-| 2861 | [Barciok](https://osu.ppy.sh/u/3228370) | 1162.84 | 7 |
-| 2862 | [Xuteris](https://osu.ppy.sh/u/4720139) | 1162.26 | 5 |
-| 2863 | [Juan_Domingo](https://osu.ppy.sh/u/6518157) | 1162.11 | 6 |
-| 2864 | [odenrod_mkw](https://osu.ppy.sh/u/3216445) | 1160.44 | 5 |
-| 2865 | [ExImperia](https://osu.ppy.sh/u/5200499) | 1160.34 | 6 |
-| 2866 | [Like_Rin](https://osu.ppy.sh/u/7472104) | 1158.05 | 6 |
-| 2867 | [Papa Panya](https://osu.ppy.sh/u/3587033) | 1158.05 | 5 |
-| 2868 | [Randomly132](https://osu.ppy.sh/u/6037085) | 1157.97 | 6 |
-| 2869 | [Kotori-Chan](https://osu.ppy.sh/u/4060979) | 1157.61 | 7 |
-| 2870 | [AlpacaPrime](https://osu.ppy.sh/u/3113531) | 1157.30 | 7 |
-| 2871 | [w040](https://osu.ppy.sh/u/4109839) | 1157.04 | 7 |
-| 2872 | [TitanOuranus](https://osu.ppy.sh/u/3976115) | 1156.87 | 6 |
-| 2873 | [pepebope](https://osu.ppy.sh/u/2211718) | 1155.98 | 6 |
-| 2874 | [Supy](https://osu.ppy.sh/u/441249) | 1154.20 | 6 |
-| 2875 | [Seraxis](https://osu.ppy.sh/u/5068922) | 1152.35 | 6 |
-| 2876 | [___--___](https://osu.ppy.sh/u/4803415) | 1152.27 | 6 |
-| 2877 | [Yelloworange](https://osu.ppy.sh/u/809793) | 1150.73 | 5 |
-| 2878 | [Noiraku](https://osu.ppy.sh/u/1151469) | 1150.51 | 4 |
-| 2879 | [PiPikacz](https://osu.ppy.sh/u/4643569) | 1149.46 | 8 |
-| 2880 | [-Kirrua-](https://osu.ppy.sh/u/1215681) | 1149.40 | 6 |
-| 2881 | [Iluvatars](https://osu.ppy.sh/u/2776734) | 1148.92 | 7 |
-| 2882 | [Grewor](https://osu.ppy.sh/u/6379623) | 1148.77 | 6 |
-| 2883 | [qwr](https://osu.ppy.sh/u/3139598) | 1147.86 | 5 |
-| 2884 | [Dereban](https://osu.ppy.sh/u/4882979) | 1147.79 | 4 |
-| 2885 | [Aknano](https://osu.ppy.sh/u/2832092) | 1147.53 | 6 |
-| 2886 | [rebygodd](https://osu.ppy.sh/u/7238020) | 1147.22 | 7 |
-| 2887 | [lndex](https://osu.ppy.sh/u/2038320) | 1146.96 | 4 |
-| 2888 | [xna](https://osu.ppy.sh/u/3363743) | 1146.93 | 5 |
-| 2889 | [Vaizawsze](https://osu.ppy.sh/u/7219510) | 1146.63 | 7 |
-| 2890 | [[ Aether ]](https://osu.ppy.sh/u/3909969) | 1146.58 | 7 |
-| 2891 | [Shelbis](https://osu.ppy.sh/u/2639159) | 1145.77 | 4 |
-| 2892 | [Bolachazi](https://osu.ppy.sh/u/3660954) | 1145.34 | 6 |
-| 2893 | [Cossco](https://osu.ppy.sh/u/5177877) | 1144.62 | 6 |
-| 2894 | [-shunino-](https://osu.ppy.sh/u/1063633) | 1143.95 | 7 |
-| 2895 | [karalis](https://osu.ppy.sh/u/3146018) | 1143.24 | 4 |
-| 2896 | [DonnieBrasco](https://osu.ppy.sh/u/8026384) | 1142.67 | 7 |
-| 2897 | [Mikoto](https://osu.ppy.sh/u/621553) | 1141.85 | 4 |
-| 2898 | [Alumetorz](https://osu.ppy.sh/u/1145984) | 1140.95 | 3 |
-| 2899 | [-Miky-](https://osu.ppy.sh/u/5229124) | 1138.21 | 5 |
-| 2900 | [yuuchao](https://osu.ppy.sh/u/859049) | 1137.76 | 5 |
-| 2901 | [Ais](https://osu.ppy.sh/u/3750506) | 1137.73 | 5 |
-| 2902 | [Husk](https://osu.ppy.sh/u/3578707) | 1137.43 | 4 |
-| 2903 | [Adqua](https://osu.ppy.sh/u/5337109) | 1137.34 | 5 |
-| 2904 | [xXZeRoXXx](https://osu.ppy.sh/u/4138785) | 1137.09 | 7 |
-| 2905 | [xierbaliti](https://osu.ppy.sh/u/34044) | 1136.65 | 6 |
-| 2906 | [Kishidle](https://osu.ppy.sh/u/3518149) | 1135.26 | 5 |
-| 2907 | [RaneFire](https://osu.ppy.sh/u/867939) | 1135.08 | 6 |
-| 2908 | [kyu-vox](https://osu.ppy.sh/u/2646777) | 1134.96 | 6 |
-| 2909 | [- Zero Knight -](https://osu.ppy.sh/u/1070783) | 1134.61 | 5 |
-| 2910 | [su11201130](https://osu.ppy.sh/u/4641801) | 1132.82 | 6 |
-| 2911 | [alkalde](https://osu.ppy.sh/u/7314046) | 1128.69 | 6 |
-| 2912 | [Plaudible](https://osu.ppy.sh/u/7149815) | 1127.82 | 6 |
-| 2913 | [pp447576](https://osu.ppy.sh/u/4196943) | 1127.00 | 5 |
-| 2914 | [HaloMaster96](https://osu.ppy.sh/u/4564333) | 1125.82 | 5 |
-| 2915 | [Jordan](https://osu.ppy.sh/u/618549) | 1125.69 | 5 |
-| 2916 | [BigBadWolf](https://osu.ppy.sh/u/2316176) | 1125.58 | 6 |
-| 2917 | [noahvoasen](https://osu.ppy.sh/u/4320116) | 1124.11 | 5 |
-| 2918 | [Usak Kak](https://osu.ppy.sh/u/6206809) | 1124.00 | 6 |
-| 2919 | [Bakaa](https://osu.ppy.sh/u/5047460) | 1123.99 | 6 |
-| 2920 | [Darkrai](https://osu.ppy.sh/u/2077966) | 1123.29 | 7 |
-| 2921 | [Nap4d](https://osu.ppy.sh/u/3590279) | 1122.61 | 6 |
-| 2922 | [sjw5809](https://osu.ppy.sh/u/939560) | 1120.00 | 5 |
-| 2923 | [Onecat](https://osu.ppy.sh/u/3356260) | 1119.79 | 6 |
-| 2924 | [Stepajke](https://osu.ppy.sh/u/6929728) | 1118.31 | 5 |
-| 2925 | [Palivion](https://osu.ppy.sh/u/2491743) | 1116.98 | 4 |
-| 2926 | [Briitz](https://osu.ppy.sh/u/8516412) | 1116.74 | 6 |
-| 2927 | [- Shiro -](https://osu.ppy.sh/u/1946575) | 1116.18 | 6 |
-| 2928 | [-Slashy](https://osu.ppy.sh/u/1725223) | 1114.52 | 5 |
-| 2929 | [Kaillera](https://osu.ppy.sh/u/495711) | 1114.39 | 6 |
-| 2930 | [Naturiam](https://osu.ppy.sh/u/2587856) | 1114.38 | 7 |
-| 2931 | [OnySloth](https://osu.ppy.sh/u/4715749) | 1114.35 | 6 |
-| 2932 | [those](https://osu.ppy.sh/u/557166) | 1113.89 | 7 |
-| 2933 | [Emub](https://osu.ppy.sh/u/4337359) | 1112.39 | 4 |
-| 2934 | [Bass](https://osu.ppy.sh/u/63829) | 1112.20 | 5 |
-| 2935 | [xxxTREME](https://osu.ppy.sh/u/796613) | 1111.97 | 5 |
-| 2936 | [mitei33](https://osu.ppy.sh/u/1727578) | 1111.68 | 5 |
-| 2937 | [Quelka](https://osu.ppy.sh/u/2519279) | 1111.67 | 6 |
-| 2938 | [alvicala](https://osu.ppy.sh/u/1570402) | 1111.17 | 7 |
-| 2939 | [CyberX](https://osu.ppy.sh/u/2156370) | 1110.64 | 6 |
-| 2940 | [Fumiko-](https://osu.ppy.sh/u/4360439) | 1110.41 | 4 |
-| 2941 | [Jagester](https://osu.ppy.sh/u/6284683) | 1109.71 | 6 |
-| 2942 | [epowertheif](https://osu.ppy.sh/u/4551319) | 1109.53 | 6 |
-| 2943 | [Birdbeak](https://osu.ppy.sh/u/718742) | 1105.69 | 6 |
-| 2944 | [Aranaya](https://osu.ppy.sh/u/817904) | 1104.55 | 5 |
-| 2945 | [mattpk](https://osu.ppy.sh/u/55761) | 1104.31 | 5 |
-| 2946 | [Hsuan_han](https://osu.ppy.sh/u/2229982) | 1103.92 | 5 |
-| 2947 | [Jennya](https://osu.ppy.sh/u/4177476) | 1103.42 | 6 |
-| 2948 | [gaston_2199](https://osu.ppy.sh/u/5938161) | 1103.01 | 6 |
-| 2949 | [okounator](https://osu.ppy.sh/u/4856521) | 1102.59 | 6 |
-| 2950 | [Sedinar](https://osu.ppy.sh/u/7596181) | 1101.82 | 6 |
-| 2951 | [Dzui](https://osu.ppy.sh/u/2706417) | 1101.40 | 4 |
-| 2952 | [Puzzle](https://osu.ppy.sh/u/1814307) | 1100.07 | 5 |
-| 2953 | [Hantsuki](https://osu.ppy.sh/u/3660794) | 1099.33 | 5 |
-| 2954 | [Guffie](https://osu.ppy.sh/u/6076451) | 1099.09 | 5 |
-| 2955 | [Woody11](https://osu.ppy.sh/u/5731507) | 1098.90 | 5 |
-| 2956 | [xerioc042034](https://osu.ppy.sh/u/4617060) | 1098.77 | 6 |
-| 2957 | [Butterfly](https://osu.ppy.sh/u/540373) | 1098.15 | 5 |
-| 2958 | [rni](https://osu.ppy.sh/u/3306558) | 1097.96 | 7 |
-| 2959 | [FlySlime](https://osu.ppy.sh/u/3876402) | 1097.62 | 5 |
-| 2960 | [Yellow Opera](https://osu.ppy.sh/u/2699330) | 1097.09 | 5 |
-| 2961 | [Xytic](https://osu.ppy.sh/u/4098109) | 1096.07 | 6 |
-| 2962 | [Rika_Desu](https://osu.ppy.sh/u/2595374) | 1096.05 | 5 |
-| 2963 | [[InoriYuzuriha]](https://osu.ppy.sh/u/3117823) | 1095.89 | 5 |
-| 2964 | [markeRus](https://osu.ppy.sh/u/967984) | 1093.97 | 6 |
-| 2965 | [mackapear](https://osu.ppy.sh/u/3262646) | 1092.05 | 7 |
-| 2966 | [Velstadt](https://osu.ppy.sh/u/6209095) | 1091.68 | 5 |
-| 2967 | [wanda18](https://osu.ppy.sh/u/372900) | 1091.53 | 6 |
-| 2968 | [White_sou](https://osu.ppy.sh/u/1687932) | 1091.16 | 6 |
-| 2969 | [muratania](https://osu.ppy.sh/u/1968056) | 1091.04 | 5 |
-| 2970 | [Fizim](https://osu.ppy.sh/u/2749019) | 1090.97 | 6 |
-| 2971 | [Furry Wolf](https://osu.ppy.sh/u/3945332) | 1090.89 | 8 |
-| 2972 | [- Wrath -](https://osu.ppy.sh/u/2387294) | 1090.27 | 6 |
-| 2973 | [Mont](https://osu.ppy.sh/u/5108094) | 1090.04 | 4 |
-| 2974 | [SakuraDays](https://osu.ppy.sh/u/5578003) | 1089.99 | 7 |
-| 2975 | [Snowio](https://osu.ppy.sh/u/2087761) | 1089.84 | 4 |
-| 2976 | [Elisa](https://osu.ppy.sh/u/347661) | 1087.88 | 6 |
-| 2977 | [Dip](https://osu.ppy.sh/u/7141372) | 1084.14 | 5 |
-| 2978 | [Ayai-](https://osu.ppy.sh/u/4393641) | 1083.13 | 6 |
-| 2979 | [spookali](https://osu.ppy.sh/u/5587075) | 1082.68 | 6 |
-| 2980 | [[- ArmeHz -]](https://osu.ppy.sh/u/4085933) | 1082.36 | 5 |
-| 2981 | [bldoggy51](https://osu.ppy.sh/u/2192611) | 1081.80 | 5 |
-| 2982 | [Saix](https://osu.ppy.sh/u/1713861) | 1081.63 | 4 |
-| 2983 | [MajcherM](https://osu.ppy.sh/u/1521012) | 1081.62 | 6 |
-| 2984 | [Skidayo](https://osu.ppy.sh/u/3611401) | 1081.57 | 5 |
-| 2985 | [Izayoi Sakuya](https://osu.ppy.sh/u/2009488) | 1080.89 | 6 |
-| 2986 | [Dayter](https://osu.ppy.sh/u/5851587) | 1080.38 | 6 |
-| 2987 | [Snicers](https://osu.ppy.sh/u/4558243) | 1079.94 | 6 |
-| 2988 | [K-Rebu](https://osu.ppy.sh/u/3798482) | 1079.82 | 4 |
-| 2989 | [Black Lotus](https://osu.ppy.sh/u/981591) | 1079.55 | 5 |
-| 2990 | [jackisgone](https://osu.ppy.sh/u/2412561) | 1078.07 | 5 |
-| 2991 | [Elsly](https://osu.ppy.sh/u/2938964) | 1077.54 | 5 |
-| 2992 | [Ainyannnnn](https://osu.ppy.sh/u/2250475) | 1077.42 | 4 |
-| 2993 | [Emylia](https://osu.ppy.sh/u/7464885) | 1077.17 | 5 |
-| 2994 | [doKXiD](https://osu.ppy.sh/u/1096299) | 1075.94 | 6 |
-| 2995 | [Okatsu_k](https://osu.ppy.sh/u/4862580) | 1075.40 | 6 |
-| 2996 | [Gebhuza](https://osu.ppy.sh/u/3213806) | 1074.33 | 5 |
-| 2997 | [Zephyr IND](https://osu.ppy.sh/u/6482392) | 1072.53 | 6 |
-| 2998 | [troufignolle](https://osu.ppy.sh/u/463570) | 1072.16 | 6 |
-| 2999 | [iWumpZ](https://osu.ppy.sh/u/6574658) | 1071.29 | 7 |
-| 3000 | [Rikolino-kun](https://osu.ppy.sh/u/4909212) | 1070.84 | 6 |
-| 3001 | [Mind](https://osu.ppy.sh/u/4174825) | 1070.69 | 4 |
-| 3002 | [r3dkid747](https://osu.ppy.sh/u/3665653) | 1069.15 | 6 |
-| 3003 | [Rookie](https://osu.ppy.sh/u/4292592) | 1068.29 | 5 |
-| 3004 | [-Romantic-](https://osu.ppy.sh/u/4142361) | 1067.42 | 5 |
-| 3005 | [Chuquebecois](https://osu.ppy.sh/u/4528078) | 1067.25 | 4 |
-| 3006 | [M0chiyan](https://osu.ppy.sh/u/4370557) | 1066.44 | 5 |
-| 3007 | [KoaLeahq](https://osu.ppy.sh/u/4321876) | 1066.14 | 4 |
-| 3008 | [Spook](https://osu.ppy.sh/u/2232928) | 1064.96 | 3 |
-| 3009 | [KING MAT 050](https://osu.ppy.sh/u/4820429) | 1064.41 | 5 |
-| 3010 | [Hotaruduka Yuno](https://osu.ppy.sh/u/6590318) | 1064.35 | 4 |
-| 3011 | [moweh](https://osu.ppy.sh/u/3777247) | 1064.19 | 6 |
-| 3012 | [moyashiPA](https://osu.ppy.sh/u/4578609) | 1063.94 | 5 |
-| 3013 | [Ultimate-Igniz](https://osu.ppy.sh/u/3222191) | 1063.51 | 4 |
-| 3014 | [Dapent](https://osu.ppy.sh/u/900315) | 1062.96 | 5 |
-| 3015 | [Lucas TW](https://osu.ppy.sh/u/3050252) | 1062.42 | 5 |
-| 3016 | [stanley021039](https://osu.ppy.sh/u/2066374) | 1062.04 | 4 |
-| 3017 | [sykablyat](https://osu.ppy.sh/u/6416790) | 1061.57 | 5 |
-| 3018 | [Tristixiam](https://osu.ppy.sh/u/3630184) | 1061.55 | 6 |
-| 3019 | [Masala](https://osu.ppy.sh/u/4846749) | 1059.12 | 5 |
-| 3020 | [[Vincent]](https://osu.ppy.sh/u/1807125) | 1058.30 | 5 |
-| 3021 | [Timpai](https://osu.ppy.sh/u/5054798) | 1057.32 | 4 |
-| 3022 | [Puag](https://osu.ppy.sh/u/7092445) | 1056.41 | 5 |
-| 3023 | [Jensen](https://osu.ppy.sh/u/4719055) | 1056.20 | 5 |
-| 3024 | [Hi Im Sasi](https://osu.ppy.sh/u/4699226) | 1055.46 | 6 |
-| 3025 | [Beamaxed](https://osu.ppy.sh/u/6672998) | 1053.67 | 5 |
-| 3026 | [Sad Senpie](https://osu.ppy.sh/u/6952125) | 1053.62 | 4 |
-| 3027 | [Garpzz](https://osu.ppy.sh/u/4092961) | 1051.68 | 5 |
-| 3028 | [-Ranndom-](https://osu.ppy.sh/u/5022536) | 1051.35 | 4 |
-| 3029 | [_Dozer](https://osu.ppy.sh/u/4243285) | 1049.43 | 6 |
-| 3030 | [GeBo](https://osu.ppy.sh/u/2855747) | 1049.42 | 5 |
-| 3031 | [sakurayl](https://osu.ppy.sh/u/1962156) | 1049.15 | 5 |
-| 3032 | [4ndr3w18](https://osu.ppy.sh/u/3075738) | 1049.12 | 5 |
-| 3033 | [Uncle Druidus](https://osu.ppy.sh/u/3043095) | 1048.85 | 5 |
-| 3034 | [SoRayZe](https://osu.ppy.sh/u/2969691) | 1048.27 | 4 |
-| 3035 | [Daanit](https://osu.ppy.sh/u/6159669) | 1047.47 | 5 |
-| 3036 | [Lithium](https://osu.ppy.sh/u/4720862) | 1047.45 | 6 |
-| 3037 | [sullzer](https://osu.ppy.sh/u/3648947) | 1046.92 | 5 |
-| 3038 | [mama2093](https://osu.ppy.sh/u/5028707) | 1046.18 | 6 |
-| 3039 | [SherlockST](https://osu.ppy.sh/u/4168613) | 1045.02 | 4 |
-| 3040 | [zelda101](https://osu.ppy.sh/u/4502238) | 1043.85 | 4 |
-| 3041 | [Disprolii](https://osu.ppy.sh/u/5286833) | 1043.59 | 6 |
-| 3042 | [lee82088](https://osu.ppy.sh/u/757038) | 1042.85 | 5 |
-| 3043 | [Pacze](https://osu.ppy.sh/u/2954937) | 1042.48 | 5 |
-| 3044 | [Cero](https://osu.ppy.sh/u/5464899) | 1041.54 | 6 |
-| 3045 | [ScrYpt](https://osu.ppy.sh/u/2432784) | 1041.06 | 5 |
-| 3046 | [SteakShadow](https://osu.ppy.sh/u/3292726) | 1040.51 | 5 |
-| 3047 | [John Cena](https://osu.ppy.sh/u/2958963) | 1039.52 | 5 |
-| 3048 | [MujouSekai](https://osu.ppy.sh/u/5412070) | 1039.25 | 5 |
-| 3049 | [YadanG](https://osu.ppy.sh/u/3307585) | 1038.47 | 5 |
-| 3050 | [Captain Sanae](https://osu.ppy.sh/u/6184795) | 1037.90 | 6 |
-| 3051 | [Nikarobin1](https://osu.ppy.sh/u/1504022) | 1037.14 | 7 |
-| 3052 | [Roro Rosset](https://osu.ppy.sh/u/673214) | 1036.83 | 4 |
-| 3053 | [Aoru-](https://osu.ppy.sh/u/3611871) | 1036.11 | 6 |
-| 3054 | [Blue Sky](https://osu.ppy.sh/u/2134282) | 1035.39 | 6 |
-| 3055 | [xRevz](https://osu.ppy.sh/u/6030938) | 1035.16 | 5 |
-| 3056 | [Corefish](https://osu.ppy.sh/u/4673998) | 1034.58 | 5 |
-| 3057 | [ThePooN](https://osu.ppy.sh/u/718454) | 1033.61 | 3 |
-| 3058 | [Blegie](https://osu.ppy.sh/u/6063132) | 1033.60 | 5 |
-| 3059 | [Ziggo](https://osu.ppy.sh/u/1472659) | 1032.98 | 5 |
-| 3060 | [SpiderKing9](https://osu.ppy.sh/u/6848002) | 1031.85 | 5 |
-| 3061 | [Shinjite](https://osu.ppy.sh/u/3720547) | 1031.70 | 6 |
-| 3062 | [BrajanPlay](https://osu.ppy.sh/u/5656665) | 1031.45 | 6 |
-| 3063 | [bullen8](https://osu.ppy.sh/u/6831611) | 1030.06 | 5 |
-| 3064 | [Vyteras](https://osu.ppy.sh/u/2560106) | 1029.70 | 5 |
-| 3065 | [[D3XTER]](https://osu.ppy.sh/u/2501012) | 1028.32 | 6 |
-| 3066 | [Lunah](https://osu.ppy.sh/u/1227377) | 1027.18 | 6 |
-| 3067 | [Nanahira](https://osu.ppy.sh/u/1704225) | 1026.77 | 6 |
-| 3068 | [Coffeezi](https://osu.ppy.sh/u/1141425) | 1025.07 | 7 |
-| 3069 | [- Auto -](https://osu.ppy.sh/u/4891293) | 1024.68 | 4 |
-| 3070 | [NoAim](https://osu.ppy.sh/u/4347912) | 1023.71 | 5 |
-| 3071 | [YaVOR](https://osu.ppy.sh/u/3235892) | 1023.04 | 5 |
-| 3072 | [waywern2012](https://osu.ppy.sh/u/5870453) | 1021.38 | 4 |
-| 3073 | [sefp](https://osu.ppy.sh/u/3194118) | 1021.33 | 4 |
-| 3074 | [imsleepy](https://osu.ppy.sh/u/2714196) | 1020.93 | 5 |
-| 3075 | [Squapple](https://osu.ppy.sh/u/6826036) | 1019.71 | 4 |
-| 3076 | [nuc](https://osu.ppy.sh/u/4938405) | 1018.64 | 5 |
-| 3077 | [- Eucliwood -](https://osu.ppy.sh/u/1587427) | 1017.45 | 4 |
-| 3078 | [dbok1234](https://osu.ppy.sh/u/1937697) | 1017.16 | 4 |
-| 3079 | [Ookami Astiria-](https://osu.ppy.sh/u/1538935) | 1016.54 | 5 |
-| 3080 | [--w--](https://osu.ppy.sh/u/4386042) | 1016.21 | 6 |
-| 3081 | [InhumanTadpole](https://osu.ppy.sh/u/2739070) | 1015.68 | 4 |
-| 3082 | [Popcorn4Lotra](https://osu.ppy.sh/u/4966424) | 1013.40 | 5 |
-| 3083 | [Shinobu Oshino](https://osu.ppy.sh/u/2985815) | 1012.25 | 5 |
-| 3084 | [Distracted](https://osu.ppy.sh/u/5586567) | 1010.63 | 5 |
-| 3085 | [FGSky](https://osu.ppy.sh/u/2094566) | 1010.51 | 5 |
-| 3086 | [KyoAni](https://osu.ppy.sh/u/6837619) | 1009.85 | 6 |
-| 3087 | [DraguinZZ](https://osu.ppy.sh/u/3976650) | 1008.69 | 5 |
-| 3088 | [Auxemia](https://osu.ppy.sh/u/234386) | 1007.48 | 5 |
-| 3089 | [Osu Pls](https://osu.ppy.sh/u/3446958) | 1006.95 | 5 |
-| 3090 | [Duskyui](https://osu.ppy.sh/u/4422457) | 1006.29 | 4 |
-| 3091 | [[ MILK_Jiang]](https://osu.ppy.sh/u/3066316) | 1005.69 | 4 |
-| 3092 | [Kroko95](https://osu.ppy.sh/u/1581661) | 1004.78 | 6 |
-| 3093 | [UnRealFigure](https://osu.ppy.sh/u/4383980) | 1003.28 | 5 |
-| 3094 | [pandabrah](https://osu.ppy.sh/u/3234795) | 1002.99 | 6 |
-| 3095 | [Oysto](https://osu.ppy.sh/u/2069444) | 1001.95 | 5 |
-| 3096 | [G4SH4](https://osu.ppy.sh/u/7192129) | 1000.30 | 4 |
-| 3097 | [Luke Lack Luck](https://osu.ppy.sh/u/2604803) | 999.44 | 5 |
-| 3098 | [PenEasy](https://osu.ppy.sh/u/2307484) | 999.17 | 5 |
-| 3099 | [Licht-](https://osu.ppy.sh/u/882636) | 999.17 | 5 |
-| 3100 | [-Lolisim-](https://osu.ppy.sh/u/5142960) | 998.96 | 4 |
-| 3101 | [Aux](https://osu.ppy.sh/u/6781741) | 998.57 | 5 |
-| 3102 | [RyeoCha](https://osu.ppy.sh/u/4479921) | 997.85 | 4 |
-| 3103 | [moppi_osaru](https://osu.ppy.sh/u/2935195) | 997.60 | 5 |
-| 3104 | [BomberONO](https://osu.ppy.sh/u/822050) | 997.54 | 6 |
-| 3105 | [Butlergunner](https://osu.ppy.sh/u/6031237) | 996.79 | 5 |
-| 3106 | [Jeby](https://osu.ppy.sh/u/3136279) | 994.78 | 5 |
-| 3107 | [NotTroll](https://osu.ppy.sh/u/2421785) | 994.47 | 5 |
-| 3108 | [FInist](https://osu.ppy.sh/u/1317418) | 991.82 | 6 |
-| 3109 | [mcmafia21](https://osu.ppy.sh/u/6459001) | 991.78 | 6 |
-| 3110 | [phtry](https://osu.ppy.sh/u/3394580) | 991.46 | 4 |
-| 3111 | [Taiitoo](https://osu.ppy.sh/u/1144822) | 989.06 | 4 |
-| 3112 | [RankoNim](https://osu.ppy.sh/u/2629756) | 987.59 | 4 |
-| 3113 | [-Alice](https://osu.ppy.sh/u/2916621) | 986.43 | 6 |
-| 3114 | [Linz9r](https://osu.ppy.sh/u/2613743) | 986.20 | 5 |
-| 3115 | [-Lucy-](https://osu.ppy.sh/u/1048423) | 986.05 | 3 |
-| 3116 | [Zombltche](https://osu.ppy.sh/u/6884723) | 985.61 | 4 |
-| 3117 | [Remco](https://osu.ppy.sh/u/2080000) | 985.39 | 4 |
-| 3118 | [Micaso](https://osu.ppy.sh/u/244291) | 985.28 | 5 |
-| 3119 | [My Angel Kitteh](https://osu.ppy.sh/u/1069783) | 983.85 | 5 |
-| 3120 | [Serena](https://osu.ppy.sh/u/756068) | 983.09 | 3 |
-| 3121 | [Loca the hooman](https://osu.ppy.sh/u/2642015) | 982.01 | 5 |
-| 3122 | [GRiZ-](https://osu.ppy.sh/u/3234149) | 980.45 | 5 |
-| 3123 | [Enoz](https://osu.ppy.sh/u/2797100) | 980.16 | 6 |
-| 3124 | [1346795](https://osu.ppy.sh/u/2156303) | 979.63 | 6 |
-| 3125 | [Claire Biscotti](https://osu.ppy.sh/u/2921457) | 977.70 | 6 |
-| 3126 | [Pikah](https://osu.ppy.sh/u/3674061) | 977.41 | 4 |
-| 3127 | [RIP](https://osu.ppy.sh/u/3499939) | 976.79 | 4 |
-| 3128 | [Ecliptus](https://osu.ppy.sh/u/3820504) | 976.49 | 4 |
-| 3129 | [simtom](https://osu.ppy.sh/u/622481) | 976.48 | 6 |
-| 3130 | [Gadmont](https://osu.ppy.sh/u/4203585) | 975.47 | 4 |
-| 3131 | [XYN](https://osu.ppy.sh/u/4962041) | 975.19 | 6 |
-| 3132 | [Maruyu](https://osu.ppy.sh/u/3003978) | 974.78 | 6 |
-| 3133 | [Kazuki Kazami](https://osu.ppy.sh/u/5280948) | 974.25 | 6 |
-| 3134 | [[ Zane ]](https://osu.ppy.sh/u/3517706) | 974.12 | 3 |
-| 3135 | [NH2-Suika](https://osu.ppy.sh/u/1904653) | 973.94 | 4 |
-| 3136 | [pudingkokoro](https://osu.ppy.sh/u/3822323) | 973.26 | 3 |
-| 3137 | [tachima](https://osu.ppy.sh/u/3420156) | 971.65 | 5 |
-| 3138 | [Axer-](https://osu.ppy.sh/u/4868278) | 971.42 | 4 |
-| 3139 | [Vamhi1337](https://osu.ppy.sh/u/6123428) | 970.48 | 4 |
-| 3140 | [gDragonW](https://osu.ppy.sh/u/4282555) | 969.08 | 4 |
-| 3141 | [PunkyBoy](https://osu.ppy.sh/u/67326) | 968.81 | 3 |
-| 3142 | [Hiranaka](https://osu.ppy.sh/u/4207811) | 967.82 | 4 |
-| 3143 | [Banana skin](https://osu.ppy.sh/u/1371409) | 967.43 | 5 |
-| 3144 | [-Urushihara-](https://osu.ppy.sh/u/6169195) | 967.43 | 5 |
-| 3145 | [Co0ola](https://osu.ppy.sh/u/3570611) | 967.37 | 4 |
-| 3146 | [viderizer](https://osu.ppy.sh/u/3448332) | 967.02 | 5 |
-| 3147 | [Alphabet](https://osu.ppy.sh/u/4879380) | 965.73 | 5 |
-| 3148 | [ChinesePerson](https://osu.ppy.sh/u/3926391) | 965.07 | 5 |
-| 3149 | [I Saber I](https://osu.ppy.sh/u/6360467) | 964.59 | 4 |
-| 3150 | [saremesucks](https://osu.ppy.sh/u/2266072) | 964.42 | 4 |
-| 3151 | [Dramilion](https://osu.ppy.sh/u/3058773) | 964.03 | 4 |
-| 3152 | [Grin F-11037](https://osu.ppy.sh/u/5688335) | 963.92 | 5 |
-| 3153 | [Jollumi](https://osu.ppy.sh/u/3059625) | 962.27 | 4 |
-| 3154 | [_Freedom](https://osu.ppy.sh/u/6526231) | 961.98 | 5 |
-| 3155 | [Klak Attack](https://osu.ppy.sh/u/3200731) | 960.90 | 5 |
-| 3156 | [Kittera](https://osu.ppy.sh/u/3960130) | 960.01 | 4 |
-| 3157 | [S-e r v a l y](https://osu.ppy.sh/u/3544281) | 958.18 | 5 |
-| 3158 | [pyon](https://osu.ppy.sh/u/2319238) | 957.97 | 3 |
-| 3159 | [uvrv](https://osu.ppy.sh/u/2933416) | 957.52 | 3 |
-| 3160 | [Prince](https://osu.ppy.sh/u/4912999) | 957.25 | 4 |
-| 3161 | [Torein 13rd](https://osu.ppy.sh/u/263687) | 957.02 | 5 |
-| 3162 | [MewzaH](https://osu.ppy.sh/u/2170484) | 956.16 | 6 |
-| 3163 | [yuki9007](https://osu.ppy.sh/u/6198367) | 955.98 | 6 |
-| 3164 | [Polopolou](https://osu.ppy.sh/u/3644274) | 955.89 | 5 |
-| 3165 | [Aka12](https://osu.ppy.sh/u/6186338) | 955.28 | 5 |
-| 3166 | [awesomemacD](https://osu.ppy.sh/u/5589933) | 955.03 | 5 |
-| 3167 | [nomaiza](https://osu.ppy.sh/u/6824358) | 955.01 | 5 |
-| 3168 | [Saaba](https://osu.ppy.sh/u/6315838) | 954.92 | 5 |
-| 3169 | [Tank A13](https://osu.ppy.sh/u/1712195) | 954.81 | 3 |
-| 3170 | [-Rushi-](https://osu.ppy.sh/u/5897889) | 954.00 | 4 |
-| 3171 | [Teppichreini](https://osu.ppy.sh/u/1371974) | 953.23 | 4 |
-| 3172 | [captin1](https://osu.ppy.sh/u/689997) | 953.00 | 4 |
-| 3173 | [0Fappy0](https://osu.ppy.sh/u/4609869) | 952.82 | 4 |
-| 3174 | [Detravoir](https://osu.ppy.sh/u/4199448) | 952.67 | 5 |
-| 3175 | [Gordab](https://osu.ppy.sh/u/3301237) | 951.89 | 5 |
-| 3176 | [Verdade](https://osu.ppy.sh/u/6147171) | 951.33 | 5 |
-| 3177 | [iLightninq](https://osu.ppy.sh/u/7642841) | 950.88 | 6 |
-| 3178 | [A s h e m u](https://osu.ppy.sh/u/2384296) | 950.85 | 4 |
-| 3179 | [Refreshed](https://osu.ppy.sh/u/2186830) | 950.80 | 4 |
-| 3180 | [Enhu](https://osu.ppy.sh/u/2840499) | 950.06 | 3 |
-| 3181 | [wackobako](https://osu.ppy.sh/u/3649156) | 950.04 | 5 |
-| 3182 | [23456789](https://osu.ppy.sh/u/5413027) | 949.50 | 4 |
-| 3183 | [Fastz](https://osu.ppy.sh/u/3896369) | 948.20 | 5 |
-| 3184 | [Tsubodai](https://osu.ppy.sh/u/2697634) | 948.08 | 5 |
-| 3185 | [koki](https://osu.ppy.sh/u/846235) | 947.94 | 3 |
-| 3186 | [ShinozakiKagami](https://osu.ppy.sh/u/5429934) | 947.59 | 5 |
-| 3187 | [Twwisted](https://osu.ppy.sh/u/6916554) | 946.80 | 5 |
-| 3188 | [DDM](https://osu.ppy.sh/u/7910282) | 946.53 | 5 |
-| 3189 | [Elexy [AR]](https://osu.ppy.sh/u/4738585) | 945.91 | 4 |
-| 3190 | [Hasten](https://osu.ppy.sh/u/1545601) | 945.83 | 5 |
-| 3191 | [Buro](https://osu.ppy.sh/u/6124018) | 945.27 | 4 |
-| 3192 | [memummy](https://osu.ppy.sh/u/4358110) | 945.10 | 5 |
-| 3193 | [GSBlank](https://osu.ppy.sh/u/2312106) | 944.53 | 3 |
-| 3194 | [[- Momo -]](https://osu.ppy.sh/u/6024502) | 944.46 | 4 |
-| 3195 | [SuperContact](https://osu.ppy.sh/u/526787) | 944.42 | 4 |
-| 3196 | [- Yoshimaro -](https://osu.ppy.sh/u/3823413) | 944.14 | 5 |
-| 3197 | [Calamidad](https://osu.ppy.sh/u/4406107) | 942.63 | 4 |
-| 3198 | [Curze](https://osu.ppy.sh/u/3586791) | 942.29 | 5 |
-| 3199 | [Notkingosu](https://osu.ppy.sh/u/3744339) | 942.22 | 5 |
-| 3200 | [aaa840905](https://osu.ppy.sh/u/372413) | 941.35 | 4 |
-| 3201 | [lolimelon](https://osu.ppy.sh/u/1399180) | 940.55 | 4 |
-| 3202 | [Borobo](https://osu.ppy.sh/u/2098964) | 939.84 | 4 |
-| 3203 | [Zrky](https://osu.ppy.sh/u/2381438) | 937.96 | 3 |
-| 3204 | [Derposoft](https://osu.ppy.sh/u/5024528) | 937.25 | 4 |
-| 3205 | [yOlO-Nature](https://osu.ppy.sh/u/5286218) | 937.08 | 5 |
-| 3206 | [wck](https://osu.ppy.sh/u/413321) | 936.57 | 5 |
-| 3207 | [Jokend](https://osu.ppy.sh/u/6162088) | 936.17 | 5 |
-| 3208 | [ChiruChiru](https://osu.ppy.sh/u/5113874) | 935.62 | 4 |
-| 3209 | [[ Pandas ]](https://osu.ppy.sh/u/3155125) | 935.56 | 4 |
-| 3210 | [Could This Be](https://osu.ppy.sh/u/2313772) | 935.20 | 4 |
-| 3211 | [[ Reisun ]](https://osu.ppy.sh/u/3060221) | 934.22 | 5 |
-| 3212 | [Ambient](https://osu.ppy.sh/u/3172714) | 932.29 | 4 |
-| 3213 | [Tao](https://osu.ppy.sh/u/2167041) | 932.00 | 5 |
-| 3214 | [Ischyros](https://osu.ppy.sh/u/4585205) | 931.60 | 5 |
-| 3215 | [Divity](https://osu.ppy.sh/u/4784737) | 930.38 | 5 |
-| 3216 | [Tem](https://osu.ppy.sh/u/5393042) | 930.19 | 4 |
-| 3217 | [sF3min](https://osu.ppy.sh/u/811401) | 929.37 | 5 |
-| 3218 | [Kafziel](https://osu.ppy.sh/u/1742218) | 929.17 | 4 |
-| 3219 | [Raikozen](https://osu.ppy.sh/u/3827077) | 927.45 | 4 |
-| 3220 | [I Emma I](https://osu.ppy.sh/u/4986310) | 927.17 | 4 |
-| 3221 | [Daeuk](https://osu.ppy.sh/u/5863949) | 926.47 | 4 |
-| 3222 | [Gnuu](https://osu.ppy.sh/u/914004) | 925.94 | 3 |
-| 3223 | [Asukan](https://osu.ppy.sh/u/4122729) | 924.43 | 5 |
-| 3224 | [KISARA](https://osu.ppy.sh/u/2343832) | 922.28 | 4 |
-| 3225 | [Und3ad City](https://osu.ppy.sh/u/2980681) | 921.45 | 4 |
-| 3226 | [Lileepia101](https://osu.ppy.sh/u/2609354) | 921.39 | 5 |
-| 3227 | [Rethor](https://osu.ppy.sh/u/3160970) | 921.35 | 3 |
-| 3228 | [Urp](https://osu.ppy.sh/u/1534396) | 921.13 | 4 |
-| 3229 | [[Cat]](https://osu.ppy.sh/u/2515691) | 920.84 | 5 |
-| 3230 | [[ KiritoAmano ]](https://osu.ppy.sh/u/1222119) | 919.91 | 5 |
-| 3231 | [OtakusRin](https://osu.ppy.sh/u/3383404) | 919.57 | 4 |
-| 3232 | [Kootek](https://osu.ppy.sh/u/6703291) | 919.12 | 4 |
-| 3233 | [Serial Dreemurr](https://osu.ppy.sh/u/1235444) | 919.09 | 4 |
-| 3234 | [Mojanovic](https://osu.ppy.sh/u/2519256) | 918.65 | 5 |
-| 3235 | [Brigitte](https://osu.ppy.sh/u/5177479) | 918.23 | 4 |
-| 3236 | [Chronophobia](https://osu.ppy.sh/u/7304403) | 918.08 | 4 |
-| 3237 | [Ambitions](https://osu.ppy.sh/u/1366863) | 915.44 | 3 |
-| 3238 | [Yoshi-Desu](https://osu.ppy.sh/u/5531663) | 914.37 | 5 |
-| 3239 | [beards](https://osu.ppy.sh/u/2792019) | 913.75 | 5 |
-| 3240 | [[ Destroid ]](https://osu.ppy.sh/u/4698488) | 913.22 | 3 |
-| 3241 | [Franek0533](https://osu.ppy.sh/u/6970626) | 913.02 | 4 |
-| 3242 | [Misaka 10032](https://osu.ppy.sh/u/4530738) | 912.91 | 4 |
-| 3243 | [Fallist](https://osu.ppy.sh/u/4954023) | 912.90 | 5 |
-| 3244 | [The Yatagarasu](https://osu.ppy.sh/u/3087793) | 912.82 | 5 |
-| 3245 | [pati156](https://osu.ppy.sh/u/2108922) | 912.38 | 4 |
-| 3246 | [Snowyiu](https://osu.ppy.sh/u/1801134) | 912.22 | 4 |
-| 3247 | [FIZ](https://osu.ppy.sh/u/825665) | 912.18 | 5 |
-| 3248 | [walao](https://osu.ppy.sh/u/2601086) | 910.18 | 4 |
-| 3249 | [Cilvery](https://osu.ppy.sh/u/855713) | 908.39 | 5 |
-| 3250 | [Chikashi01](https://osu.ppy.sh/u/3996548) | 908.15 | 4 |
-| 3251 | [Xoulium](https://osu.ppy.sh/u/3617984) | 907.82 | 3 |
-| 3252 | [SiNon](https://osu.ppy.sh/u/3537182) | 907.36 | 3 |
-| 3253 | [HaLyu](https://osu.ppy.sh/u/4769406) | 906.82 | 4 |
-| 3254 | [Madni](https://osu.ppy.sh/u/3268197) | 906.35 | 5 |
-| 3255 | [Aldrouch](https://osu.ppy.sh/u/5575135) | 905.61 | 4 |
-| 3256 | [Sakke](https://osu.ppy.sh/u/4982095) | 904.80 | 3 |
-| 3257 | [Latrio](https://osu.ppy.sh/u/4613551) | 904.78 | 3 |
-| 3258 | [[Kirima Sharo]](https://osu.ppy.sh/u/4911870) | 904.63 | 4 |
-| 3259 | [Sugoi-_-Desu](https://osu.ppy.sh/u/3306777) | 904.17 | 5 |
-| 3260 | [-makaron-](https://osu.ppy.sh/u/6033576) | 902.96 | 5 |
-| 3261 | [pyrus10000](https://osu.ppy.sh/u/5149097) | 901.80 | 5 |
-| 3262 | [okinamo](https://osu.ppy.sh/u/3765989) | 901.69 | 4 |
-| 3263 | [Zenoha](https://osu.ppy.sh/u/4430186) | 900.62 | 4 |
-| 3264 | [Dark and Hard](https://osu.ppy.sh/u/1208727) | 900.37 | 4 |
-| 3265 | [mikimari](https://osu.ppy.sh/u/1171195) | 900.35 | 5 |
-| 3266 | [[ -Shimizu- ]](https://osu.ppy.sh/u/6099841) | 900.26 | 5 |
-| 3267 | [Xytox](https://osu.ppy.sh/u/2229274) | 900.17 | 3 |
-| 3268 | [GaCiel](https://osu.ppy.sh/u/5440803) | 895.73 | 5 |
-| 3269 | [MrGero155](https://osu.ppy.sh/u/5068537) | 895.37 | 6 |
-| 3270 | [Isai-H](https://osu.ppy.sh/u/4158574) | 894.87 | 5 |
-| 3271 | [RGB](https://osu.ppy.sh/u/5853539) | 892.36 | 5 |
-| 3272 | [BlackSheep](https://osu.ppy.sh/u/3918377) | 891.75 | 4 |
-| 3273 | [Accurian](https://osu.ppy.sh/u/4438652) | 891.47 | 5 |
-| 3274 | [BadAssBook](https://osu.ppy.sh/u/4062387) | 891.29 | 4 |
-| 3275 | [SunEater](https://osu.ppy.sh/u/4631842) | 891.26 | 4 |
-| 3276 | [allives](https://osu.ppy.sh/u/3951781) | 891.04 | 3 |
-| 3277 | [Warbreon](https://osu.ppy.sh/u/7104251) | 889.40 | 4 |
-| 3278 | [Khora](https://osu.ppy.sh/u/2984262) | 888.77 | 5 |
-| 3279 | [Heathclif](https://osu.ppy.sh/u/2854771) | 888.50 | 4 |
-| 3280 | [filsdelama](https://osu.ppy.sh/u/2831793) | 888.06 | 2 |
-| 3281 | [NaxHPL](https://osu.ppy.sh/u/3418853) | 886.05 | 4 |
-| 3282 | [Vindolfr](https://osu.ppy.sh/u/2683203) | 884.95 | 5 |
-| 3283 | [Palace](https://osu.ppy.sh/u/6893333) | 884.62 | 4 |
-| 3284 | [Bart-Senpai](https://osu.ppy.sh/u/6369036) | 884.07 | 5 |
-| 3285 | [[ Beatrice ]](https://osu.ppy.sh/u/683791) | 883.72 | 3 |
-| 3286 | [Vaxel](https://osu.ppy.sh/u/1941126) | 883.61 | 4 |
-| 3287 | [Noune](https://osu.ppy.sh/u/4883087) | 883.36 | 5 |
-| 3288 | [[ Ventus ]](https://osu.ppy.sh/u/5636611) | 882.86 | 4 |
-| 3289 | [Zyph](https://osu.ppy.sh/u/1600432) | 880.96 | 4 |
-| 3290 | [Potional](https://osu.ppy.sh/u/2183270) | 880.71 | 5 |
-| 3291 | [Mulse](https://osu.ppy.sh/u/1974813) | 879.40 | 5 |
-| 3292 | [bartekran456](https://osu.ppy.sh/u/4981809) | 879.26 | 5 |
-| 3293 | [reflexbeast](https://osu.ppy.sh/u/4550722) | 878.57 | 5 |
-| 3294 | [toMKazaNSky](https://osu.ppy.sh/u/1602727) | 878.45 | 5 |
-| 3295 | [flatps](https://osu.ppy.sh/u/280463) | 877.99 | 5 |
-| 3296 | [DVDthe1st](https://osu.ppy.sh/u/2138989) | 877.83 | 4 |
-| 3297 | [Macho](https://osu.ppy.sh/u/2846779) | 873.84 | 3 |
-| 3298 | [- Tea -](https://osu.ppy.sh/u/1533041) | 873.79 | 3 |
-| 3299 | [The_badin](https://osu.ppy.sh/u/1567646) | 873.28 | 4 |
-| 3300 | [ArtilleryFred](https://osu.ppy.sh/u/8385190) | 873.20 | 4 |
-| 3301 | [MrPanda](https://osu.ppy.sh/u/4095868) | 872.90 | 4 |
-| 3302 | [Satbov](https://osu.ppy.sh/u/2142966) | 871.97 | 5 |
-| 3303 | [DemoNSlayer](https://osu.ppy.sh/u/2023404) | 871.71 | 4 |
-| 3304 | [Eymi](https://osu.ppy.sh/u/2860531) | 871.48 | 4 |
-| 3305 | [Omena](https://osu.ppy.sh/u/4637768) | 869.61 | 5 |
-| 3306 | [Sillintor](https://osu.ppy.sh/u/504336) | 869.00 | 4 |
-| 3307 | [[ Time ]](https://osu.ppy.sh/u/2102911) | 868.89 | 4 |
-| 3308 | [rockrick](https://osu.ppy.sh/u/2338775) | 868.72 | 4 |
-| 3309 | [zSymphonyz](https://osu.ppy.sh/u/3356259) | 868.55 | 4 |
-| 3310 | [DaTopBull](https://osu.ppy.sh/u/4624459) | 867.54 | 5 |
-| 3311 | [R a h a r u](https://osu.ppy.sh/u/785193) | 866.48 | 4 |
-| 3312 | [Irieln](https://osu.ppy.sh/u/5577897) | 866.46 | 4 |
-| 3313 | [Neel-](https://osu.ppy.sh/u/3923207) | 866.30 | 3 |
-| 3314 | [[ Jyris ]](https://osu.ppy.sh/u/8011537) | 866.25 | 4 |
-| 3315 | [Setsuna](https://osu.ppy.sh/u/3741333) | 865.99 | 3 |
-| 3316 | [CaStet](https://osu.ppy.sh/u/2134555) | 864.80 | 4 |
-| 3317 | [e7793279](https://osu.ppy.sh/u/5982133) | 863.40 | 4 |
-| 3318 | [Daevanion](https://osu.ppy.sh/u/2955620) | 863.30 | 4 |
-| 3319 | [FuTaRi-](https://osu.ppy.sh/u/3944966) | 862.93 | 4 |
-| 3320 | [Snowye](https://osu.ppy.sh/u/4086381) | 862.03 | 3 |
-| 3321 | [Gandalf](https://osu.ppy.sh/u/3371901) | 861.57 | 4 |
-| 3322 | [Julio](https://osu.ppy.sh/u/4384319) | 861.08 | 4 |
-| 3323 | [xAwesome](https://osu.ppy.sh/u/3628894) | 860.56 | 5 |
-| 3324 | [Lea](https://osu.ppy.sh/u/4685335) | 860.12 | 3 |
-| 3325 | [Doyak](https://osu.ppy.sh/u/2046893) | 859.66 | 4 |
-| 3326 | [Mokiki](https://osu.ppy.sh/u/2151867) | 859.14 | 4 |
-| 3327 | [[-Sekai]](https://osu.ppy.sh/u/4025255) | 858.41 | 4 |
-| 3328 | [Shimox](https://osu.ppy.sh/u/1192387) | 858.39 | 3 |
-| 3329 | [hapihapi](https://osu.ppy.sh/u/3415316) | 858.08 | 4 |
-| 3330 | [Shandro](https://osu.ppy.sh/u/175411) | 857.24 | 4 |
-| 3331 | [NakagawaNatsuki](https://osu.ppy.sh/u/1421586) | 857.13 | 5 |
-| 3332 | [haga1115](https://osu.ppy.sh/u/6574823) | 856.92 | 5 |
-| 3333 | [-Cephus-](https://osu.ppy.sh/u/3373206) | 856.20 | 4 |
-| 3334 | [Ranked](https://osu.ppy.sh/u/5039340) | 856.10 | 3 |
-| 3335 | [Spartaan](https://osu.ppy.sh/u/3486996) | 855.63 | 4 |
-| 3336 | [ruexia](https://osu.ppy.sh/u/385069) | 855.35 | 3 |
-| 3337 | [_index](https://osu.ppy.sh/u/652457) | 854.59 | 2 |
-| 3338 | [Getus Rektus](https://osu.ppy.sh/u/6466189) | 854.53 | 4 |
-| 3339 | [Enimate](https://osu.ppy.sh/u/2089506) | 854.06 | 4 |
-| 3340 | [Windalfr](https://osu.ppy.sh/u/4867048) | 853.38 | 4 |
-| 3341 | [dragonazen](https://osu.ppy.sh/u/2644853) | 851.94 | 4 |
-| 3342 | [Xer_91](https://osu.ppy.sh/u/4219165) | 850.97 | 4 |
-| 3343 | [z3r0A1M](https://osu.ppy.sh/u/7390726) | 850.69 | 5 |
-| 3344 | [face0xff](https://osu.ppy.sh/u/4349938) | 848.52 | 5 |
-| 3345 | [Ackane-](https://osu.ppy.sh/u/2003677) | 848.15 | 3 |
-| 3346 | [Mahogany](https://osu.ppy.sh/u/4854343) | 846.33 | 4 |
-| 3347 | [Juanfeis](https://osu.ppy.sh/u/4008779) | 846.11 | 4 |
-| 3348 | [MA4alka](https://osu.ppy.sh/u/7217249) | 846.10 | 4 |
-| 3349 | [My Angel HulbeH](https://osu.ppy.sh/u/4747911) | 845.40 | 4 |
-| 3350 | [Osu FLagstar](https://osu.ppy.sh/u/3556722) | 844.56 | 5 |
-| 3351 | [Almost](https://osu.ppy.sh/u/1587597) | 844.38 | 5 |
-| 3352 | [imyoosk](https://osu.ppy.sh/u/3402962) | 843.76 | 3 |
-| 3353 | [mekaeriko](https://osu.ppy.sh/u/774427) | 843.61 | 5 |
-| 3354 | [- S h i z u r u](https://osu.ppy.sh/u/2758235) | 843.31 | 4 |
-| 3355 | [Asti](https://osu.ppy.sh/u/3898126) | 843.23 | 4 |
-| 3356 | [sasakure](https://osu.ppy.sh/u/1816631) | 842.85 | 3 |
-| 3357 | [samux93](https://osu.ppy.sh/u/3003214) | 842.18 | 4 |
-| 3358 | [LeeEn](https://osu.ppy.sh/u/1996060) | 839.50 | 4 |
-| 3359 | [TSGWhatever](https://osu.ppy.sh/u/4536664) | 839.46 | 4 |
-| 3360 | [ReusoL](https://osu.ppy.sh/u/2539010) | 839.39 | 3 |
-| 3361 | [Flying_Man](https://osu.ppy.sh/u/1484227) | 839.05 | 4 |
-| 3362 | [CptSqBany](https://osu.ppy.sh/u/3687666) | 838.88 | 4 |
-| 3363 | [Medium](https://osu.ppy.sh/u/6027685) | 838.83 | 4 |
-| 3364 | [tsunamayo](https://osu.ppy.sh/u/580243) | 838.72 | 4 |
-| 3365 | [Fuwzie](https://osu.ppy.sh/u/4887814) | 838.38 | 3 |
-| 3366 | [Moosic_](https://osu.ppy.sh/u/4125128) | 837.75 | 4 |
-| 3367 | [[ Splash ]](https://osu.ppy.sh/u/7777836) | 837.50 | 4 |
-| 3368 | [SpinZee](https://osu.ppy.sh/u/5712475) | 837.21 | 4 |
-| 3369 | [lly](https://osu.ppy.sh/u/235224) | 837.17 | 4 |
-| 3370 | [Blairzey](https://osu.ppy.sh/u/3274346) | 836.56 | 4 |
-| 3371 | [Franleon86](https://osu.ppy.sh/u/4839479) | 836.47 | 5 |
-| 3372 | [-Ryo](https://osu.ppy.sh/u/3113141) | 835.73 | 4 |
-| 3373 | [Danil194522](https://osu.ppy.sh/u/6438321) | 834.91 | 4 |
-| 3374 | [[ Take ]](https://osu.ppy.sh/u/3628613) | 834.82 | 4 |
-| 3375 | [fcuk](https://osu.ppy.sh/u/4844909) | 834.82 | 3 |
-| 3376 | [Mikols3](https://osu.ppy.sh/u/6150191) | 833.08 | 5 |
-| 3377 | [Pannda-S](https://osu.ppy.sh/u/1785944) | 832.85 | 4 |
-| 3378 | [AlfredMcjoy](https://osu.ppy.sh/u/3706392) | 831.90 | 4 |
-| 3379 | [AndronicoLuksic](https://osu.ppy.sh/u/5717231) | 831.22 | 4 |
-| 3380 | [hi im Aaron](https://osu.ppy.sh/u/4067158) | 831.10 | 4 |
-| 3381 | [himazou](https://osu.ppy.sh/u/5254694) | 830.74 | 5 |
-| 3382 | [Blue](https://osu.ppy.sh/u/1812085) | 830.45 | 8 |
-| 3383 | [[ Andy ]](https://osu.ppy.sh/u/3491714) | 829.87 | 5 |
-| 3384 | [quarnite](https://osu.ppy.sh/u/5006582) | 829.84 | 4 |
-| 3385 | [muza](https://osu.ppy.sh/u/944305) | 829.22 | 4 |
-| 3386 | [Knee Socks](https://osu.ppy.sh/u/4267652) | 828.86 | 4 |
-| 3387 | [gfdsa15987777](https://osu.ppy.sh/u/1256357) | 828.14 | 4 |
-| 3388 | [Sonoda-Umi](https://osu.ppy.sh/u/2197711) | 828.10 | 3 |
-| 3389 | [Hydro7](https://osu.ppy.sh/u/3018516) | 828.03 | 3 |
-| 3390 | [Ivan](https://osu.ppy.sh/u/3564437) | 827.63 | 3 |
-| 3391 | [MyAngelSaitama](https://osu.ppy.sh/u/3699053) | 827.62 | 4 |
-| 3392 | [WaddaGuy](https://osu.ppy.sh/u/5235485) | 827.44 | 5 |
-| 3393 | [danielPro](https://osu.ppy.sh/u/5008386) | 826.96 | 4 |
-| 3394 | [Maozis](https://osu.ppy.sh/u/1968452) | 826.18 | 3 |
-| 3395 | [DaiBoru](https://osu.ppy.sh/u/5892671) | 826.14 | 4 |
-| 3396 | [san-lotso](https://osu.ppy.sh/u/5296112) | 825.98 | 4 |
-| 3397 | [MichaelS271](https://osu.ppy.sh/u/3776682) | 825.90 | 3 |
-| 3398 | [fraxiu](https://osu.ppy.sh/u/2370024) | 825.46 | 5 |
-| 3399 | [ZeonPlay](https://osu.ppy.sh/u/539876) | 825.36 | 4 |
-| 3400 | [Brokenn](https://osu.ppy.sh/u/4333397) | 824.87 | 4 |
-| 3401 | [U n k n o w n](https://osu.ppy.sh/u/846975) | 824.42 | 4 |
-| 3402 | [4quatic](https://osu.ppy.sh/u/2134117) | 824.25 | 4 |
-| 3403 | [Spare](https://osu.ppy.sh/u/2204373) | 824.12 | 2 |
-| 3404 | [Wyll](https://osu.ppy.sh/u/2932855) | 824.07 | 4 |
-| 3405 | [Moefist](https://osu.ppy.sh/u/1083833) | 824.01 | 4 |
-| 3406 | [Morax](https://osu.ppy.sh/u/4204902) | 823.52 | 4 |
-| 3407 | [salsicha](https://osu.ppy.sh/u/6097699) | 822.58 | 4 |
-| 3408 | [GalaxyFox](https://osu.ppy.sh/u/6592512) | 822.28 | 4 |
-| 3409 | [Flufflee](https://osu.ppy.sh/u/2245411) | 821.93 | 3 |
-| 3410 | [- Kokoi -](https://osu.ppy.sh/u/2332204) | 821.07 | 4 |
-| 3411 | [Danbal_Sarang](https://osu.ppy.sh/u/2659965) | 820.51 | 3 |
-| 3412 | [Pronounta](https://osu.ppy.sh/u/4734475) | 818.38 | 4 |
-| 3413 | [LoidKun](https://osu.ppy.sh/u/6437601) | 818.09 | 3 |
-| 3414 | [Lukinhass](https://osu.ppy.sh/u/4253615) | 816.07 | 4 |
-| 3415 | [Mizu](https://osu.ppy.sh/u/4700926) | 815.67 | 4 |
-| 3416 | [Galedrifter](https://osu.ppy.sh/u/7183739) | 815.66 | 4 |
-| 3417 | [My_Angel_Rem](https://osu.ppy.sh/u/2317990) | 815.59 | 3 |
-| 3418 | [Rhythm blue](https://osu.ppy.sh/u/6506107) | 814.18 | 3 |
-| 3419 | [Kajiin](https://osu.ppy.sh/u/4940293) | 813.43 | 4 |
-| 3420 | [Mu5b1](https://osu.ppy.sh/u/3133080) | 812.54 | 4 |
-| 3421 | [Evox](https://osu.ppy.sh/u/4316820) | 812.18 | 4 |
-| 3422 | [576583622](https://osu.ppy.sh/u/553237) | 810.65 | 4 |
-| 3423 | [vvnb](https://osu.ppy.sh/u/4711593) | 809.94 | 4 |
-| 3424 | [Zukarido](https://osu.ppy.sh/u/3612558) | 809.21 | 4 |
-| 3425 | [supertyp](https://osu.ppy.sh/u/3207832) | 809.17 | 5 |
-| 3426 | [Lindaine](https://osu.ppy.sh/u/4572717) | 807.74 | 4 |
-| 3427 | [torasdf](https://osu.ppy.sh/u/4552597) | 807.72 | 4 |
-| 3428 | [Daigo](https://osu.ppy.sh/u/3687287) | 807.67 | 5 |
-| 3429 | [Myschu](https://osu.ppy.sh/u/2387275) | 806.84 | 4 |
-| 3430 | [MillhioreF](https://osu.ppy.sh/u/941094) | 805.79 | 4 |
-| 3431 | [paoloxtrem](https://osu.ppy.sh/u/5871583) | 805.41 | 4 |
-| 3432 | [gr0t](https://osu.ppy.sh/u/2268873) | 804.88 | 4 |
-| 3433 | [anybody1](https://osu.ppy.sh/u/3107603) | 804.55 | 4 |
-| 3434 | [v1ctoria](https://osu.ppy.sh/u/4418981) | 804.01 | 4 |
-| 3435 | [Doms](https://osu.ppy.sh/u/1571438) | 801.74 | 4 |
-| 3436 | [Slaashed](https://osu.ppy.sh/u/5237025) | 801.44 | 4 |
-| 3437 | [Marawishka](https://osu.ppy.sh/u/4181562) | 800.47 | 4 |
-| 3438 | [Nisakiru](https://osu.ppy.sh/u/4113423) | 800.07 | 4 |
-| 3439 | [PriPalaala](https://osu.ppy.sh/u/3890585) | 799.41 | 5 |
-| 3440 | [Min_ho](https://osu.ppy.sh/u/6588450) | 798.60 | 4 |
-| 3441 | [Ciastekzi](https://osu.ppy.sh/u/4212196) | 798.20 | 3 |
-| 3442 | [Pantsuki](https://osu.ppy.sh/u/1025587) | 797.20 | 3 |
-| 3443 | [xiaofenghui](https://osu.ppy.sh/u/2332175) | 796.76 | 4 |
-| 3444 | [Hernan](https://osu.ppy.sh/u/516680) | 796.62 | 4 |
-| 3445 | [Vacation](https://osu.ppy.sh/u/4616681) | 796.54 | 3 |
-| 3446 | [Mahiro-](https://osu.ppy.sh/u/3784377) | 795.62 | 4 |
-| 3447 | [Shiguri](https://osu.ppy.sh/u/2665207) | 795.09 | 4 |
-| 3448 | [Ishkiz](https://osu.ppy.sh/u/2528325) | 794.71 | 3 |
-| 3449 | [ninjathaum](https://osu.ppy.sh/u/4364768) | 794.41 | 4 |
-| 3450 | [NaiSu](https://osu.ppy.sh/u/1674447) | 794.03 | 4 |
-| 3451 | [_Gieniek](https://osu.ppy.sh/u/2448399) | 793.43 | 4 |
-| 3452 | [dermit](https://osu.ppy.sh/u/4425586) | 792.62 | 4 |
-| 3453 | [tomiya0](https://osu.ppy.sh/u/2899379) | 792.14 | 4 |
-| 3454 | [usotsukii](https://osu.ppy.sh/u/105262) | 791.59 | 4 |
-| 3455 | [Nam](https://osu.ppy.sh/u/3887345) | 791.39 | 4 |
-| 3456 | [-Tooru-](https://osu.ppy.sh/u/6677448) | 791.15 | 4 |
-| 3457 | [Akenden](https://osu.ppy.sh/u/4402469) | 791.00 | 4 |
-| 3458 | [Stig](https://osu.ppy.sh/u/7162350) | 790.73 | 3 |
-| 3459 | [Leupoi](https://osu.ppy.sh/u/2959973) | 790.52 | 3 |
-| 3460 | [Id_Beat](https://osu.ppy.sh/u/3431380) | 789.97 | 3 |
-| 3461 | [KreoniX](https://osu.ppy.sh/u/1604145) | 789.95 | 5 |
-| 3462 | [Saper](https://osu.ppy.sh/u/6752238) | 789.30 | 5 |
-| 3463 | [Luuuuna](https://osu.ppy.sh/u/2615759) | 789.15 | 4 |
-| 3464 | [Blue-Orb](https://osu.ppy.sh/u/6612210) | 789.10 | 4 |
-| 3465 | [iRumble](https://osu.ppy.sh/u/7388062) | 788.84 | 5 |
-| 3466 | [Ayalis](https://osu.ppy.sh/u/1545563) | 786.87 | 3 |
-| 3467 | [L1NKED](https://osu.ppy.sh/u/3087205) | 785.70 | 3 |
-| 3468 | [Arnbition](https://osu.ppy.sh/u/5295743) | 785.28 | 3 |
-| 3469 | [Tomoka Rin](https://osu.ppy.sh/u/125308) | 785.23 | 3 |
-| 3470 | [Superspyrabbit](https://osu.ppy.sh/u/7406187) | 784.90 | 4 |
-| 3471 | [Cianeas](https://osu.ppy.sh/u/4430889) | 784.63 | 4 |
-| 3472 | [Arild](https://osu.ppy.sh/u/3089925) | 784.27 | 4 |
-| 3473 | [Karl](https://osu.ppy.sh/u/2218519) | 784.22 | 4 |
-| 3474 | [Moffo](https://osu.ppy.sh/u/2735250) | 783.78 | 4 |
-| 3475 | [Drayyne](https://osu.ppy.sh/u/4931394) | 783.66 | 4 |
-| 3476 | [davkech](https://osu.ppy.sh/u/2578067) | 783.36 | 4 |
-| 3477 | [Smiiles](https://osu.ppy.sh/u/2515092) | 783.30 | 3 |
-| 3478 | [[ Nik ]](https://osu.ppy.sh/u/3864926) | 783.08 | 5 |
-| 3479 | [RoseBatty](https://osu.ppy.sh/u/4909588) | 782.56 | 3 |
-| 3480 | [Blue Dragon](https://osu.ppy.sh/u/19048) | 782.55 | 3 |
-| 3481 | [Mazo-](https://osu.ppy.sh/u/2340634) | 782.15 | 5 |
-| 3482 | [Shizukka Senpai](https://osu.ppy.sh/u/4798100) | 782.07 | 3 |
-| 3483 | [Jairod](https://osu.ppy.sh/u/3088364) | 781.73 | 3 |
-| 3484 | [Gayzmcgee](https://osu.ppy.sh/u/1419095) | 781.56 | 2 |
-| 3485 | [BlackMamba](https://osu.ppy.sh/u/5127961) | 781.48 | 4 |
-| 3486 | [Constalletion](https://osu.ppy.sh/u/4641728) | 780.38 | 3 |
-| 3487 | [Juanvfx](https://osu.ppy.sh/u/7119715) | 780.18 | 4 |
-| 3488 | [Nightcore Princess G](https://osu.ppy.sh/u/388085) | 779.94 | 4 |
-| 3489 | [Phil](https://osu.ppy.sh/u/3191489) | 779.82 | 4 |
-| 3490 | [kune259](https://osu.ppy.sh/u/1160923) | 779.53 | 2 |
-| 3491 | [Kehoma](https://osu.ppy.sh/u/3908529) | 778.87 | 4 |
-| 3492 | [Raminator7](https://osu.ppy.sh/u/5921525) | 778.70 | 5 |
-| 3493 | [Haruna Kumo](https://osu.ppy.sh/u/3737820) | 778.66 | 3 |
-| 3494 | [Acanthum](https://osu.ppy.sh/u/759895) | 778.06 | 3 |
-| 3495 | [Hungah](https://osu.ppy.sh/u/4279228) | 776.60 | 4 |
-| 3496 | [RevengeWolf](https://osu.ppy.sh/u/6386735) | 776.44 | 3 |
-| 3497 | [huono_tuuri](https://osu.ppy.sh/u/1432954) | 775.97 | 3 |
-| 3498 | [Jaitonat](https://osu.ppy.sh/u/649733) | 775.78 | 3 |
-| 3499 | [Rez](https://osu.ppy.sh/u/3786947) | 775.28 | 4 |
-| 3500 | [Zuffa](https://osu.ppy.sh/u/1800060) | 774.96 | 3 |
-| 3501 | [Jtcantwell](https://osu.ppy.sh/u/4437927) | 774.54 | 4 |
-| 3502 | [9eater](https://osu.ppy.sh/u/6556530) | 774.40 | 4 |
-| 3503 | [- Kirisaki -](https://osu.ppy.sh/u/2557435) | 773.87 | 3 |
-| 3504 | [Megalovania](https://osu.ppy.sh/u/4354854) | 773.21 | 4 |
-| 3505 | [postal445](https://osu.ppy.sh/u/1965699) | 773.08 | 4 |
-| 3506 | [Lixinho](https://osu.ppy.sh/u/4911460) | 772.68 | 5 |
-| 3507 | [Kac007](https://osu.ppy.sh/u/2182027) | 772.66 | 4 |
-| 3508 | [[ Senya ]](https://osu.ppy.sh/u/2953233) | 771.88 | 4 |
-| 3509 | [Moleshiroi](https://osu.ppy.sh/u/1731194) | 771.82 | 3 |
-| 3510 | [O_xOB](https://osu.ppy.sh/u/639924) | 771.65 | 4 |
-| 3511 | [Epixia](https://osu.ppy.sh/u/3773956) | 771.33 | 3 |
-| 3512 | [Ajo Joestar](https://osu.ppy.sh/u/2714188) | 770.53 | 3 |
-| 3513 | [- Mika -](https://osu.ppy.sh/u/4281594) | 769.97 | 4 |
-| 3514 | [emilow12](https://osu.ppy.sh/u/2696838) | 769.53 | 3 |
-| 3515 | [clairvoyant](https://osu.ppy.sh/u/1468481) | 769.52 | 4 |
-| 3516 | [DHRHD12](https://osu.ppy.sh/u/1816439) | 768.60 | 4 |
-| 3517 | [Frumpy-](https://osu.ppy.sh/u/4652940) | 768.33 | 3 |
-| 3518 | [salgo74](https://osu.ppy.sh/u/2819728) | 768.17 | 4 |
-| 3519 | [SadNinja](https://osu.ppy.sh/u/3124026) | 766.72 | 4 |
-| 3520 | [Jackrson](https://osu.ppy.sh/u/4800770) | 766.66 | 4 |
-| 3521 | [translate](https://osu.ppy.sh/u/4484957) | 766.24 | 3 |
-| 3522 | [SoyAuro](https://osu.ppy.sh/u/5194834) | 765.07 | 4 |
-| 3523 | [Mofu kun](https://osu.ppy.sh/u/3228967) | 764.15 | 4 |
-| 3524 | [Ghost312](https://osu.ppy.sh/u/7149559) | 763.92 | 4 |
-| 3525 | [Golum](https://osu.ppy.sh/u/3086541) | 763.84 | 4 |
-| 3526 | [Konoe](https://osu.ppy.sh/u/2859201) | 763.32 | 4 |
-| 3527 | [Chillaxmaeng](https://osu.ppy.sh/u/5115311) | 761.22 | 4 |
-| 3528 | [chigo1337](https://osu.ppy.sh/u/6150593) | 758.82 | 4 |
-| 3529 | [Nebrai](https://osu.ppy.sh/u/7377719) | 758.60 | 5 |
-| 3530 | [Noisy](https://osu.ppy.sh/u/6048208) | 758.22 | 4 |
-| 3531 | [Yoshitake](https://osu.ppy.sh/u/4823407) | 758.10 | 4 |
-| 3532 | [Iliekwaffles](https://osu.ppy.sh/u/4644354) | 757.72 | 3 |
-| 3533 | [Kyon](https://osu.ppy.sh/u/4227663) | 757.60 | 4 |
-| 3534 | [Zuness](https://osu.ppy.sh/u/3993236) | 756.98 | 3 |
-| 3535 | [AbuseYourDNA](https://osu.ppy.sh/u/3547310) | 755.87 | 4 |
-| 3536 | [-Tk](https://osu.ppy.sh/u/3489327) | 755.81 | 4 |
-| 3537 | [- srwyai -](https://osu.ppy.sh/u/6344519) | 755.36 | 4 |
-| 3538 | [litoluna](https://osu.ppy.sh/u/770590) | 754.74 | 4 |
-| 3539 | [Yuki Elison](https://osu.ppy.sh/u/3232699) | 754.02 | 3 |
-| 3540 | [[Darin]](https://osu.ppy.sh/u/4839876) | 753.78 | 4 |
-| 3541 | [Screamin Seamen](https://osu.ppy.sh/u/5901601) | 753.05 | 3 |
-| 3542 | [ryota-](https://osu.ppy.sh/u/5334780) | 753.02 | 4 |
-| 3543 | [5mokie](https://osu.ppy.sh/u/3118388) | 752.66 | 4 |
-| 3544 | [fran1g](https://osu.ppy.sh/u/3587961) | 752.43 | 3 |
-| 3545 | [erk](https://osu.ppy.sh/u/1107099) | 752.34 | 3 |
-| 3546 | [Muziki3](https://osu.ppy.sh/u/2618265) | 752.28 | 4 |
-| 3547 | [IDAN](https://osu.ppy.sh/u/4259603) | 752.18 | 3 |
-| 3548 | [cho1998](https://osu.ppy.sh/u/930625) | 751.01 | 3 |
-| 3549 | [Luris](https://osu.ppy.sh/u/4989519) | 750.95 | 4 |
-| 3550 | [Keats](https://osu.ppy.sh/u/2071930) | 750.67 | 4 |
-| 3551 | [Trust](https://osu.ppy.sh/u/1470352) | 750.59 | 4 |
-| 3552 | [Jelly_Jay](https://osu.ppy.sh/u/7127468) | 749.99 | 4 |
-| 3553 | [Spyrunite](https://osu.ppy.sh/u/1864231) | 749.88 | 4 |
-| 3554 | [Weser](https://osu.ppy.sh/u/3914073) | 749.74 | 4 |
-| 3555 | [Celb](https://osu.ppy.sh/u/2740336) | 748.92 | 4 |
-| 3556 | [Umberto46](https://osu.ppy.sh/u/1533987) | 748.88 | 4 |
-| 3557 | [Tokichii](https://osu.ppy.sh/u/557197) | 747.13 | 2 |
-| 3558 | [er1cch3n](https://osu.ppy.sh/u/5919819) | 746.35 | 4 |
-| 3559 | [instax](https://osu.ppy.sh/u/3407754) | 745.93 | 3 |
-| 3560 | [AccNoob](https://osu.ppy.sh/u/6254085) | 745.92 | 4 |
-| 3561 | [Brenn52](https://osu.ppy.sh/u/5319414) | 745.87 | 4 |
-| 3562 | [My Angel Kuon](https://osu.ppy.sh/u/3550729) | 745.55 | 4 |
-| 3563 | [TenaPotato](https://osu.ppy.sh/u/528066) | 744.81 | 3 |
-| 3564 | [Nattu](https://osu.ppy.sh/u/1886722) | 744.35 | 4 |
-| 3565 | [DarkBisu](https://osu.ppy.sh/u/2496412) | 744.26 | 3 |
-| 3566 | [cheaptricks](https://osu.ppy.sh/u/4449554) | 743.49 | 4 |
-| 3567 | [Qsir Dragon](https://osu.ppy.sh/u/1922343) | 742.70 | 3 |
-| 3568 | [Euphori](https://osu.ppy.sh/u/4921021) | 742.12 | 3 |
-| 3569 | [Hasaki-](https://osu.ppy.sh/u/4797587) | 741.94 | 4 |
-| 3570 | [Barakiel](https://osu.ppy.sh/u/1769582) | 740.56 | 4 |
-| 3571 | [Shuezi](https://osu.ppy.sh/u/5276218) | 740.28 | 3 |
-| 3572 | [zeluaR](https://osu.ppy.sh/u/1126229) | 739.62 | 2 |
-| 3573 | [Silueta](https://osu.ppy.sh/u/2913678) | 739.46 | 4 |
-| 3574 | [AnyXiate](https://osu.ppy.sh/u/2828006) | 739.18 | 3 |
-| 3575 | [N0vy](https://osu.ppy.sh/u/4003726) | 738.28 | 3 |
-| 3576 | [Camelliaa](https://osu.ppy.sh/u/4113037) | 738.07 | 4 |
-| 3577 | [Velari](https://osu.ppy.sh/u/5221513) | 737.54 | 3 |
-| 3578 | [VodkaApproved](https://osu.ppy.sh/u/3204153) | 736.17 | 3 |
-| 3579 | [-Dragonite](https://osu.ppy.sh/u/3859787) | 735.93 | 4 |
-| 3580 | [Upload](https://osu.ppy.sh/u/7146208) | 735.58 | 4 |
-| 3581 | [Bat777](https://osu.ppy.sh/u/2699198) | 735.50 | 3 |
-| 3582 | [BrokenShame](https://osu.ppy.sh/u/3223144) | 735.07 | 3 |
-| 3583 | [standhere](https://osu.ppy.sh/u/3317493) | 734.98 | 4 |
-| 3584 | [facu2708](https://osu.ppy.sh/u/2788579) | 734.93 | 3 |
-| 3585 | [Aioi Yuuko](https://osu.ppy.sh/u/4707843) | 734.12 | 3 |
-| 3586 | [-TobiKC](https://osu.ppy.sh/u/5334890) | 733.60 | 4 |
-| 3587 | [Xanoxe](https://osu.ppy.sh/u/7060592) | 732.67 | 4 |
-| 3588 | [DenierNezzar](https://osu.ppy.sh/u/126144) | 732.16 | 2 |
-| 3589 | [kayu77](https://osu.ppy.sh/u/4730146) | 731.83 | 4 |
-| 3590 | [lazOre](https://osu.ppy.sh/u/5084502) | 730.35 | 4 |
-| 3591 | [Nyanyahira](https://osu.ppy.sh/u/5435541) | 730.26 | 4 |
-| 3592 | [Yurie](https://osu.ppy.sh/u/4586118) | 728.09 | 3 |
-| 3593 | [-Syndra-](https://osu.ppy.sh/u/4139979) | 727.94 | 4 |
-| 3594 | [Fr0th](https://osu.ppy.sh/u/3458870) | 727.90 | 2 |
-| 3595 | [Atsuro](https://osu.ppy.sh/u/2279351) | 727.68 | 3 |
-| 3596 | [Houtarou Oreki](https://osu.ppy.sh/u/4185566) | 727.61 | 4 |
-| 3597 | [TarutoZi](https://osu.ppy.sh/u/2634168) | 727.50 | 3 |
-| 3598 | [x_Nyu_x](https://osu.ppy.sh/u/1684413) | 727.38 | 3 |
-| 3599 | [Forsen](https://osu.ppy.sh/u/2137924) | 727.03 | 3 |
-| 3600 | [Lillynette](https://osu.ppy.sh/u/2908121) | 726.89 | 3 |
-| 3601 | [versacekfc](https://osu.ppy.sh/u/3922405) | 726.26 | 3 |
-| 3602 | [Dow](https://osu.ppy.sh/u/163126) | 725.54 | 4 |
-| 3603 | [FoldingSakura](https://osu.ppy.sh/u/4039395) | 725.01 | 3 |
-| 3604 | [Gaxel](https://osu.ppy.sh/u/2117122) | 724.68 | 3 |
-| 3605 | [WuppeR](https://osu.ppy.sh/u/5146740) | 723.53 | 4 |
-| 3606 | [Paz](https://osu.ppy.sh/u/3386059) | 722.67 | 3 |
-| 3607 | [Nyirti](https://osu.ppy.sh/u/1111025) | 722.33 | 3 |
-| 3608 | [usmc](https://osu.ppy.sh/u/4555814) | 721.98 | 3 |
-| 3609 | [iDanny](https://osu.ppy.sh/u/448248) | 721.96 | 3 |
-| 3610 | [chickgod](https://osu.ppy.sh/u/424517) | 721.58 | 4 |
-| 3611 | [Hookay](https://osu.ppy.sh/u/6340401) | 721.55 | 3 |
-| 3612 | [Empyreal](https://osu.ppy.sh/u/6544807) | 720.64 | 4 |
-| 3613 | [Story](https://osu.ppy.sh/u/2773047) | 719.95 | 4 |
-| 3614 | [- AisakaTaiga -](https://osu.ppy.sh/u/3273856) | 719.72 | 3 |
-| 3615 | [In those days](https://osu.ppy.sh/u/777173) | 719.46 | 4 |
-| 3616 | [Nagicho-](https://osu.ppy.sh/u/2157750) | 719.01 | 3 |
-| 3617 | [Jaysuss](https://osu.ppy.sh/u/3359378) | 718.28 | 3 |
-| 3618 | [Mexinguer](https://osu.ppy.sh/u/1877617) | 718.20 | 4 |
-| 3619 | [AJIekceu](https://osu.ppy.sh/u/940656) | 718.08 | 4 |
-| 3620 | [[MaU]](https://osu.ppy.sh/u/8383843) | 717.91 | 4 |
-| 3621 | [Lukasxyz](https://osu.ppy.sh/u/5197731) | 717.72 | 4 |
-| 3622 | [Mysticcc](https://osu.ppy.sh/u/3560703) | 717.63 | 4 |
-| 3623 | [zzzbored](https://osu.ppy.sh/u/3222676) | 717.37 | 3 |
-| 3624 | [Smoothie World](https://osu.ppy.sh/u/1855540) | 717.34 | 2 |
-| 3625 | [Jks](https://osu.ppy.sh/u/2271615) | 716.94 | 3 |
-| 3626 | [Phungy](https://osu.ppy.sh/u/319818) | 715.94 | 4 |
-| 3627 | [Directory](https://osu.ppy.sh/u/2395512) | 715.92 | 4 |
-| 3628 | [Santy22](https://osu.ppy.sh/u/4491643) | 715.82 | 4 |
-| 3629 | [Uchida Maaya](https://osu.ppy.sh/u/3029598) | 715.65 | 4 |
-| 3630 | [Dorovon](https://osu.ppy.sh/u/1433076) | 715.20 | 3 |
-| 3631 | [HashtagLatvian](https://osu.ppy.sh/u/2308987) | 715.15 | 4 |
-| 3632 | [TheCraftyshock](https://osu.ppy.sh/u/4063341) | 714.66 | 3 |
-| 3633 | [Yukio](https://osu.ppy.sh/u/1335744) | 714.55 | 3 |
-| 3634 | [Mun Nyun](https://osu.ppy.sh/u/1708628) | 714.07 | 3 |
-| 3635 | [Regal04](https://osu.ppy.sh/u/4461847) | 714.07 | 3 |
-| 3636 | [killlertim](https://osu.ppy.sh/u/2957546) | 713.58 | 4 |
-| 3637 | [Marchw](https://osu.ppy.sh/u/6480627) | 713.52 | 4 |
-| 3638 | [courss](https://osu.ppy.sh/u/3472141) | 712.62 | 4 |
-| 3639 | [INachtara](https://osu.ppy.sh/u/1957557) | 712.31 | 3 |
-| 3640 | [Avolition](https://osu.ppy.sh/u/4168144) | 712.17 | 3 |
-| 3641 | [Miseracy](https://osu.ppy.sh/u/3080024) | 712.14 | 3 |
-| 3642 | [Whiskey](https://osu.ppy.sh/u/5712033) | 711.50 | 4 |
-| 3643 | [- Matha -](https://osu.ppy.sh/u/7354729) | 708.08 | 4 |
-| 3644 | [Imagine](https://osu.ppy.sh/u/2482226) | 707.63 | 4 |
-| 3645 | [siewior](https://osu.ppy.sh/u/2966500) | 707.45 | 3 |
-| 3646 | [adi77715](https://osu.ppy.sh/u/712380) | 706.57 | 3 |
-| 3647 | [Bky-ssiO](https://osu.ppy.sh/u/5559957) | 706.06 | 4 |
-| 3648 | [Jimminy](https://osu.ppy.sh/u/2252524) | 704.72 | 4 |
-| 3649 | [idk](https://osu.ppy.sh/u/1295234) | 703.73 | 3 |
-| 3650 | [Anjay](https://osu.ppy.sh/u/5517783) | 703.33 | 4 |
-| 3651 | [Elias-](https://osu.ppy.sh/u/4824454) | 703.28 | 4 |
-| 3652 | [gimly32](https://osu.ppy.sh/u/3448993) | 703.03 | 3 |
-| 3653 | [erodra](https://osu.ppy.sh/u/5059739) | 702.43 | 3 |
-| 3654 | [Grimblee](https://osu.ppy.sh/u/4010927) | 702.38 | 3 |
-| 3655 | [Kirinya](https://osu.ppy.sh/u/1375606) | 700.84 | 3 |
-| 3656 | [Hikaru](https://osu.ppy.sh/u/880686) | 700.08 | 4 |
-| 3657 | [MadeInChina](https://osu.ppy.sh/u/2808267) | 698.47 | 3 |
-| 3658 | [_yu68](https://osu.ppy.sh/u/6170507) | 697.27 | 3 |
-| 3659 | [Nuggel](https://osu.ppy.sh/u/3076325) | 697.15 | 3 |
-| 3660 | [HappyIv4n-Desu](https://osu.ppy.sh/u/7069209) | 697.09 | 4 |
-| 3661 | [jackylam5](https://osu.ppy.sh/u/1540807) | 696.83 | 2 |
-| 3662 | [Empowers](https://osu.ppy.sh/u/2186471) | 695.84 | 3 |
-| 3663 | [[Micoz]](https://osu.ppy.sh/u/1805350) | 695.32 | 3 |
-| 3664 | [[Kudryavka]](https://osu.ppy.sh/u/2509174) | 695.29 | 3 |
-| 3665 | [Crylizhy](https://osu.ppy.sh/u/3023138) | 694.89 | 3 |
-| 3666 | [Kawori](https://osu.ppy.sh/u/4121803) | 694.52 | 4 |
-| 3667 | [C0C0C0](https://osu.ppy.sh/u/5102961) | 694.13 | 4 |
-| 3668 | [Fanker](https://osu.ppy.sh/u/1554430) | 693.87 | 3 |
-| 3669 | [kutafix](https://osu.ppy.sh/u/4030832) | 693.43 | 2 |
-| 3670 | [KaraDaxx](https://osu.ppy.sh/u/4575139) | 693.32 | 3 |
-| 3671 | [Porta](https://osu.ppy.sh/u/5415344) | 692.15 | 4 |
-| 3672 | [_kotachi_](https://osu.ppy.sh/u/4698485) | 690.98 | 3 |
-| 3673 | [DuckWingBOT](https://osu.ppy.sh/u/573374) | 690.16 | 3 |
-| 3674 | [Soly](https://osu.ppy.sh/u/910779) | 688.87 | 3 |
-| 3675 | [BerryP](https://osu.ppy.sh/u/2884255) | 688.46 | 3 |
-| 3676 | [gh0st-](https://osu.ppy.sh/u/3805581) | 688.00 | 3 |
-| 3677 | [rezfud](https://osu.ppy.sh/u/834377) | 687.56 | 3 |
-| 3678 | [MoonEater](https://osu.ppy.sh/u/4007859) | 686.96 | 4 |
-| 3679 | [Myke](https://osu.ppy.sh/u/3052323) | 686.20 | 3 |
-| 3680 | [Nephrite](https://osu.ppy.sh/u/3627340) | 686.17 | 4 |
-| 3681 | [My Angel Umi](https://osu.ppy.sh/u/5009263) | 686.05 | 4 |
-| 3682 | [srnya](https://osu.ppy.sh/u/657439) | 685.95 | 4 |
-| 3683 | [Bakuenjin](https://osu.ppy.sh/u/3750365) | 685.39 | 3 |
-| 3684 | [Reya](https://osu.ppy.sh/u/5960077) | 685.23 | 3 |
-| 3685 | [HamaDesu](https://osu.ppy.sh/u/1029430) | 684.91 | 4 |
-| 3686 | [Sebastian343](https://osu.ppy.sh/u/4160699) | 683.94 | 3 |
-| 3687 | [frndl](https://osu.ppy.sh/u/3974292) | 683.48 | 3 |
-| 3688 | [[ Pustules ]](https://osu.ppy.sh/u/2419478) | 683.45 | 2 |
-| 3689 | [Hearth](https://osu.ppy.sh/u/6217599) | 683.44 | 3 |
-| 3690 | [MrKartoffel](https://osu.ppy.sh/u/3761615) | 683.24 | 4 |
-| 3691 | [ryyushi](https://osu.ppy.sh/u/6014327) | 683.08 | 3 |
-| 3692 | [dancol00](https://osu.ppy.sh/u/3799186) | 682.05 | 3 |
-| 3693 | [Xezzex](https://osu.ppy.sh/u/3069678) | 681.26 | 3 |
-| 3694 | [-CloudStrife-](https://osu.ppy.sh/u/4309174) | 681.17 | 3 |
-| 3695 | [Pastnu](https://osu.ppy.sh/u/1969673) | 679.90 | 3 |
-| 3696 | [Yukizakura](https://osu.ppy.sh/u/839216) | 679.31 | 3 |
-| 3697 | [Maiaz](https://osu.ppy.sh/u/6916642) | 679.22 | 2 |
-| 3698 | [Puffydaddy](https://osu.ppy.sh/u/3877775) | 677.61 | 2 |
-| 3699 | [wildwulf](https://osu.ppy.sh/u/3678571) | 676.45 | 4 |
-| 3700 | [kasdeya](https://osu.ppy.sh/u/3786773) | 676.23 | 2 |
-| 3701 | [0198](https://osu.ppy.sh/u/1734925) | 676.16 | 3 |
-| 3702 | [Yukinon-](https://osu.ppy.sh/u/3494003) | 676.05 | 3 |
-| 3703 | [Aragami](https://osu.ppy.sh/u/1499997) | 675.96 | 3 |
-| 3704 | [Vortecs](https://osu.ppy.sh/u/2715375) | 675.00 | 3 |
-| 3705 | [[Micro-Quazar]](https://osu.ppy.sh/u/3946347) | 674.44 | 4 |
-| 3706 | [Utaite](https://osu.ppy.sh/u/2459981) | 674.21 | 3 |
-| 3707 | [BAldoTridentE](https://osu.ppy.sh/u/3535339) | 674.10 | 3 |
-| 3708 | [FolMing](https://osu.ppy.sh/u/3598339) | 673.48 | 3 |
-| 3709 | [S-Yuyuko](https://osu.ppy.sh/u/1756739) | 673.30 | 3 |
-| 3710 | [Hakka](https://osu.ppy.sh/u/3335839) | 673.27 | 4 |
-| 3711 | [MomoHD](https://osu.ppy.sh/u/2927048) | 671.54 | 3 |
-| 3712 | [Ketchup](https://osu.ppy.sh/u/4820468) | 671.25 | 3 |
-| 3713 | [- Kamek-](https://osu.ppy.sh/u/3316126) | 670.74 | 3 |
-| 3714 | [Mayzel](https://osu.ppy.sh/u/696435) | 668.87 | 2 |
-| 3715 | [FERRETu](https://osu.ppy.sh/u/2266129) | 667.39 | 3 |
-| 3716 | [AngeLMoogumin](https://osu.ppy.sh/u/3933997) | 667.18 | 3 |
-| 3717 | [Guiz](https://osu.ppy.sh/u/5099289) | 667.10 | 3 |
-| 3718 | [-Irina Avaron-](https://osu.ppy.sh/u/6061706) | 666.84 | 4 |
-| 3719 | [sasan_daichi](https://osu.ppy.sh/u/1416121) | 666.81 | 3 |
-| 3720 | [Nefarium](https://osu.ppy.sh/u/2484251) | 666.41 | 3 |
-| 3721 | [Lochts](https://osu.ppy.sh/u/708859) | 665.88 | 3 |
-| 3722 | [ItaOxy](https://osu.ppy.sh/u/201610) | 665.00 | 3 |
-| 3723 | [fabbbyyy](https://osu.ppy.sh/u/3383560) | 664.83 | 4 |
-| 3724 | [Kaine](https://osu.ppy.sh/u/1786945) | 664.69 | 2 |
-| 3725 | [Zoriik](https://osu.ppy.sh/u/4003315) | 663.59 | 3 |
-| 3726 | [Smurfee](https://osu.ppy.sh/u/5339196) | 663.45 | 3 |
-| 3727 | [payboom](https://osu.ppy.sh/u/5749347) | 663.34 | 4 |
-| 3728 | [AsTrone](https://osu.ppy.sh/u/6465616) | 663.24 | 4 |
-| 3729 | [Keada](https://osu.ppy.sh/u/2785549) | 663.03 | 3 |
-| 3730 | [LinnyDragon](https://osu.ppy.sh/u/4802744) | 662.93 | 3 |
-| 3731 | [- Best](https://osu.ppy.sh/u/5394601) | 662.88 | 3 |
-| 3732 | [Wilsiaii](https://osu.ppy.sh/u/4574441) | 662.85 | 3 |
-| 3733 | [Theseanbei](https://osu.ppy.sh/u/2044859) | 661.86 | 3 |
-| 3734 | [Asceth](https://osu.ppy.sh/u/3264072) | 661.44 | 4 |
-| 3735 | [xyxxyxxy](https://osu.ppy.sh/u/1408026) | 660.55 | 3 |
-| 3736 | [rohil](https://osu.ppy.sh/u/3612394) | 660.39 | 3 |
-| 3737 | [Skyar](https://osu.ppy.sh/u/424129) | 660.24 | 3 |
-| 3738 | [Hay0ger](https://osu.ppy.sh/u/4116299) | 660.07 | 4 |
-| 3739 | [Ne-Lo](https://osu.ppy.sh/u/2253266) | 659.76 | 3 |
-| 3740 | [Gao](https://osu.ppy.sh/u/3088505) | 658.14 | 2 |
-| 3741 | [Jontelini](https://osu.ppy.sh/u/4746822) | 656.60 | 3 |
-| 3742 | [Wela](https://osu.ppy.sh/u/6901005) | 656.56 | 3 |
-| 3743 | [2333](https://osu.ppy.sh/u/863544) | 656.41 | 3 |
-| 3744 | [caprielo101](https://osu.ppy.sh/u/5935857) | 656.41 | 3 |
-| 3745 | [MagiTaSo](https://osu.ppy.sh/u/4323101) | 656.38 | 3 |
-| 3746 | [DxD](https://osu.ppy.sh/u/5334695) | 656.26 | 3 |
-| 3747 | [Kuuma](https://osu.ppy.sh/u/5259480) | 655.57 | 3 |
-| 3748 | [Jonimay](https://osu.ppy.sh/u/1118341) | 654.67 | 2 |
-| 3749 | [[Rey]](https://osu.ppy.sh/u/1155110) | 654.33 | 3 |
-| 3750 | [My Angel Mayoi](https://osu.ppy.sh/u/6772887) | 654.21 | 3 |
-| 3751 | [Corcheedos](https://osu.ppy.sh/u/3759474) | 653.91 | 3 |
-| 3752 | [eBlossom](https://osu.ppy.sh/u/3211064) | 653.91 | 3 |
-| 3753 | [kiddly](https://osu.ppy.sh/u/74937) | 653.80 | 3 |
-| 3754 | [Ancaqt](https://osu.ppy.sh/u/2309741) | 652.23 | 3 |
-| 3755 | [Vertarix](https://osu.ppy.sh/u/7315668) | 652.21 | 4 |
-| 3756 | [Megumin-](https://osu.ppy.sh/u/4658388) | 650.87 | 3 |
-| 3757 | [Nosh](https://osu.ppy.sh/u/4027794) | 650.14 | 3 |
-| 3758 | [Spark-desu](https://osu.ppy.sh/u/4601608) | 649.53 | 2 |
-| 3759 | [AIDIA](https://osu.ppy.sh/u/878138) | 649.51 | 3 |
-| 3760 | [Kuramu](https://osu.ppy.sh/u/4159167) | 649.14 | 2 |
-| 3761 | [ktoswazny](https://osu.ppy.sh/u/5530503) | 648.94 | 3 |
-| 3762 | [Toushi](https://osu.ppy.sh/u/2367825) | 648.63 | 2 |
-| 3763 | [xXOrdinaryXx](https://osu.ppy.sh/u/1984859) | 648.60 | 3 |
-| 3764 | [BearZyo](https://osu.ppy.sh/u/6116759) | 648.12 | 3 |
-| 3765 | [ZekGS](https://osu.ppy.sh/u/3314158) | 647.76 | 3 |
-| 3766 | [Fina](https://osu.ppy.sh/u/3612494) | 646.78 | 4 |
-| 3767 | [NeedBackup](https://osu.ppy.sh/u/1162534) | 646.00 | 3 |
-| 3768 | [Dashie](https://osu.ppy.sh/u/1847419) | 644.79 | 3 |
-| 3769 | [tomoko](https://osu.ppy.sh/u/2436582) | 644.62 | 3 |
-| 3770 | [eley](https://osu.ppy.sh/u/2439937) | 643.72 | 3 |
-| 3771 | [[chaS]](https://osu.ppy.sh/u/3943151) | 643.46 | 3 |
-| 3772 | [Kataki](https://osu.ppy.sh/u/4605166) | 643.19 | 3 |
-| 3773 | [AkemiHomura](https://osu.ppy.sh/u/6337361) | 643.08 | 3 |
-| 3774 | [Pai Sensei](https://osu.ppy.sh/u/1429101) | 641.96 | 3 |
-| 3775 | [bakabaka](https://osu.ppy.sh/u/298471) | 641.58 | 3 |
-| 3776 | [iaeqb](https://osu.ppy.sh/u/4682923) | 640.72 | 3 |
-| 3777 | [Kappe_mk](https://osu.ppy.sh/u/1776615) | 640.37 | 3 |
-| 3778 | [Craftious](https://osu.ppy.sh/u/5167164) | 640.03 | 3 |
-| 3779 | [Lolzep](https://osu.ppy.sh/u/2593280) | 640.00 | 3 |
-| 3780 | [little Agile](https://osu.ppy.sh/u/1843469) | 639.75 | 2 |
-| 3781 | [- Beyond -](https://osu.ppy.sh/u/6950584) | 638.47 | 3 |
-| 3782 | [Yuichanx](https://osu.ppy.sh/u/2171964) | 638.22 | 4 |
-| 3783 | [Withoutstrategy](https://osu.ppy.sh/u/3552295) | 638.17 | 3 |
-| 3784 | [Cnya](https://osu.ppy.sh/u/1759879) | 638.15 | 2 |
-| 3785 | [Fresh Icecream](https://osu.ppy.sh/u/3800754) | 637.49 | 3 |
-| 3786 | [MoNaMiC](https://osu.ppy.sh/u/1274798) | 637.26 | 3 |
-| 3787 | [HuNted](https://osu.ppy.sh/u/273450) | 637.12 | 3 |
-| 3788 | [Atena](https://osu.ppy.sh/u/4750087) | 636.93 | 3 |
-| 3789 | [Mythology](https://osu.ppy.sh/u/1397777) | 636.35 | 3 |
-| 3790 | [ShamFleet](https://osu.ppy.sh/u/7104330) | 635.84 | 3 |
-| 3791 | [krofx](https://osu.ppy.sh/u/2088295) | 635.27 | 3 |
-| 3792 | [Victoire](https://osu.ppy.sh/u/1605867) | 635.07 | 3 |
-| 3793 | [SymhX](https://osu.ppy.sh/u/4988309) | 635.01 | 3 |
-| 3794 | [HailDaChicken](https://osu.ppy.sh/u/6546664) | 634.63 | 3 |
-| 3795 | [[-FlyingRUPig-]](https://osu.ppy.sh/u/4297325) | 634.61 | 3 |
-| 3796 | [aladdinlol](https://osu.ppy.sh/u/2851208) | 634.07 | 3 |
-| 3797 | [kYorineN](https://osu.ppy.sh/u/4131515) | 633.92 | 3 |
-| 3798 | [OskaRRRitoS](https://osu.ppy.sh/u/7051163) | 633.83 | 3 |
-| 3799 | [Cornfield](https://osu.ppy.sh/u/4087422) | 633.67 | 3 |
-| 3800 | [RoZe](https://osu.ppy.sh/u/1893851) | 633.47 | 3 |
-| 3801 | [LyanPayj](https://osu.ppy.sh/u/2488728) | 633.39 | 3 |
-| 3802 | [Jesus[Krists]](https://osu.ppy.sh/u/2842992) | 632.95 | 2 |
-| 3803 | [Bangom](https://osu.ppy.sh/u/1218895) | 632.92 | 3 |
-| 3804 | [Deemota](https://osu.ppy.sh/u/4109837) | 632.87 | 3 |
-| 3805 | [holycrap1337](https://osu.ppy.sh/u/2893009) | 632.66 | 3 |
-| 3806 | [Qu1z](https://osu.ppy.sh/u/526851) | 631.93 | 2 |
-| 3807 | [g3636225](https://osu.ppy.sh/u/3916272) | 631.72 | 2 |
-| 3808 | [Shabui](https://osu.ppy.sh/u/4190190) | 631.44 | 3 |
-| 3809 | [Remilia o9](https://osu.ppy.sh/u/1074171) | 630.32 | 3 |
-| 3810 | [geckogates](https://osu.ppy.sh/u/252524) | 629.70 | 3 |
-| 3811 | [MakiseLover](https://osu.ppy.sh/u/533847) | 629.22 | 3 |
-| 3812 | [Hexicate](https://osu.ppy.sh/u/2171562) | 629.20 | 2 |
-| 3813 | [Xinjection](https://osu.ppy.sh/u/1986135) | 628.03 | 3 |
-| 3814 | [kyeavnign](https://osu.ppy.sh/u/5429380) | 627.65 | 3 |
-| 3815 | [Fser](https://osu.ppy.sh/u/6313643) | 626.68 | 3 |
-| 3816 | [Tilted af](https://osu.ppy.sh/u/7488088) | 626.07 | 3 |
-| 3817 | [Nikjee](https://osu.ppy.sh/u/7077347) | 626.04 | 3 |
-| 3818 | [Arouet](https://osu.ppy.sh/u/6067498) | 625.92 | 3 |
-| 3819 | [CtrI](https://osu.ppy.sh/u/6945622) | 625.86 | 3 |
-| 3820 | [Rem MajiTenshi](https://osu.ppy.sh/u/5084172) | 625.74 | 3 |
-| 3821 | [iDevilous](https://osu.ppy.sh/u/6362553) | 625.52 | 3 |
-| 3822 | [Wonder](https://osu.ppy.sh/u/3687318) | 625.47 | 2 |
-| 3823 | [Ging-](https://osu.ppy.sh/u/4146587) | 625.43 | 3 |
-| 3824 | [Shibi](https://osu.ppy.sh/u/6543496) | 625.28 | 3 |
-| 3825 | [Mukaw](https://osu.ppy.sh/u/979247) | 624.51 | 4 |
-| 3826 | [Iojioji](https://osu.ppy.sh/u/1346121) | 624.49 | 3 |
-| 3827 | [Mahou Shoujo](https://osu.ppy.sh/u/3343383) | 624.24 | 3 |
-| 3828 | [Enkidu](https://osu.ppy.sh/u/4350751) | 624.19 | 2 |
-| 3829 | [Sure](https://osu.ppy.sh/u/70730) | 623.77 | 3 |
-| 3830 | [mr tribble](https://osu.ppy.sh/u/4770967) | 623.35 | 3 |
-| 3831 | [Ugi](https://osu.ppy.sh/u/4126696) | 623.19 | 3 |
-| 3832 | [toggld](https://osu.ppy.sh/u/6490007) | 623.15 | 3 |
-| 3833 | [Luigihaxd](https://osu.ppy.sh/u/7883418) | 622.86 | 3 |
-| 3834 | [Choilicious](https://osu.ppy.sh/u/2129634) | 622.14 | 3 |
-| 3835 | [lHeimer-](https://osu.ppy.sh/u/1762634) | 622.08 | 3 |
-| 3836 | [kasaski](https://osu.ppy.sh/u/2721378) | 621.84 | 3 |
-| 3837 | [BlackSarana](https://osu.ppy.sh/u/2859463) | 621.74 | 3 |
-| 3838 | [LeaveMeAlone-](https://osu.ppy.sh/u/5699541) | 621.45 | 3 |
-| 3839 | [skylewl](https://osu.ppy.sh/u/3373422) | 621.15 | 3 |
-| 3840 | [bjornkrage](https://osu.ppy.sh/u/7193213) | 620.93 | 3 |
-| 3841 | [CheonMa](https://osu.ppy.sh/u/2543294) | 620.72 | 3 |
-| 3842 | [byteGear97](https://osu.ppy.sh/u/6322341) | 619.64 | 3 |
-| 3843 | [Togawa Mayu](https://osu.ppy.sh/u/1226709) | 619.45 | 3 |
-| 3844 | [CSAQ](https://osu.ppy.sh/u/1482115) | 619.43 | 3 |
-| 3845 | [Matrxi999](https://osu.ppy.sh/u/2366250) | 619.39 | 3 |
-| 3846 | [Raflea](https://osu.ppy.sh/u/1611584) | 619.17 | 3 |
-| 3847 | [loliJoe](https://osu.ppy.sh/u/5302812) | 617.59 | 3 |
-| 3848 | [uzuran](https://osu.ppy.sh/u/867846) | 617.51 | 2 |
-| 3849 | [Coree](https://osu.ppy.sh/u/2494383) | 617.31 | 3 |
-| 3850 | [Ksnone](https://osu.ppy.sh/u/5639069) | 617.14 | 3 |
-| 3851 | [shadow_neko](https://osu.ppy.sh/u/4945284) | 617.13 | 3 |
-| 3852 | [TheMightySteve](https://osu.ppy.sh/u/6376302) | 616.60 | 3 |
-| 3853 | [cchihying](https://osu.ppy.sh/u/4718675) | 616.57 | 3 |
-| 3854 | [Namo](https://osu.ppy.sh/u/4400981) | 615.97 | 3 |
-| 3855 | [MasterPizza](https://osu.ppy.sh/u/5490473) | 615.37 | 3 |
-| 3856 | [Mewks](https://osu.ppy.sh/u/5143042) | 615.25 | 3 |
-| 3857 | [S o h](https://osu.ppy.sh/u/2234772) | 614.98 | 3 |
-| 3858 | [DarkHLC](https://osu.ppy.sh/u/3219896) | 614.85 | 3 |
-| 3859 | [DwikiS](https://osu.ppy.sh/u/3796627) | 614.74 | 3 |
-| 3860 | [Ch1ckenW1ng](https://osu.ppy.sh/u/2519095) | 614.57 | 3 |
-| 3861 | [Vynus](https://osu.ppy.sh/u/4536864) | 613.89 | 3 |
-| 3862 | [Sleeman](https://osu.ppy.sh/u/1386500) | 613.56 | 3 |
-| 3863 | [-Eat Sparingly-](https://osu.ppy.sh/u/2912782) | 613.51 | 4 |
-| 3864 | [Lokovodo](https://osu.ppy.sh/u/2154081) | 612.77 | 3 |
-| 3865 | [AppLocale](https://osu.ppy.sh/u/282375) | 612.24 | 3 |
-| 3866 | [Sadness](https://osu.ppy.sh/u/6560835) | 612.09 | 2 |
-| 3867 | [YAN](https://osu.ppy.sh/u/1827583) | 611.52 | 3 |
-| 3868 | [lorelai](https://osu.ppy.sh/u/2297662) | 611.37 | 2 |
-| 3869 | [SASA2981](https://osu.ppy.sh/u/612766) | 611.28 | 3 |
-| 3870 | [Serence](https://osu.ppy.sh/u/4552575) | 610.63 | 3 |
-| 3871 | [Cyllinus](https://osu.ppy.sh/u/2413420) | 610.15 | 3 |
-| 3872 | [1L174](https://osu.ppy.sh/u/4756308) | 609.82 | 3 |
-| 3873 | [NeneaTofu](https://osu.ppy.sh/u/5307079) | 609.79 | 3 |
-| 3874 | [ecdonald](https://osu.ppy.sh/u/1309717) | 609.74 | 3 |
-| 3875 | [Give Me Speed](https://osu.ppy.sh/u/5253881) | 609.06 | 3 |
-| 3876 | [josephlokaro2](https://osu.ppy.sh/u/6585305) | 609.02 | 3 |
-| 3877 | [U S A](https://osu.ppy.sh/u/4833859) | 608.66 | 3 |
-| 3878 | [Alenith](https://osu.ppy.sh/u/2300619) | 608.60 | 3 |
-| 3879 | [reiyuu](https://osu.ppy.sh/u/5274564) | 607.30 | 3 |
-| 3880 | [Laurah](https://osu.ppy.sh/u/2061273) | 607.24 | 3 |
-| 3881 | [Fu3ya_](https://osu.ppy.sh/u/5122187) | 607.20 | 3 |
-| 3882 | [Ninggen](https://osu.ppy.sh/u/1330050) | 606.66 | 3 |
-| 3883 | [[ Kuro Usagi ]](https://osu.ppy.sh/u/997489) | 606.23 | 2 |
-| 3884 | [My Angel Haruna](https://osu.ppy.sh/u/606544) | 605.68 | 2 |
-| 3885 | [mojidoori](https://osu.ppy.sh/u/8360362) | 605.31 | 3 |
-| 3886 | [MRT](https://osu.ppy.sh/u/726836) | 605.11 | 2 |
-| 3887 | [Minorsonek](https://osu.ppy.sh/u/5377178) | 604.81 | 3 |
-| 3888 | [Phenomz](https://osu.ppy.sh/u/924354) | 604.50 | 2 |
-| 3889 | [posh git](https://osu.ppy.sh/u/6388063) | 604.20 | 3 |
-| 3890 | [Armaggedun](https://osu.ppy.sh/u/3790776) | 604.07 | 3 |
-| 3891 | [blizzardice](https://osu.ppy.sh/u/1756690) | 604.04 | 3 |
-| 3892 | [NailBeast](https://osu.ppy.sh/u/1870084) | 603.80 | 3 |
-| 3893 | [AliceThirdMacy](https://osu.ppy.sh/u/803788) | 603.63 | 3 |
-| 3894 | [-Krait](https://osu.ppy.sh/u/4165194) | 603.57 | 3 |
-| 3895 | [Veltoad](https://osu.ppy.sh/u/6345158) | 603.55 | 3 |
-| 3896 | [Aiju AT](https://osu.ppy.sh/u/4934314) | 602.94 | 3 |
-| 3897 | [Rot](https://osu.ppy.sh/u/4992447) | 602.89 | 3 |
-| 3898 | [Hello-](https://osu.ppy.sh/u/2565819) | 602.50 | 3 |
-| 3899 | [Jinpe](https://osu.ppy.sh/u/7455508) | 602.25 | 3 |
-| 3900 | [Devilsknife](https://osu.ppy.sh/u/4943576) | 601.75 | 3 |
-| 3901 | [Deppyforce](https://osu.ppy.sh/u/5286213) | 601.68 | 2 |
-| 3902 | [Fraisey](https://osu.ppy.sh/u/3154542) | 601.67 | 3 |
-| 3903 | [lubery](https://osu.ppy.sh/u/1568567) | 601.43 | 3 |
-| 3904 | [Qwerty](https://osu.ppy.sh/u/5783785) | 600.70 | 3 |
-| 3905 | [Razuh](https://osu.ppy.sh/u/6731135) | 599.56 | 2 |
-| 3906 | [Delis](https://osu.ppy.sh/u/1603923) | 598.30 | 2 |
-| 3907 | [Pyon Pyon Uzuki](https://osu.ppy.sh/u/2400280) | 597.62 | 3 |
-| 3908 | [Bacon](https://osu.ppy.sh/u/4378484) | 597.46 | 3 |
-| 3909 | [Kiyono](https://osu.ppy.sh/u/929989) | 597.37 | 3 |
-| 3910 | [loryman](https://osu.ppy.sh/u/646643) | 597.15 | 2 |
-| 3911 | [Ket](https://osu.ppy.sh/u/3762504) | 596.99 | 3 |
-| 3912 | [Miko](https://osu.ppy.sh/u/3989017) | 596.97 | 2 |
-| 3913 | [[FireDemte]](https://osu.ppy.sh/u/5759059) | 596.61 | 3 |
-| 3914 | [october](https://osu.ppy.sh/u/5513481) | 596.39 | 3 |
-| 3915 | [caleb123456](https://osu.ppy.sh/u/2205376) | 596.38 | 2 |
-| 3916 | [ytw](https://osu.ppy.sh/u/6181654) | 596.04 | 3 |
-| 3917 | [[K_K]](https://osu.ppy.sh/u/1702812) | 595.63 | 3 |
-| 3918 | [hitowy](https://osu.ppy.sh/u/4874174) | 595.55 | 3 |
-| 3919 | [Ako-](https://osu.ppy.sh/u/850981) | 595.46 | 3 |
-| 3920 | [Scinder](https://osu.ppy.sh/u/1026630) | 595.12 | 3 |
-| 3921 | [Misaki98](https://osu.ppy.sh/u/3643317) | 594.18 | 3 |
-| 3922 | [sardine0221](https://osu.ppy.sh/u/16622) | 593.77 | 2 |
-| 3923 | [[HDHR]](https://osu.ppy.sh/u/3547567) | 592.80 | 3 |
-| 3924 | [Ancereal](https://osu.ppy.sh/u/5226477) | 592.67 | 2 |
-| 3925 | [Iceloki](https://osu.ppy.sh/u/3655476) | 592.58 | 3 |
-| 3926 | [-Kuromine](https://osu.ppy.sh/u/5501031) | 592.06 | 3 |
-| 3927 | [Yuzusoft](https://osu.ppy.sh/u/3925670) | 591.62 | 3 |
-| 3928 | [Komaa](https://osu.ppy.sh/u/4260383) | 591.53 | 2 |
-| 3929 | [Fetu](https://osu.ppy.sh/u/3595339) | 591.52 | 3 |
-| 3930 | [HAGTPSJT](https://osu.ppy.sh/u/1069760) | 591.20 | 3 |
-| 3931 | [rsmodx123](https://osu.ppy.sh/u/1011629) | 590.93 | 3 |
-| 3932 | [Hashiek](https://osu.ppy.sh/u/5430616) | 590.42 | 3 |
-| 3933 | [012555](https://osu.ppy.sh/u/5170497) | 589.93 | 3 |
-| 3934 | [- Bastian -](https://osu.ppy.sh/u/4940765) | 589.52 | 2 |
-| 3935 | [Kazamooo](https://osu.ppy.sh/u/2289037) | 589.26 | 3 |
-| 3936 | [Senseofloss](https://osu.ppy.sh/u/4560330) | 589.19 | 2 |
-| 3937 | [drunk daughter](https://osu.ppy.sh/u/2100107) | 588.92 | 3 |
-| 3938 | [rockleejkooo](https://osu.ppy.sh/u/384003) | 588.74 | 3 |
-| 3939 | [ninelie](https://osu.ppy.sh/u/1731277) | 588.64 | 2 |
-| 3940 | [skashiro](https://osu.ppy.sh/u/2913127) | 588.46 | 2 |
-| 3941 | [Yoruka](https://osu.ppy.sh/u/3150540) | 588.43 | 3 |
-| 3942 | [Gretsch](https://osu.ppy.sh/u/780314) | 587.79 | 3 |
-| 3943 | [Pacemaker](https://osu.ppy.sh/u/1632493) | 587.49 | 2 |
-| 3944 | [eijikong](https://osu.ppy.sh/u/4425070) | 587.16 | 3 |
-| 3945 | [rakuskoin](https://osu.ppy.sh/u/864649) | 586.08 | 3 |
-| 3946 | [be-bu](https://osu.ppy.sh/u/4274142) | 585.70 | 3 |
-| 3947 | [RemoteControler](https://osu.ppy.sh/u/4297180) | 585.43 | 3 |
-| 3948 | [RafisJrr](https://osu.ppy.sh/u/6412073) | 585.18 | 3 |
-| 3949 | [Gildz](https://osu.ppy.sh/u/6935996) | 584.68 | 3 |
-| 3950 | [Rafis](https://osu.ppy.sh/u/2558286) | 583.90 | 1 |
-| 3951 | [chakal](https://osu.ppy.sh/u/2593462) | 582.53 | 3 |
-| 3952 | [Hyperthragon](https://osu.ppy.sh/u/3328113) | 582.36 | 3 |
-| 3953 | [immijimmi](https://osu.ppy.sh/u/5480951) | 582.29 | 3 |
-| 3954 | [AhriIsMyWaifu](https://osu.ppy.sh/u/5097710) | 582.04 | 3 |
-| 3955 | [Fey](https://osu.ppy.sh/u/4328180) | 581.66 | 3 |
-| 3956 | [MrPadaren](https://osu.ppy.sh/u/2391952) | 580.91 | 3 |
-| 3957 | [notWHALE](https://osu.ppy.sh/u/3889448) | 580.32 | 3 |
-| 3958 | [FooXy](https://osu.ppy.sh/u/5307360) | 579.88 | 3 |
-| 3959 | [Dell](https://osu.ppy.sh/u/3891036) | 579.59 | 3 |
-| 3960 | [[ Radon ]](https://osu.ppy.sh/u/3863347) | 579.53 | 3 |
-| 3961 | [11g](https://osu.ppy.sh/u/6138847) | 578.24 | 3 |
-| 3962 | [ckbruin13](https://osu.ppy.sh/u/1264647) | 578.24 | 3 |
-| 3963 | [Tatch](https://osu.ppy.sh/u/2390650) | 577.48 | 2 |
-| 3964 | [- Akiyama Mio -](https://osu.ppy.sh/u/2710169) | 577.45 | 2 |
-| 3965 | [NatsuHara](https://osu.ppy.sh/u/7822797) | 575.22 | 3 |
-| 3966 | [Noofeng](https://osu.ppy.sh/u/1533370) | 574.84 | 3 |
-| 3967 | [Krom1](https://osu.ppy.sh/u/4643145) | 574.10 | 2 |
-| 3968 | [Poruteri](https://osu.ppy.sh/u/1379576) | 573.96 | 2 |
-| 3969 | [spaghett](https://osu.ppy.sh/u/5179915) | 573.81 | 3 |
-| 3970 | [_lai](https://osu.ppy.sh/u/3045895) | 573.51 | 2 |
-| 3971 | [fradiger](https://osu.ppy.sh/u/7269160) | 572.94 | 3 |
-| 3972 | [Krokou](https://osu.ppy.sh/u/2078770) | 572.89 | 2 |
-| 3973 | [Saechi](https://osu.ppy.sh/u/3137860) | 572.74 | 3 |
-| 3974 | [Hijikata](https://osu.ppy.sh/u/1694523) | 572.40 | 2 |
-| 3975 | [[ Wikii ]](https://osu.ppy.sh/u/4281035) | 572.37 | 3 |
-| 3976 | [haruharu](https://osu.ppy.sh/u/8180920) | 572.34 | 3 |
-| 3977 | [Clevercav](https://osu.ppy.sh/u/2800856) | 571.51 | 3 |
-| 3978 | [Keiren](https://osu.ppy.sh/u/889474) | 571.39 | 2 |
-| 3979 | [chenwu](https://osu.ppy.sh/u/466736) | 571.26 | 2 |
-| 3980 | [liondandelion](https://osu.ppy.sh/u/7711526) | 571.08 | 3 |
-| 3981 | [Irony](https://osu.ppy.sh/u/5657885) | 570.99 | 3 |
-| 3982 | [Gate](https://osu.ppy.sh/u/2943282) | 570.92 | 2 |
-| 3983 | [PunyFlash](https://osu.ppy.sh/u/4928461) | 570.54 | 3 |
-| 3984 | [unko](https://osu.ppy.sh/u/4160744) | 570.49 | 3 |
-| 3985 | [CRINGE](https://osu.ppy.sh/u/2763141) | 569.41 | 3 |
-| 3986 | [Stevy](https://osu.ppy.sh/u/5053158) | 569.26 | 3 |
-| 3987 | [Death](https://osu.ppy.sh/u/3242450) | 568.93 | 2 |
-| 3988 | [Sempai](https://osu.ppy.sh/u/3228141) | 568.91 | 3 |
-| 3989 | [Double Hard](https://osu.ppy.sh/u/3393833) | 568.21 | 3 |
-| 3990 | [vbnobu1105](https://osu.ppy.sh/u/4355380) | 567.95 | 3 |
-| 3991 | [Myko](https://osu.ppy.sh/u/1049999) | 567.10 | 2 |
-| 3992 | [Su2ki](https://osu.ppy.sh/u/2300853) | 566.93 | 3 |
-| 3993 | [Shakillo](https://osu.ppy.sh/u/2824071) | 565.95 | 2 |
-| 3994 | [TheSomething](https://osu.ppy.sh/u/4025232) | 564.31 | 2 |
-| 3995 | [ElChindi](https://osu.ppy.sh/u/5121597) | 563.26 | 3 |
-| 3996 | [Betwin](https://osu.ppy.sh/u/1968481) | 563.19 | 3 |
-| 3997 | [Krisevol](https://osu.ppy.sh/u/3829822) | 563.18 | 3 |
-| 3998 | [Chinitoonet](https://osu.ppy.sh/u/1703443) | 562.61 | 3 |
-| 3999 | [Riknoob](https://osu.ppy.sh/u/4624788) | 562.36 | 3 |
-| 4000 | [MiloSx7](https://osu.ppy.sh/u/2358009) | 562.23 | 3 |
-| 4001 | [LQX](https://osu.ppy.sh/u/203889) | 562.17 | 3 |
-| 4002 | [Vultix](https://osu.ppy.sh/u/634151) | 561.02 | 3 |
-| 4003 | [Radroch](https://osu.ppy.sh/u/7034970) | 560.97 | 3 |
-| 4004 | [-minami kotori-](https://osu.ppy.sh/u/4857328) | 560.52 | 2 |
-| 4005 | [trilex](https://osu.ppy.sh/u/6036692) | 559.81 | 3 |
-| 4006 | [felys](https://osu.ppy.sh/u/1759427) | 559.52 | 2 |
-| 4007 | [Nq_](https://osu.ppy.sh/u/2297833) | 559.31 | 3 |
-| 4008 | [Sisaria](https://osu.ppy.sh/u/4439546) | 558.56 | 3 |
-| 4009 | [linitian](https://osu.ppy.sh/u/2404790) | 558.54 | 3 |
-| 4010 | [zzqWilliam](https://osu.ppy.sh/u/2533157) | 558.39 | 3 |
-| 4011 | [Noobsicle](https://osu.ppy.sh/u/3432672) | 558.19 | 2 |
-| 4012 | [Im a Pencil](https://osu.ppy.sh/u/7524649) | 557.53 | 3 |
-| 4013 | [Sewrong](https://osu.ppy.sh/u/6241330) | 557.31 | 3 |
-| 4014 | [Hamids-](https://osu.ppy.sh/u/7941516) | 556.68 | 3 |
-| 4015 | [Gomo Pslvarh](https://osu.ppy.sh/u/1206417) | 556.66 | 2 |
-| 4016 | [Hunsaker](https://osu.ppy.sh/u/3322364) | 556.61 | 2 |
-| 4017 | [Dusk](https://osu.ppy.sh/u/533210) | 556.52 | 3 |
-| 4018 | [Sof1a](https://osu.ppy.sh/u/4075537) | 555.85 | 3 |
-| 4019 | [pHANTOMCORE-](https://osu.ppy.sh/u/1323906) | 555.22 | 3 |
-| 4020 | [Shintany](https://osu.ppy.sh/u/2885039) | 554.29 | 3 |
-| 4021 | [Kris-](https://osu.ppy.sh/u/3175955) | 554.22 | 3 |
-| 4022 | [FirstFunnyFail](https://osu.ppy.sh/u/4993205) | 554.16 | 3 |
-| 4023 | [Megatron is bad](https://osu.ppy.sh/u/2570828) | 554.12 | 2 |
-| 4024 | [Chisato](https://osu.ppy.sh/u/2991595) | 553.86 | 3 |
-| 4025 | [Kanan](https://osu.ppy.sh/u/4255606) | 553.74 | 3 |
-| 4026 | [Duskuser](https://osu.ppy.sh/u/2680530) | 552.15 | 2 |
-| 4027 | [Tynamoguy](https://osu.ppy.sh/u/3638962) | 552.08 | 2 |
-| 4028 | [Sakata_Gintoki](https://osu.ppy.sh/u/3172078) | 551.84 | 2 |
-| 4029 | [WhyV](https://osu.ppy.sh/u/5041691) | 550.99 | 3 |
-| 4030 | [Kyuurei](https://osu.ppy.sh/u/3508003) | 550.44 | 3 |
-| 4031 | [Kaku-](https://osu.ppy.sh/u/2422005) | 550.25 | 3 |
-| 4032 | [itong](https://osu.ppy.sh/u/2028662) | 550.16 | 3 |
-| 4033 | [Akela](https://osu.ppy.sh/u/3475579) | 549.26 | 2 |
-| 4034 | [alacat](https://osu.ppy.sh/u/869782) | 548.96 | 3 |
-| 4035 | [Neolution](https://osu.ppy.sh/u/1592782) | 548.73 | 3 |
-| 4036 | [IcarusSenpai](https://osu.ppy.sh/u/2942942) | 548.61 | 3 |
-| 4037 | [YoYo412](https://osu.ppy.sh/u/6158076) | 547.96 | 3 |
-| 4038 | [arily](https://osu.ppy.sh/u/1123053) | 547.51 | 3 |
-| 4039 | [Feaurors](https://osu.ppy.sh/u/3316977) | 547.23 | 2 |
-| 4040 | [zhaso](https://osu.ppy.sh/u/2438727) | 546.92 | 3 |
-| 4041 | [SatoReika](https://osu.ppy.sh/u/5187671) | 546.39 | 2 |
-| 4042 | [Awaken](https://osu.ppy.sh/u/1380253) | 546.16 | 3 |
-| 4043 | [DeadZoNeD](https://osu.ppy.sh/u/3859506) | 544.71 | 2 |
-| 4044 | [Physalis](https://osu.ppy.sh/u/2188481) | 544.61 | 2 |
-| 4045 | [-KCat](https://osu.ppy.sh/u/1135885) | 543.94 | 2 |
-| 4046 | [Wizor](https://osu.ppy.sh/u/6099362) | 543.86 | 3 |
-| 4047 | [Trynna](https://osu.ppy.sh/u/2652951) | 543.67 | 3 |
-| 4048 | [ZephyrProxy](https://osu.ppy.sh/u/4734651) | 543.55 | 2 |
-| 4049 | [skfsh](https://osu.ppy.sh/u/5735079) | 543.32 | 3 |
-| 4050 | [ProLoaf](https://osu.ppy.sh/u/7548565) | 543.08 | 3 |
-| 4051 | [Tusho](https://osu.ppy.sh/u/6786702) | 542.89 | 3 |
-| 4052 | [BriedisLT](https://osu.ppy.sh/u/3167723) | 542.78 | 3 |
-| 4053 | [Kuura](https://osu.ppy.sh/u/1695869) | 542.74 | 3 |
-| 4054 | [Sicarius](https://osu.ppy.sh/u/5156571) | 542.68 | 3 |
-| 4055 | [Reisea](https://osu.ppy.sh/u/870242) | 542.17 | 2 |
-| 4056 | [Nabbott](https://osu.ppy.sh/u/4970169) | 541.61 | 3 |
-| 4057 | [Faur](https://osu.ppy.sh/u/2972301) | 541.54 | 2 |
-| 4058 | [Kamykazi](https://osu.ppy.sh/u/3621226) | 541.26 | 2 |
-| 4059 | [im a fancy lad](https://osu.ppy.sh/u/4908650) | 541.20 | 3 |
-| 4060 | [Mezame](https://osu.ppy.sh/u/1609759) | 540.52 | 3 |
-| 4061 | [baoti](https://osu.ppy.sh/u/828442) | 540.26 | 2 |
-| 4062 | [DiscoTheBudgie](https://osu.ppy.sh/u/4745917) | 539.77 | 2 |
-| 4063 | [_Shironeko_](https://osu.ppy.sh/u/4607960) | 539.65 | 2 |
-| 4064 | [nVidi4x](https://osu.ppy.sh/u/203181) | 539.01 | 3 |
-| 4065 | [Nephalem1](https://osu.ppy.sh/u/4910308) | 539.00 | 3 |
-| 4066 | [Krunschy](https://osu.ppy.sh/u/2200076) | 538.97 | 3 |
-| 4067 | [TheRiceHeist](https://osu.ppy.sh/u/3581020) | 538.68 | 3 |
-| 4068 | [Mallorax](https://osu.ppy.sh/u/4270836) | 538.59 | 3 |
-| 4069 | [okami-x](https://osu.ppy.sh/u/7611269) | 538.29 | 2 |
-| 4070 | [-Nyuu-](https://osu.ppy.sh/u/4146848) | 537.95 | 3 |
-| 4071 | [quickman30](https://osu.ppy.sh/u/6438296) | 537.44 | 3 |
-| 4072 | [Uryuwei](https://osu.ppy.sh/u/459130) | 536.33 | 2 |
-| 4073 | [Innocence_y](https://osu.ppy.sh/u/1758271) | 535.66 | 3 |
-| 4074 | [cynthia612](https://osu.ppy.sh/u/1002066) | 535.41 | 3 |
-| 4075 | [StarrStyx](https://osu.ppy.sh/u/4600383) | 535.17 | 2 |
-| 4076 | [Akei](https://osu.ppy.sh/u/3002823) | 534.98 | 3 |
-| 4077 | [CptAncient](https://osu.ppy.sh/u/6426912) | 534.28 | 2 |
-| 4078 | [-kite-](https://osu.ppy.sh/u/6920076) | 533.87 | 3 |
-| 4079 | [ParadoX](https://osu.ppy.sh/u/3424394) | 533.79 | 3 |
-| 4080 | [Lyra](https://osu.ppy.sh/u/978707) | 533.42 | 3 |
-| 4081 | [Kraiz](https://osu.ppy.sh/u/240049) | 532.88 | 3 |
-| 4082 | [harmonics0122](https://osu.ppy.sh/u/966992) | 532.50 | 3 |
-| 4083 | [My Rabbit Chino](https://osu.ppy.sh/u/4193171) | 532.39 | 2 |
-| 4084 | [Five](https://osu.ppy.sh/u/2931928) | 532.11 | 2 |
-| 4085 | [Biribiri-](https://osu.ppy.sh/u/3186504) | 532.07 | 3 |
-| 4086 | [Nanael-sama](https://osu.ppy.sh/u/2428277) | 532.02 | 3 |
-| 4087 | [Tobirama Senju](https://osu.ppy.sh/u/3188127) | 531.13 | 2 |
-| 4088 | [RedLeaf](https://osu.ppy.sh/u/2703742) | 530.87 | 2 |
-| 4089 | [Mregoo](https://osu.ppy.sh/u/4684779) | 530.49 | 3 |
-| 4090 | [Cellina](https://osu.ppy.sh/u/2490770) | 530.48 | 2 |
-| 4091 | [Roxorac6](https://osu.ppy.sh/u/2911342) | 529.43 | 2 |
-| 4092 | [Tarkher](https://osu.ppy.sh/u/3423811) | 529.06 | 2 |
-| 4093 | [hoonaaa](https://osu.ppy.sh/u/5583301) | 528.49 | 2 |
-| 4094 | [N0thingSpecial](https://osu.ppy.sh/u/7371161) | 528.10 | 3 |
-| 4095 | [Zexk](https://osu.ppy.sh/u/4364075) | 527.96 | 3 |
-| 4096 | [Hellotomlol225](https://osu.ppy.sh/u/1906975) | 527.74 | 2 |
-| 4097 | [Lolinyan](https://osu.ppy.sh/u/6154274) | 527.37 | 3 |
-| 4098 | [Alone](https://osu.ppy.sh/u/6276591) | 527.04 | 3 |
-| 4099 | [acchin](https://osu.ppy.sh/u/3508104) | 527.00 | 3 |
-| 4100 | [Niksukii-Senpai](https://osu.ppy.sh/u/4889867) | 526.74 | 2 |
-| 4101 | [Ring men](https://osu.ppy.sh/u/4318937) | 526.54 | 3 |
-| 4102 | [-Kryu-](https://osu.ppy.sh/u/2281719) | 526.25 | 2 |
-| 4103 | [Drewskiii](https://osu.ppy.sh/u/3193709) | 526.16 | 3 |
-| 4104 | [Dizick](https://osu.ppy.sh/u/5014197) | 525.74 | 2 |
-| 4105 | [Stephen](https://osu.ppy.sh/u/2860135) | 525.53 | 3 |
-| 4106 | [Kosaki Onodera](https://osu.ppy.sh/u/2850769) | 525.51 | 3 |
-| 4107 | [Shodan](https://osu.ppy.sh/u/2385768) | 525.25 | 2 |
-| 4108 | [Mikaela Hyakuya](https://osu.ppy.sh/u/3032916) | 524.66 | 3 |
-| 4109 | [-Kantan -](https://osu.ppy.sh/u/5487415) | 524.35 | 2 |
-| 4110 | [YoshikoTsushima](https://osu.ppy.sh/u/2631094) | 524.28 | 3 |
-| 4111 | [Risteel](https://osu.ppy.sh/u/690454) | 521.73 | 2 |
-| 4112 | [demou](https://osu.ppy.sh/u/2749202) | 521.54 | 3 |
-| 4113 | [ishtar](https://osu.ppy.sh/u/732519) | 521.12 | 2 |
-| 4114 | [proFiCiENT](https://osu.ppy.sh/u/2948976) | 520.28 | 2 |
-| 4115 | [Shadw](https://osu.ppy.sh/u/2763363) | 519.79 | 3 |
-| 4116 | [HoboEater](https://osu.ppy.sh/u/1626345) | 518.47 | 2 |
-| 4117 | [-Riamu-](https://osu.ppy.sh/u/2474286) | 518.39 | 3 |
-| 4118 | [Zerikei](https://osu.ppy.sh/u/6461337) | 517.74 | 2 |
-| 4119 | [Rexeez](https://osu.ppy.sh/u/1987591) | 517.67 | 2 |
-| 4120 | [Jerome](https://osu.ppy.sh/u/3391379) | 517.56 | 2 |
-| 4121 | [Aia](https://osu.ppy.sh/u/3492472) | 517.43 | 2 |
-| 4122 | [xl Nyan caxX lx](https://osu.ppy.sh/u/3317151) | 517.38 | 2 |
-| 4123 | [H i k a r i](https://osu.ppy.sh/u/2245033) | 517.28 | 3 |
-| 4124 | [qqale](https://osu.ppy.sh/u/3244820) | 516.31 | 2 |
-| 4125 | [[Riot]](https://osu.ppy.sh/u/4256461) | 514.29 | 2 |
-| 4126 | [NixXSkate](https://osu.ppy.sh/u/671747) | 514.03 | 2 |
-| 4127 | [Haruko-](https://osu.ppy.sh/u/521841) | 513.42 | 2 |
-| 4128 | [Incursiio](https://osu.ppy.sh/u/3436608) | 513.35 | 2 |
-| 4129 | [[ Yukinon ]](https://osu.ppy.sh/u/4551750) | 513.00 | 2 |
-| 4130 | [Riiko-](https://osu.ppy.sh/u/2264378) | 512.94 | 2 |
-| 4131 | [Evad-](https://osu.ppy.sh/u/3350047) | 512.72 | 3 |
-| 4132 | [samplefish](https://osu.ppy.sh/u/573722) | 512.66 | 2 |
-| 4133 | [Syrin](https://osu.ppy.sh/u/5701575) | 511.23 | 3 |
-| 4134 | [Finnu](https://osu.ppy.sh/u/3034329) | 510.83 | 2 |
-| 4135 | [RareChicken-](https://osu.ppy.sh/u/5029843) | 510.58 | 3 |
-| 4136 | [[Sven]](https://osu.ppy.sh/u/3695504) | 509.59 | 2 |
-| 4137 | [daminski](https://osu.ppy.sh/u/3208649) | 509.48 | 3 |
-| 4138 | [tuyanaruga](https://osu.ppy.sh/u/3969390) | 509.08 | 2 |
-| 4139 | [iGrzes](https://osu.ppy.sh/u/5089741) | 508.51 | 3 |
-| 4140 | [yuzutyan](https://osu.ppy.sh/u/725018) | 508.43 | 3 |
-| 4141 | [Snow Sister](https://osu.ppy.sh/u/4337184) | 508.32 | 2 |
-| 4142 | [rein_reign](https://osu.ppy.sh/u/1308695) | 508.04 | 2 |
-| 4143 | [Kawaii Koneko](https://osu.ppy.sh/u/3922251) | 507.30 | 2 |
-| 4144 | [B G H](https://osu.ppy.sh/u/1357119) | 506.63 | 3 |
-| 4145 | [Fun](https://osu.ppy.sh/u/3509549) | 506.56 | 3 |
-| 4146 | [Misti](https://osu.ppy.sh/u/3425197) | 506.53 | 2 |
-| 4147 | [Liyara](https://osu.ppy.sh/u/4875161) | 506.26 | 3 |
-| 4148 | [YubiGori](https://osu.ppy.sh/u/3431746) | 505.93 | 2 |
-| 4149 | [Yosero](https://osu.ppy.sh/u/763402) | 505.69 | 3 |
-| 4150 | [D4rkHeroBR](https://osu.ppy.sh/u/5240155) | 505.59 | 2 |
-| 4151 | [- Sylone -](https://osu.ppy.sh/u/4846598) | 505.32 | 2 |
-| 4152 | [Kyoro](https://osu.ppy.sh/u/2117197) | 505.23 | 2 |
-| 4153 | [PETS](https://osu.ppy.sh/u/890519) | 505.22 | 2 |
-| 4154 | [javenong](https://osu.ppy.sh/u/6787759) | 504.48 | 2 |
-| 4155 | [-Soba-](https://osu.ppy.sh/u/663657) | 504.40 | 2 |
-| 4156 | [peb](https://osu.ppy.sh/u/4865430) | 504.21 | 3 |
-| 4157 | [_MiaoFUuU_](https://osu.ppy.sh/u/4299356) | 504.20 | 2 |
-| 4158 | [viionc XD](https://osu.ppy.sh/u/2131130) | 503.95 | 2 |
-| 4159 | [Flair](https://osu.ppy.sh/u/2224518) | 503.30 | 2 |
-| 4160 | [cuckei](https://osu.ppy.sh/u/5263631) | 503.15 | 2 |
-| 4161 | [Snoop Dogg](https://osu.ppy.sh/u/2200661) | 502.91 | 2 |
-| 4162 | [Aomi Maika](https://osu.ppy.sh/u/2163643) | 502.32 | 2 |
-| 4163 | [L a n c i r](https://osu.ppy.sh/u/3986423) | 501.84 | 2 |
-| 4164 | [Fookiezi](https://osu.ppy.sh/u/4593732) | 501.34 | 2 |
-| 4165 | [NekoMiax](https://osu.ppy.sh/u/3826030) | 500.31 | 2 |
-| 4166 | [KebinTea](https://osu.ppy.sh/u/2257308) | 499.45 | 2 |
-| 4167 | [pro boxer-MATSU](https://osu.ppy.sh/u/1811176) | 499.19 | 2 |
-| 4168 | [SonixAnime](https://osu.ppy.sh/u/4029000) | 498.57 | 2 |
-| 4169 | [Togetic](https://osu.ppy.sh/u/6163744) | 498.24 | 2 |
-| 4170 | [Bae-](https://osu.ppy.sh/u/6576972) | 497.65 | 2 |
-| 4171 | [SeeL](https://osu.ppy.sh/u/5104320) | 497.40 | 2 |
-| 4172 | [Doomsday is Bad](https://osu.ppy.sh/u/3481378) | 497.27 | 3 |
-| 4173 | [Riley](https://osu.ppy.sh/u/3007925) | 496.98 | 2 |
-| 4174 | [Mogamimoga](https://osu.ppy.sh/u/4237056) | 496.91 | 2 |
-| 4175 | [Dearoom](https://osu.ppy.sh/u/3357296) | 496.68 | 2 |
-| 4176 | [Gumi Rin](https://osu.ppy.sh/u/2574658) | 496.51 | 2 |
-| 4177 | [bolieth](https://osu.ppy.sh/u/6363043) | 496.39 | 2 |
-| 4178 | [R3laX3R](https://osu.ppy.sh/u/819689) | 496.16 | 2 |
-| 4179 | [Bedrock](https://osu.ppy.sh/u/4095978) | 495.89 | 2 |
-| 4180 | [Xurnub](https://osu.ppy.sh/u/3511774) | 495.15 | 2 |
-| 4181 | [Nev9](https://osu.ppy.sh/u/4227554) | 494.49 | 2 |
-| 4182 | [Okazys](https://osu.ppy.sh/u/4671253) | 493.66 | 2 |
-| 4183 | [kymotsujason](https://osu.ppy.sh/u/2541804) | 493.65 | 2 |
-| 4184 | [Exarch](https://osu.ppy.sh/u/5370153) | 493.50 | 2 |
-| 4185 | [Yiul](https://osu.ppy.sh/u/4793715) | 492.84 | 2 |
-| 4186 | [[ Nabuu ]](https://osu.ppy.sh/u/6395155) | 491.54 | 2 |
-| 4187 | [MURROX](https://osu.ppy.sh/u/771635) | 491.38 | 2 |
-| 4188 | [Kentucky312](https://osu.ppy.sh/u/2447934) | 490.83 | 2 |
-| 4189 | [Monk Gyatso](https://osu.ppy.sh/u/4012086) | 490.80 | 2 |
-| 4190 | [TehJulppu](https://osu.ppy.sh/u/3912982) | 489.17 | 2 |
-| 4191 | [Hakkun](https://osu.ppy.sh/u/2179438) | 489.14 | 2 |
-| 4192 | [A r M i N](https://osu.ppy.sh/u/5115995) | 488.94 | 2 |
-| 4193 | [RyuSena](https://osu.ppy.sh/u/2633550) | 488.93 | 2 |
-| 4194 | [traps](https://osu.ppy.sh/u/7434175) | 488.59 | 2 |
-| 4195 | [-Reko-](https://osu.ppy.sh/u/6396817) | 488.15 | 2 |
-| 4196 | [Numbers](https://osu.ppy.sh/u/3702014) | 487.89 | 2 |
-| 4197 | [Fex](https://osu.ppy.sh/u/6534062) | 487.74 | 3 |
-| 4198 | [My Name Jeff](https://osu.ppy.sh/u/3493592) | 487.63 | 2 |
-| 4199 | [PalmZz](https://osu.ppy.sh/u/4503253) | 487.42 | 2 |
-| 4200 | [bloog](https://osu.ppy.sh/u/3995681) | 487.16 | 2 |
-| 4201 | [ice1241](https://osu.ppy.sh/u/5162291) | 486.77 | 2 |
-| 4202 | [Aventas](https://osu.ppy.sh/u/2265597) | 486.71 | 2 |
-| 4203 | [YutoStorm](https://osu.ppy.sh/u/6618999) | 486.18 | 2 |
-| 4204 | [Start](https://osu.ppy.sh/u/2190156) | 486.10 | 2 |
-| 4205 | [Shoko84](https://osu.ppy.sh/u/1847484) | 485.99 | 2 |
-| 4206 | [-Freezd-](https://osu.ppy.sh/u/6524603) | 485.97 | 2 |
-| 4207 | [homu-homu-tan](https://osu.ppy.sh/u/1052037) | 485.96 | 2 |
-| 4208 | [Deadpool](https://osu.ppy.sh/u/4399623) | 485.58 | 2 |
-| 4209 | [Xexxar](https://osu.ppy.sh/u/2773526) | 485.45 | 2 |
-| 4210 | [ZRush](https://osu.ppy.sh/u/398097) | 485.10 | 2 |
-| 4211 | [Dokhan](https://osu.ppy.sh/u/4639462) | 485.03 | 2 |
-| 4212 | [GeeSsang](https://osu.ppy.sh/u/972006) | 484.67 | 2 |
-| 4213 | [3y3s](https://osu.ppy.sh/u/1870129) | 484.28 | 2 |
-| 4214 | [kazuakim](https://osu.ppy.sh/u/1622431) | 483.98 | 2 |
-| 4215 | [Dostedt](https://osu.ppy.sh/u/4069254) | 483.78 | 3 |
-| 4216 | [Touko White](https://osu.ppy.sh/u/3175019) | 482.84 | 2 |
-| 4217 | [Toyosaki](https://osu.ppy.sh/u/2724461) | 482.58 | 2 |
-| 4218 | [ThePro365](https://osu.ppy.sh/u/4415285) | 481.71 | 2 |
-| 4219 | [Anticristo](https://osu.ppy.sh/u/5592595) | 481.66 | 2 |
-| 4220 | [eggmcmuffin](https://osu.ppy.sh/u/4135790) | 481.63 | 4 |
-| 4221 | [Turu](https://osu.ppy.sh/u/1855493) | 480.47 | 2 |
-| 4222 | [neko ds](https://osu.ppy.sh/u/4688735) | 480.37 | 2 |
-| 4223 | [cRysC](https://osu.ppy.sh/u/3812981) | 480.26 | 2 |
-| 4224 | [wfcaqja](https://osu.ppy.sh/u/1765868) | 480.08 | 2 |
-| 4225 | [JerryLi](https://osu.ppy.sh/u/3956305) | 480.01 | 2 |
-| 4226 | [pyccknn](https://osu.ppy.sh/u/3618773) | 479.48 | 2 |
-| 4227 | [-Crescent-](https://osu.ppy.sh/u/2852743) | 479.23 | 2 |
-| 4228 | [patch](https://osu.ppy.sh/u/1834131) | 478.95 | 2 |
-| 4229 | [Ringo](https://osu.ppy.sh/u/815706) | 478.85 | 2 |
-| 4230 | [BurgerFlipper](https://osu.ppy.sh/u/3960351) | 478.85 | 2 |
-| 4231 | [Maple17](https://osu.ppy.sh/u/6726713) | 478.81 | 2 |
-| 4232 | [Dookie](https://osu.ppy.sh/u/2479300) | 478.65 | 2 |
-| 4233 | [Hupie](https://osu.ppy.sh/u/2698640) | 478.57 | 2 |
-| 4234 | [Megasaatana](https://osu.ppy.sh/u/3623161) | 478.53 | 2 |
-| 4235 | [Thomas here](https://osu.ppy.sh/u/4452573) | 478.16 | 2 |
-| 4236 | [Rundle67](https://osu.ppy.sh/u/1542979) | 477.78 | 2 |
-| 4237 | [Stylez521](https://osu.ppy.sh/u/5137051) | 477.70 | 2 |
-| 4238 | [Gogolo](https://osu.ppy.sh/u/2636833) | 477.50 | 2 |
-| 4239 | [Semifour](https://osu.ppy.sh/u/4968158) | 477.08 | 2 |
-| 4240 | [traserelax](https://osu.ppy.sh/u/6404064) | 477.04 | 2 |
-| 4241 | [RLU](https://osu.ppy.sh/u/2008617) | 476.75 | 2 |
-| 4242 | [Sapphire Eden](https://osu.ppy.sh/u/1144391) | 476.65 | 2 |
-| 4243 | [Touhou](https://osu.ppy.sh/u/3832959) | 476.19 | 2 |
-| 4244 | [DoubiTime](https://osu.ppy.sh/u/3291976) | 475.73 | 2 |
-| 4245 | [uNable](https://osu.ppy.sh/u/1958549) | 475.63 | 2 |
-| 4246 | [fayded](https://osu.ppy.sh/u/4663072) | 475.38 | 2 |
-| 4247 | [hummingbird](https://osu.ppy.sh/u/3232447) | 475.35 | 2 |
-| 4248 | [WisperUchiha](https://osu.ppy.sh/u/6361002) | 475.34 | 2 |
-| 4249 | [-Slasher](https://osu.ppy.sh/u/7440644) | 475.26 | 2 |
-| 4250 | [DaKoTaosu](https://osu.ppy.sh/u/6617978) | 475.13 | 2 |
-| 4251 | [BonanzaBlast](https://osu.ppy.sh/u/6228656) | 474.94 | 2 |
-| 4252 | [djjsixpack](https://osu.ppy.sh/u/1087888) | 474.62 | 2 |
-| 4253 | [lvLamp](https://osu.ppy.sh/u/6028563) | 474.61 | 3 |
-| 4254 | [pmriva](https://osu.ppy.sh/u/2180885) | 473.92 | 2 |
-| 4255 | [a08171119](https://osu.ppy.sh/u/872969) | 473.15 | 2 |
-| 4256 | [Tomatonium](https://osu.ppy.sh/u/6230509) | 473.15 | 2 |
-| 4257 | [Seiryu](https://osu.ppy.sh/u/5081910) | 473.12 | 2 |
-| 4258 | [Airis](https://osu.ppy.sh/u/1471889) | 472.94 | 2 |
-| 4259 | [redozem](https://osu.ppy.sh/u/2071307) | 472.36 | 2 |
-| 4260 | [[ Spirit ]](https://osu.ppy.sh/u/1899022) | 472.19 | 2 |
-| 4261 | [SaBaKi_aZa](https://osu.ppy.sh/u/4994988) | 471.94 | 2 |
-| 4262 | [TheKushVanMan](https://osu.ppy.sh/u/3409977) | 470.87 | 3 |
-| 4263 | [MrYoshi14](https://osu.ppy.sh/u/4470553) | 470.49 | 2 |
-| 4264 | [Seynn](https://osu.ppy.sh/u/5720813) | 470.17 | 2 |
-| 4265 | [wochhi](https://osu.ppy.sh/u/2150561) | 469.24 | 3 |
-| 4266 | [Improv](https://osu.ppy.sh/u/4041913) | 469.07 | 2 |
-| 4267 | [_flyaway](https://osu.ppy.sh/u/6579694) | 468.92 | 2 |
-| 4268 | [E t e r n i t y](https://osu.ppy.sh/u/1025618) | 468.38 | 2 |
-| 4269 | [-Element-](https://osu.ppy.sh/u/6113284) | 468.11 | 3 |
-| 4270 | [snitchxz](https://osu.ppy.sh/u/2600313) | 467.35 | 2 |
-| 4271 | [Lagel](https://osu.ppy.sh/u/5053393) | 467.31 | 2 |
-| 4272 | [TakuMii](https://osu.ppy.sh/u/174545) | 467.29 | 2 |
-| 4273 | [Rafacar](https://osu.ppy.sh/u/2950870) | 467.00 | 2 |
-| 4274 | [Weredeer](https://osu.ppy.sh/u/7661117) | 466.95 | 2 |
-| 4275 | [HotaruMiraiRin](https://osu.ppy.sh/u/1433808) | 466.92 | 2 |
-| 4276 | [AMasochism](https://osu.ppy.sh/u/431594) | 466.40 | 2 |
-| 4277 | [[ D_L ]](https://osu.ppy.sh/u/3293915) | 465.70 | 2 |
-| 4278 | [Arakene](https://osu.ppy.sh/u/1557459) | 465.29 | 2 |
-| 4279 | [Shikyoga Kira](https://osu.ppy.sh/u/5266981) | 465.21 | 2 |
-| 4280 | [seegii](https://osu.ppy.sh/u/4659319) | 465.14 | 2 |
-| 4281 | [Bamiblok](https://osu.ppy.sh/u/2624864) | 464.33 | 2 |
-| 4282 | [- Brandon -](https://osu.ppy.sh/u/5737841) | 464.25 | 2 |
-| 4283 | [FrOstOfWinTer](https://osu.ppy.sh/u/1300563) | 464.21 | 2 |
-| 4284 | [WildFire](https://osu.ppy.sh/u/5104352) | 463.93 | 2 |
-| 4285 | [- Castaway -](https://osu.ppy.sh/u/4273613) | 463.36 | 2 |
-| 4286 | [StormZL](https://osu.ppy.sh/u/3198753) | 462.80 | 2 |
-| 4287 | [reversiout](https://osu.ppy.sh/u/3378394) | 462.59 | 2 |
-| 4288 | [Redolwolf](https://osu.ppy.sh/u/5940941) | 461.72 | 2 |
-| 4289 | [- Lynus -](https://osu.ppy.sh/u/3426831) | 461.61 | 2 |
-| 4290 | [Glyphic](https://osu.ppy.sh/u/4569042) | 461.52 | 3 |
-| 4291 | [Kepap](https://osu.ppy.sh/u/7933039) | 461.44 | 2 |
-| 4292 | [IstackNeko](https://osu.ppy.sh/u/5713209) | 461.30 | 2 |
-| 4293 | [Akio](https://osu.ppy.sh/u/3541863) | 460.60 | 2 |
-| 4294 | [Meloy](https://osu.ppy.sh/u/853313) | 460.58 | 3 |
-| 4295 | [BRAH](https://osu.ppy.sh/u/2348056) | 460.44 | 2 |
-| 4296 | [Xearo](https://osu.ppy.sh/u/4644931) | 460.42 | 2 |
-| 4297 | [Sitin](https://osu.ppy.sh/u/2181494) | 460.38 | 2 |
-| 4298 | [Forgetest](https://osu.ppy.sh/u/3515152) | 460.23 | 2 |
-| 4299 | [D3LTA](https://osu.ppy.sh/u/3099197) | 460.14 | 2 |
-| 4300 | [a21643338](https://osu.ppy.sh/u/7681087) | 459.43 | 3 |
-| 4301 | [LWMF](https://osu.ppy.sh/u/3632402) | 459.27 | 2 |
-| 4302 | [Dammie](https://osu.ppy.sh/u/4240529) | 458.83 | 2 |
-| 4303 | [Sonozaki-](https://osu.ppy.sh/u/2697040) | 458.38 | 2 |
-| 4304 | [Pareidolia](https://osu.ppy.sh/u/2409646) | 457.58 | 2 |
-| 4305 | [spooky fish](https://osu.ppy.sh/u/3289730) | 457.18 | 2 |
-| 4306 | [Kardshark](https://osu.ppy.sh/u/4724315) | 456.47 | 2 |
-| 4307 | [Felt](https://osu.ppy.sh/u/3481633) | 456.28 | 2 |
-| 4308 | [-Inyafaze-](https://osu.ppy.sh/u/2242883) | 456.12 | 2 |
-| 4309 | [ArisakaMashiro-](https://osu.ppy.sh/u/2467018) | 455.62 | 2 |
-| 4310 | [Lari20752](https://osu.ppy.sh/u/2463942) | 455.48 | 2 |
-| 4311 | [Buddy](https://osu.ppy.sh/u/4726636) | 455.29 | 2 |
-| 4312 | [ruyo](https://osu.ppy.sh/u/3712966) | 454.99 | 2 |
-| 4313 | [Ingushew](https://osu.ppy.sh/u/5069873) | 454.76 | 2 |
-| 4314 | [-Jamie](https://osu.ppy.sh/u/2386591) | 454.36 | 2 |
-| 4315 | [NEXabc](https://osu.ppy.sh/u/2868260) | 454.36 | 2 |
-| 4316 | [PXK3](https://osu.ppy.sh/u/6385774) | 453.85 | 2 |
-| 4317 | [restricted mode](https://osu.ppy.sh/u/3776797) | 453.47 | 2 |
-| 4318 | [Garde Rade](https://osu.ppy.sh/u/5098104) | 453.40 | 2 |
-| 4319 | [0niczan](https://osu.ppy.sh/u/3118953) | 453.26 | 3 |
-| 4320 | [H1ko](https://osu.ppy.sh/u/58710) | 453.20 | 2 |
-| 4321 | [Brimroth](https://osu.ppy.sh/u/3129374) | 453.18 | 2 |
-| 4322 | [KingOfPie](https://osu.ppy.sh/u/2405060) | 453.11 | 2 |
-| 4323 | [Djambalaz](https://osu.ppy.sh/u/6889020) | 453.08 | 2 |
-| 4324 | [Gjenferd](https://osu.ppy.sh/u/2831765) | 452.98 | 2 |
-| 4325 | [Mak Kau Hijau](https://osu.ppy.sh/u/3556629) | 452.79 | 3 |
-| 4326 | [Senuy](https://osu.ppy.sh/u/5790503) | 452.48 | 2 |
-| 4327 | [momimann](https://osu.ppy.sh/u/878904) | 452.46 | 2 |
-| 4328 | [FunGame](https://osu.ppy.sh/u/5989721) | 452.27 | 2 |
-| 4329 | [nagato555](https://osu.ppy.sh/u/3897320) | 451.72 | 2 |
-| 4330 | [-Tatsuya-](https://osu.ppy.sh/u/2950593) | 451.64 | 2 |
-| 4331 | [Keewlan](https://osu.ppy.sh/u/2072778) | 451.53 | 2 |
-| 4332 | [Silicon-Based](https://osu.ppy.sh/u/3986741) | 450.92 | 2 |
-| 4333 | [Bloomy](https://osu.ppy.sh/u/4607286) | 450.35 | 2 |
-| 4334 | [troubix](https://osu.ppy.sh/u/3288672) | 450.26 | 2 |
-| 4335 | [Fatpython](https://osu.ppy.sh/u/3505377) | 449.84 | 2 |
-| 4336 | [- Gyaku Koi-](https://osu.ppy.sh/u/3764670) | 449.84 | 2 |
-| 4337 | [yf_bmp](https://osu.ppy.sh/u/1243669) | 449.84 | 2 |
-| 4338 | [MineSweeper](https://osu.ppy.sh/u/4114738) | 449.19 | 2 |
-| 4339 | [[ BerzE ]](https://osu.ppy.sh/u/1175152) | 449.18 | 2 |
-| 4340 | [[-buki-]](https://osu.ppy.sh/u/2927918) | 448.29 | 2 |
-| 4341 | [285535724511](https://osu.ppy.sh/u/446768) | 448.29 | 2 |
-| 4342 | [[Charlie Lam]](https://osu.ppy.sh/u/3766224) | 448.21 | 2 |
-| 4343 | [Ryoko](https://osu.ppy.sh/u/2660111) | 448.14 | 2 |
-| 4344 | [Rtyzen](https://osu.ppy.sh/u/2439822) | 448.06 | 2 |
-| 4345 | [Ued](https://osu.ppy.sh/u/4831807) | 448.04 | 2 |
-| 4346 | [Azumie](https://osu.ppy.sh/u/5014168) | 448.02 | 2 |
-| 4347 | [crrwn](https://osu.ppy.sh/u/5149551) | 447.37 | 2 |
-| 4348 | [dartwall](https://osu.ppy.sh/u/2915403) | 447.28 | 2 |
-| 4349 | [Starburst](https://osu.ppy.sh/u/2348356) | 447.16 | 2 |
-| 4350 | [Kanexy](https://osu.ppy.sh/u/3483086) | 447.03 | 2 |
-| 4351 | [dong](https://osu.ppy.sh/u/4422446) | 447.03 | 2 |
-| 4352 | [WildOctopus](https://osu.ppy.sh/u/2833526) | 446.92 | 2 |
-| 4353 | [Zeisen-](https://osu.ppy.sh/u/7892320) | 446.17 | 2 |
-| 4354 | [i am big jj](https://osu.ppy.sh/u/6231473) | 446.17 | 3 |
-| 4355 | [ywit](https://osu.ppy.sh/u/4459864) | 445.98 | 2 |
-| 4356 | [Kadran](https://osu.ppy.sh/u/1647597) | 445.91 | 2 |
-| 4357 | [eLLezH](https://osu.ppy.sh/u/2143311) | 445.59 | 2 |
-| 4358 | [Skiant](https://osu.ppy.sh/u/2834570) | 445.34 | 2 |
-| 4359 | [Espaas](https://osu.ppy.sh/u/3277704) | 444.64 | 2 |
-| 4360 | [Curtain_X](https://osu.ppy.sh/u/6477247) | 444.05 | 2 |
-| 4361 | [My Angel Momo](https://osu.ppy.sh/u/6046478) | 443.45 | 2 |
-| 4362 | [F1N4LY](https://osu.ppy.sh/u/6822747) | 443.28 | 2 |
-| 4363 | [archun14228](https://osu.ppy.sh/u/972146) | 443.22 | 2 |
-| 4364 | [Sivies](https://osu.ppy.sh/u/3597096) | 443.18 | 2 |
-| 4365 | [Krims](https://osu.ppy.sh/u/4148449) | 442.96 | 2 |
-| 4366 | [AngeInori](https://osu.ppy.sh/u/8673068) | 442.49 | 3 |
-| 4367 | [[ TAY ]](https://osu.ppy.sh/u/5178313) | 442.23 | 2 |
-| 4368 | [Dizvo](https://osu.ppy.sh/u/5513495) | 442.22 | 2 |
-| 4369 | [starnectar](https://osu.ppy.sh/u/912196) | 441.69 | 2 |
-| 4370 | [Nagibator22898](https://osu.ppy.sh/u/5184728) | 441.52 | 2 |
-| 4371 | [tommyufo88](https://osu.ppy.sh/u/107084) | 441.44 | 2 |
-| 4372 | [LGH_X](https://osu.ppy.sh/u/6443107) | 441.01 | 2 |
-| 4373 | [TehDragonGuy](https://osu.ppy.sh/u/6177661) | 440.94 | 2 |
-| 4374 | [eat my shorts](https://osu.ppy.sh/u/2965920) | 440.58 | 2 |
-| 4375 | [KawaiiLittle](https://osu.ppy.sh/u/4809596) | 440.56 | 2 |
-| 4376 | [mikocon](https://osu.ppy.sh/u/4926661) | 440.48 | 2 |
-| 4377 | [LuxNova](https://osu.ppy.sh/u/2461671) | 440.13 | 2 |
-| 4378 | [Black Wolf 0](https://osu.ppy.sh/u/3676663) | 439.86 | 2 |
-| 4379 | [Jumbo](https://osu.ppy.sh/u/5509809) | 439.51 | 2 |
-| 4380 | [DTNeko](https://osu.ppy.sh/u/6933071) | 439.41 | 2 |
-| 4381 | [NeoAxel58](https://osu.ppy.sh/u/6806934) | 439.37 | 2 |
-| 4382 | [Mimyo](https://osu.ppy.sh/u/8109023) | 439.35 | 1 |
-| 4383 | [KappaFrost](https://osu.ppy.sh/u/7112454) | 438.24 | 2 |
-| 4384 | [Mr Palta](https://osu.ppy.sh/u/2907838) | 438.11 | 2 |
-| 4385 | [leilei0](https://osu.ppy.sh/u/557422) | 438.01 | 2 |
-| 4386 | [Arellio](https://osu.ppy.sh/u/6268413) | 437.70 | 2 |
-| 4387 | [LikeNeverBefore](https://osu.ppy.sh/u/2938541) | 437.07 | 2 |
-| 4388 | [Rumby](https://osu.ppy.sh/u/3458042) | 436.58 | 2 |
-| 4389 | [AnteeeK](https://osu.ppy.sh/u/3093047) | 436.08 | 2 |
-| 4390 | [Yukari](https://osu.ppy.sh/u/2007236) | 436.03 | 2 |
-| 4391 | [Badcat](https://osu.ppy.sh/u/4198100) | 435.59 | 2 |
-| 4392 | [Question Mark](https://osu.ppy.sh/u/7459901) | 435.51 | 2 |
-| 4393 | [HKR](https://osu.ppy.sh/u/3854666) | 434.89 | 2 |
-| 4394 | [Vleaf](https://osu.ppy.sh/u/1070109) | 434.88 | 2 |
-| 4395 | [Rio-](https://osu.ppy.sh/u/2491211) | 434.71 | 2 |
-| 4396 | [Faces3](https://osu.ppy.sh/u/2826407) | 434.35 | 2 |
-| 4397 | [yakidango](https://osu.ppy.sh/u/80063) | 434.27 | 2 |
-| 4398 | [Akimotokun](https://osu.ppy.sh/u/3901894) | 434.04 | 2 |
-| 4399 | [LDC](https://osu.ppy.sh/u/2816809) | 433.01 | 2 |
-| 4400 | [a32264454](https://osu.ppy.sh/u/6176422) | 431.89 | 2 |
-| 4401 | [jobet](https://osu.ppy.sh/u/5352168) | 431.79 | 2 |
-| 4402 | [Ohwow](https://osu.ppy.sh/u/3028729) | 431.64 | 2 |
-| 4403 | [Lolivery](https://osu.ppy.sh/u/5406099) | 431.59 | 2 |
-| 4404 | [xiaoteddy](https://osu.ppy.sh/u/930718) | 431.55 | 2 |
-| 4405 | [lagedoP](https://osu.ppy.sh/u/3333254) | 431.48 | 2 |
-| 4406 | [Andrea](https://osu.ppy.sh/u/33599) | 431.30 | 2 |
-| 4407 | [Edrik](https://osu.ppy.sh/u/3028669) | 431.12 | 2 |
-| 4408 | [Desew](https://osu.ppy.sh/u/6393126) | 431.05 | 2 |
-| 4409 | [Santa](https://osu.ppy.sh/u/1959594) | 431.04 | 2 |
-| 4410 | [Trivium](https://osu.ppy.sh/u/4652798) | 430.55 | 2 |
-| 4411 | [Glueon](https://osu.ppy.sh/u/4373239) | 430.23 | 2 |
-| 4412 | [MrStugzZ](https://osu.ppy.sh/u/2594351) | 430.17 | 2 |
-| 4413 | [Seen_LOSO](https://osu.ppy.sh/u/5082392) | 429.84 | 2 |
-| 4414 | [Princess Lucina](https://osu.ppy.sh/u/974931) | 429.60 | 2 |
-| 4415 | [cos060105](https://osu.ppy.sh/u/1435610) | 429.59 | 2 |
-| 4416 | [ktgster](https://osu.ppy.sh/u/53378) | 429.43 | 2 |
-| 4417 | [T z U](https://osu.ppy.sh/u/1352179) | 428.86 | 2 |
-| 4418 | [Zain Sugieres](https://osu.ppy.sh/u/2316667) | 428.80 | 2 |
-| 4419 | [DrunKAnGeL](https://osu.ppy.sh/u/6533032) | 428.62 | 2 |
-| 4420 | [NatSama](https://osu.ppy.sh/u/4538370) | 428.42 | 2 |
-| 4421 | [Kurasina Asuka](https://osu.ppy.sh/u/7509860) | 428.07 | 2 |
-| 4422 | [Jaeho](https://osu.ppy.sh/u/2786290) | 428.04 | 2 |
-| 4423 | [triace](https://osu.ppy.sh/u/583918) | 427.75 | 2 |
-| 4424 | [maybeAghost](https://osu.ppy.sh/u/4101254) | 427.61 | 2 |
-| 4425 | [- Carl -](https://osu.ppy.sh/u/2140681) | 427.56 | 2 |
-| 4426 | [Vamignon](https://osu.ppy.sh/u/4041242) | 427.30 | 2 |
-| 4427 | [- Arcueid -](https://osu.ppy.sh/u/2582954) | 426.76 | 2 |
-| 4428 | [sellyme](https://osu.ppy.sh/u/1520613) | 426.56 | 2 |
-| 4429 | [Ameyy](https://osu.ppy.sh/u/4242157) | 426.54 | 2 |
-| 4430 | [yurippelove](https://osu.ppy.sh/u/1093006) | 426.37 | 2 |
-| 4431 | [Camocratic](https://osu.ppy.sh/u/5194391) | 425.14 | 2 |
-| 4432 | [123123123](https://osu.ppy.sh/u/2281520) | 424.61 | 2 |
-| 4433 | [Suuchi](https://osu.ppy.sh/u/6261734) | 424.57 | 2 |
-| 4434 | [IPiPak](https://osu.ppy.sh/u/2449133) | 424.40 | 2 |
-| 4435 | [gappuri-4th](https://osu.ppy.sh/u/2163190) | 424.38 | 2 |
-| 4436 | [Fist](https://osu.ppy.sh/u/4075221) | 423.85 | 2 |
-| 4437 | [Atayosune](https://osu.ppy.sh/u/2718450) | 423.81 | 2 |
-| 4438 | [HuskyWusky](https://osu.ppy.sh/u/4209818) | 423.46 | 2 |
-| 4439 | [Konoha-chan](https://osu.ppy.sh/u/4217417) | 423.28 | 2 |
-| 4440 | [Hydr0z](https://osu.ppy.sh/u/6452684) | 423.23 | 2 |
-| 4441 | [Aya yo](https://osu.ppy.sh/u/4879024) | 423.14 | 2 |
-| 4442 | [kimjimin](https://osu.ppy.sh/u/4651046) | 422.96 | 2 |
-| 4443 | [zuuts](https://osu.ppy.sh/u/3226310) | 422.92 | 2 |
-| 4444 | [MaxTheSquirrel](https://osu.ppy.sh/u/6741042) | 422.92 | 2 |
-| 4445 | [Juan Fail](https://osu.ppy.sh/u/2075070) | 422.88 | 2 |
-| 4446 | [p4ulcc](https://osu.ppy.sh/u/7200684) | 422.85 | 2 |
-| 4447 | [DaBigWan](https://osu.ppy.sh/u/5369012) | 421.86 | 2 |
-| 4448 | [Mahouxa](https://osu.ppy.sh/u/1510213) | 421.79 | 2 |
-| 4449 | [La Valse](https://osu.ppy.sh/u/70863) | 421.58 | 1 |
-| 4450 | [ESQ69](https://osu.ppy.sh/u/5987573) | 421.38 | 2 |
-| 4451 | [Katsura da](https://osu.ppy.sh/u/3056050) | 421.36 | 2 |
-| 4452 | [sevilla6532](https://osu.ppy.sh/u/540605) | 421.35 | 2 |
-| 4453 | [xMarkuss](https://osu.ppy.sh/u/2097700) | 421.21 | 2 |
-| 4454 | [J4nh](https://osu.ppy.sh/u/4528888) | 421.17 | 2 |
-| 4455 | [utsuka1](https://osu.ppy.sh/u/2610590) | 420.72 | 2 |
-| 4456 | [Susanoko](https://osu.ppy.sh/u/1374701) | 420.56 | 2 |
-| 4457 | [Yomawaru](https://osu.ppy.sh/u/2040927) | 420.36 | 2 |
-| 4458 | [Anto](https://osu.ppy.sh/u/276444) | 419.79 | 2 |
-| 4459 | [Drazors](https://osu.ppy.sh/u/613802) | 419.73 | 2 |
-| 4460 | [nasia](https://osu.ppy.sh/u/1069335) | 419.58 | 2 |
-| 4461 | [Nekros](https://osu.ppy.sh/u/5194467) | 419.45 | 2 |
-| 4462 | [Veaon](https://osu.ppy.sh/u/1807700) | 418.88 | 2 |
-| 4463 | [M o c h a](https://osu.ppy.sh/u/3361711) | 418.88 | 2 |
-| 4464 | [Blind](https://osu.ppy.sh/u/2880399) | 418.72 | 2 |
-| 4465 | [Torres](https://osu.ppy.sh/u/2703967) | 418.09 | 2 |
-| 4466 | [Laurel](https://osu.ppy.sh/u/3919417) | 417.74 | 2 |
-| 4467 | [[ -thomorn- ]](https://osu.ppy.sh/u/3660254) | 417.73 | 2 |
-| 4468 | [OmegaThor](https://osu.ppy.sh/u/3209540) | 417.55 | 2 |
-| 4469 | [Qjawko](https://osu.ppy.sh/u/5982497) | 416.96 | 2 |
-| 4470 | [KaZziK](https://osu.ppy.sh/u/3475020) | 416.95 | 2 |
-| 4471 | [-Shigiga](https://osu.ppy.sh/u/1089197) | 416.79 | 2 |
-| 4472 | [transcendental](https://osu.ppy.sh/u/3304713) | 416.76 | 2 |
-| 4473 | [SolarFox](https://osu.ppy.sh/u/1410580) | 416.38 | 2 |
-| 4474 | [Seolhyun -](https://osu.ppy.sh/u/2799769) | 416.36 | 2 |
-| 4475 | [litz](https://osu.ppy.sh/u/2978603) | 416.06 | 2 |
-| 4476 | [hazereimu](https://osu.ppy.sh/u/4999518) | 415.93 | 2 |
-| 4477 | [Rustie](https://osu.ppy.sh/u/4700252) | 415.65 | 2 |
-| 4478 | [trkeaAKAnagata](https://osu.ppy.sh/u/3774028) | 415.62 | 2 |
-| 4479 | [CZDemon](https://osu.ppy.sh/u/3548077) | 415.37 | 2 |
-| 4480 | [[-Lucario-]](https://osu.ppy.sh/u/186193) | 415.34 | 2 |
-| 4481 | [Noodleman](https://osu.ppy.sh/u/6114212) | 415.31 | 2 |
-| 4482 | [thehhe](https://osu.ppy.sh/u/3358193) | 415.14 | 2 |
-| 4483 | [MedicinE](https://osu.ppy.sh/u/1445785) | 414.35 | 2 |
-| 4484 | [Brunows11](https://osu.ppy.sh/u/4135509) | 414.27 | 2 |
-| 4485 | [Kynan](https://osu.ppy.sh/u/1093361) | 413.24 | 1 |
-| 4486 | [StickyFigures](https://osu.ppy.sh/u/3131312) | 413.11 | 2 |
-| 4487 | [Krook](https://osu.ppy.sh/u/1591982) | 413.00 | 2 |
-| 4488 | [Iverzen](https://osu.ppy.sh/u/3480679) | 412.24 | 2 |
-| 4489 | [Barhunga](https://osu.ppy.sh/u/2546403) | 412.11 | 2 |
-| 4490 | [Meku17](https://osu.ppy.sh/u/2279477) | 412.06 | 2 |
-| 4491 | [Senjougahara H](https://osu.ppy.sh/u/4015927) | 411.97 | 2 |
-| 4492 | [Luci0](https://osu.ppy.sh/u/3014253) | 411.96 | 2 |
-| 4493 | [sorapo](https://osu.ppy.sh/u/668957) | 411.76 | 2 |
-| 4494 | [Ven0m](https://osu.ppy.sh/u/3230773) | 411.47 | 2 |
-| 4495 | [vDeltaa](https://osu.ppy.sh/u/6296509) | 411.45 | 2 |
-| 4496 | [zirix](https://osu.ppy.sh/u/3238474) | 411.41 | 2 |
-| 4497 | [Shyotamaze](https://osu.ppy.sh/u/5306970) | 411.18 | 2 |
-| 4498 | [SaniplexiaXD](https://osu.ppy.sh/u/4492532) | 410.48 | 2 |
-| 4499 | [Kogii](https://osu.ppy.sh/u/2669388) | 410.39 | 2 |
-| 4500 | [Akosiem](https://osu.ppy.sh/u/4147860) | 410.33 | 2 |
-| 4501 | [Dingo](https://osu.ppy.sh/u/2436253) | 409.85 | 2 |
-| 4502 | [Nio-Mahaha](https://osu.ppy.sh/u/4695134) | 409.73 | 2 |
-| 4503 | [Emilia2001](https://osu.ppy.sh/u/8441849) | 409.63 | 2 |
-| 4504 | [Wh1teSt1ck](https://osu.ppy.sh/u/3966277) | 409.39 | 2 |
-| 4505 | [Daisy](https://osu.ppy.sh/u/6730064) | 409.37 | 2 |
-| 4506 | [LoliFlanboy](https://osu.ppy.sh/u/5571525) | 409.22 | 2 |
-| 4507 | [smau5](https://osu.ppy.sh/u/5084531) | 409.02 | 2 |
-| 4508 | [Zeth234](https://osu.ppy.sh/u/4643986) | 408.59 | 2 |
-| 4509 | [LastNamedTwice](https://osu.ppy.sh/u/6339618) | 408.29 | 2 |
-| 4510 | [LittleBird-](https://osu.ppy.sh/u/6668671) | 408.25 | 2 |
-| 4511 | [BISCUITS-](https://osu.ppy.sh/u/2571592) | 407.88 | 2 |
-| 4512 | [-Light-](https://osu.ppy.sh/u/6017901) | 407.71 | 2 |
-| 4513 | [Emilia -](https://osu.ppy.sh/u/3226990) | 407.59 | 2 |
-| 4514 | [Shachi](https://osu.ppy.sh/u/6546933) | 407.56 | 2 |
-| 4515 | [- Lamp -](https://osu.ppy.sh/u/2184878) | 407.55 | 2 |
-| 4516 | [UptownGirl](https://osu.ppy.sh/u/3048936) | 407.51 | 2 |
-| 4517 | [Anscine](https://osu.ppy.sh/u/2808971) | 407.34 | 2 |
-| 4518 | [JayJay-San](https://osu.ppy.sh/u/5457371) | 407.32 | 2 |
-| 4519 | [Wizardy](https://osu.ppy.sh/u/2105361) | 407.32 | 2 |
-| 4520 | [MarioBound](https://osu.ppy.sh/u/2366012) | 406.97 | 2 |
-| 4521 | [quasiverse](https://osu.ppy.sh/u/3415090) | 406.59 | 2 |
-| 4522 | [Desire](https://osu.ppy.sh/u/284977) | 406.34 | 2 |
-| 4523 | [- Bicolini -](https://osu.ppy.sh/u/4717931) | 406.24 | 2 |
-| 4524 | [Maanbal](https://osu.ppy.sh/u/3745868) | 406.09 | 2 |
-| 4525 | [Fblade](https://osu.ppy.sh/u/3168085) | 406.08 | 2 |
-| 4526 | [SpitsLove](https://osu.ppy.sh/u/6873745) | 405.54 | 2 |
-| 4527 | [Ekoro](https://osu.ppy.sh/u/284905) | 405.27 | 2 |
-| 4528 | [Niseki](https://osu.ppy.sh/u/3100553) | 404.46 | 2 |
-| 4529 | [American Commie](https://osu.ppy.sh/u/3958619) | 404.14 | 2 |
-| 4530 | [xTsukio](https://osu.ppy.sh/u/4246746) | 403.79 | 2 |
-| 4531 | [Dakara](https://osu.ppy.sh/u/4496011) | 403.41 | 2 |
-| 4532 | [KawaiiChick](https://osu.ppy.sh/u/4994803) | 403.40 | 2 |
-| 4533 | [john25k](https://osu.ppy.sh/u/5098752) | 403.31 | 2 |
-| 4534 | [I3NVERSION](https://osu.ppy.sh/u/1998041) | 402.85 | 2 |
-| 4535 | [-Shizuru-](https://osu.ppy.sh/u/3208890) | 402.64 | 2 |
-| 4536 | [Fredzia4](https://osu.ppy.sh/u/4360493) | 402.41 | 2 |
-| 4537 | [OreoWaffles](https://osu.ppy.sh/u/5832017) | 402.35 | 2 |
-| 4538 | [Yuuki-chan](https://osu.ppy.sh/u/7031287) | 402.32 | 2 |
-| 4539 | [slymaster](https://osu.ppy.sh/u/165495) | 402.31 | 2 |
-| 4540 | [EmnestyX](https://osu.ppy.sh/u/3238869) | 402.22 | 2 |
-| 4541 | [Rasengan290](https://osu.ppy.sh/u/4178863) | 401.66 | 2 |
-| 4542 | [ayiku](https://osu.ppy.sh/u/710936) | 401.54 | 2 |
-| 4543 | [Rimass](https://osu.ppy.sh/u/6630027) | 401.46 | 2 |
-| 4544 | [MagiFelix](https://osu.ppy.sh/u/4413976) | 401.32 | 2 |
-| 4545 | [LittleDan](https://osu.ppy.sh/u/6316077) | 401.31 | 2 |
-| 4546 | [Yukaword](https://osu.ppy.sh/u/4536607) | 401.03 | 2 |
-| 4547 | [Counter](https://osu.ppy.sh/u/2989145) | 400.99 | 2 |
-| 4548 | [lh5532](https://osu.ppy.sh/u/4502656) | 400.96 | 2 |
-| 4549 | [Syperek](https://osu.ppy.sh/u/2767021) | 400.69 | 2 |
-| 4550 | [Neku](https://osu.ppy.sh/u/3057040) | 400.50 | 2 |
-| 4551 | [Cedohran](https://osu.ppy.sh/u/4943578) | 400.00 | 2 |
-| 4552 | [Koichi](https://osu.ppy.sh/u/5850571) | 399.61 | 2 |
-| 4553 | [Miska](https://osu.ppy.sh/u/3263119) | 399.59 | 2 |
-| 4554 | [jehlp](https://osu.ppy.sh/u/7568542) | 399.59 | 2 |
-| 4555 | [slayerxsz](https://osu.ppy.sh/u/4066237) | 399.38 | 2 |
-| 4556 | [[ Zyoumu ]](https://osu.ppy.sh/u/6254684) | 399.19 | 2 |
-| 4557 | [paulytools](https://osu.ppy.sh/u/4235536) | 398.89 | 2 |
-| 4558 | [boterham](https://osu.ppy.sh/u/2844779) | 398.73 | 2 |
-| 4559 | [Pokey_GD](https://osu.ppy.sh/u/6808091) | 398.44 | 2 |
-| 4560 | [Mouse2Hard](https://osu.ppy.sh/u/3291983) | 397.86 | 2 |
-| 4561 | [Daborgia](https://osu.ppy.sh/u/3576668) | 397.47 | 2 |
-| 4562 | [suzukip3](https://osu.ppy.sh/u/4512136) | 397.37 | 2 |
-| 4563 | [MichaelLeo](https://osu.ppy.sh/u/4321069) | 397.36 | 2 |
-| 4564 | [Zero__wind](https://osu.ppy.sh/u/1822830) | 397.32 | 2 |
-| 4565 | [Tenshie](https://osu.ppy.sh/u/2140711) | 396.90 | 2 |
-| 4566 | [pythonQQ](https://osu.ppy.sh/u/3403541) | 396.84 | 2 |
-| 4567 | [-srio](https://osu.ppy.sh/u/1289101) | 396.73 | 2 |
-| 4568 | [Bloo-Sun](https://osu.ppy.sh/u/6778877) | 396.34 | 2 |
-| 4569 | [SingByMe](https://osu.ppy.sh/u/5070004) | 396.31 | 2 |
-| 4570 | [- Fenix -](https://osu.ppy.sh/u/5210436) | 396.25 | 2 |
-| 4571 | [DasherQ](https://osu.ppy.sh/u/3742271) | 396.24 | 2 |
-| 4572 | [BlackFrost](https://osu.ppy.sh/u/3591462) | 396.16 | 2 |
-| 4573 | [wvwvvwvwvwvwvw](https://osu.ppy.sh/u/1288964) | 395.71 | 2 |
-| 4574 | [MonstersEverywhere](https://osu.ppy.sh/u/1511247) | 395.70 | 2 |
-| 4575 | [PapaMario](https://osu.ppy.sh/u/618800) | 394.94 | 2 |
-| 4576 | [eXceed](https://osu.ppy.sh/u/4470166) | 394.79 | 2 |
-| 4577 | [Nexev](https://osu.ppy.sh/u/4234481) | 394.44 | 2 |
-| 4578 | [VZRXS](https://osu.ppy.sh/u/2187782) | 393.91 | 2 |
-| 4579 | [stud8787](https://osu.ppy.sh/u/3722924) | 393.70 | 2 |
-| 4580 | [FoolB](https://osu.ppy.sh/u/925170) | 393.48 | 2 |
-| 4581 | [eeezzzeee](https://osu.ppy.sh/u/3102720) | 392.94 | 2 |
-| 4582 | [BMP](https://osu.ppy.sh/u/3211406) | 392.92 | 2 |
-| 4583 | [fzhj](https://osu.ppy.sh/u/2130039) | 392.73 | 2 |
-| 4584 | [-Tristan](https://osu.ppy.sh/u/3180151) | 392.70 | 2 |
-| 4585 | [Hard Rock](https://osu.ppy.sh/u/2776244) | 392.44 | 2 |
-| 4586 | [miaofu](https://osu.ppy.sh/u/6034599) | 392.18 | 2 |
-| 4587 | [Kaneda](https://osu.ppy.sh/u/7426348) | 391.96 | 2 |
-| 4588 | [Freaking Azazel](https://osu.ppy.sh/u/3329163) | 391.24 | 2 |
-| 4589 | [Haglax](https://osu.ppy.sh/u/3991313) | 391.24 | 2 |
-| 4590 | [CombustionZ](https://osu.ppy.sh/u/2751326) | 390.91 | 2 |
-| 4591 | [F O X Y](https://osu.ppy.sh/u/3553508) | 390.77 | 2 |
-| 4592 | [krurpg](https://osu.ppy.sh/u/4729517) | 390.69 | 3 |
-| 4593 | [ralema](https://osu.ppy.sh/u/5901841) | 390.63 | 2 |
-| 4594 | [- r3t4rd](https://osu.ppy.sh/u/4992881) | 390.50 | 2 |
-| 4595 | [MeschejrePL](https://osu.ppy.sh/u/2494889) | 390.50 | 2 |
-| 4596 | [Swiflez](https://osu.ppy.sh/u/5334171) | 390.32 | 2 |
-| 4597 | [Setsein](https://osu.ppy.sh/u/4273451) | 390.27 | 2 |
-| 4598 | [uhuorc](https://osu.ppy.sh/u/3053809) | 390.24 | 2 |
-| 4599 | [EmingK](https://osu.ppy.sh/u/2021118) | 389.29 | 2 |
-| 4600 | [turb03lm](https://osu.ppy.sh/u/3295781) | 389.22 | 2 |
-| 4601 | [123XDD](https://osu.ppy.sh/u/477485) | 389.01 | 2 |
-| 4602 | [820150998](https://osu.ppy.sh/u/4377348) | 388.82 | 2 |
-| 4603 | [My Angel Rika](https://osu.ppy.sh/u/5200194) | 388.54 | 2 |
-| 4604 | [Athur](https://osu.ppy.sh/u/1643596) | 388.38 | 2 |
-| 4605 | [Gotori](https://osu.ppy.sh/u/497847) | 388.36 | 2 |
-| 4606 | [khcdub](https://osu.ppy.sh/u/7987048) | 388.15 | 2 |
-| 4607 | [-Alice Blue-](https://osu.ppy.sh/u/3814095) | 388.10 | 2 |
-| 4608 | [Neroh](https://osu.ppy.sh/u/2257584) | 387.73 | 2 |
-| 4609 | [Valandril](https://osu.ppy.sh/u/4053816) | 387.72 | 2 |
-| 4610 | [[Strawberry]](https://osu.ppy.sh/u/3686350) | 386.91 | 2 |
-| 4611 | [T1Y](https://osu.ppy.sh/u/2293227) | 386.86 | 2 |
-| 4612 | [- Orage -](https://osu.ppy.sh/u/2008753) | 386.24 | 2 |
-| 4613 | [NeighborSeal](https://osu.ppy.sh/u/1077649) | 385.51 | 2 |
-| 4614 | [illumina1337](https://osu.ppy.sh/u/5078117) | 385.38 | 2 |
-| 4615 | [tedlet](https://osu.ppy.sh/u/2954909) | 385.37 | 2 |
-| 4616 | [Ipas](https://osu.ppy.sh/u/3262377) | 384.94 | 2 |
-| 4617 | [Corrupt](https://osu.ppy.sh/u/1755349) | 384.45 | 2 |
-| 4618 | [asomenick](https://osu.ppy.sh/u/3462720) | 384.37 | 2 |
-| 4619 | [kekc0](https://osu.ppy.sh/u/1922890) | 384.33 | 2 |
-| 4620 | [Dcyte](https://osu.ppy.sh/u/2659707) | 384.27 | 2 |
-| 4621 | [iHelix](https://osu.ppy.sh/u/5216849) | 384.18 | 2 |
-| 4622 | [Yatagarasu](https://osu.ppy.sh/u/880222) | 384.14 | 2 |
-| 4623 | [Anopob](https://osu.ppy.sh/u/728332) | 384.07 | 2 |
-| 4624 | [stal](https://osu.ppy.sh/u/3692812) | 383.94 | 2 |
-| 4625 | [iSwear](https://osu.ppy.sh/u/1376545) | 383.75 | 2 |
-| 4626 | [VenomCold](https://osu.ppy.sh/u/7919999) | 383.37 | 2 |
-| 4627 | [FadedLamp](https://osu.ppy.sh/u/4020430) | 383.20 | 2 |
-| 4628 | [[AleXi]](https://osu.ppy.sh/u/2689768) | 382.71 | 2 |
-| 4629 | [Heart Attack](https://osu.ppy.sh/u/3778982) | 382.44 | 2 |
-| 4630 | [Villani](https://osu.ppy.sh/u/1979316) | 382.20 | 2 |
-| 4631 | [Dmitriy1602](https://osu.ppy.sh/u/3749938) | 382.18 | 2 |
-| 4632 | [nicotti0722](https://osu.ppy.sh/u/1573926) | 382.00 | 2 |
-| 4633 | [W Fanren](https://osu.ppy.sh/u/1261399) | 381.98 | 2 |
-| 4634 | [kiemsidaden](https://osu.ppy.sh/u/2248564) | 381.03 | 2 |
-| 4635 | [MajaSenpai](https://osu.ppy.sh/u/3613232) | 380.97 | 2 |
-| 4636 | [[Crz]Sword](https://osu.ppy.sh/u/5242158) | 380.41 | 2 |
-| 4637 | [Akiko-](https://osu.ppy.sh/u/1226106) | 380.32 | 1 |
-| 4638 | [wayback](https://osu.ppy.sh/u/3619332) | 380.30 | 2 |
-| 4639 | [Lexion](https://osu.ppy.sh/u/5271371) | 379.54 | 2 |
-| 4640 | [Misiek](https://osu.ppy.sh/u/4859246) | 379.00 | 2 |
-| 4641 | [HyphyNut](https://osu.ppy.sh/u/5049077) | 378.75 | 2 |
-| 4642 | [lordand98](https://osu.ppy.sh/u/4589183) | 378.55 | 2 |
-| 4643 | [Koiyuki](https://osu.ppy.sh/u/2433507) | 378.45 | 2 |
-| 4644 | [Drygsnuss](https://osu.ppy.sh/u/2205829) | 378.42 | 2 |
-| 4645 | [Rion-](https://osu.ppy.sh/u/1451544) | 378.25 | 1 |
-| 4646 | [Exos](https://osu.ppy.sh/u/7286116) | 378.08 | 2 |
-| 4647 | [perepepepe](https://osu.ppy.sh/u/673248) | 376.92 | 2 |
-| 4648 | [Operation Skuld](https://osu.ppy.sh/u/2230508) | 376.63 | 2 |
-| 4649 | [Luigi370](https://osu.ppy.sh/u/4945605) | 376.32 | 2 |
-| 4650 | [_Kumiko-chan_](https://osu.ppy.sh/u/6673790) | 376.13 | 2 |
-| 4651 | [Kenshin Himura-](https://osu.ppy.sh/u/4952500) | 376.09 | 2 |
-| 4652 | [TVH Caterpillar](https://osu.ppy.sh/u/7707679) | 375.92 | 2 |
-| 4653 | [Tsukikolover](https://osu.ppy.sh/u/4291684) | 375.91 | 2 |
-| 4654 | [tellur123](https://osu.ppy.sh/u/2012206) | 375.77 | 2 |
-| 4655 | [-Yui](https://osu.ppy.sh/u/6649605) | 375.64 | 2 |
-| 4656 | [Chocola](https://osu.ppy.sh/u/2493825) | 375.52 | 2 |
-| 4657 | [LawL4Ever](https://osu.ppy.sh/u/3556856) | 375.48 | 2 |
-| 4658 | [HD Hero](https://osu.ppy.sh/u/2608720) | 374.72 | 2 |
-| 4659 | [ShiinaMas](https://osu.ppy.sh/u/4691903) | 374.61 | 3 |
-| 4660 | [ProfessionalBox](https://osu.ppy.sh/u/3250792) | 374.57 | 2 |
-| 4661 | [ZarTaen](https://osu.ppy.sh/u/3954933) | 374.35 | 2 |
-| 4662 | [predkiller4](https://osu.ppy.sh/u/3060396) | 373.75 | 2 |
-| 4663 | [Chise](https://osu.ppy.sh/u/3397845) | 373.74 | 2 |
-| 4664 | [Ep1c-](https://osu.ppy.sh/u/2400598) | 373.69 | 2 |
-| 4665 | [Silentium](https://osu.ppy.sh/u/7715507) | 373.55 | 2 |
-| 4666 | [FlamedBeast](https://osu.ppy.sh/u/5090973) | 373.19 | 2 |
-| 4667 | [catnio](https://osu.ppy.sh/u/5435079) | 373.09 | 2 |
-| 4668 | [Shatter](https://osu.ppy.sh/u/4345815) | 372.58 | 2 |
-| 4669 | [Doclife-](https://osu.ppy.sh/u/6265645) | 372.35 | 2 |
-| 4670 | [SolaEclipse](https://osu.ppy.sh/u/6621158) | 371.89 | 2 |
-| 4671 | [Xyros](https://osu.ppy.sh/u/5547293) | 371.73 | 2 |
-| 4672 | [hle](https://osu.ppy.sh/u/2213076) | 370.99 | 2 |
-| 4673 | [druidxd](https://osu.ppy.sh/u/841441) | 370.93 | 2 |
-| 4674 | [elege](https://osu.ppy.sh/u/427416) | 370.10 | 2 |
-| 4675 | [Makawais](https://osu.ppy.sh/u/4059571) | 370.08 | 2 |
-| 4676 | [Nozomi -](https://osu.ppy.sh/u/5036802) | 369.77 | 2 |
-| 4677 | [Fliege](https://osu.ppy.sh/u/2944001) | 369.17 | 2 |
-| 4678 | [Chitogod](https://osu.ppy.sh/u/6076529) | 368.59 | 1 |
-| 4679 | [jyfgfergygb](https://osu.ppy.sh/u/2018439) | 368.47 | 2 |
-| 4680 | [SWAT](https://osu.ppy.sh/u/6554821) | 368.21 | 2 |
-| 4681 | [Ayakashi](https://osu.ppy.sh/u/578793) | 367.73 | 2 |
-| 4682 | [Itasha_S13](https://osu.ppy.sh/u/3897366) | 367.62 | 2 |
-| 4683 | [Raisexx](https://osu.ppy.sh/u/4668994) | 367.60 | 2 |
-| 4684 | [Kuvster](https://osu.ppy.sh/u/4896624) | 367.57 | 2 |
-| 4685 | [-Redlightning-](https://osu.ppy.sh/u/3520119) | 367.07 | 2 |
-| 4686 | [Braixen](https://osu.ppy.sh/u/4871378) | 367.03 | 2 |
-| 4687 | [-Charlotte](https://osu.ppy.sh/u/1062584) | 366.89 | 2 |
-| 4688 | [X-Harn](https://osu.ppy.sh/u/3648989) | 366.50 | 2 |
-| 4689 | [MrPiingu](https://osu.ppy.sh/u/3221219) | 366.41 | 2 |
-| 4690 | [chawoo](https://osu.ppy.sh/u/1062827) | 366.13 | 2 |
-| 4691 | [Satoshi-](https://osu.ppy.sh/u/4515932) | 366.07 | 2 |
-| 4692 | [3Edgy5You](https://osu.ppy.sh/u/2359741) | 365.88 | 2 |
-| 4693 | [_Airii_](https://osu.ppy.sh/u/4022836) | 365.15 | 2 |
-| 4694 | [-Rin Hoshizora-](https://osu.ppy.sh/u/1383670) | 365.02 | 2 |
-| 4695 | [yume7748](https://osu.ppy.sh/u/4868662) | 364.94 | 2 |
-| 4696 | [Letia](https://osu.ppy.sh/u/2539017) | 364.90 | 2 |
-| 4697 | [PizzaLovers007](https://osu.ppy.sh/u/1064536) | 364.58 | 1 |
-| 4698 | [Sanji](https://osu.ppy.sh/u/40737) | 364.35 | 2 |
-| 4699 | [dkles](https://osu.ppy.sh/u/1982847) | 363.76 | 2 |
-| 4700 | [SparkinG](https://osu.ppy.sh/u/4710426) | 363.65 | 2 |
-| 4701 | [Impulse Knives](https://osu.ppy.sh/u/4036387) | 363.62 | 2 |
-| 4702 | [maksimm](https://osu.ppy.sh/u/5506137) | 363.29 | 2 |
-| 4703 | [PentabABc](https://osu.ppy.sh/u/957652) | 362.53 | 2 |
-| 4704 | [Neta](https://osu.ppy.sh/u/832084) | 362.50 | 1 |
-| 4705 | [AxizEn](https://osu.ppy.sh/u/3164146) | 362.44 | 2 |
-| 4706 | [[ Ryri ]](https://osu.ppy.sh/u/2383021) | 361.76 | 2 |
-| 4707 | [howhow777](https://osu.ppy.sh/u/965360) | 361.03 | 2 |
-| 4708 | [Lukaszczyk](https://osu.ppy.sh/u/1721673) | 360.71 | 2 |
-| 4709 | [dreamless_](https://osu.ppy.sh/u/3687275) | 360.43 | 2 |
-| 4710 | [Flamouye](https://osu.ppy.sh/u/4954813) | 360.37 | 2 |
-| 4711 | [Botkiller](https://osu.ppy.sh/u/3144085) | 360.29 | 2 |
-| 4712 | [afteRlight](https://osu.ppy.sh/u/6211780) | 360.28 | 2 |
-| 4713 | [Freebones](https://osu.ppy.sh/u/4218281) | 360.17 | 2 |
-| 4714 | [Aimseky](https://osu.ppy.sh/u/4464845) | 360.07 | 2 |
-| 4715 | [Neba_Glubina](https://osu.ppy.sh/u/6896350) | 359.46 | 2 |
-| 4716 | [Clandestinity](https://osu.ppy.sh/u/2720041) | 359.46 | 2 |
-| 4717 | [kcar8899](https://osu.ppy.sh/u/1081136) | 359.38 | 2 |
-| 4718 | [Kaifin](https://osu.ppy.sh/u/2596942) | 359.19 | 1 |
-| 4719 | [Univer Page](https://osu.ppy.sh/u/2163338) | 359.13 | 1 |
-| 4720 | [Yunaited](https://osu.ppy.sh/u/3349278) | 359.04 | 2 |
-| 4721 | [Zamoskal](https://osu.ppy.sh/u/6861120) | 358.90 | 2 |
-| 4722 | [[ F r a n ]](https://osu.ppy.sh/u/5091806) | 358.40 | 2 |
-| 4723 | [Coni](https://osu.ppy.sh/u/2188855) | 358.14 | 2 |
-| 4724 | [FatalxE](https://osu.ppy.sh/u/2484984) | 357.89 | 1 |
-| 4725 | [4125](https://osu.ppy.sh/u/7129570) | 357.77 | 2 |
-| 4726 | [My Aim Trash](https://osu.ppy.sh/u/903167) | 357.73 | 1 |
-| 4727 | [yuiko225](https://osu.ppy.sh/u/6542953) | 357.58 | 2 |
-| 4728 | [Cawfee](https://osu.ppy.sh/u/4935477) | 355.73 | 2 |
-| 4729 | [Masakiezi](https://osu.ppy.sh/u/2918141) | 355.25 | 2 |
-| 4730 | [Messinae](https://osu.ppy.sh/u/3699208) | 354.89 | 2 |
-| 4731 | [sUrYeok](https://osu.ppy.sh/u/2576881) | 354.43 | 2 |
-| 4732 | [Beomsan](https://osu.ppy.sh/u/3626063) | 354.19 | 1 |
-| 4733 | [Roflia](https://osu.ppy.sh/u/1749093) | 353.98 | 2 |
-| 4734 | [Diulenomo](https://osu.ppy.sh/u/2468119) | 353.33 | 1 |
-| 4735 | [hpyz](https://osu.ppy.sh/u/4421072) | 353.18 | 2 |
-| 4736 | [andrehuk](https://osu.ppy.sh/u/4360462) | 351.48 | 2 |
-| 4737 | [Nayu](https://osu.ppy.sh/u/7374769) | 351.37 | 2 |
-| 4738 | [kepel](https://osu.ppy.sh/u/410238) | 349.82 | 1 |
-| 4739 | [Sheeaper](https://osu.ppy.sh/u/3299569) | 349.82 | 1 |
-| 4740 | [silkster](https://osu.ppy.sh/u/1935989) | 348.29 | 2 |
-| 4741 | [Skylar](https://osu.ppy.sh/u/4260216) | 347.86 | 2 |
-| 4742 | [New Username](https://osu.ppy.sh/u/4745206) | 347.62 | 2 |
-| 4743 | [sayonara-bye](https://osu.ppy.sh/u/713266) | 347.57 | 1 |
-| 4744 | [Regnall](https://osu.ppy.sh/u/926370) | 347.37 | 1 |
-| 4745 | [Osu Gem](https://osu.ppy.sh/u/3513557) | 347.02 | 2 |
-| 4746 | [- HellBird -](https://osu.ppy.sh/u/4843691) | 345.99 | 2 |
-| 4747 | [Javieritiens](https://osu.ppy.sh/u/5871345) | 344.59 | 2 |
-| 4748 | [Dark PHOENIX](https://osu.ppy.sh/u/1275758) | 343.83 | 1 |
-| 4749 | [[ Fernie ]](https://osu.ppy.sh/u/6842834) | 341.97 | 2 |
-| 4750 | [Jameslike](https://osu.ppy.sh/u/2415743) | 341.76 | 1 |
-| 4751 | [Fuorek](https://osu.ppy.sh/u/3053402) | 341.56 | 2 |
-| 4752 | [Snowfury](https://osu.ppy.sh/u/3395820) | 341.40 | 2 |
-| 4753 | [kaizorage](https://osu.ppy.sh/u/7236080) | 340.78 | 2 |
-| 4754 | [Neqoo](https://osu.ppy.sh/u/5035932) | 340.64 | 2 |
-| 4755 | [Mysto-kun](https://osu.ppy.sh/u/1541361) | 340.63 | 1 |
-| 4756 | [Gin0233](https://osu.ppy.sh/u/3634486) | 339.96 | 2 |
-| 4757 | [Cyk1ckeR](https://osu.ppy.sh/u/892849) | 339.47 | 2 |
-| 4758 | [Starrodkirby86](https://osu.ppy.sh/u/410) | 339.32 | 2 |
-| 4759 | [MichaVB](https://osu.ppy.sh/u/7680092) | 338.60 | 2 |
-| 4760 | [pyrr](https://osu.ppy.sh/u/1472186) | 338.00 | 2 |
-| 4761 | [Dumii](https://osu.ppy.sh/u/3068044) | 337.98 | 1 |
-| 4762 | [reaon](https://osu.ppy.sh/u/3248930) | 337.75 | 2 |
-| 4763 | [MikuHatsuneGG](https://osu.ppy.sh/u/3832822) | 336.94 | 2 |
-| 4764 | [Taiyeo](https://osu.ppy.sh/u/2779381) | 336.33 | 2 |
-| 4765 | [idke](https://osu.ppy.sh/u/4650315) | 336.03 | 1 |
-| 4766 | [DT-sama](https://osu.ppy.sh/u/3525018) | 335.50 | 1 |
-| 4767 | [Vio](https://osu.ppy.sh/u/5661237) | 335.46 | 2 |
-| 4768 | [bobqwertyuiop10](https://osu.ppy.sh/u/6574048) | 334.93 | 2 |
-| 4769 | [Xunan1337](https://osu.ppy.sh/u/4672650) | 334.54 | 2 |
-| 4770 | [Sooki](https://osu.ppy.sh/u/1451811) | 333.76 | 1 |
-| 4771 | [CookiePowa](https://osu.ppy.sh/u/3684400) | 333.57 | 2 |
-| 4772 | [OmGkEk](https://osu.ppy.sh/u/6385613) | 333.56 | 2 |
-| 4773 | [Chirichu](https://osu.ppy.sh/u/3806724) | 331.64 | 2 |
-| 4774 | [lycank](https://osu.ppy.sh/u/573967) | 331.56 | 2 |
-| 4775 | [raimondio](https://osu.ppy.sh/u/6328710) | 331.56 | 2 |
-| 4776 | [usao](https://osu.ppy.sh/u/3006529) | 330.71 | 2 |
-| 4777 | [Hydrox](https://osu.ppy.sh/u/8025753) | 329.33 | 2 |
-| 4778 | [[ nong422 ]](https://osu.ppy.sh/u/2572468) | 329.00 | 1 |
-| 4779 | [Brunolt101](https://osu.ppy.sh/u/4304535) | 328.10 | 1 |
-| 4780 | [Kinsuna](https://osu.ppy.sh/u/2478009) | 327.78 | 2 |
-| 4781 | [My Angel](https://osu.ppy.sh/u/3601713) | 327.70 | 2 |
-| 4782 | [Pokka974](https://osu.ppy.sh/u/6174655) | 327.64 | 2 |
-| 4783 | [Hesketh](https://osu.ppy.sh/u/630370) | 327.63 | 2 |
-| 4784 | [bartek22830](https://osu.ppy.sh/u/6404027) | 327.59 | 2 |
-| 4785 | [Cien](https://osu.ppy.sh/u/613953) | 327.07 | 1 |
-| 4786 | [Chidori](https://osu.ppy.sh/u/5258565) | 326.86 | 1 |
-| 4787 | [Stanwixbuster](https://osu.ppy.sh/u/3352010) | 325.49 | 2 |
-| 4788 | [HaruTachi-](https://osu.ppy.sh/u/6244066) | 323.53 | 1 |
-| 4789 | [Sashimi_Maguro](https://osu.ppy.sh/u/5326197) | 323.19 | 2 |
-| 4790 | [Hanazawa Kana](https://osu.ppy.sh/u/2345298) | 320.88 | 1 |
-| 4791 | [Shiawase](https://osu.ppy.sh/u/989489) | 320.54 | 1 |
-| 4792 | [ZeroCalamity](https://osu.ppy.sh/u/3110452) | 320.42 | 2 |
-| 4793 | [Kiriel](https://osu.ppy.sh/u/4606224) | 318.29 | 2 |
-| 4794 | [Skyme](https://osu.ppy.sh/u/6848953) | 317.51 | 2 |
-| 4795 | [Lee Jung Hyun](https://osu.ppy.sh/u/4065138) | 317.47 | 1 |
-| 4796 | [-Akky](https://osu.ppy.sh/u/2330112) | 317.33 | 1 |
-| 4797 | [Pituophis](https://osu.ppy.sh/u/5805249) | 317.04 | 2 |
-| 4798 | [Vietz](https://osu.ppy.sh/u/2319935) | 316.96 | 1 |
-| 4799 | [tsun loli](https://osu.ppy.sh/u/5147794) | 316.58 | 2 |
-| 4800 | [0120](https://osu.ppy.sh/u/1901534) | 316.24 | 1 |
-| 4801 | [Toshinou Kyouko](https://osu.ppy.sh/u/560228) | 314.09 | 1 |
-| 4802 | [Willy](https://osu.ppy.sh/u/3521482) | 313.85 | 1 |
-| 4803 | [moguosu](https://osu.ppy.sh/u/4220317) | 313.77 | 1 |
-| 4804 | [-Saber-](https://osu.ppy.sh/u/434799) | 313.35 | 1 |
-| 4805 | [Gio](https://osu.ppy.sh/u/1795827) | 313.29 | 1 |
-| 4806 | [Vakeros](https://osu.ppy.sh/u/5224889) | 312.70 | 2 |
-| 4807 | [Nimfagryuf](https://osu.ppy.sh/u/3629043) | 312.07 | 2 |
-| 4808 | [Gruzzli](https://osu.ppy.sh/u/4285230) | 312.02 | 2 |
-| 4809 | [illy](https://osu.ppy.sh/u/2438401) | 311.64 | 2 |
-| 4810 | [ReZero_Emilia](https://osu.ppy.sh/u/6934191) | 311.53 | 1 |
-| 4811 | [[-Chocola-]](https://osu.ppy.sh/u/6781232) | 311.14 | 2 |
-| 4812 | [GhastEducation](https://osu.ppy.sh/u/4466397) | 305.45 | 2 |
-| 4813 | [_sinon_](https://osu.ppy.sh/u/5101453) | 305.27 | 1 |
-| 4814 | [Colored](https://osu.ppy.sh/u/827563) | 304.83 | 1 |
-| 4815 | [B O X](https://osu.ppy.sh/u/2070407) | 303.87 | 2 |
-| 4816 | [[Quarter]](https://osu.ppy.sh/u/3656344) | 303.12 | 1 |
-| 4817 | [DubiosSchiffer](https://osu.ppy.sh/u/2426687) | 302.27 | 1 |
-| 4818 | [koromo](https://osu.ppy.sh/u/761255) | 302.19 | 1 |
-| 4819 | [[KOR]ArtRaid](https://osu.ppy.sh/u/467010) | 300.80 | 1 |
-| 4820 | [ebc123](https://osu.ppy.sh/u/2132093) | 300.72 | 1 |
-| 4821 | [tryonelove](https://osu.ppy.sh/u/4752232) | 300.65 | 1 |
-| 4822 | [MasterfulNote5](https://osu.ppy.sh/u/7247988) | 299.94 | 2 |
-| 4823 | [-Dylson-](https://osu.ppy.sh/u/6315784) | 299.46 | 1 |
-| 4824 | [Jokermafia](https://osu.ppy.sh/u/5213370) | 299.46 | 1 |
-| 4825 | [smiljko](https://osu.ppy.sh/u/3537949) | 299.46 | 1 |
-| 4826 | [Akcel](https://osu.ppy.sh/u/464203) | 299.35 | 1 |
-| 4827 | [Corim](https://osu.ppy.sh/u/4242767) | 298.68 | 1 |
-| 4828 | [_kyky_](https://osu.ppy.sh/u/4519400) | 298.03 | 1 |
-| 4829 | [mithew](https://osu.ppy.sh/u/2571893) | 297.97 | 1 |
-| 4830 | [issacCLAKE124](https://osu.ppy.sh/u/3301871) | 297.95 | 1 |
-| 4831 | [Abody Kashgary](https://osu.ppy.sh/u/1093034) | 297.95 | 1 |
-| 4832 | [StrawberryPocky](https://osu.ppy.sh/u/4142572) | 297.58 | 1 |
-| 4833 | [[ Rinia ]](https://osu.ppy.sh/u/3891693) | 297.11 | 1 |
-| 4834 | [Akane-Yuki](https://osu.ppy.sh/u/3656589) | 296.28 | 1 |
-| 4835 | [smead](https://osu.ppy.sh/u/4293459) | 295.35 | 1 |
-| 4836 | [android](https://osu.ppy.sh/u/3312548) | 295.35 | 1 |
-| 4837 | [- C l a i r e -](https://osu.ppy.sh/u/1014013) | 294.95 | 1 |
-| 4838 | [KagaR](https://osu.ppy.sh/u/2500230) | 294.86 | 1 |
-| 4839 | [surume yotyan](https://osu.ppy.sh/u/1704801) | 294.56 | 1 |
-| 4840 | [rinkon](https://osu.ppy.sh/u/926614) | 293.88 | 1 |
-| 4841 | [Vin-](https://osu.ppy.sh/u/4724263) | 293.10 | 1 |
-| 4842 | [Texats](https://osu.ppy.sh/u/1638293) | 292.05 | 1 |
-| 4843 | [Supporter](https://osu.ppy.sh/u/2716052) | 291.82 | 1 |
-| 4844 | [Syfou](https://osu.ppy.sh/u/1572956) | 291.51 | 1 |
-| 4845 | [ayygurl](https://osu.ppy.sh/u/4899898) | 291.48 | 1 |
-| 4846 | [Poteha](https://osu.ppy.sh/u/4596400) | 290.02 | 1 |
-| 4847 | [xoho](https://osu.ppy.sh/u/3647897) | 289.76 | 1 |
-| 4848 | [Tobu](https://osu.ppy.sh/u/1328939) | 289.42 | 1 |
-| 4849 | [Meowcenaries](https://osu.ppy.sh/u/597516) | 289.21 | 1 |
-| 4850 | [BeastMelon](https://osu.ppy.sh/u/4178519) | 289.21 | 1 |
-| 4851 | [Sh1ni](https://osu.ppy.sh/u/300321) | 287.62 | 1 |
-| 4852 | [DarkGodZereff](https://osu.ppy.sh/u/2554708) | 287.55 | 1 |
-| 4853 | [Aquamarine13](https://osu.ppy.sh/u/3829617) | 287.49 | 1 |
-| 4854 | [Kiri-Chan](https://osu.ppy.sh/u/3300104) | 287.48 | 1 |
-| 4855 | [Flying steps](https://osu.ppy.sh/u/2599171) | 287.37 | 1 |
-| 4856 | [VGmaster](https://osu.ppy.sh/u/5670635) | 286.82 | 1 |
-| 4857 | [w33ha](https://osu.ppy.sh/u/5692533) | 286.19 | 1 |
-| 4858 | [ptipaul](https://osu.ppy.sh/u/4243657) | 285.67 | 1 |
-| 4859 | [- Hatsu Koi -](https://osu.ppy.sh/u/1272642) | 285.49 | 1 |
-| 4860 | [Roscoe](https://osu.ppy.sh/u/4595416) | 284.77 | 1 |
-| 4861 | [hohol454](https://osu.ppy.sh/u/2063095) | 284.70 | 1 |
-| 4862 | [kairasu](https://osu.ppy.sh/u/1111240) | 284.66 | 1 |
-| 4863 | [M O O N](https://osu.ppy.sh/u/1389385) | 283.98 | 1 |
-| 4864 | [Hippo](https://osu.ppy.sh/u/5248337) | 283.81 | 1 |
-| 4865 | [Laughy](https://osu.ppy.sh/u/3681024) | 283.23 | 1 |
-| 4866 | [lefrag346](https://osu.ppy.sh/u/4055226) | 283.12 | 1 |
-| 4867 | [Elgenzay](https://osu.ppy.sh/u/4199447) | 283.03 | 1 |
-| 4868 | [util](https://osu.ppy.sh/u/1470834) | 282.91 | 1 |
-| 4869 | [aassdd00](https://osu.ppy.sh/u/4399832) | 281.63 | 2 |
-| 4870 | [Logless](https://osu.ppy.sh/u/4474167) | 281.10 | 1 |
-| 4871 | [KrysiaRules](https://osu.ppy.sh/u/5466081) | 280.59 | 1 |
-| 4872 | [Floks](https://osu.ppy.sh/u/1146469) | 280.31 | 1 |
-| 4873 | [taroxd](https://osu.ppy.sh/u/1300039) | 279.38 | 1 |
-| 4874 | [PEPOTTI](https://osu.ppy.sh/u/358287) | 278.98 | 1 |
-| 4875 | [Damnjelly](https://osu.ppy.sh/u/1666355) | 278.56 | 1 |
-| 4876 | [DuckMaster3000](https://osu.ppy.sh/u/6779915) | 277.95 | 1 |
-| 4877 | [Vantos](https://osu.ppy.sh/u/4545563) | 277.95 | 1 |
-| 4878 | [Ultimatum](https://osu.ppy.sh/u/3411877) | 277.95 | 1 |
-| 4879 | [Xantaria](https://osu.ppy.sh/u/3012954) | 277.95 | 1 |
-| 4880 | [Chaltier0](https://osu.ppy.sh/u/2651038) | 277.95 | 1 |
-| 4881 | [Multtari](https://osu.ppy.sh/u/1097352) | 277.95 | 1 |
-| 4882 | [[ - Horo - ]](https://osu.ppy.sh/u/3299660) | 276.96 | 1 |
-| 4883 | [TcnKZLy](https://osu.ppy.sh/u/6965936) | 276.83 | 1 |
-| 4884 | [- Haruka Wawa -](https://osu.ppy.sh/u/1691352) | 276.54 | 1 |
-| 4885 | [DerpyPengu](https://osu.ppy.sh/u/2215336) | 276.04 | 1 |
-| 4886 | [makise38](https://osu.ppy.sh/u/1924433) | 275.68 | 1 |
-| 4887 | [BlackEra](https://osu.ppy.sh/u/2847422) | 275.61 | 1 |
-| 4888 | [TAKAKO](https://osu.ppy.sh/u/259080) | 274.51 | 1 |
-| 4889 | [Ozinghoon](https://osu.ppy.sh/u/1311140) | 274.41 | 1 |
-| 4890 | [ShiraKai](https://osu.ppy.sh/u/487668) | 274.27 | 1 |
-| 4891 | [[RanYakumo]](https://osu.ppy.sh/u/1234432) | 273.80 | 1 |
-| 4892 | [-BronzeKen](https://osu.ppy.sh/u/2986789) | 273.65 | 1 |
-| 4893 | [JadeDT](https://osu.ppy.sh/u/4152417) | 273.56 | 1 |
-| 4894 | [SpiralSD](https://osu.ppy.sh/u/4687374) | 273.55 | 1 |
-| 4895 | [DigiDrake](https://osu.ppy.sh/u/7863082) | 272.62 | 1 |
-| 4896 | [timemon](https://osu.ppy.sh/u/2072005) | 272.19 | 1 |
-| 4897 | [tralk331](https://osu.ppy.sh/u/5039382) | 271.60 | 1 |
-| 4898 | [NickTheCat](https://osu.ppy.sh/u/4787163) | 271.18 | 1 |
-| 4899 | [Lumin](https://osu.ppy.sh/u/4696242) | 271.08 | 1 |
-| 4900 | [Tyl](https://osu.ppy.sh/u/3469942) | 270.62 | 1 |
-| 4901 | [iKillRocks](https://osu.ppy.sh/u/3406720) | 270.62 | 1 |
-| 4902 | [saiunwarosu](https://osu.ppy.sh/u/1021944) | 270.62 | 1 |
-| 4903 | [selavy](https://osu.ppy.sh/u/2856512) | 270.59 | 1 |
-| 4904 | [window](https://osu.ppy.sh/u/3984466) | 270.26 | 1 |
-| 4905 | [Moen-](https://osu.ppy.sh/u/3565218) | 270.18 | 1 |
-| 4906 | [Muguet](https://osu.ppy.sh/u/4999565) | 269.74 | 1 |
-| 4907 | [Desired](https://osu.ppy.sh/u/2752380) | 269.64 | 1 |
-| 4908 | [easonho4](https://osu.ppy.sh/u/2968245) | 269.26 | 1 |
-| 4909 | [Flosake](https://osu.ppy.sh/u/3555492) | 268.93 | 1 |
-| 4910 | [Prism](https://osu.ppy.sh/u/1188125) | 268.52 | 1 |
-| 4911 | [bozbez](https://osu.ppy.sh/u/4863976) | 267.98 | 1 |
-| 4912 | [SGT_MaNzANoiDE](https://osu.ppy.sh/u/4389490) | 267.98 | 1 |
-| 4913 | [Dopamine](https://osu.ppy.sh/u/2834983) | 267.98 | 1 |
-| 4914 | [-Kanon-](https://osu.ppy.sh/u/2576168) | 267.98 | 1 |
-| 4915 | [HaQu](https://osu.ppy.sh/u/1160268) | 267.97 | 1 |
-| 4916 | [- Niwata -](https://osu.ppy.sh/u/3580864) | 267.49 | 1 |
-| 4917 | [KIRITO N ASUNA](https://osu.ppy.sh/u/3342363) | 267.39 | 1 |
-| 4918 | [[ Yuriko ]](https://osu.ppy.sh/u/1722799) | 267.38 | 1 |
-| 4919 | [StrikersZeD](https://osu.ppy.sh/u/5087039) | 267.19 | 1 |
-| 4920 | [Henarca](https://osu.ppy.sh/u/3344355) | 267.11 | 1 |
-| 4921 | [HighTec](https://osu.ppy.sh/u/3789276) | 266.87 | 1 |
-| 4922 | [wohaopaaa](https://osu.ppy.sh/u/6379065) | 266.74 | 1 |
-| 4923 | [Euclithy](https://osu.ppy.sh/u/2817061) | 266.70 | 1 |
-| 4924 | [plmmk](https://osu.ppy.sh/u/1806343) | 266.70 | 1 |
-| 4925 | [M Il T H O S](https://osu.ppy.sh/u/3980645) | 266.65 | 1 |
-| 4926 | [tastynub](https://osu.ppy.sh/u/2486763) | 266.65 | 1 |
-| 4927 | [Yumesaki Hikari](https://osu.ppy.sh/u/1977417) | 266.60 | 1 |
-| 4928 | [Aria Stardust](https://osu.ppy.sh/u/2242669) | 266.59 | 1 |
-| 4929 | [Aaron P](https://osu.ppy.sh/u/4394868) | 266.12 | 1 |
-| 4930 | [emisa2](https://osu.ppy.sh/u/2409373) | 265.30 | 1 |
-| 4931 | [Galiel](https://osu.ppy.sh/u/1158068) | 265.02 | 1 |
-| 4932 | [Kosmonaut](https://osu.ppy.sh/u/3241280) | 264.93 | 1 |
-| 4933 | [Aaozora](https://osu.ppy.sh/u/5057461) | 264.42 | 1 |
-| 4934 | [Hide On Note](https://osu.ppy.sh/u/3621608) | 264.32 | 1 |
-| 4935 | [-Dragunov-](https://osu.ppy.sh/u/2940777) | 263.90 | 1 |
-| 4936 | [Kyotora](https://osu.ppy.sh/u/2540461) | 263.01 | 1 |
-| 4937 | [JomoLP](https://osu.ppy.sh/u/4612408) | 262.97 | 1 |
-| 4938 | [Decen](https://osu.ppy.sh/u/3586373) | 262.97 | 1 |
-| 4939 | [Kusei](https://osu.ppy.sh/u/4091515) | 262.71 | 1 |
-| 4940 | [Chokebo](https://osu.ppy.sh/u/4173263) | 262.43 | 1 |
-| 4941 | [Ice Angel](https://osu.ppy.sh/u/1036441) | 261.75 | 1 |
-| 4942 | [Ubernarwhal](https://osu.ppy.sh/u/6932217) | 261.33 | 1 |
-| 4943 | [Rairiku](https://osu.ppy.sh/u/4945688) | 261.33 | 1 |
-| 4944 | [rihis123](https://osu.ppy.sh/u/4499926) | 261.33 | 1 |
-| 4945 | [EasyKeyel](https://osu.ppy.sh/u/5727725) | 261.00 | 1 |
-| 4946 | [Krapy](https://osu.ppy.sh/u/4665780) | 261.00 | 1 |
-| 4947 | [Shia LaBeouf](https://osu.ppy.sh/u/2629402) | 260.27 | 1 |
-| 4948 | [7 K e n a n a 7](https://osu.ppy.sh/u/1769338) | 260.25 | 1 |
-| 4949 | [Bored](https://osu.ppy.sh/u/5664127) | 260.09 | 1 |
-| 4950 | [whitehounds](https://osu.ppy.sh/u/3703848) | 259.89 | 1 |
-| 4951 | [srb](https://osu.ppy.sh/u/2047748) | 259.67 | 1 |
-| 4952 | [Reficul918](https://osu.ppy.sh/u/6710984) | 259.59 | 1 |
-| 4953 | [ImPopQwZz](https://osu.ppy.sh/u/7407458) | 259.58 | 1 |
-| 4954 | [Syph](https://osu.ppy.sh/u/4858573) | 259.17 | 1 |
-| 4955 | [Rivastyx](https://osu.ppy.sh/u/2719307) | 259.03 | 1 |
-| 4956 | [MasterKotori](https://osu.ppy.sh/u/2351439) | 258.70 | 1 |
-| 4957 | [HenryBFG](https://osu.ppy.sh/u/4444619) | 258.45 | 1 |
-| 4958 | [KaedeN](https://osu.ppy.sh/u/2034283) | 258.45 | 1 |
-| 4959 | [S Y E R D](https://osu.ppy.sh/u/4531760) | 258.08 | 1 |
-| 4960 | [Khunee](https://osu.ppy.sh/u/3831440) | 258.03 | 1 |
-| 4961 | [KeeNkee](https://osu.ppy.sh/u/4500075) | 257.60 | 1 |
-| 4962 | [hmax](https://osu.ppy.sh/u/6507533) | 257.44 | 1 |
-| 4963 | [Aka](https://osu.ppy.sh/u/1307553) | 257.30 | 1 |
-| 4964 | [Kurosaki](https://osu.ppy.sh/u/5937545) | 257.29 | 1 |
-| 4965 | [RobertXPZ](https://osu.ppy.sh/u/2235055) | 256.73 | 1 |
-| 4966 | [wailord2700](https://osu.ppy.sh/u/189091) | 256.35 | 1 |
-| 4967 | [[- Vanilla -]](https://osu.ppy.sh/u/2946481) | 256.30 | 1 |
-| 4968 | [Ruby](https://osu.ppy.sh/u/1799781) | 255.99 | 1 |
-| 4969 | [Kyuubi](https://osu.ppy.sh/u/2690042) | 255.99 | 1 |
-| 4970 | [DeviousPanda](https://osu.ppy.sh/u/4966334) | 255.70 | 1 |
-| 4971 | [Emell](https://osu.ppy.sh/u/1036630) | 255.59 | 1 |
-| 4972 | [FeddyYeh777](https://osu.ppy.sh/u/5839901) | 255.57 | 1 |
-| 4973 | [Darcyys](https://osu.ppy.sh/u/943261) | 255.46 | 2 |
-| 4974 | [Tomaatti](https://osu.ppy.sh/u/2767208) | 255.24 | 1 |
-| 4975 | [Insanity](https://osu.ppy.sh/u/2176966) | 255.24 | 1 |
-| 4976 | [[ Kratos ]](https://osu.ppy.sh/u/4557339) | 254.75 | 1 |
-| 4977 | [haha woah man](https://osu.ppy.sh/u/4330511) | 254.39 | 1 |
-| 4978 | [iCurse557](https://osu.ppy.sh/u/6553338) | 254.12 | 1 |
-| 4979 | [roma4ka](https://osu.ppy.sh/u/5675579) | 254.12 | 1 |
-| 4980 | [Noobito](https://osu.ppy.sh/u/4368812) | 254.12 | 1 |
-| 4981 | [HardcoreLoli](https://osu.ppy.sh/u/249090) | 254.12 | 1 |
-| 4982 | [DeasuPL](https://osu.ppy.sh/u/2193932) | 254.03 | 1 |
-| 4983 | [Yellowl](https://osu.ppy.sh/u/3354406) | 253.78 | 1 |
-| 4984 | [e1Four15f](https://osu.ppy.sh/u/6925948) | 253.64 | 1 |
-| 4985 | [Tiyop](https://osu.ppy.sh/u/2461385) | 253.34 | 1 |
-| 4986 | [Angie](https://osu.ppy.sh/u/4128310) | 253.28 | 1 |
-| 4987 | [Katziezi](https://osu.ppy.sh/u/3087892) | 253.23 | 1 |
-| 4988 | [Nega](https://osu.ppy.sh/u/3181083) | 253.19 | 1 |
-| 4989 | [Gyro Zeppeli](https://osu.ppy.sh/u/3824882) | 253.04 | 1 |
-| 4990 | [Incorage](https://osu.ppy.sh/u/2952230) | 253.04 | 1 |
-| 4991 | [ziel](https://osu.ppy.sh/u/7658293) | 253.02 | 1 |
-| 4992 | [-Avation-](https://osu.ppy.sh/u/7058020) | 252.91 | 1 |
-| 4993 | [Kyshiro](https://osu.ppy.sh/u/640611) | 252.88 | 1 |
-| 4994 | [HoonTa](https://osu.ppy.sh/u/253750) | 252.70 | 1 |
-| 4995 | [-chara](https://osu.ppy.sh/u/4856562) | 252.28 | 1 |
-| 4996 | [R J](https://osu.ppy.sh/u/6490509) | 252.26 | 1 |
-| 4997 | [Rizia](https://osu.ppy.sh/u/1367570) | 252.26 | 1 |
-| 4998 | [id1e](https://osu.ppy.sh/u/1082977) | 252.12 | 1 |
-| 4999 | [Ludovika](https://osu.ppy.sh/u/4659829) | 251.16 | 1 |
-| 5000 | [barbedbash](https://osu.ppy.sh/u/1795127) | 251.16 | 1 |
-| 5001 | [Sirokuma-](https://osu.ppy.sh/u/3820237) | 251.09 | 1 |
-| 5002 | [Misaki Tobisawa](https://osu.ppy.sh/u/1715977) | 251.03 | 1 |
-| 5003 | [Vectenial](https://osu.ppy.sh/u/4195581) | 250.92 | 1 |
-| 5004 | [-Matt-](https://osu.ppy.sh/u/1847568) | 250.85 | 1 |
-| 5005 | [redqoo](https://osu.ppy.sh/u/864491) | 250.76 | 1 |
-| 5006 | [Miu Matsuoka](https://osu.ppy.sh/u/10641) | 250.59 | 1 |
-| 5007 | [Taamusin](https://osu.ppy.sh/u/2208762) | 250.59 | 1 |
-| 5008 | [r a d o n](https://osu.ppy.sh/u/3136095) | 250.36 | 1 |
-| 5009 | [Srayne](https://osu.ppy.sh/u/2543963) | 250.27 | 1 |
-| 5010 | [ALi](https://osu.ppy.sh/u/2425559) | 250.24 | 1 |
-| 5011 | [Kriips](https://osu.ppy.sh/u/2163519) | 250.14 | 1 |
-| 5012 | [monomosc](https://osu.ppy.sh/u/2299178) | 249.93 | 1 |
-| 5013 | [outohere](https://osu.ppy.sh/u/906609) | 249.89 | 1 |
-| 5014 | [a5950147](https://osu.ppy.sh/u/528881) | 249.80 | 1 |
-| 5015 | [iDrinkUrSlushy](https://osu.ppy.sh/u/2802343) | 249.79 | 1 |
-| 5016 | [Alkees](https://osu.ppy.sh/u/2819970) | 249.77 | 1 |
-| 5017 | [Darkform](https://osu.ppy.sh/u/3001648) | 249.60 | 1 |
-| 5018 | [kusonemi](https://osu.ppy.sh/u/3602742) | 248.83 | 1 |
-| 5019 | [Kana Hanazawa](https://osu.ppy.sh/u/5063503) | 248.53 | 1 |
-| 5020 | [Schmook](https://osu.ppy.sh/u/5891911) | 248.40 | 1 |
-| 5021 | [metul zwek](https://osu.ppy.sh/u/6674408) | 248.11 | 1 |
-| 5022 | [Nefla](https://osu.ppy.sh/u/1915203) | 247.83 | 1 |
-| 5023 | [-Shinryaku-](https://osu.ppy.sh/u/8127948) | 247.54 | 1 |
-| 5024 | [Meticulous](https://osu.ppy.sh/u/6426561) | 247.54 | 1 |
-| 5025 | [MouseSenpai](https://osu.ppy.sh/u/5839959) | 247.54 | 1 |
-| 5026 | [Chey](https://osu.ppy.sh/u/5438009) | 247.54 | 1 |
-| 5027 | [Sanctus](https://osu.ppy.sh/u/5033017) | 247.54 | 1 |
-| 5028 | [Empax](https://osu.ppy.sh/u/4439343) | 247.54 | 1 |
-| 5029 | [Fkk](https://osu.ppy.sh/u/1162583) | 247.54 | 1 |
-| 5030 | [REMumaki](https://osu.ppy.sh/u/3643198) | 247.21 | 1 |
-| 5031 | [sora25252525](https://osu.ppy.sh/u/3203059) | 247.21 | 1 |
-| 5032 | [Chosun-Univ](https://osu.ppy.sh/u/2434278) | 247.21 | 1 |
-| 5033 | [munQQi](https://osu.ppy.sh/u/2212162) | 247.15 | 1 |
-| 5034 | [Rashus](https://osu.ppy.sh/u/5106650) | 247.03 | 1 |
-| 5035 | [Chanki](https://osu.ppy.sh/u/4328780) | 246.91 | 1 |
-| 5036 | [khaotixzz](https://osu.ppy.sh/u/4594537) | 246.65 | 1 |
-| 5037 | [Pagno](https://osu.ppy.sh/u/1907940) | 246.64 | 1 |
-| 5038 | [LightoHK](https://osu.ppy.sh/u/503749) | 246.58 | 1 |
-| 5039 | [CookieZed](https://osu.ppy.sh/u/2320085) | 246.57 | 1 |
-| 5040 | [Valoodja](https://osu.ppy.sh/u/6217165) | 246.10 | 1 |
-| 5041 | [melloe](https://osu.ppy.sh/u/2367616) | 246.10 | 1 |
-| 5042 | [-E l S A-](https://osu.ppy.sh/u/2660439) | 245.99 | 1 |
-| 5043 | [Venrue](https://osu.ppy.sh/u/3004893) | 245.91 | 1 |
-| 5044 | [Baka Tomori](https://osu.ppy.sh/u/6863726) | 245.88 | 1 |
-| 5045 | [Don Omar](https://osu.ppy.sh/u/689414) | 245.83 | 1 |
-| 5046 | [threerda](https://osu.ppy.sh/u/4516434) | 245.83 | 1 |
-| 5047 | [Kazutakee](https://osu.ppy.sh/u/2637514) | 245.76 | 1 |
-| 5048 | [KOOOOOOOOOOOOOR](https://osu.ppy.sh/u/4574482) | 245.65 | 1 |
-| 5049 | [sammy711](https://osu.ppy.sh/u/2089693) | 245.45 | 1 |
-| 5050 | [HLOZSi](https://osu.ppy.sh/u/4827452) | 245.40 | 1 |
-| 5051 | [NG4411](https://osu.ppy.sh/u/2738604) | 245.37 | 1 |
-| 5052 | [HiverK](https://osu.ppy.sh/u/2968970) | 244.88 | 1 |
-| 5053 | [I Like Kimas](https://osu.ppy.sh/u/2490195) | 244.76 | 1 |
-| 5054 | [-Falone](https://osu.ppy.sh/u/6512857) | 244.62 | 1 |
-| 5055 | [Zodark](https://osu.ppy.sh/u/2295902) | 244.60 | 1 |
-| 5056 | [Jose](https://osu.ppy.sh/u/1320779) | 244.38 | 1 |
-| 5057 | [Lami](https://osu.ppy.sh/u/899031) | 244.21 | 1 |
-| 5058 | [koreapenguin](https://osu.ppy.sh/u/1458069) | 244.21 | 1 |
-| 5059 | [SoGa](https://osu.ppy.sh/u/2818699) | 244.00 | 1 |
-| 5060 | [To Love Rudy](https://osu.ppy.sh/u/2895333) | 243.92 | 1 |
-| 5061 | [Raindrop](https://osu.ppy.sh/u/1155871) | 243.79 | 1 |
-| 5062 | [Salazarino](https://osu.ppy.sh/u/5289722) | 243.68 | 1 |
-| 5063 | [plmnbvz](https://osu.ppy.sh/u/2574622) | 243.60 | 1 |
-| 5064 | [AppleKruit](https://osu.ppy.sh/u/3712319) | 243.55 | 1 |
-| 5065 | [gunzo](https://osu.ppy.sh/u/3400940) | 243.47 | 2 |
-| 5066 | [Xansving](https://osu.ppy.sh/u/6427905) | 243.30 | 1 |
-| 5067 | [Raseto](https://osu.ppy.sh/u/3671286) | 243.30 | 1 |
-| 5068 | [Schwartz](https://osu.ppy.sh/u/2646760) | 243.04 | 1 |
-| 5069 | [vKye](https://osu.ppy.sh/u/4332259) | 243.03 | 1 |
-| 5070 | [Reegi](https://osu.ppy.sh/u/3396496) | 243.02 | 1 |
-| 5071 | [Hark](https://osu.ppy.sh/u/43265) | 242.94 | 1 |
-| 5072 | [natalielinn](https://osu.ppy.sh/u/4767600) | 242.91 | 1 |
-| 5073 | [DyingNzU](https://osu.ppy.sh/u/3589059) | 242.91 | 1 |
-| 5074 | [Pab](https://osu.ppy.sh/u/4753430) | 242.78 | 1 |
-| 5075 | [_verto_](https://osu.ppy.sh/u/2015300) | 242.78 | 1 |
-| 5076 | [wakatoshi](https://osu.ppy.sh/u/5300778) | 242.62 | 1 |
-| 5077 | [BLIZARD123](https://osu.ppy.sh/u/4418262) | 242.62 | 1 |
-| 5078 | [ToGlette](https://osu.ppy.sh/u/1076236) | 242.55 | 1 |
-| 5079 | [Subaru Takamaru](https://osu.ppy.sh/u/1762922) | 242.25 | 1 |
-| 5080 | [Kiwisama](https://osu.ppy.sh/u/660311) | 242.06 | 1 |
-| 5081 | [HAKUDOSHY](https://osu.ppy.sh/u/5312102) | 242.06 | 1 |
-| 5082 | [R3F13X](https://osu.ppy.sh/u/5260387) | 242.06 | 1 |
-| 5083 | [Reoxyn](https://osu.ppy.sh/u/3969269) | 242.06 | 1 |
-| 5084 | [Arcanis](https://osu.ppy.sh/u/3230153) | 242.06 | 1 |
-| 5085 | [Leon_snow](https://osu.ppy.sh/u/1204709) | 241.95 | 1 |
-| 5086 | [-Arthus-](https://osu.ppy.sh/u/1869492) | 241.92 | 1 |
-| 5087 | [Kimidori](https://osu.ppy.sh/u/5073441) | 241.81 | 1 |
-| 5088 | [Epoch](https://osu.ppy.sh/u/4232145) | 241.77 | 1 |
-| 5089 | [tossu](https://osu.ppy.sh/u/2824723) | 241.71 | 1 |
-| 5090 | [Sergos](https://osu.ppy.sh/u/1679946) | 241.71 | 1 |
-| 5091 | [GamingCrimes](https://osu.ppy.sh/u/6188915) | 241.56 | 1 |
-| 5092 | [Kato Emiri](https://osu.ppy.sh/u/4473015) | 241.56 | 1 |
-| 5093 | [JuanMartin241](https://osu.ppy.sh/u/4054429) | 241.56 | 1 |
-| 5094 | [AmericanPenguin](https://osu.ppy.sh/u/6373382) | 241.33 | 1 |
-| 5095 | [Koi Fish](https://osu.ppy.sh/u/4539930) | 241.33 | 1 |
-| 5096 | [TheNippleFish](https://osu.ppy.sh/u/3667982) | 241.33 | 1 |
-| 5097 | [Goisser](https://osu.ppy.sh/u/6317814) | 241.09 | 1 |
-| 5098 | [onyaga](https://osu.ppy.sh/u/2984823) | 241.00 | 1 |
-| 5099 | [RocketBlade](https://osu.ppy.sh/u/3674499) | 240.96 | 1 |
-| 5100 | [Setsuco](https://osu.ppy.sh/u/613405) | 240.95 | 1 |
-| 5101 | [Picala](https://osu.ppy.sh/u/4261405) | 240.87 | 1 |
-| 5102 | [PwnagePotato](https://osu.ppy.sh/u/2757863) | 240.86 | 1 |
-| 5103 | [KuliPa](https://osu.ppy.sh/u/1189003) | 240.86 | 1 |
-| 5104 | [Reyvateil](https://osu.ppy.sh/u/2838550) | 240.56 | 1 |
-| 5105 | [[Mashiro-Desu]](https://osu.ppy.sh/u/7193996) | 240.14 | 1 |
-| 5106 | [Move](https://osu.ppy.sh/u/2602441) | 239.91 | 1 |
-| 5107 | [Damach](https://osu.ppy.sh/u/3065625) | 239.72 | 1 |
-| 5108 | [danmaek](https://osu.ppy.sh/u/3669729) | 239.65 | 1 |
-| 5109 | [CrescendoV_Leux](https://osu.ppy.sh/u/4248280) | 239.38 | 1 |
-| 5110 | [dectopia](https://osu.ppy.sh/u/2845904) | 239.38 | 1 |
-| 5111 | [TinyLoliGirl](https://osu.ppy.sh/u/4868749) | 239.21 | 1 |
-| 5112 | [dezodor](https://osu.ppy.sh/u/1507666) | 238.68 | 1 |
-| 5113 | [SpitsLife](https://osu.ppy.sh/u/3822930) | 238.65 | 1 |
-| 5114 | [Shllaggy](https://osu.ppy.sh/u/2860559) | 238.55 | 1 |
-| 5115 | [bobbybobsenpwned](https://osu.ppy.sh/u/2063450) | 238.43 | 1 |
-| 5116 | [-Mephisto](https://osu.ppy.sh/u/1238524) | 238.01 | 1 |
-| 5117 | [Makan1](https://osu.ppy.sh/u/3254548) | 237.78 | 1 |
-| 5118 | [MarisaKirisame](https://osu.ppy.sh/u/3870644) | 237.78 | 1 |
-| 5119 | [HOLYWINNER](https://osu.ppy.sh/u/784800) | 237.57 | 1 |
-| 5120 | [b0bas](https://osu.ppy.sh/u/6258471) | 237.24 | 1 |
-| 5121 | [Trigg](https://osu.ppy.sh/u/7157951) | 237.19 | 1 |
-| 5122 | [Pupper](https://osu.ppy.sh/u/3055278) | 237.19 | 1 |
-| 5123 | [Fiplo](https://osu.ppy.sh/u/3872846) | 236.96 | 1 |
-| 5124 | [AMEchoco](https://osu.ppy.sh/u/1294862) | 236.89 | 1 |
-| 5125 | [leepdesu](https://osu.ppy.sh/u/1143744) | 236.86 | 1 |
-| 5126 | [Dizaster_](https://osu.ppy.sh/u/5325812) | 236.59 | 1 |
-| 5127 | [Suimmy](https://osu.ppy.sh/u/772107) | 236.56 | 1 |
-| 5128 | [Genjitsu](https://osu.ppy.sh/u/3531490) | 236.44 | 1 |
-| 5129 | [Kitokuari](https://osu.ppy.sh/u/4441282) | 236.32 | 1 |
-| 5130 | [Symco](https://osu.ppy.sh/u/6537974) | 236.22 | 1 |
-| 5131 | [Dab](https://osu.ppy.sh/u/5329471) | 236.22 | 1 |
-| 5132 | [DivineWafflezz](https://osu.ppy.sh/u/4011447) | 236.20 | 1 |
-| 5133 | [Hype](https://osu.ppy.sh/u/3683845) | 236.20 | 1 |
-| 5134 | [Avishay](https://osu.ppy.sh/u/2597311) | 236.20 | 1 |
-| 5135 | [mupmip](https://osu.ppy.sh/u/4909536) | 236.14 | 1 |
-| 5136 | [JamSpread](https://osu.ppy.sh/u/3782872) | 236.12 | 1 |
-| 5137 | [Koizumi Chineko](https://osu.ppy.sh/u/3079411) | 236.12 | 1 |
-| 5138 | [Sileko](https://osu.ppy.sh/u/6905676) | 236.00 | 1 |
-| 5139 | [Fyrecia](https://osu.ppy.sh/u/6548142) | 236.00 | 1 |
-| 5140 | [Mozu](https://osu.ppy.sh/u/4414373) | 236.00 | 1 |
-| 5141 | [Stjpa](https://osu.ppy.sh/u/2954693) | 235.94 | 1 |
-| 5142 | [Ruhok](https://osu.ppy.sh/u/2030467) | 235.94 | 1 |
-| 5143 | [adam6576](https://osu.ppy.sh/u/4728565) | 235.92 | 1 |
-| 5144 | [[ -NaLu- ]](https://osu.ppy.sh/u/2607681) | 235.87 | 1 |
-| 5145 | [churuchuru](https://osu.ppy.sh/u/2794596) | 235.77 | 1 |
-| 5146 | [Mousr](https://osu.ppy.sh/u/2703862) | 235.46 | 1 |
-| 5147 | [OvO](https://osu.ppy.sh/u/1517064) | 235.33 | 2 |
-| 5148 | [Roosia](https://osu.ppy.sh/u/4149666) | 235.33 | 1 |
-| 5149 | [TsuRaRa](https://osu.ppy.sh/u/3614985) | 235.29 | 1 |
-| 5150 | [[ kuma ]](https://osu.ppy.sh/u/2759340) | 235.29 | 1 |
-| 5151 | [Loneliness](https://osu.ppy.sh/u/3391346) | 235.08 | 1 |
-| 5152 | [Nayro](https://osu.ppy.sh/u/3375842) | 235.08 | 1 |
-| 5153 | [Luthfier](https://osu.ppy.sh/u/1909087) | 234.93 | 1 |
-| 5154 | [sovel](https://osu.ppy.sh/u/4888257) | 234.89 | 1 |
-| 5155 | [OfficialJerk](https://osu.ppy.sh/u/5207790) | 234.83 | 1 |
-| 5156 | [Lifeless](https://osu.ppy.sh/u/3253988) | 234.77 | 1 |
-| 5157 | [[ CHoRI ]](https://osu.ppy.sh/u/6581818) | 234.75 | 1 |
-| 5158 | [Sharpsight](https://osu.ppy.sh/u/7929698) | 234.75 | 1 |
-| 5159 | [Lolsniper](https://osu.ppy.sh/u/3761983) | 234.75 | 1 |
-| 5160 | [BurNing](https://osu.ppy.sh/u/342558) | 234.75 | 1 |
-| 5161 | [Grim12](https://osu.ppy.sh/u/2900241) | 234.75 | 1 |
-| 5162 | [antoncho15](https://osu.ppy.sh/u/3043154) | 234.48 | 1 |
-| 5163 | [[ Daniel ]](https://osu.ppy.sh/u/4464566) | 233.46 | 1 |
-| 5164 | [HaHaBear](https://osu.ppy.sh/u/4869280) | 233.38 | 1 |
-| 5165 | [SilentBlue1](https://osu.ppy.sh/u/4022979) | 232.89 | 1 |
-| 5166 | [Hermatis](https://osu.ppy.sh/u/451786) | 232.76 | 1 |
-| 5167 | [FiLm4ik](https://osu.ppy.sh/u/6155320) | 232.63 | 1 |
-| 5168 | [Juvia Lokser](https://osu.ppy.sh/u/6146933) | 232.47 | 1 |
-| 5169 | [TaMul](https://osu.ppy.sh/u/1142692) | 232.38 | 1 |
-| 5170 | [xico00](https://osu.ppy.sh/u/2070870) | 232.30 | 1 |
-| 5171 | [SnowManHD](https://osu.ppy.sh/u/2363838) | 232.30 | 1 |
-| 5172 | [Thumaax](https://osu.ppy.sh/u/4007888) | 232.19 | 1 |
-| 5173 | [iceandele](https://osu.ppy.sh/u/1740540) | 232.18 | 1 |
-| 5174 | [RiLiD](https://osu.ppy.sh/u/7251661) | 231.91 | 1 |
-| 5175 | [Dakurako](https://osu.ppy.sh/u/2670771) | 231.88 | 1 |
-| 5176 | [Sc06_](https://osu.ppy.sh/u/3634841) | 231.72 | 1 |
-| 5177 | [BeDuck](https://osu.ppy.sh/u/1345911) | 231.66 | 1 |
-| 5178 | [xhale](https://osu.ppy.sh/u/4623895) | 231.45 | 1 |
-| 5179 | [Chocopikel](https://osu.ppy.sh/u/382840) | 231.36 | 1 |
-| 5180 | [Navi](https://osu.ppy.sh/u/926304) | 231.33 | 1 |
-| 5181 | [Yoshi City](https://osu.ppy.sh/u/6052166) | 231.33 | 1 |
-| 5182 | [Xhotzkin](https://osu.ppy.sh/u/5368555) | 231.33 | 1 |
-| 5183 | [Syker](https://osu.ppy.sh/u/5245314) | 231.33 | 1 |
-| 5184 | [kingartoria](https://osu.ppy.sh/u/1948308) | 231.31 | 1 |
-| 5185 | [I will be back](https://osu.ppy.sh/u/477704) | 231.26 | 1 |
-| 5186 | [Line-](https://osu.ppy.sh/u/1888064) | 231.17 | 1 |
-| 5187 | [[ Ty ]](https://osu.ppy.sh/u/6602209) | 231.16 | 1 |
-| 5188 | [Its Crazy](https://osu.ppy.sh/u/2757957) | 231.16 | 1 |
-| 5189 | [aitsuk](https://osu.ppy.sh/u/1012195) | 231.16 | 1 |
-| 5190 | [Khalid](https://osu.ppy.sh/u/691229) | 231.11 | 1 |
-| 5191 | [1xmiss](https://osu.ppy.sh/u/2914552) | 231.03 | 1 |
-| 5192 | [Halcryo](https://osu.ppy.sh/u/5316975) | 230.82 | 1 |
-| 5193 | [K3NSH1NFTW](https://osu.ppy.sh/u/4756429) | 230.82 | 1 |
-| 5194 | [Jrryy](https://osu.ppy.sh/u/3765412) | 230.82 | 1 |
-| 5195 | [Dkpitator](https://osu.ppy.sh/u/3495018) | 230.82 | 1 |
-| 5196 | [Left](https://osu.ppy.sh/u/5062061) | 230.78 | 1 |
-| 5197 | [Shauing](https://osu.ppy.sh/u/7090655) | 230.62 | 1 |
-| 5198 | [ComplexCow](https://osu.ppy.sh/u/4793635) | 230.62 | 1 |
-| 5199 | [[ S H I I N O ]](https://osu.ppy.sh/u/5135331) | 230.51 | 1 |
-| 5200 | [willy6677](https://osu.ppy.sh/u/5208892) | 230.49 | 1 |
-| 5201 | [blai10](https://osu.ppy.sh/u/2708049) | 230.49 | 1 |
-| 5202 | [Xybi](https://osu.ppy.sh/u/2295621) | 230.41 | 1 |
-| 5203 | [Phoibos](https://osu.ppy.sh/u/5354000) | 230.41 | 1 |
-| 5204 | [gccqiuqiu](https://osu.ppy.sh/u/4465521) | 230.04 | 1 |
-| 5205 | [Elcy](https://osu.ppy.sh/u/861107) | 229.95 | 1 |
-| 5206 | [HeroicSteak](https://osu.ppy.sh/u/3869829) | 229.41 | 1 |
-| 5207 | [Kasanariau](https://osu.ppy.sh/u/4317363) | 229.31 | 1 |
-| 5208 | [Eltryo](https://osu.ppy.sh/u/5415394) | 229.19 | 1 |
-| 5209 | [Michel4056](https://osu.ppy.sh/u/5321827) | 228.99 | 1 |
-| 5210 | [NelsonG14](https://osu.ppy.sh/u/2965164) | 228.91 | 1 |
-| 5211 | [vincaslt](https://osu.ppy.sh/u/3820339) | 228.77 | 1 |
-| 5212 | [SlyTaco](https://osu.ppy.sh/u/3301398) | 228.77 | 1 |
-| 5213 | [-Trigger](https://osu.ppy.sh/u/1890143) | 228.72 | 1 |
-| 5214 | [fripSide](https://osu.ppy.sh/u/2488457) | 228.70 | 1 |
-| 5215 | [TimmyTimTims](https://osu.ppy.sh/u/1254926) | 228.67 | 1 |
-| 5216 | [Virrus](https://osu.ppy.sh/u/949804) | 228.57 | 1 |
-| 5217 | [Pearly](https://osu.ppy.sh/u/2846592) | 228.24 | 1 |
-| 5218 | [Cream](https://osu.ppy.sh/u/5933497) | 228.08 | 1 |
-| 5219 | [crazyscythe](https://osu.ppy.sh/u/1050953) | 228.06 | 1 |
-| 5220 | [mehhqt](https://osu.ppy.sh/u/1059475) | 227.99 | 1 |
-| 5221 | [Episock](https://osu.ppy.sh/u/3426197) | 227.91 | 1 |
-| 5222 | [szczvr](https://osu.ppy.sh/u/2316480) | 227.87 | 1 |
-| 5223 | [CreamPuffChris](https://osu.ppy.sh/u/1901516) | 227.76 | 1 |
-| 5224 | [Sasazy](https://osu.ppy.sh/u/538928) | 227.60 | 1 |
-| 5225 | [ertgbvcd](https://osu.ppy.sh/u/1360769) | 227.58 | 1 |
-| 5226 | [Cray](https://osu.ppy.sh/u/1350338) | 227.43 | 1 |
-| 5227 | [tzamen](https://osu.ppy.sh/u/3577199) | 227.35 | 1 |
-| 5228 | [Maki Nishikino](https://osu.ppy.sh/u/4512058) | 227.23 | 1 |
-| 5229 | [Chug](https://osu.ppy.sh/u/5097341) | 227.14 | 1 |
-| 5230 | [Query](https://osu.ppy.sh/u/4504049) | 227.07 | 1 |
-| 5231 | [Reworu](https://osu.ppy.sh/u/3975366) | 227.07 | 1 |
-| 5232 | [SwifterLegender](https://osu.ppy.sh/u/3759453) | 227.07 | 1 |
-| 5233 | [Dancharr](https://osu.ppy.sh/u/3578935) | 227.07 | 1 |
-| 5234 | [Kotayo](https://osu.ppy.sh/u/1730025) | 227.06 | 1 |
-| 5235 | [EternalShadi](https://osu.ppy.sh/u/4411297) | 226.78 | 1 |
-| 5236 | [cbunny](https://osu.ppy.sh/u/1390544) | 226.76 | 1 |
-| 5237 | [Fallicon](https://osu.ppy.sh/u/5217651) | 226.71 | 1 |
-| 5238 | [DrMengele](https://osu.ppy.sh/u/4168138) | 226.65 | 1 |
-| 5239 | [Floaddy](https://osu.ppy.sh/u/4571336) | 226.63 | 1 |
-| 5240 | [-A n i c c a-](https://osu.ppy.sh/u/4560359) | 226.45 | 1 |
-| 5241 | [Faaa97](https://osu.ppy.sh/u/6795174) | 226.40 | 1 |
-| 5242 | [Napkins](https://osu.ppy.sh/u/610574) | 226.36 | 1 |
-| 5243 | [Betellgeus](https://osu.ppy.sh/u/5625443) | 226.36 | 1 |
-| 5244 | [Abahachi](https://osu.ppy.sh/u/4950052) | 226.36 | 1 |
-| 5245 | [BojowyChomik](https://osu.ppy.sh/u/3785871) | 226.36 | 1 |
-| 5246 | [Yentis](https://osu.ppy.sh/u/345516) | 226.36 | 1 |
-| 5247 | [-Nanami Aoyama-](https://osu.ppy.sh/u/1895660) | 226.36 | 1 |
-| 5248 | [Tsuki no yaya](https://osu.ppy.sh/u/3580949) | 226.29 | 1 |
-| 5249 | [Oriental Tank](https://osu.ppy.sh/u/3640147) | 226.29 | 1 |
-| 5250 | [KellyBoo](https://osu.ppy.sh/u/4959967) | 226.13 | 1 |
-| 5251 | [dahkjdas](https://osu.ppy.sh/u/5062396) | 226.12 | 1 |
-| 5252 | [CleanScreen](https://osu.ppy.sh/u/1910745) | 225.95 | 1 |
-| 5253 | [Wishmaker980](https://osu.ppy.sh/u/3478932) | 225.94 | 1 |
-| 5254 | [chiyoc](https://osu.ppy.sh/u/1701664) | 225.88 | 1 |
-| 5255 | [Fyre](https://osu.ppy.sh/u/5273488) | 225.76 | 1 |
-| 5256 | [Reey](https://osu.ppy.sh/u/3773119) | 225.76 | 1 |
-| 5257 | [Cloud217](https://osu.ppy.sh/u/1413005) | 225.48 | 1 |
-| 5258 | [Genox](https://osu.ppy.sh/u/4167298) | 225.00 | 1 |
-| 5259 | [elosiktv](https://osu.ppy.sh/u/4742465) | 224.91 | 1 |
-| 5260 | [Darthray](https://osu.ppy.sh/u/4383807) | 224.85 | 1 |
-| 5261 | [awmslayer](https://osu.ppy.sh/u/4133147) | 224.85 | 1 |
-| 5262 | [Evlsan](https://osu.ppy.sh/u/4597269) | 224.84 | 1 |
-| 5263 | [agente x](https://osu.ppy.sh/u/657495) | 224.75 | 1 |
-| 5264 | [TheRandomGuy97](https://osu.ppy.sh/u/5551365) | 224.65 | 1 |
-| 5265 | [[ Shark ]](https://osu.ppy.sh/u/3074610) | 224.54 | 1 |
-| 5266 | [S o L u S](https://osu.ppy.sh/u/2483135) | 224.53 | 1 |
-| 5267 | [Josepher](https://osu.ppy.sh/u/3146113) | 224.30 | 1 |
-| 5268 | [[Snappy]](https://osu.ppy.sh/u/1080957) | 224.23 | 1 |
-| 5269 | [Niel](https://osu.ppy.sh/u/3868804) | 224.18 | 1 |
-| 5270 | [Yorozu Hikaru](https://osu.ppy.sh/u/4384749) | 223.99 | 1 |
-| 5271 | [-Heartless-](https://osu.ppy.sh/u/2717309) | 223.97 | 1 |
-| 5272 | [tutuhara](https://osu.ppy.sh/u/3043544) | 223.71 | 1 |
-| 5273 | [-Spartan](https://osu.ppy.sh/u/5783061) | 223.23 | 1 |
-| 5274 | [ponponboy](https://osu.ppy.sh/u/341650) | 223.21 | 1 |
-| 5275 | [iFakeRz](https://osu.ppy.sh/u/5281485) | 223.16 | 1 |
-| 5276 | [Spadedog](https://osu.ppy.sh/u/4700778) | 223.15 | 1 |
-| 5277 | [Crisanton](https://osu.ppy.sh/u/5239385) | 223.07 | 1 |
-| 5278 | [aegishield3](https://osu.ppy.sh/u/4577373) | 223.07 | 1 |
-| 5279 | [Flyville](https://osu.ppy.sh/u/6124808) | 222.98 | 1 |
-| 5280 | [Small---Fea](https://osu.ppy.sh/u/3998273) | 222.88 | 1 |
-| 5281 | [VekeH](https://osu.ppy.sh/u/6674002) | 222.55 | 1 |
-| 5282 | [KuroNeko1509](https://osu.ppy.sh/u/4650336) | 222.55 | 1 |
-| 5283 | [CrimsonClaw](https://osu.ppy.sh/u/1894546) | 222.32 | 1 |
-| 5284 | [KarenDesu](https://osu.ppy.sh/u/4714093) | 222.21 | 1 |
-| 5285 | [ShallICompareThee](https://osu.ppy.sh/u/936088) | 222.13 | 1 |
-| 5286 | [NiceOxygen](https://osu.ppy.sh/u/6307880) | 222.02 | 1 |
-| 5287 | [Lyesooo](https://osu.ppy.sh/u/4575344) | 222.02 | 1 |
-| 5288 | [p[ LYNCH ]c](https://osu.ppy.sh/u/2946428) | 222.02 | 1 |
-| 5289 | [James17](https://osu.ppy.sh/u/4157830) | 221.90 | 1 |
-| 5290 | [Birn](https://osu.ppy.sh/u/4081643) | 221.72 | 1 |
-| 5291 | [Anhedonia](https://osu.ppy.sh/u/2182848) | 221.59 | 1 |
-| 5292 | [xClusion](https://osu.ppy.sh/u/2263910) | 221.54 | 1 |
-| 5293 | [S-Azazel-P](https://osu.ppy.sh/u/2544790) | 221.36 | 1 |
-| 5294 | [Yahoo](https://osu.ppy.sh/u/5271397) | 221.33 | 1 |
-| 5295 | [HeiwajimaS](https://osu.ppy.sh/u/4396839) | 221.31 | 1 |
-| 5296 | [holygod](https://osu.ppy.sh/u/5145324) | 221.19 | 1 |
-| 5297 | [I Cannot Tablet](https://osu.ppy.sh/u/3900635) | 221.13 | 1 |
-| 5298 | [SmoothMovesBro](https://osu.ppy.sh/u/3620139) | 221.13 | 1 |
-| 5299 | [MoYuO](https://osu.ppy.sh/u/594547) | 220.85 | 1 |
-| 5300 | [nemiroN](https://osu.ppy.sh/u/4809354) | 220.85 | 1 |
-| 5301 | [FinnHallqvist](https://osu.ppy.sh/u/5380748) | 220.83 | 1 |
-| 5302 | [Celentia](https://osu.ppy.sh/u/4756761) | 220.54 | 1 |
-| 5303 | [Nyukey](https://osu.ppy.sh/u/3737437) | 220.29 | 1 |
-| 5304 | [Fouriose](https://osu.ppy.sh/u/5256495) | 220.17 | 1 |
-| 5305 | [Necroluttah](https://osu.ppy.sh/u/2917471) | 220.15 | 1 |
-| 5306 | [Gift](https://osu.ppy.sh/u/5194404) | 219.92 | 1 |
-| 5307 | [Fusatskuu](https://osu.ppy.sh/u/4827907) | 219.85 | 1 |
-| 5308 | [Rygamine](https://osu.ppy.sh/u/5145890) | 219.57 | 1 |
-| 5309 | [Aoci](https://osu.ppy.sh/u/2713168) | 219.56 | 1 |
-| 5310 | [kuur0](https://osu.ppy.sh/u/3544985) | 219.12 | 1 |
-| 5311 | [Girakzei](https://osu.ppy.sh/u/4249040) | 219.07 | 1 |
-| 5312 | [_crumbling](https://osu.ppy.sh/u/895393) | 218.91 | 1 |
-| 5313 | [osu](https://osu.ppy.sh/u/4574161) | 218.86 | 1 |
-| 5314 | [IntranetzFan01](https://osu.ppy.sh/u/4088772) | 218.86 | 1 |
-| 5315 | [Kraminka](https://osu.ppy.sh/u/3385080) | 218.84 | 1 |
-| 5316 | [Nayn So Kawaii](https://osu.ppy.sh/u/4685025) | 218.73 | 1 |
-| 5317 | [Sinku](https://osu.ppy.sh/u/1258181) | 218.66 | 1 |
-| 5318 | [Letrus](https://osu.ppy.sh/u/3939685) | 218.65 | 1 |
-| 5319 | [Kaosu-](https://osu.ppy.sh/u/5177310) | 218.51 | 1 |
-| 5320 | [Nyxas](https://osu.ppy.sh/u/2514744) | 218.48 | 1 |
-| 5321 | [Index](https://osu.ppy.sh/u/3399155) | 218.41 | 1 |
-| 5322 | [SatoriKomeiji](https://osu.ppy.sh/u/5268476) | 218.36 | 1 |
-| 5323 | [N e k o S e](https://osu.ppy.sh/u/1855452) | 218.36 | 1 |
-| 5324 | [Azuki Azusa](https://osu.ppy.sh/u/2595246) | 218.27 | 1 |
-| 5325 | [DroW](https://osu.ppy.sh/u/5190363) | 218.25 | 1 |
-| 5326 | [Krimek](https://osu.ppy.sh/u/2345078) | 218.03 | 1 |
-| 5327 | [S_Zizzle](https://osu.ppy.sh/u/7599813) | 217.96 | 1 |
-| 5328 | [gizmond](https://osu.ppy.sh/u/5333526) | 217.96 | 1 |
-| 5329 | [Klavelon](https://osu.ppy.sh/u/967375) | 217.95 | 1 |
-| 5330 | [Lucrisiah](https://osu.ppy.sh/u/4245167) | 217.89 | 1 |
-| 5331 | [Khron_](https://osu.ppy.sh/u/6303818) | 217.87 | 1 |
-| 5332 | [Iksu](https://osu.ppy.sh/u/3306295) | 217.79 | 1 |
-| 5333 | [AlecJumps](https://osu.ppy.sh/u/4432884) | 217.73 | 1 |
-| 5334 | [HIKARI-Fran](https://osu.ppy.sh/u/5720161) | 217.72 | 1 |
-| 5335 | [Jalkapa](https://osu.ppy.sh/u/3872095) | 217.68 | 1 |
-| 5336 | [lefthand10167](https://osu.ppy.sh/u/3565932) | 217.68 | 1 |
-| 5337 | [[Sayui]](https://osu.ppy.sh/u/2579962) | 217.68 | 1 |
-| 5338 | [putojajexd](https://osu.ppy.sh/u/4312521) | 217.68 | 1 |
-| 5339 | [Chris_haru](https://osu.ppy.sh/u/2769096) | 217.66 | 1 |
-| 5340 | [zhuangsi](https://osu.ppy.sh/u/2401600) | 217.61 | 1 |
-| 5341 | [Indigowizdom](https://osu.ppy.sh/u/2370606) | 217.61 | 1 |
-| 5342 | [Trans_Am](https://osu.ppy.sh/u/149752) | 217.47 | 1 |
-| 5343 | [MippoEr](https://osu.ppy.sh/u/1475111) | 217.35 | 1 |
-| 5344 | [duch007](https://osu.ppy.sh/u/2200094) | 217.28 | 1 |
-| 5345 | [Sonico](https://osu.ppy.sh/u/787368) | 217.27 | 1 |
-| 5346 | [YXT](https://osu.ppy.sh/u/593563) | 217.26 | 1 |
-| 5347 | [[ Valex ]](https://osu.ppy.sh/u/3100669) | 217.26 | 1 |
-| 5348 | [Lemonsnya](https://osu.ppy.sh/u/1750885) | 217.26 | 1 |
-| 5349 | [Infectonator](https://osu.ppy.sh/u/537919) | 217.11 | 1 |
-| 5350 | [mutant1324](https://osu.ppy.sh/u/3836488) | 217.04 | 1 |
-| 5351 | [azer467](https://osu.ppy.sh/u/4775600) | 217.02 | 1 |
-| 5352 | [Kyouma](https://osu.ppy.sh/u/2070247) | 216.75 | 1 |
-| 5353 | [loloa](https://osu.ppy.sh/u/1818717) | 216.73 | 1 |
-| 5354 | [Akashii](https://osu.ppy.sh/u/6909105) | 216.71 | 1 |
-| 5355 | [dydhardy](https://osu.ppy.sh/u/4685133) | 216.71 | 1 |
-| 5356 | [Kellan](https://osu.ppy.sh/u/5002270) | 216.59 | 1 |
-| 5357 | [raser1234](https://osu.ppy.sh/u/2527887) | 216.58 | 1 |
-| 5358 | [SowiesoPro](https://osu.ppy.sh/u/4040716) | 216.51 | 1 |
-| 5359 | [hgezu](https://osu.ppy.sh/u/2760323) | 216.38 | 1 |
-| 5360 | [[ -BELYOND- ]](https://osu.ppy.sh/u/4922260) | 216.38 | 1 |
-| 5361 | [- kakku-](https://osu.ppy.sh/u/4086741) | 216.34 | 1 |
-| 5362 | [DonHD](https://osu.ppy.sh/u/5820233) | 216.31 | 1 |
-| 5363 | [Sefui](https://osu.ppy.sh/u/4678947) | 215.63 | 1 |
-| 5364 | [R3DxFOX](https://osu.ppy.sh/u/3671630) | 215.31 | 1 |
-| 5365 | [enog](https://osu.ppy.sh/u/46649) | 215.29 | 1 |
-| 5366 | [Bugvoun CZ](https://osu.ppy.sh/u/4049348) | 215.18 | 1 |
-| 5367 | [SmartMove3150](https://osu.ppy.sh/u/4780986) | 215.09 | 1 |
-| 5368 | [GPlayGamer](https://osu.ppy.sh/u/2319855) | 215.08 | 1 |
-| 5369 | [Absolutelumi](https://osu.ppy.sh/u/7186367) | 215.01 | 1 |
-| 5370 | [TheOctopusDude](https://osu.ppy.sh/u/4196511) | 215.01 | 1 |
-| 5371 | [AzersWaifu](https://osu.ppy.sh/u/3968495) | 214.94 | 1 |
-| 5372 | [meganema](https://osu.ppy.sh/u/1250656) | 214.80 | 1 |
-| 5373 | [weixiao](https://osu.ppy.sh/u/4205613) | 214.70 | 1 |
-| 5374 | [MasterDaniel](https://osu.ppy.sh/u/5512933) | 214.62 | 1 |
-| 5375 | [Knicklicht-kun](https://osu.ppy.sh/u/5040894) | 214.53 | 1 |
-| 5376 | [blitzcreed](https://osu.ppy.sh/u/4576045) | 214.49 | 1 |
-| 5377 | [red-wine](https://osu.ppy.sh/u/1032470) | 214.47 | 1 |
-| 5378 | [McKay](https://osu.ppy.sh/u/3321909) | 214.33 | 1 |
-| 5379 | [Turneetup](https://osu.ppy.sh/u/2733540) | 214.33 | 1 |
-| 5380 | [Troy](https://osu.ppy.sh/u/2253645) | 214.33 | 1 |
-| 5381 | [FunColeman](https://osu.ppy.sh/u/3711541) | 214.29 | 1 |
-| 5382 | [ikasyo](https://osu.ppy.sh/u/2399865) | 214.22 | 1 |
-| 5383 | [M1stgun](https://osu.ppy.sh/u/4315951) | 214.19 | 1 |
-| 5384 | [FrozenSakuya-](https://osu.ppy.sh/u/3035580) | 214.19 | 1 |
-| 5385 | [Charon](https://osu.ppy.sh/u/2636865) | 214.19 | 1 |
-| 5386 | [Wuab](https://osu.ppy.sh/u/7725544) | 214.18 | 1 |
-| 5387 | [Truth x Dare](https://osu.ppy.sh/u/6329640) | 214.18 | 1 |
-| 5388 | [TrueLucifer](https://osu.ppy.sh/u/6143327) | 214.18 | 1 |
-| 5389 | [Oddcorner](https://osu.ppy.sh/u/5371172) | 214.18 | 1 |
-| 5390 | [Garian](https://osu.ppy.sh/u/4569737) | 214.18 | 1 |
-| 5391 | [VilaZ](https://osu.ppy.sh/u/5155680) | 213.95 | 1 |
-| 5392 | [Blizzard](https://osu.ppy.sh/u/2795826) | 213.84 | 1 |
-| 5393 | [Rayne Sylvania](https://osu.ppy.sh/u/4573205) | 213.72 | 1 |
-| 5394 | [Gilinor](https://osu.ppy.sh/u/3105086) | 213.64 | 1 |
-| 5395 | [Lambroz](https://osu.ppy.sh/u/7223960) | 213.60 | 1 |
-| 5396 | [Emrsss](https://osu.ppy.sh/u/4914681) | 213.56 | 1 |
-| 5397 | [Dank Memes](https://osu.ppy.sh/u/3268705) | 213.56 | 1 |
-| 5398 | [hidingforo](https://osu.ppy.sh/u/3209170) | 213.32 | 1 |
-| 5399 | [XxBlitz_FirexX](https://osu.ppy.sh/u/3540294) | 213.24 | 1 |
-| 5400 | [Venitros](https://osu.ppy.sh/u/4264464) | 213.07 | 1 |
-| 5401 | [iWhorse](https://osu.ppy.sh/u/2199638) | 213.03 | 1 |
-| 5402 | [RC Fox](https://osu.ppy.sh/u/3971190) | 212.99 | 1 |
-| 5403 | [-Genesis](https://osu.ppy.sh/u/2174178) | 212.98 | 1 |
-| 5404 | [Alfonso](https://osu.ppy.sh/u/7522642) | 212.87 | 1 |
-| 5405 | [RedKing](https://osu.ppy.sh/u/2754924) | 212.87 | 1 |
-| 5406 | [ondines](https://osu.ppy.sh/u/3974153) | 212.84 | 1 |
-| 5407 | [TOP KEK MATE](https://osu.ppy.sh/u/3733240) | 212.74 | 1 |
-| 5408 | [skinnyboy3](https://osu.ppy.sh/u/3861892) | 212.71 | 1 |
-| 5409 | [Nacul](https://osu.ppy.sh/u/628063) | 212.62 | 1 |
-| 5410 | [Giang](https://osu.ppy.sh/u/4646784) | 212.62 | 1 |
-| 5411 | [[ Kami ]](https://osu.ppy.sh/u/3168810) | 212.62 | 1 |
-| 5412 | [MarGenDo](https://osu.ppy.sh/u/3340086) | 212.41 | 1 |
-| 5413 | [Rakka](https://osu.ppy.sh/u/7278791) | 212.38 | 1 |
-| 5414 | [geolight](https://osu.ppy.sh/u/939966) | 212.33 | 1 |
-| 5415 | [Alleria](https://osu.ppy.sh/u/2617038) | 212.29 | 1 |
-| 5416 | [Uni-Desu](https://osu.ppy.sh/u/6594866) | 212.27 | 1 |
-| 5417 | [Ted](https://osu.ppy.sh/u/3264777) | 211.99 | 1 |
-| 5418 | [[biri-biri]](https://osu.ppy.sh/u/3656441) | 211.92 | 1 |
-| 5419 | [teemo](https://osu.ppy.sh/u/1506409) | 211.88 | 1 |
-| 5420 | [-Day](https://osu.ppy.sh/u/3050771) | 211.82 | 1 |
-| 5421 | [Aibou](https://osu.ppy.sh/u/5851791) | 211.70 | 1 |
-| 5422 | [rmanz](https://osu.ppy.sh/u/1920194) | 211.65 | 1 |
-| 5423 | [Kreisler](https://osu.ppy.sh/u/5133203) | 211.57 | 1 |
-| 5424 | [chezbananas](https://osu.ppy.sh/u/7941423) | 211.54 | 1 |
-| 5425 | [Alminair-sky](https://osu.ppy.sh/u/3885775) | 211.29 | 1 |
-| 5426 | [Coffin](https://osu.ppy.sh/u/2709316) | 211.08 | 1 |
-| 5427 | [Kevin x_o](https://osu.ppy.sh/u/6376989) | 210.96 | 1 |
-| 5428 | [startspring](https://osu.ppy.sh/u/3384201) | 210.94 | 1 |
-| 5429 | [Thaze](https://osu.ppy.sh/u/722052) | 210.92 | 1 |
-| 5430 | [Cafetelia](https://osu.ppy.sh/u/1176860) | 210.86 | 1 |
-| 5431 | [Himeku](https://osu.ppy.sh/u/4103076) | 210.79 | 1 |
-| 5432 | [[ Riki-dere ]](https://osu.ppy.sh/u/1946213) | 210.72 | 1 |
-| 5433 | [likeapetter](https://osu.ppy.sh/u/3350201) | 210.67 | 1 |
-| 5434 | [Nekares](https://osu.ppy.sh/u/2856265) | 210.65 | 1 |
-| 5435 | [UBERSBIGGESTFAN](https://osu.ppy.sh/u/7354069) | 210.65 | 1 |
-| 5436 | [[Mercuri]](https://osu.ppy.sh/u/5057275) | 210.64 | 1 |
-| 5437 | [Hamiero](https://osu.ppy.sh/u/2832026) | 210.64 | 1 |
-| 5438 | [Goat](https://osu.ppy.sh/u/3436384) | 210.52 | 1 |
-| 5439 | [Dromadan](https://osu.ppy.sh/u/3846414) | 210.50 | 1 |
-| 5440 | [Pahare](https://osu.ppy.sh/u/4129685) | 210.46 | 1 |
-| 5441 | [-Cento](https://osu.ppy.sh/u/2565831) | 210.22 | 1 |
-| 5442 | [-Hwangbo](https://osu.ppy.sh/u/7467183) | 210.19 | 1 |
-| 5443 | [Madokami](https://osu.ppy.sh/u/2929605) | 210.09 | 1 |
-| 5444 | [S a d](https://osu.ppy.sh/u/1443235) | 210.08 | 1 |
-| 5445 | [Jeffrey](https://osu.ppy.sh/u/4777134) | 210.07 | 1 |
-| 5446 | [Kyle73](https://osu.ppy.sh/u/3767927) | 209.89 | 1 |
-| 5447 | [Ellaugh](https://osu.ppy.sh/u/4822840) | 209.71 | 1 |
-| 5448 | [xRow3](https://osu.ppy.sh/u/4139027) | 209.67 | 1 |
-| 5449 | [yukichy](https://osu.ppy.sh/u/355561) | 209.65 | 1 |
-| 5450 | [Aizawa](https://osu.ppy.sh/u/7127695) | 209.56 | 1 |
-| 5451 | [HK_BLAU](https://osu.ppy.sh/u/3073332) | 209.34 | 1 |
-| 5452 | [schicksl](https://osu.ppy.sh/u/2786054) | 209.30 | 1 |
-| 5453 | [columna1](https://osu.ppy.sh/u/2541708) | 209.30 | 1 |
-| 5454 | [Chintam](https://osu.ppy.sh/u/4930837) | 209.29 | 1 |
-| 5455 | [Akihiro Amano](https://osu.ppy.sh/u/4102782) | 209.21 | 1 |
-| 5456 | [Blazy](https://osu.ppy.sh/u/3962086) | 209.21 | 1 |
-| 5457 | [TigerAW](https://osu.ppy.sh/u/3817050) | 209.21 | 1 |
-| 5458 | [[DarkKirito]](https://osu.ppy.sh/u/1191576) | 209.21 | 1 |
-| 5459 | [VSblueiceflame](https://osu.ppy.sh/u/3321166) | 209.18 | 1 |
-| 5460 | [ButteredPotato](https://osu.ppy.sh/u/4442085) | 209.13 | 1 |
-| 5461 | [Davidozzo](https://osu.ppy.sh/u/5981443) | 209.02 | 1 |
-| 5462 | [Skirmish](https://osu.ppy.sh/u/3663833) | 208.99 | 1 |
-| 5463 | [XD45](https://osu.ppy.sh/u/3758358) | 208.95 | 1 |
-| 5464 | [1234](https://osu.ppy.sh/u/2901732) | 208.95 | 1 |
-| 5465 | [SuYeomGae](https://osu.ppy.sh/u/6553673) | 208.87 | 1 |
-| 5466 | [Yatogami](https://osu.ppy.sh/u/5263503) | 208.85 | 1 |
-| 5467 | [Shaburase](https://osu.ppy.sh/u/1150295) | 208.76 | 1 |
-| 5468 | [FroozNe](https://osu.ppy.sh/u/2965740) | 208.72 | 1 |
-| 5469 | [MeckDonalds](https://osu.ppy.sh/u/4696708) | 208.69 | 1 |
-| 5470 | [andchen](https://osu.ppy.sh/u/2453205) | 208.69 | 1 |
-| 5471 | [KolegaKlikacy](https://osu.ppy.sh/u/6628380) | 208.66 | 1 |
-| 5472 | [TheProAlpaca](https://osu.ppy.sh/u/4903827) | 208.56 | 1 |
-| 5473 | [Saut](https://osu.ppy.sh/u/3799202) | 208.51 | 1 |
-| 5474 | [aefrogdog](https://osu.ppy.sh/u/4178672) | 208.35 | 1 |
-| 5475 | [Average](https://osu.ppy.sh/u/4960867) | 208.12 | 1 |
-| 5476 | [Frostings](https://osu.ppy.sh/u/2652543) | 208.12 | 1 |
-| 5477 | [soba](https://osu.ppy.sh/u/549556) | 208.07 | 1 |
-| 5478 | [rus](https://osu.ppy.sh/u/2075376) | 208.07 | 1 |
-| 5479 | [Felixphaeton](https://osu.ppy.sh/u/2503785) | 208.05 | 1 |
-| 5480 | [xTroMenia](https://osu.ppy.sh/u/6314391) | 207.96 | 1 |
-| 5481 | [Wilku](https://osu.ppy.sh/u/4001329) | 207.91 | 1 |
-| 5482 | [727](https://osu.ppy.sh/u/2364610) | 207.88 | 1 |
-| 5483 | [Asagi](https://osu.ppy.sh/u/2439246) | 207.80 | 1 |
-| 5484 | [petrchom](https://osu.ppy.sh/u/3936606) | 207.71 | 1 |
-| 5485 | [Xentarlion](https://osu.ppy.sh/u/2713906) | 207.57 | 1 |
-| 5486 | [kingosker](https://osu.ppy.sh/u/4483660) | 207.38 | 1 |
-| 5487 | [Elektros_](https://osu.ppy.sh/u/4300192) | 207.34 | 1 |
-| 5488 | [Redemption](https://osu.ppy.sh/u/3832702) | 207.34 | 1 |
-| 5489 | [leezchild](https://osu.ppy.sh/u/4563231) | 206.84 | 1 |
-| 5490 | [czhang](https://osu.ppy.sh/u/3082506) | 206.74 | 1 |
-| 5491 | [Fatal015](https://osu.ppy.sh/u/4350394) | 206.69 | 1 |
-| 5492 | [Saavas-](https://osu.ppy.sh/u/3400263) | 206.66 | 1 |
-| 5493 | [NBS](https://osu.ppy.sh/u/5844725) | 206.55 | 1 |
-| 5494 | [Flauschig](https://osu.ppy.sh/u/6126146) | 206.55 | 1 |
-| 5495 | [WoozieMoo](https://osu.ppy.sh/u/4401111) | 206.49 | 1 |
-| 5496 | [cZ_](https://osu.ppy.sh/u/4260127) | 206.45 | 1 |
-| 5497 | [[ R O S E ]](https://osu.ppy.sh/u/6903784) | 206.38 | 1 |
-| 5498 | [TKyoko](https://osu.ppy.sh/u/5511491) | 206.38 | 1 |
-| 5499 | [-A l e x m a L-](https://osu.ppy.sh/u/5443582) | 206.37 | 1 |
-| 5500 | [Micca](https://osu.ppy.sh/u/8179335) | 206.37 | 1 |
-| 5501 | [KupcaH](https://osu.ppy.sh/u/7844575) | 206.35 | 1 |
-| 5502 | [HelloBlack](https://osu.ppy.sh/u/4844743) | 206.30 | 1 |
-| 5503 | [[-mii-chan-]](https://osu.ppy.sh/u/1469122) | 206.29 | 1 |
-| 5504 | [hagoromo26](https://osu.ppy.sh/u/1128989) | 206.28 | 1 |
-| 5505 | [Scarlet Sisters](https://osu.ppy.sh/u/409142) | 206.10 | 1 |
-| 5506 | [Naoko](https://osu.ppy.sh/u/5458073) | 206.05 | 1 |
-| 5507 | [xenon233](https://osu.ppy.sh/u/1747532) | 205.93 | 1 |
-| 5508 | [Ezipie](https://osu.ppy.sh/u/5978907) | 205.82 | 1 |
-| 5509 | [Backlash](https://osu.ppy.sh/u/2799894) | 205.82 | 1 |
-| 5510 | [Scimister](https://osu.ppy.sh/u/2441195) | 205.82 | 1 |
-| 5511 | [Shaiden34](https://osu.ppy.sh/u/4913598) | 205.55 | 1 |
-| 5512 | [marlowe](https://osu.ppy.sh/u/3815387) | 205.25 | 1 |
-| 5513 | [nekitkas](https://osu.ppy.sh/u/897333) | 205.22 | 1 |
-| 5514 | [Alpinum](https://osu.ppy.sh/u/1263171) | 205.14 | 1 |
-| 5515 | [- Kyle -](https://osu.ppy.sh/u/2109265) | 205.04 | 1 |
-| 5516 | [Slendey](https://osu.ppy.sh/u/4461525) | 205.02 | 1 |
-| 5517 | [Ohzero](https://osu.ppy.sh/u/646264) | 204.88 | 1 |
-| 5518 | [heART-](https://osu.ppy.sh/u/6118565) | 204.81 | 1 |
-| 5519 | [Katsuyuki](https://osu.ppy.sh/u/3917325) | 204.71 | 1 |
-| 5520 | [pabuyan](https://osu.ppy.sh/u/416728) | 204.41 | 1 |
-| 5521 | [I still believe](https://osu.ppy.sh/u/1667906) | 204.40 | 1 |
-| 5522 | [Kannagi](https://osu.ppy.sh/u/2608083) | 204.32 | 1 |
-| 5523 | [frs](https://osu.ppy.sh/u/5376829) | 204.26 | 1 |
-| 5524 | [Pellexplutt](https://osu.ppy.sh/u/1411153) | 204.26 | 1 |
-| 5525 | [dzh4bftks](https://osu.ppy.sh/u/445299) | 204.25 | 1 |
-| 5526 | [Flutteh](https://osu.ppy.sh/u/5042507) | 204.20 | 1 |
-| 5527 | [Knight](https://osu.ppy.sh/u/680613) | 204.13 | 1 |
-| 5528 | [Nakaa](https://osu.ppy.sh/u/6260806) | 204.11 | 1 |
-| 5529 | [KoMo](https://osu.ppy.sh/u/1033427) | 204.08 | 1 |
-| 5530 | [kirk3207](https://osu.ppy.sh/u/1660970) | 204.00 | 1 |
-| 5531 | [[Zenith]](https://osu.ppy.sh/u/6400718) | 203.92 | 1 |
-| 5532 | [Cepheus](https://osu.ppy.sh/u/2639147) | 203.84 | 1 |
-| 5533 | [Boku Girl](https://osu.ppy.sh/u/3291716) | 203.78 | 1 |
-| 5534 | [TimelordWalrus](https://osu.ppy.sh/u/4957490) | 203.76 | 1 |
-| 5535 | [Nexic-](https://osu.ppy.sh/u/4293965) | 203.69 | 1 |
-| 5536 | [AngeL225](https://osu.ppy.sh/u/6239874) | 203.47 | 1 |
-| 5537 | [_[SkyHigh]_](https://osu.ppy.sh/u/5468573) | 203.47 | 1 |
-| 5538 | [Harley Rizumu](https://osu.ppy.sh/u/5159855) | 203.44 | 1 |
-| 5539 | [sasmax](https://osu.ppy.sh/u/623105) | 203.42 | 1 |
-| 5540 | [vidya](https://osu.ppy.sh/u/413305) | 203.19 | 1 |
-| 5541 | [Miyoshi](https://osu.ppy.sh/u/3339648) | 203.19 | 1 |
-| 5542 | [TheDarkPure](https://osu.ppy.sh/u/1729766) | 203.19 | 1 |
-| 5543 | [-Delight-](https://osu.ppy.sh/u/660328) | 203.18 | 1 |
-| 5544 | [HDNC](https://osu.ppy.sh/u/4338018) | 203.06 | 1 |
-| 5545 | [Wuazooon](https://osu.ppy.sh/u/5214842) | 202.79 | 1 |
-| 5546 | [caren_sk](https://osu.ppy.sh/u/542498) | 202.72 | 1 |
-| 5547 | [Cirno is love](https://osu.ppy.sh/u/4902995) | 202.69 | 1 |
-| 5548 | [SacRedSaGe](https://osu.ppy.sh/u/3168544) | 202.69 | 1 |
-| 5549 | [Kajcio](https://osu.ppy.sh/u/4578726) | 202.67 | 1 |
-| 5550 | [E m p t y](https://osu.ppy.sh/u/800034) | 202.60 | 1 |
-| 5551 | [bananannian](https://osu.ppy.sh/u/4497137) | 202.56 | 1 |
-| 5552 | [Ghewon](https://osu.ppy.sh/u/3130466) | 202.51 | 1 |
-| 5553 | [- Konpaku -](https://osu.ppy.sh/u/6440611) | 202.51 | 1 |
-| 5554 | [Ohana](https://osu.ppy.sh/u/1722142) | 202.49 | 1 |
-| 5555 | [Insane-Senpai](https://osu.ppy.sh/u/5114537) | 202.49 | 1 |
-| 5556 | [NvX](https://osu.ppy.sh/u/2045671) | 201.74 | 1 |
-| 5557 | [Ulygold](https://osu.ppy.sh/u/3706039) | 201.74 | 1 |
-| 5558 | [Nilesly](https://osu.ppy.sh/u/3568662) | 201.54 | 1 |
-| 5559 | [Yay](https://osu.ppy.sh/u/4006390) | 201.52 | 1 |
-| 5560 | [waltz](https://osu.ppy.sh/u/3499910) | 201.49 | 1 |
-| 5561 | [SoundsOfDeath](https://osu.ppy.sh/u/4234451) | 201.47 | 1 |
-| 5562 | [Rych-I](https://osu.ppy.sh/u/1210328) | 201.37 | 1 |
-| 5563 | [Ameangari](https://osu.ppy.sh/u/4413985) | 201.07 | 1 |
-| 5564 | [Flamie Spidlow](https://osu.ppy.sh/u/6029250) | 200.91 | 1 |
-| 5565 | [crippletoytl](https://osu.ppy.sh/u/3256645) | 200.85 | 1 |
-| 5566 | [Demo-senpai](https://osu.ppy.sh/u/6874087) | 200.71 | 1 |
-| 5567 | [zonelouise](https://osu.ppy.sh/u/1492995) | 200.68 | 1 |
-| 5568 | [[ AisakaTaiga ]](https://osu.ppy.sh/u/5049354) | 200.62 | 1 |
-| 5569 | [cKat](https://osu.ppy.sh/u/4606826) | 200.62 | 1 |
-| 5570 | [Alcy-Chan](https://osu.ppy.sh/u/4201633) | 200.62 | 1 |
-| 5571 | [DahplA](https://osu.ppy.sh/u/4162273) | 200.62 | 1 |
-| 5572 | [Jaquah](https://osu.ppy.sh/u/4035325) | 200.62 | 1 |
-| 5573 | [Akatsukie](https://osu.ppy.sh/u/3827909) | 200.62 | 1 |
-| 5574 | [Exo](https://osu.ppy.sh/u/3711889) | 200.62 | 1 |
-| 5575 | [Shunix](https://osu.ppy.sh/u/3312252) | 200.62 | 1 |
-| 5576 | [Fendon](https://osu.ppy.sh/u/3168875) | 200.62 | 1 |
-| 5577 | [Fuggetz](https://osu.ppy.sh/u/2902655) | 200.62 | 1 |
-| 5578 | [zool](https://osu.ppy.sh/u/2840923) | 200.62 | 1 |
-| 5579 | [Zanza](https://osu.ppy.sh/u/2306307) | 200.62 | 1 |
-| 5580 | [puffiruru](https://osu.ppy.sh/u/2273306) | 200.62 | 1 |
-| 5581 | [Hydraty](https://osu.ppy.sh/u/2165706) | 200.62 | 1 |
-| 5582 | [Shuku](https://osu.ppy.sh/u/1790821) | 200.62 | 1 |
-| 5583 | [Tolein](https://osu.ppy.sh/u/440161) | 200.45 | 1 |
-| 5584 | [CandEman](https://osu.ppy.sh/u/5853595) | 200.39 | 1 |
-| 5585 | [Edna](https://osu.ppy.sh/u/5026068) | 200.36 | 1 |
-| 5586 | [Lecoren](https://osu.ppy.sh/u/8404563) | 200.34 | 1 |
-| 5587 | [Etyio](https://osu.ppy.sh/u/1338235) | 200.26 | 1 |
-| 5588 | [Tyler_Chan](https://osu.ppy.sh/u/4636461) | 199.90 | 1 |
-| 5589 | [Mamages](https://osu.ppy.sh/u/4107330) | 199.86 | 1 |
-| 5590 | [MegaGamerGames](https://osu.ppy.sh/u/5506219) | 199.86 | 1 |
-| 5591 | [KirisakiChitoge](https://osu.ppy.sh/u/7426706) | 199.65 | 1 |
-| 5592 | [chrisstar123](https://osu.ppy.sh/u/3582927) | 199.65 | 1 |
-| 5593 | [ClickNoise](https://osu.ppy.sh/u/3418166) | 199.65 | 1 |
-| 5594 | [ririkun](https://osu.ppy.sh/u/318357) | 199.40 | 1 |
-| 5595 | [Frghal Faker](https://osu.ppy.sh/u/3497562) | 199.31 | 1 |
-| 5596 | [Mikru](https://osu.ppy.sh/u/3423494) | 199.31 | 1 |
-| 5597 | [Aaerok](https://osu.ppy.sh/u/3067039) | 199.24 | 1 |
-| 5598 | [Chrubble](https://osu.ppy.sh/u/2594280) | 199.22 | 1 |
-| 5599 | [No A Rank](https://osu.ppy.sh/u/1467502) | 199.21 | 1 |
-| 5600 | [- Kaze -](https://osu.ppy.sh/u/2520756) | 199.21 | 1 |
-| 5601 | [El Stormyy](https://osu.ppy.sh/u/6221172) | 199.17 | 1 |
-| 5602 | [-Tinosuke-](https://osu.ppy.sh/u/8491379) | 199.13 | 1 |
-| 5603 | [Fujys](https://osu.ppy.sh/u/1405768) | 199.00 | 1 |
-| 5604 | [Polygon](https://osu.ppy.sh/u/5340200) | 198.98 | 1 |
-| 5605 | [Netherz](https://osu.ppy.sh/u/6290982) | 198.93 | 1 |
-| 5606 | [- Rukezi-](https://osu.ppy.sh/u/3696020) | 198.82 | 1 |
-| 5607 | [M - Jay](https://osu.ppy.sh/u/4480296) | 198.70 | 1 |
-| 5608 | [Future](https://osu.ppy.sh/u/2675643) | 198.70 | 1 |
-| 5609 | [Termitis](https://osu.ppy.sh/u/4056411) | 198.62 | 1 |
-| 5610 | [siki](https://osu.ppy.sh/u/485926) | 198.57 | 1 |
-| 5611 | [kozuka](https://osu.ppy.sh/u/2733537) | 198.57 | 1 |
-| 5612 | [-Kon-](https://osu.ppy.sh/u/3907000) | 198.48 | 1 |
-| 5613 | [_Tiger](https://osu.ppy.sh/u/2872163) | 198.46 | 1 |
-| 5614 | [smkYY_QT](https://osu.ppy.sh/u/1387606) | 198.35 | 1 |
-| 5615 | [Voice](https://osu.ppy.sh/u/3969675) | 198.31 | 1 |
-| 5616 | [-Tsukiko](https://osu.ppy.sh/u/517053) | 198.11 | 1 |
-| 5617 | [Chuckiezi](https://osu.ppy.sh/u/5105258) | 198.00 | 1 |
-| 5618 | [B4dewann3](https://osu.ppy.sh/u/2211396) | 197.89 | 1 |
-| 5619 | [Raynel](https://osu.ppy.sh/u/6318119) | 197.88 | 1 |
-| 5620 | [[ Sakura_Ame ]](https://osu.ppy.sh/u/6577176) | 197.78 | 1 |
-| 5621 | [Ruda](https://osu.ppy.sh/u/589082) | 197.71 | 1 |
-| 5622 | [High_on_Milk](https://osu.ppy.sh/u/3910108) | 197.51 | 1 |
-| 5623 | [Gorgrax](https://osu.ppy.sh/u/2823276) | 197.49 | 1 |
-| 5624 | [Synpoo](https://osu.ppy.sh/u/3059364) | 197.48 | 1 |
-| 5625 | [-Paimon-](https://osu.ppy.sh/u/5192924) | 197.39 | 1 |
-| 5626 | [Firee_e](https://osu.ppy.sh/u/4862938) | 197.39 | 1 |
-| 5627 | [Brummi_90](https://osu.ppy.sh/u/3865248) | 197.39 | 1 |
-| 5628 | [Lewis](https://osu.ppy.sh/u/3119578) | 197.39 | 1 |
-| 5629 | [Music Lord](https://osu.ppy.sh/u/2808144) | 197.39 | 1 |
-| 5630 | [Philosophyz](https://osu.ppy.sh/u/213518) | 197.32 | 1 |
-| 5631 | [WeirdAlYankovic](https://osu.ppy.sh/u/7389876) | 197.28 | 1 |
-| 5632 | [Supev](https://osu.ppy.sh/u/7383111) | 197.28 | 1 |
-| 5633 | [_Kazumi_](https://osu.ppy.sh/u/6592983) | 197.12 | 1 |
-| 5634 | [1miss](https://osu.ppy.sh/u/2228995) | 197.12 | 1 |
-| 5635 | [planyy](https://osu.ppy.sh/u/98212) | 197.05 | 1 |
-| 5636 | [NoF41l](https://osu.ppy.sh/u/4973669) | 196.87 | 1 |
-| 5637 | [NROB](https://osu.ppy.sh/u/3965277) | 196.75 | 1 |
-| 5638 | [Roxy Lalonde](https://osu.ppy.sh/u/4492097) | 196.74 | 1 |
-| 5639 | [0melee](https://osu.ppy.sh/u/2677431) | 196.66 | 1 |
-| 5640 | [Diamonii](https://osu.ppy.sh/u/4622748) | 196.64 | 1 |
-| 5641 | [millfy](https://osu.ppy.sh/u/1151193) | 196.54 | 1 |
-| 5642 | [Celleste](https://osu.ppy.sh/u/1091398) | 196.48 | 1 |
-| 5643 | [pAriEs](https://osu.ppy.sh/u/579987) | 196.40 | 1 |
-| 5644 | [SneakyNinja64](https://osu.ppy.sh/u/3878133) | 196.38 | 1 |
-| 5645 | [himono_01](https://osu.ppy.sh/u/1906120) | 196.34 | 1 |
-| 5646 | [Secret-Kun](https://osu.ppy.sh/u/4615182) | 196.19 | 1 |
-| 5647 | [ThVocaloid21](https://osu.ppy.sh/u/2437468) | 196.18 | 1 |
-| 5648 | [PlatinumAki](https://osu.ppy.sh/u/5012729) | 196.12 | 1 |
-| 5649 | [[- Karen -]](https://osu.ppy.sh/u/6652874) | 196.10 | 1 |
-| 5650 | [Relma](https://osu.ppy.sh/u/4023522) | 196.10 | 1 |
-| 5651 | [Sion](https://osu.ppy.sh/u/723351) | 196.09 | 1 |
-| 5652 | [Eaave](https://osu.ppy.sh/u/6133328) | 196.08 | 1 |
-| 5653 | [Streamlift](https://osu.ppy.sh/u/3377703) | 195.98 | 1 |
-| 5654 | [kitsat](https://osu.ppy.sh/u/2180779) | 195.98 | 1 |
-| 5655 | [Myylk](https://osu.ppy.sh/u/2145505) | 195.98 | 1 |
-| 5656 | [Nuiko](https://osu.ppy.sh/u/1740207) | 195.81 | 1 |
-| 5657 | [repej](https://osu.ppy.sh/u/6681043) | 195.80 | 1 |
-| 5658 | [Dwarfda](https://osu.ppy.sh/u/2313409) | 195.56 | 1 |
-| 5659 | [Nathaniel](https://osu.ppy.sh/u/6534748) | 195.45 | 1 |
-| 5660 | [Break The Limit](https://osu.ppy.sh/u/4481090) | 195.33 | 1 |
-| 5661 | [[1Min_1Sec]](https://osu.ppy.sh/u/5297759) | 195.26 | 1 |
-| 5662 | [SkatePvP](https://osu.ppy.sh/u/2398490) | 195.14 | 1 |
-| 5663 | [egemenbsrms](https://osu.ppy.sh/u/4520477) | 195.09 | 1 |
-| 5664 | [BulBE](https://osu.ppy.sh/u/1727917) | 195.06 | 1 |
-| 5665 | [Evil_HoNoKa](https://osu.ppy.sh/u/3807682) | 194.87 | 1 |
-| 5666 | [Corey-Kun](https://osu.ppy.sh/u/3144932) | 194.87 | 1 |
-| 5667 | [Asphyxia](https://osu.ppy.sh/u/1715720) | 194.85 | 1 |
-| 5668 | [nauris49](https://osu.ppy.sh/u/5000037) | 194.65 | 1 |
-| 5669 | [Tiny Hippo](https://osu.ppy.sh/u/5233686) | 194.52 | 1 |
-| 5670 | [A uMi A](https://osu.ppy.sh/u/4424541) | 194.46 | 1 |
-| 5671 | [-Oak-](https://osu.ppy.sh/u/4315099) | 194.37 | 1 |
-| 5672 | [Sneaky](https://osu.ppy.sh/u/2680097) | 194.29 | 1 |
-| 5673 | [zAAm](https://osu.ppy.sh/u/1001180) | 194.24 | 1 |
-| 5674 | [Rytek](https://osu.ppy.sh/u/4175652) | 194.21 | 1 |
-| 5675 | [Kalies](https://osu.ppy.sh/u/2269739) | 194.19 | 1 |
-| 5676 | [Snpae](https://osu.ppy.sh/u/7303389) | 194.15 | 1 |
-| 5677 | [MBmasher](https://osu.ppy.sh/u/4498616) | 194.02 | 1 |
-| 5678 | [Zakuro](https://osu.ppy.sh/u/2080544) | 193.96 | 1 |
-| 5679 | [-Rain and Snow-](https://osu.ppy.sh/u/5000550) | 193.85 | 1 |
-| 5680 | [OmgCamper](https://osu.ppy.sh/u/3650319) | 193.85 | 1 |
-| 5681 | [Romantic](https://osu.ppy.sh/u/1592894) | 193.77 | 1 |
-| 5682 | [Prometheus](https://osu.ppy.sh/u/2249929) | 193.76 | 1 |
-| 5683 | [Deatnu](https://osu.ppy.sh/u/2825194) | 193.73 | 1 |
-| 5684 | [Kris4Wilscott](https://osu.ppy.sh/u/4385728) | 193.69 | 1 |
-| 5685 | [kiriha-](https://osu.ppy.sh/u/2472406) | 193.41 | 1 |
-| 5686 | [Varsagus](https://osu.ppy.sh/u/3885723) | 193.16 | 1 |
-| 5687 | [blank space](https://osu.ppy.sh/u/1738181) | 193.15 | 1 |
-| 5688 | [Shsuriz-](https://osu.ppy.sh/u/2963938) | 193.13 | 1 |
-| 5689 | [Kawatta](https://osu.ppy.sh/u/3731880) | 193.11 | 1 |
-| 5690 | [OPzzzz](https://osu.ppy.sh/u/6221581) | 193.10 | 1 |
-| 5691 | [kometsubu](https://osu.ppy.sh/u/1330663) | 193.04 | 1 |
-| 5692 | [skyewynter](https://osu.ppy.sh/u/4217263) | 193.04 | 1 |
-| 5693 | [Akali](https://osu.ppy.sh/u/2127359) | 192.98 | 1 |
-| 5694 | [AwkwardBeats](https://osu.ppy.sh/u/4976586) | 192.95 | 1 |
-| 5695 | [laurabot](https://osu.ppy.sh/u/3851520) | 192.91 | 1 |
-| 5696 | [amaty777](https://osu.ppy.sh/u/5291370) | 192.63 | 1 |
-| 5697 | [Neato Torpedo](https://osu.ppy.sh/u/391877) | 192.60 | 1 |
-| 5698 | [- Voice -](https://osu.ppy.sh/u/7341129) | 192.59 | 1 |
-| 5699 | [kasskristo](https://osu.ppy.sh/u/2059508) | 192.58 | 1 |
-| 5700 | [Mathsma](https://osu.ppy.sh/u/2427727) | 192.56 | 1 |
-| 5701 | [Intercambing](https://osu.ppy.sh/u/2546001) | 192.52 | 1 |
-| 5702 | [Hold](https://osu.ppy.sh/u/2400293) | 192.32 | 1 |
-| 5703 | [erich](https://osu.ppy.sh/u/2647636) | 192.29 | 1 |
-| 5704 | [-Dippy](https://osu.ppy.sh/u/3856213) | 192.26 | 1 |
-| 5705 | [erdeka](https://osu.ppy.sh/u/2729653) | 192.26 | 1 |
-| 5706 | [zick](https://osu.ppy.sh/u/3947450) | 192.20 | 1 |
-| 5707 | [Dekadent](https://osu.ppy.sh/u/3148773) | 192.12 | 1 |
-| 5708 | [Goosie](https://osu.ppy.sh/u/6244032) | 192.12 | 1 |
-| 5709 | [Debirufisshu](https://osu.ppy.sh/u/3302479) | 192.12 | 1 |
-| 5710 | [Rain_sakuya_S](https://osu.ppy.sh/u/1580249) | 191.92 | 1 |
-| 5711 | [Raysian](https://osu.ppy.sh/u/4886803) | 191.90 | 1 |
-| 5712 | [Rxz](https://osu.ppy.sh/u/2273036) | 191.88 | 1 |
-| 5713 | [Stanlet](https://osu.ppy.sh/u/1283279) | 191.79 | 1 |
-| 5714 | [xGerYy](https://osu.ppy.sh/u/5518369) | 191.73 | 1 |
-| 5715 | [Akkelobster](https://osu.ppy.sh/u/5100064) | 191.67 | 1 |
-| 5716 | [-SonGoku-](https://osu.ppy.sh/u/4604877) | 191.67 | 1 |
-| 5717 | [LorDima](https://osu.ppy.sh/u/2461253) | 191.61 | 1 |
-| 5718 | [RebelsAngel](https://osu.ppy.sh/u/6814305) | 191.57 | 1 |
-| 5719 | [-Toshi-](https://osu.ppy.sh/u/4237503) | 191.57 | 1 |
-| 5720 | [- SmallShiro -](https://osu.ppy.sh/u/1743877) | 191.57 | 1 |
-| 5721 | [extase](https://osu.ppy.sh/u/3268096) | 191.35 | 1 |
-| 5722 | [Eriko](https://osu.ppy.sh/u/1363324) | 191.32 | 1 |
-| 5723 | [Stazik](https://osu.ppy.sh/u/5196679) | 191.15 | 1 |
-| 5724 | [nyoronn](https://osu.ppy.sh/u/1118688) | 191.13 | 1 |
-| 5725 | [niconico1](https://osu.ppy.sh/u/4947919) | 190.78 | 1 |
-| 5726 | [andreseins](https://osu.ppy.sh/u/2336222) | 190.78 | 1 |
-| 5727 | [Takimoto Hifumi](https://osu.ppy.sh/u/5566875) | 190.70 | 1 |
-| 5728 | [arronchu1207](https://osu.ppy.sh/u/2226083) | 190.69 | 1 |
-| 5729 | [TotalTotalis](https://osu.ppy.sh/u/6425797) | 190.61 | 1 |
-| 5730 | [-Itto Shura-](https://osu.ppy.sh/u/6907344) | 190.51 | 1 |
-| 5731 | [Hulmy](https://osu.ppy.sh/u/2511954) | 190.46 | 1 |
-| 5732 | [bobba5](https://osu.ppy.sh/u/2221929) | 190.39 | 1 |
-| 5733 | [paruuu](https://osu.ppy.sh/u/367334) | 190.34 | 1 |
-| 5734 | [Fen](https://osu.ppy.sh/u/1739878) | 190.34 | 1 |
-| 5735 | [Smokker](https://osu.ppy.sh/u/3085211) | 190.30 | 1 |
-| 5736 | [Lolis4Lyfe](https://osu.ppy.sh/u/7252425) | 189.90 | 1 |
-| 5737 | [Poi Panda](https://osu.ppy.sh/u/4693956) | 189.75 | 1 |
-| 5738 | [Marcel_10](https://osu.ppy.sh/u/4728528) | 189.49 | 1 |
-| 5739 | [boi](https://osu.ppy.sh/u/7035634) | 189.16 | 1 |
-| 5740 | [XIV](https://osu.ppy.sh/u/2837525) | 189.15 | 1 |
-| 5741 | [SoNeim](https://osu.ppy.sh/u/1653727) | 189.03 | 1 |
-| 5742 | [ruriha](https://osu.ppy.sh/u/1936533) | 189.00 | 1 |
-| 5743 | [-Omalangbein](https://osu.ppy.sh/u/4914864) | 188.94 | 1 |
-| 5744 | [Stokee](https://osu.ppy.sh/u/2286497) | 188.93 | 1 |
-| 5745 | [Seikatu](https://osu.ppy.sh/u/654516) | 188.83 | 1 |
-| 5746 | [Mash](https://osu.ppy.sh/u/2413328) | 188.77 | 1 |
-| 5747 | [Jocklel](https://osu.ppy.sh/u/4631235) | 188.77 | 1 |
-| 5748 | [Zchted](https://osu.ppy.sh/u/4242681) | 188.77 | 1 |
-| 5749 | [Rawrcrash](https://osu.ppy.sh/u/4123529) | 188.77 | 1 |
-| 5750 | [-Marble Soda-](https://osu.ppy.sh/u/3873125) | 188.77 | 1 |
-| 5751 | [Mattof](https://osu.ppy.sh/u/3573174) | 188.77 | 1 |
-| 5752 | [Delumo](https://osu.ppy.sh/u/2957100) | 188.77 | 1 |
-| 5753 | [paqw](https://osu.ppy.sh/u/2668904) | 188.77 | 1 |
-| 5754 | [Koiukizi](https://osu.ppy.sh/u/2358132) | 188.77 | 1 |
-| 5755 | [Volvox](https://osu.ppy.sh/u/4483049) | 188.52 | 1 |
-| 5756 | [Snaqz](https://osu.ppy.sh/u/5875129) | 188.43 | 1 |
-| 5757 | [[-Agony-]](https://osu.ppy.sh/u/2534639) | 188.34 | 1 |
-| 5758 | [n1maa](https://osu.ppy.sh/u/4701545) | 188.25 | 1 |
-| 5759 | [Project](https://osu.ppy.sh/u/6349103) | 188.24 | 1 |
-| 5760 | [_TheSniper17_](https://osu.ppy.sh/u/4393376) | 188.04 | 1 |
-| 5761 | [Hanik](https://osu.ppy.sh/u/4533507) | 188.02 | 1 |
-| 5762 | [Pase09](https://osu.ppy.sh/u/3609229) | 188.02 | 1 |
-| 5763 | [Shappy](https://osu.ppy.sh/u/5450971) | 187.98 | 1 |
-| 5764 | [YuukaRosenzweig](https://osu.ppy.sh/u/6199479) | 187.93 | 1 |
-| 5765 | [z1085684963](https://osu.ppy.sh/u/1816779) | 187.74 | 1 |
-| 5766 | [SuperTesto](https://osu.ppy.sh/u/6782243) | 187.73 | 1 |
-| 5767 | [MokryPL](https://osu.ppy.sh/u/2231086) | 187.73 | 1 |
-| 5768 | [Ren](https://osu.ppy.sh/u/1524218) | 187.73 | 1 |
-| 5769 | [Everror](https://osu.ppy.sh/u/2719372) | 187.41 | 1 |
-| 5770 | [derpaherp](https://osu.ppy.sh/u/3074897) | 187.32 | 1 |
-| 5771 | [Xshadow714](https://osu.ppy.sh/u/966251) | 187.30 | 1 |
-| 5772 | [Thunderfire](https://osu.ppy.sh/u/4141918) | 187.27 | 1 |
-| 5773 | [Snow Hibiki](https://osu.ppy.sh/u/4204070) | 187.26 | 1 |
-| 5774 | [K3kZ](https://osu.ppy.sh/u/3203947) | 187.17 | 1 |
-| 5775 | [MrNiceness](https://osu.ppy.sh/u/4644917) | 187.03 | 1 |
-| 5776 | [Disappear](https://osu.ppy.sh/u/5981363) | 186.99 | 1 |
-| 5777 | [Spide-](https://osu.ppy.sh/u/6142472) | 186.94 | 1 |
-| 5778 | [Serious](https://osu.ppy.sh/u/3442812) | 186.75 | 1 |
-| 5779 | [NightNine](https://osu.ppy.sh/u/1633814) | 186.72 | 1 |
-| 5780 | [doggu](https://osu.ppy.sh/u/5961601) | 186.62 | 1 |
-| 5781 | [n1co](https://osu.ppy.sh/u/3561695) | 186.48 | 1 |
-| 5782 | [gco](https://osu.ppy.sh/u/5215955) | 186.38 | 1 |
-| 5783 | [iMega](https://osu.ppy.sh/u/2636475) | 186.14 | 1 |
-| 5784 | [Gangsterkill](https://osu.ppy.sh/u/2631504) | 186.14 | 1 |
-| 5785 | [Christiane](https://osu.ppy.sh/u/3666816) | 186.06 | 1 |
-| 5786 | [thebeastbloc](https://osu.ppy.sh/u/5976413) | 186.02 | 1 |
-| 5787 | [Komeiji Koishi](https://osu.ppy.sh/u/2759457) | 186.02 | 1 |
-| 5788 | [KilianPvP](https://osu.ppy.sh/u/3812344) | 185.95 | 1 |
-| 5789 | [willy8032729](https://osu.ppy.sh/u/2633473) | 185.95 | 1 |
-| 5790 | [blushy](https://osu.ppy.sh/u/3692940) | 185.93 | 1 |
-| 5791 | [Galmang](https://osu.ppy.sh/u/439392) | 185.88 | 1 |
-| 5792 | [skalman1231](https://osu.ppy.sh/u/7372879) | 185.78 | 1 |
-| 5793 | [_Everlasting](https://osu.ppy.sh/u/5098468) | 185.71 | 1 |
-| 5794 | [mikorin](https://osu.ppy.sh/u/2957584) | 185.62 | 1 |
-| 5795 | [Kykypy3ka](https://osu.ppy.sh/u/3654950) | 185.53 | 1 |
-| 5796 | [k1oku](https://osu.ppy.sh/u/3971794) | 185.49 | 1 |
-| 5797 | [master52](https://osu.ppy.sh/u/2377624) | 185.37 | 1 |
-| 5798 | [Pati](https://osu.ppy.sh/u/2846949) | 184.78 | 1 |
-| 5799 | [7205488](https://osu.ppy.sh/u/2400953) | 184.76 | 1 |
-| 5800 | [[ Glitch ]](https://osu.ppy.sh/u/3781400) | 184.76 | 1 |
-| 5801 | [Chaos](https://osu.ppy.sh/u/2628870) | 184.75 | 1 |
-| 5802 | [Apis](https://osu.ppy.sh/u/7810058) | 184.66 | 1 |
-| 5803 | [Nitsches](https://osu.ppy.sh/u/5422003) | 184.57 | 1 |
-| 5804 | [GeniusPanda](https://osu.ppy.sh/u/2471107) | 184.52 | 1 |
-| 5805 | [FatAmerican](https://osu.ppy.sh/u/4058971) | 184.50 | 1 |
-| 5806 | [000rang](https://osu.ppy.sh/u/3024983) | 184.27 | 1 |
-| 5807 | [Roxas1208](https://osu.ppy.sh/u/5253657) | 184.19 | 1 |
-| 5808 | [Okaeri](https://osu.ppy.sh/u/3508876) | 184.04 | 1 |
-| 5809 | [Kanzaki Sayaka](https://osu.ppy.sh/u/1571067) | 183.89 | 1 |
-| 5810 | [Rarth](https://osu.ppy.sh/u/5018017) | 183.81 | 1 |
-| 5811 | [j0keri](https://osu.ppy.sh/u/6607033) | 183.58 | 1 |
-| 5812 | [keshyyyyy](https://osu.ppy.sh/u/3800925) | 183.52 | 1 |
-| 5813 | [Geniune](https://osu.ppy.sh/u/6108140) | 183.42 | 1 |
-| 5814 | [Perseus](https://osu.ppy.sh/u/6377897) | 183.32 | 1 |
-| 5815 | [pluribs](https://osu.ppy.sh/u/5475103) | 183.28 | 1 |
-| 5816 | [Mapper](https://osu.ppy.sh/u/5087744) | 183.28 | 1 |
-| 5817 | [kilreff45](https://osu.ppy.sh/u/4322853) | 183.28 | 1 |
-| 5818 | [-Twist](https://osu.ppy.sh/u/5172942) | 183.27 | 1 |
-| 5819 | [-Sinq-](https://osu.ppy.sh/u/5190920) | 182.96 | 1 |
-| 5820 | [C6H8O7](https://osu.ppy.sh/u/1911497) | 182.95 | 1 |
-| 5821 | [48 Killer](https://osu.ppy.sh/u/1871479) | 182.89 | 1 |
-| 5822 | [Gunkku123](https://osu.ppy.sh/u/7103897) | 182.79 | 1 |
-| 5823 | [taolex](https://osu.ppy.sh/u/4489519) | 182.78 | 1 |
-| 5824 | [-lovely ala-](https://osu.ppy.sh/u/4469565) | 182.78 | 1 |
-| 5825 | [nihapy](https://osu.ppy.sh/u/3298889) | 182.78 | 1 |
-| 5826 | [Hypo83](https://osu.ppy.sh/u/2031486) | 182.78 | 1 |
-| 5827 | [YukiZura-](https://osu.ppy.sh/u/7272036) | 182.56 | 1 |
-| 5828 | [evilmilk](https://osu.ppy.sh/u/355281) | 182.50 | 1 |
-| 5829 | [IronSolid1595](https://osu.ppy.sh/u/4929339) | 182.25 | 1 |
-| 5830 | [DiamondFluxify](https://osu.ppy.sh/u/3934546) | 182.19 | 1 |
-| 5831 | [A Pig that flys](https://osu.ppy.sh/u/3172003) | 182.17 | 1 |
-| 5832 | [Patrykosek](https://osu.ppy.sh/u/2062881) | 182.12 | 1 |
-| 5833 | [Stiv3n](https://osu.ppy.sh/u/4467230) | 182.06 | 1 |
-| 5834 | [Jackyyy](https://osu.ppy.sh/u/1668804) | 182.05 | 1 |
-| 5835 | [Regraz](https://osu.ppy.sh/u/3076909) | 181.99 | 1 |
-| 5836 | [GasaiYunoIsMyEx](https://osu.ppy.sh/u/6496148) | 181.82 | 1 |
-| 5837 | [Arvee-](https://osu.ppy.sh/u/3177689) | 181.79 | 1 |
-| 5838 | [Rfortes](https://osu.ppy.sh/u/3409011) | 181.77 | 1 |
-| 5839 | [EB3K](https://osu.ppy.sh/u/6418398) | 181.75 | 1 |
-| 5840 | [Villimies100](https://osu.ppy.sh/u/6053341) | 181.68 | 1 |
-| 5841 | [Yihwa](https://osu.ppy.sh/u/3693949) | 181.60 | 1 |
-| 5842 | [Aeri](https://osu.ppy.sh/u/6947672) | 181.52 | 1 |
-| 5843 | [Erik](https://osu.ppy.sh/u/5008533) | 181.46 | 1 |
-| 5844 | [sluggo](https://osu.ppy.sh/u/3006257) | 181.38 | 1 |
-| 5845 | [ebothet](https://osu.ppy.sh/u/5573455) | 181.38 | 1 |
-| 5846 | [Moon Eater](https://osu.ppy.sh/u/2374897) | 181.26 | 1 |
-| 5847 | [-RedStar](https://osu.ppy.sh/u/4296648) | 181.15 | 1 |
-| 5848 | [Seguri](https://osu.ppy.sh/u/6621540) | 181.15 | 1 |
-| 5849 | [Yzy0708](https://osu.ppy.sh/u/1450548) | 181.04 | 1 |
-| 5850 | [kiril2011](https://osu.ppy.sh/u/3703793) | 181.00 | 1 |
-| 5851 | [IRIkePraying](https://osu.ppy.sh/u/1363770) | 180.89 | 1 |
-| 5852 | [Vampenji](https://osu.ppy.sh/u/951711) | 180.84 | 1 |
-| 5853 | [honeoreta](https://osu.ppy.sh/u/783712) | 180.73 | 1 |
-| 5854 | [CypCypCyprian](https://osu.ppy.sh/u/2380544) | 180.41 | 1 |
-| 5855 | [- Potato -](https://osu.ppy.sh/u/6194992) | 180.14 | 1 |
-| 5856 | [-xNico](https://osu.ppy.sh/u/2700876) | 180.08 | 1 |
-| 5857 | [Ethereal Shinoa](https://osu.ppy.sh/u/4572097) | 179.74 | 1 |
-| 5858 | [Sharfik](https://osu.ppy.sh/u/5533261) | 179.62 | 1 |
-| 5859 | [Evolved](https://osu.ppy.sh/u/3751937) | 179.32 | 1 |
-| 5860 | [gmlxo1gh](https://osu.ppy.sh/u/4299249) | 179.30 | 1 |
-| 5861 | [Kurumi K](https://osu.ppy.sh/u/5674993) | 179.29 | 1 |
-| 5862 | [sweet_balloon](https://osu.ppy.sh/u/4833155) | 179.28 | 1 |
-| 5863 | [InfernalMerkul](https://osu.ppy.sh/u/3407535) | 179.28 | 1 |
-| 5864 | [UDeadBro](https://osu.ppy.sh/u/3217124) | 179.26 | 1 |
-| 5865 | [[ Loli God ]](https://osu.ppy.sh/u/2025701) | 179.15 | 1 |
-| 5866 | [Bot](https://osu.ppy.sh/u/3664087) | 179.10 | 1 |
-| 5867 | [G of D](https://osu.ppy.sh/u/7275231) | 178.84 | 1 |
-| 5868 | [RayQuartum](https://osu.ppy.sh/u/5026643) | 178.83 | 1 |
-| 5869 | [player](https://osu.ppy.sh/u/4502530) | 178.68 | 1 |
-| 5870 | [AndrewSoaD](https://osu.ppy.sh/u/4825842) | 178.65 | 1 |
-| 5871 | [Senna](https://osu.ppy.sh/u/3733510) | 178.60 | 1 |
-| 5872 | [xTheLaw](https://osu.ppy.sh/u/1770521) | 178.57 | 1 |
-| 5873 | [nekz](https://osu.ppy.sh/u/7177233) | 178.53 | 1 |
-| 5874 | [sukonvuhime](https://osu.ppy.sh/u/943009) | 178.45 | 1 |
-| 5875 | [Gramatix](https://osu.ppy.sh/u/3100915) | 178.28 | 1 |
-| 5876 | [TheBeezy](https://osu.ppy.sh/u/2814766) | 178.28 | 1 |
-| 5877 | [magickev](https://osu.ppy.sh/u/7268170) | 178.28 | 1 |
-| 5878 | [michal570](https://osu.ppy.sh/u/6064481) | 178.28 | 1 |
-| 5879 | [Kutsuu](https://osu.ppy.sh/u/462710) | 178.28 | 1 |
-| 5880 | [Joe Joe-](https://osu.ppy.sh/u/3994490) | 178.28 | 1 |
-| 5881 | [Furyy07](https://osu.ppy.sh/u/3471681) | 178.28 | 1 |
-| 5882 | [dika312](https://osu.ppy.sh/u/741613) | 178.20 | 1 |
-| 5883 | [SgtSitdown](https://osu.ppy.sh/u/3611886) | 178.10 | 1 |
-| 5884 | [Fortunatess](https://osu.ppy.sh/u/3576493) | 177.88 | 1 |
-| 5885 | [Auezeras](https://osu.ppy.sh/u/3422883) | 177.71 | 1 |
-| 5886 | [duchze](https://osu.ppy.sh/u/390138) | 177.67 | 1 |
-| 5887 | [Lunihoch3](https://osu.ppy.sh/u/2723016) | 177.42 | 1 |
-| 5888 | [Wolfzr](https://osu.ppy.sh/u/4003876) | 177.39 | 1 |
-| 5889 | [Serji](https://osu.ppy.sh/u/5089080) | 177.36 | 1 |
-| 5890 | [- Josh -](https://osu.ppy.sh/u/3539462) | 177.20 | 1 |
-| 5891 | [Kureha](https://osu.ppy.sh/u/1104978) | 177.18 | 1 |
-| 5892 | [zEverAlone](https://osu.ppy.sh/u/4827131) | 177.09 | 1 |
-| 5893 | [EarwormS](https://osu.ppy.sh/u/3844105) | 177.05 | 1 |
-| 5894 | [Cookieji-](https://osu.ppy.sh/u/3753039) | 177.02 | 1 |
-| 5895 | [HIJIRIX](https://osu.ppy.sh/u/2059019) | 176.94 | 1 |
-| 5896 | [Musfiqre](https://osu.ppy.sh/u/3594690) | 176.93 | 1 |
-| 5897 | [Worminators](https://osu.ppy.sh/u/5262493) | 176.75 | 1 |
-| 5898 | [natdog37](https://osu.ppy.sh/u/2340026) | 176.48 | 1 |
-| 5899 | [MyAngelNepgear](https://osu.ppy.sh/u/6402924) | 176.40 | 1 |
-| 5900 | [Pure Hybrid](https://osu.ppy.sh/u/5836443) | 175.89 | 1 |
-| 5901 | [Krovesia](https://osu.ppy.sh/u/6197261) | 175.88 | 1 |
-| 5902 | [Scarra](https://osu.ppy.sh/u/3942525) | 175.73 | 1 |
-| 5903 | [Majin Copy](https://osu.ppy.sh/u/5315628) | 175.06 | 1 |
-| 5904 | [rekhichem](https://osu.ppy.sh/u/6187394) | 175.00 | 1 |
-| 5905 | [Aizher](https://osu.ppy.sh/u/2486327) | 174.97 | 1 |
-| 5906 | [Sonar](https://osu.ppy.sh/u/2955079) | 174.79 | 1 |
-| 5907 | [[LambentLight]](https://osu.ppy.sh/u/1440724) | 174.79 | 1 |
-| 5908 | [IIIIIIIIIIIlIII](https://osu.ppy.sh/u/2808197) | 174.69 | 1 |
-| 5909 | [Artistic Panda](https://osu.ppy.sh/u/1623824) | 174.24 | 1 |
-| 5910 | [PaperMagician](https://osu.ppy.sh/u/3993153) | 174.23 | 1 |
-| 5911 | [AlexDark69](https://osu.ppy.sh/u/5146647) | 174.18 | 1 |
-| 5912 | [sora0618](https://osu.ppy.sh/u/4214174) | 174.13 | 1 |
-| 5913 | [[ Sayk ]](https://osu.ppy.sh/u/2408721) | 173.85 | 1 |
-| 5914 | [Pomroz](https://osu.ppy.sh/u/6410878) | 173.83 | 1 |
-| 5915 | [bakugan2win](https://osu.ppy.sh/u/2602338) | 173.75 | 1 |
-| 5916 | [ImmaWoodElf](https://osu.ppy.sh/u/3300065) | 173.56 | 1 |
-| 5917 | [Marmowka](https://osu.ppy.sh/u/2907237) | 173.51 | 1 |
-| 5918 | [Akananas](https://osu.ppy.sh/u/5019864) | 173.49 | 1 |
-| 5919 | [ChainedTomb](https://osu.ppy.sh/u/4966523) | 173.41 | 1 |
-| 5920 | [FieryLight](https://osu.ppy.sh/u/2276893) | 173.35 | 1 |
-| 5921 | [Lortus](https://osu.ppy.sh/u/1008962) | 173.26 | 1 |
-| 5922 | [Tae](https://osu.ppy.sh/u/6563295) | 173.25 | 1 |
-| 5923 | [VolodyaDCP](https://osu.ppy.sh/u/3836457) | 173.24 | 1 |
-| 5924 | [Himegami](https://osu.ppy.sh/u/6056224) | 173.21 | 1 |
-| 5925 | [Profile](https://osu.ppy.sh/u/4555697) | 173.08 | 1 |
-| 5926 | [UNMAKWA](https://osu.ppy.sh/u/2185042) | 173.03 | 1 |
-| 5927 | [robo50211](https://osu.ppy.sh/u/7109508) | 172.77 | 1 |
-| 5928 | [Fluffies](https://osu.ppy.sh/u/3259545) | 172.75 | 1 |
-| 5929 | [Saftmax](https://osu.ppy.sh/u/3877410) | 172.73 | 1 |
-| 5930 | [Frolski](https://osu.ppy.sh/u/5135181) | 172.37 | 1 |
-| 5931 | [_kergio](https://osu.ppy.sh/u/5246803) | 172.36 | 1 |
-| 5932 | [lordesoth](https://osu.ppy.sh/u/2729118) | 172.23 | 1 |
-| 5933 | [quaternary](https://osu.ppy.sh/u/2327285) | 172.05 | 1 |
-| 5934 | [Cul De Sac](https://osu.ppy.sh/u/7162208) | 171.91 | 1 |
-| 5935 | [Yellowraven](https://osu.ppy.sh/u/3645490) | 171.91 | 1 |
-| 5936 | [Josde](https://osu.ppy.sh/u/2923459) | 171.60 | 1 |
-| 5937 | [Lunacie](https://osu.ppy.sh/u/743792) | 171.42 | 1 |
-| 5938 | [bigmingod](https://osu.ppy.sh/u/3777797) | 171.38 | 1 |
-| 5939 | [XdnbX](https://osu.ppy.sh/u/6378900) | 171.24 | 1 |
-| 5940 | [Tekku](https://osu.ppy.sh/u/3877704) | 171.22 | 1 |
-| 5941 | [Mitzee](https://osu.ppy.sh/u/3172244) | 171.19 | 1 |
-| 5942 | [FlameThrower](https://osu.ppy.sh/u/7177409) | 170.91 | 1 |
-| 5943 | [09simp](https://osu.ppy.sh/u/5390846) | 170.91 | 1 |
-| 5944 | [Duoquote](https://osu.ppy.sh/u/4920617) | 170.91 | 1 |
-| 5945 | [-MapoTofu](https://osu.ppy.sh/u/4240505) | 170.91 | 1 |
-| 5946 | [Alphastic](https://osu.ppy.sh/u/4196592) | 170.91 | 1 |
-| 5947 | [Digrick](https://osu.ppy.sh/u/2985092) | 170.91 | 1 |
-| 5948 | [to ja](https://osu.ppy.sh/u/2148358) | 170.91 | 1 |
-| 5949 | [Keshin-](https://osu.ppy.sh/u/4662004) | 170.39 | 1 |
-| 5950 | [Inest](https://osu.ppy.sh/u/2431238) | 170.18 | 1 |
-| 5951 | [Splashos](https://osu.ppy.sh/u/2525951) | 170.14 | 1 |
-| 5952 | [orinel](https://osu.ppy.sh/u/7589924) | 170.13 | 1 |
-| 5953 | [[ Art ]](https://osu.ppy.sh/u/5819095) | 170.06 | 1 |
-| 5954 | [Vertigo](https://osu.ppy.sh/u/2372712) | 169.91 | 1 |
-| 5955 | [Mr Ace](https://osu.ppy.sh/u/2316123) | 169.75 | 1 |
-| 5956 | [ogus](https://osu.ppy.sh/u/3590887) | 169.47 | 1 |
-| 5957 | [Icanthearyou](https://osu.ppy.sh/u/6332369) | 169.39 | 1 |
-| 5958 | [Simplexive](https://osu.ppy.sh/u/2436435) | 169.38 | 1 |
-| 5959 | [[ orange ]](https://osu.ppy.sh/u/6232814) | 169.28 | 1 |
-| 5960 | [Tripl3M](https://osu.ppy.sh/u/2348885) | 169.08 | 1 |
-| 5961 | [Ashina Izu](https://osu.ppy.sh/u/7524095) | 169.00 | 1 |
-| 5962 | [Skyrovania](https://osu.ppy.sh/u/4696315) | 169.00 | 1 |
-| 5963 | [[ Asuna ]](https://osu.ppy.sh/u/4378637) | 169.00 | 1 |
-| 5964 | [Dextroit](https://osu.ppy.sh/u/3051682) | 169.00 | 1 |
-| 5965 | [aewnotik](https://osu.ppy.sh/u/4597012) | 168.95 | 1 |
-| 5966 | [Xcalibour](https://osu.ppy.sh/u/5280025) | 168.94 | 1 |
-| 5967 | [MegupoidGumi](https://osu.ppy.sh/u/2195449) | 168.90 | 1 |
-| 5968 | [oji](https://osu.ppy.sh/u/1465122) | 168.28 | 1 |
-| 5969 | [eagle3o](https://osu.ppy.sh/u/3492356) | 168.23 | 1 |
-| 5970 | [Tugezu](https://osu.ppy.sh/u/2596694) | 168.15 | 1 |
-| 5971 | [downturned](https://osu.ppy.sh/u/4324054) | 167.98 | 1 |
-| 5972 | [Xhora](https://osu.ppy.sh/u/4992125) | 167.74 | 1 |
-| 5973 | [softi511](https://osu.ppy.sh/u/3363662) | 167.36 | 1 |
-| 5974 | [Comkid](https://osu.ppy.sh/u/3382483) | 167.24 | 1 |
-| 5975 | [iN3RDi](https://osu.ppy.sh/u/2371696) | 167.20 | 1 |
-| 5976 | [MyAngelChitoge](https://osu.ppy.sh/u/7885885) | 167.09 | 1 |
-| 5977 | [Takatsuki Ayumi](https://osu.ppy.sh/u/2083468) | 166.81 | 1 |
-| 5978 | [[Lucky]](https://osu.ppy.sh/u/1303685) | 165.79 | 1 |
-| 5979 | [Natsume-](https://osu.ppy.sh/u/5682791) | 165.50 | 1 |
-| 5980 | [NotOmega](https://osu.ppy.sh/u/6345764) | 165.44 | 1 |
-| 5981 | [GRASSHUMPER](https://osu.ppy.sh/u/3742664) | 165.28 | 1 |
-| 5982 | [Clappy](https://osu.ppy.sh/u/2720720) | 165.18 | 1 |
-| 5983 | [-akiz-](https://osu.ppy.sh/u/3683323) | 165.11 | 1 |
-| 5984 | [Sh0kku](https://osu.ppy.sh/u/4521213) | 164.99 | 1 |
-| 5985 | [redglasses](https://osu.ppy.sh/u/3236300) | 164.86 | 1 |
-| 5986 | [FlowSoNasty](https://osu.ppy.sh/u/3294054) | 164.58 | 1 |
-| 5987 | [Dremery](https://osu.ppy.sh/u/6558838) | 164.20 | 1 |
-| 5988 | [[Emiria]](https://osu.ppy.sh/u/2046044) | 162.94 | 1 |
-| 5989 | [Aceified](https://osu.ppy.sh/u/6014321) | 162.90 | 1 |
-| 5990 | [_UselessMouth](https://osu.ppy.sh/u/8462265) | 162.73 | 1 |
-| 5991 | [OteroToT](https://osu.ppy.sh/u/3131304) | 162.66 | 1 |
-| 5992 | [Rumteen](https://osu.ppy.sh/u/3103237) | 162.45 | 1 |
-| 5993 | [Zeref](https://osu.ppy.sh/u/3822313) | 162.35 | 1 |
-| 5994 | [DarkKillsYou](https://osu.ppy.sh/u/2102399) | 162.33 | 1 |
-| 5995 | [cilia](https://osu.ppy.sh/u/6202111) | 161.52 | 1 |
-| 5996 | [Aminor](https://osu.ppy.sh/u/2505016) | 161.51 | 1 |
-| 5997 | [_fedoras](https://osu.ppy.sh/u/4980223) | 161.25 | 1 |
-| 5998 | [StarChaser3](https://osu.ppy.sh/u/2658024) | 160.80 | 1 |
-| 5999 | [qotjrxo1210](https://osu.ppy.sh/u/1071269) | 160.51 | 1 |
-| 6000 | [N i T o R i](https://osu.ppy.sh/u/1303131) | 160.46 | 1 |
-| 6001 | [Birtha](https://osu.ppy.sh/u/2728618) | 160.46 | 1 |
-| 6002 | [Cthulhu the Dog](https://osu.ppy.sh/u/4979490) | 159.78 | 1 |
-| 6003 | [Balexi](https://osu.ppy.sh/u/3083539) | 158.29 | 1 |
-| 6004 | [HappyCarrot](https://osu.ppy.sh/u/5587697) | 158.12 | 1 |
-| 6005 | [andrew3ero](https://osu.ppy.sh/u/5953611) | 158.09 | 1 |
-| 6006 | [-Amane-](https://osu.ppy.sh/u/3040085) | 157.77 | 1 |
-| 6007 | [OrangeW](https://osu.ppy.sh/u/7943634) | 157.14 | 1 |
-| 6008 | [Thefroakie](https://osu.ppy.sh/u/6194830) | 157.11 | 1 |
-| 6009 | [Shappey](https://osu.ppy.sh/u/5256494) | 157.00 | 1 |
-| 6010 | [Mirinae-](https://osu.ppy.sh/u/7909109) | 156.94 | 1 |
-| 6011 | [black0000z](https://osu.ppy.sh/u/1296916) | 155.94 | 1 |
-| 6012 | [Knuvoba](https://osu.ppy.sh/u/7241712) | 155.43 | 1 |
-| 6013 | [Frankie](https://osu.ppy.sh/u/6643115) | 155.31 | 1 |
-| 6014 | [N1rvaN4](https://osu.ppy.sh/u/4183780) | 150.54 | 1 |
-| 6015 | [m00](https://osu.ppy.sh/u/5037748) | 149.75 | 1 |
-| 6016 | [Imakuri](https://osu.ppy.sh/u/6100837) | 149.72 | 1 |
-| 6017 | [kaballz](https://osu.ppy.sh/u/3331833) | 143.85 | 1 |
-| 6018 | [Rafe123](https://osu.ppy.sh/u/6553433) | 143.52 | 1 |
-| 6019 | [[ScarletFang]](https://osu.ppy.sh/u/7341396) | 143.10 | 1 |
-| 6020 | [MoeTan01](https://osu.ppy.sh/u/4047089) | 141.93 | 1 |
-| 6021 | [Limses](https://osu.ppy.sh/u/6595530) | 140.09 | 1 |
-| 6022 | [Kooper](https://osu.ppy.sh/u/3733481) | 131.00 | 1 |
-| 6023 | [FrYaMMy](https://osu.ppy.sh/u/1275000) | 128.93 | 1 |
-| 6024 | [xxxgabrysxxx](https://osu.ppy.sh/u/1631148) | 125.02 | 1 |
-| 6025 | [intu13](https://osu.ppy.sh/u/5985741) | 117.72 | 1 |
-| 6026 | [Miapa](https://osu.ppy.sh/u/765150) | 113.88 | 1 |
-| 6027 | [-[Haru]-](https://osu.ppy.sh/u/7421819) | 109.73 | 1 |
-| 6028 | [XVS](https://osu.ppy.sh/u/1863469) | 100.48 | 2 |
-| 6029 | [Honeymap](https://osu.ppy.sh/u/2405358) | 94.03 | 1 |
-| 6030 | [zyhaha](https://osu.ppy.sh/u/863377) | 87.09 | 1 |
-| 6031 | [Insane-Cat_](https://osu.ppy.sh/u/6418870) | 8.22 | 1 |
+| 1 | [Cookiezi](https://osu.ppy.sh/u/124493) | 11310.52 | 42 |
+| 2 | [Rohulk](https://osu.ppy.sh/u/3219026) | 11202.31 | 88 |
+| 3 | [Adamqs](https://osu.ppy.sh/u/613592) | 10624.00 | 94 |
+| 4 | [Wilchq](https://osu.ppy.sh/u/2021758) | 10283.50 | 91 |
+| 5 | [kablaze](https://osu.ppy.sh/u/3043603) | 10210.85 | 64 |
+| 6 | [CXu](https://osu.ppy.sh/u/84841) | 10209.45 | 82 |
+| 7 | [Musty](https://osu.ppy.sh/u/251683) | 9932.02 | 68 |
+| 8 | [Toy](https://osu.ppy.sh/u/2757689) | 9793.35 | 60 |
+| 9 | [Recia](https://osu.ppy.sh/u/1787027) | 9776.81 | 67 |
+| 10 | [MrBooM](https://osu.ppy.sh/u/1837989) | 9755.61 | 78 |
+| 11 | [WubWoofWolf](https://osu.ppy.sh/u/39828) | 9662.60 | 67 |
+| 12 | [Beafowl](https://osu.ppy.sh/u/2438122) | 9563.09 | 85 |
+| 13 | [MiruHong](https://osu.ppy.sh/u/2866814) | 9546.65 | 78 |
+| 14 | [Azer](https://osu.ppy.sh/u/2155578) | 9404.90 | 64 |
+| 15 | [1E308](https://osu.ppy.sh/u/4133758) | 9318.56 | 77 |
+| 16 | [Yaong](https://osu.ppy.sh/u/1883865) | 9304.10 | 61 |
+| 17 | [hallowatcher](https://osu.ppy.sh/u/1874761) | 9266.32 | 95 |
+| 18 | [FunOrange](https://osu.ppy.sh/u/2051389) | 9242.27 | 58 |
+| 19 | [DoKito](https://osu.ppy.sh/u/537084) | 9209.05 | 75 |
+| 20 | [Flask](https://osu.ppy.sh/u/959763) | 9198.46 | 69 |
+| 21 | [Dunois](https://osu.ppy.sh/u/4581715) | 9180.67 | 54 |
+| 22 | [Fenrir](https://osu.ppy.sh/u/2644700) | 9120.53 | 89 |
+| 23 | [Rucker](https://osu.ppy.sh/u/147515) | 9088.82 | 70 |
+| 24 | [Avenging_Goose](https://osu.ppy.sh/u/3985234) | 8981.37 | 75 |
+| 25 | [waaiiru](https://osu.ppy.sh/u/903978) | 8944.44 | 78 |
+| 26 | [Epiphany](https://osu.ppy.sh/u/3256299) | 8901.81 | 97 |
+| 27 | [Reifos](https://osu.ppy.sh/u/2205189) | 8832.25 | 98 |
+| 28 | [Rizer](https://osu.ppy.sh/u/5155973) | 8792.21 | 68 |
+| 29 | [-Hebel-](https://osu.ppy.sh/u/6169483) | 8783.47 | 56 |
+| 30 | [My Aim Zogs](https://osu.ppy.sh/u/3722715) | 8764.64 | 90 |
+| 31 | [Karthy](https://osu.ppy.sh/u/4196808) | 8747.74 | 48 |
+| 32 | [Satoruu](https://osu.ppy.sh/u/2243452) | 8716.75 | 94 |
+| 33 | [Korilak](https://osu.ppy.sh/u/7260014) | 8698.03 | 61 |
+| 34 | [theez35](https://osu.ppy.sh/u/4230827) | 8677.34 | 79 |
+| 35 | [Riven](https://osu.ppy.sh/u/3638005) | 8638.02 | 90 |
+| 36 | [Identical](https://osu.ppy.sh/u/3181676) | 8583.32 | 66 |
+| 37 | [Tarulas](https://osu.ppy.sh/u/3179601) | 8562.84 | 44 |
+| 38 | [SkyArrow](https://osu.ppy.sh/u/4039647) | 8501.19 | 76 |
+| 39 | [Fedora Goose](https://osu.ppy.sh/u/2323131) | 8500.53 | 50 |
+| 40 | [Kaoru](https://osu.ppy.sh/u/492699) | 8496.65 | 98 |
+| 41 | [Malolat](https://osu.ppy.sh/u/4317480) | 8459.04 | 84 |
+| 42 | [Yuza](https://osu.ppy.sh/u/3077037) | 8418.08 | 71 |
+| 43 | [Chronomarly](https://osu.ppy.sh/u/4991464) | 8401.53 | 65 |
+| 44 | [Enon](https://osu.ppy.sh/u/2043401) | 8377.29 | 74 |
+| 45 | [schlafen](https://osu.ppy.sh/u/1590461) | 8361.68 | 89 |
+| 46 | [Emperorpenguin83](https://osu.ppy.sh/u/1688846) | 8348.52 | 53 |
+| 47 | [Niii-san](https://osu.ppy.sh/u/5403374) | 8318.98 | 88 |
+| 48 | [fartownik](https://osu.ppy.sh/u/56917) | 8309.19 | 75 |
+| 49 | [Koba](https://osu.ppy.sh/u/4448118) | 8305.71 | 51 |
+| 50 | [Worne](https://osu.ppy.sh/u/1019489) | 8247.32 | 59 |
+| 51 | [Flami](https://osu.ppy.sh/u/3771576) | 8191.69 | 97 |
+| 52 | [Kabu](https://osu.ppy.sh/u/4866962) | 8100.34 | 75 |
+| 53 | [Chezz](https://osu.ppy.sh/u/8382196) | 8000.94 | 91 |
+| 54 | [Mathi](https://osu.ppy.sh/u/5339515) | 7971.67 | 28 |
+| 55 | [Sablestars](https://osu.ppy.sh/u/2429055) | 7907.76 | 83 |
+| 56 | [Vandabe](https://osu.ppy.sh/u/7050754) | 7888.11 | 85 |
+| 57 | [gbs tap](https://osu.ppy.sh/u/1578073) | 7881.61 | 62 |
+| 58 | [Gokuri](https://osu.ppy.sh/u/343865) | 7846.78 | 61 |
+| 59 | [Seouless](https://osu.ppy.sh/u/3328676) | 7836.32 | 57 |
+| 60 | [xaxreid](https://osu.ppy.sh/u/4227431) | 7820.91 | 61 |
+| 61 | [ReaL motion](https://osu.ppy.sh/u/2556958) | 7782.25 | 43 |
+| 62 | [CrtReXn](https://osu.ppy.sh/u/1810239) | 7780.21 | 61 |
+| 63 | [SlimeDrippy](https://osu.ppy.sh/u/6119147) | 7773.65 | 62 |
+| 64 | [MrPotato](https://osu.ppy.sh/u/2787415) | 7767.90 | 62 |
+| 65 | [thelewa](https://osu.ppy.sh/u/475021) | 7760.78 | 75 |
+| 66 | [Kyoko](https://osu.ppy.sh/u/3382084) | 7751.13 | 38 |
+| 67 | [TheLamaHD](https://osu.ppy.sh/u/5297955) | 7748.03 | 53 |
+| 68 | [gpdl](https://osu.ppy.sh/u/4764882) | 7726.84 | 89 |
+| 69 | [ClawViper](https://osu.ppy.sh/u/2681361) | 7723.59 | 77 |
+| 70 | [Haganenno](https://osu.ppy.sh/u/4692344) | 7709.87 | 48 |
+| 71 | [P1u70](https://osu.ppy.sh/u/4914055) | 7703.03 | 95 |
+| 72 | [AmaiHachimitsu](https://osu.ppy.sh/u/844815) | 7695.60 | 45 |
+| 73 | [FriendoFox](https://osu.ppy.sh/u/3678808) | 7692.68 | 73 |
+| 74 | [kazamabc](https://osu.ppy.sh/u/6937470) | 7688.21 | 66 |
+| 75 | [3D Printer](https://osu.ppy.sh/u/5051617) | 7686.18 | 75 |
+| 76 | [Wario](https://osu.ppy.sh/u/4361729) | 7668.03 | 48 |
+| 77 | [[ Mystic ]](https://osu.ppy.sh/u/4866665) | 7665.53 | 96 |
+| 78 | [s3552515](https://osu.ppy.sh/u/2149845) | 7662.10 | 93 |
+| 79 | [Rekaru](https://osu.ppy.sh/u/4152967) | 7657.21 | 46 |
+| 80 | [[ Lili ]](https://osu.ppy.sh/u/4952690) | 7655.98 | 70 |
+| 81 | [MarthXT](https://osu.ppy.sh/u/2909663) | 7654.80 | 66 |
+| 82 | [Doginator](https://osu.ppy.sh/u/3574127) | 7653.75 | 81 |
+| 83 | [scuoa](https://osu.ppy.sh/u/2295787) | 7648.28 | 51 |
+| 84 | [[ AeonLust ]](https://osu.ppy.sh/u/2353490) | 7630.10 | 99 |
+| 85 | [SpajdeR](https://osu.ppy.sh/u/3446664) | 7626.67 | 56 |
+| 86 | [Hydra](https://osu.ppy.sh/u/940964) | 7551.89 | 86 |
+| 87 | [Maffe](https://osu.ppy.sh/u/4773855) | 7548.20 | 53 |
+| 88 | [eLy](https://osu.ppy.sh/u/1014222) | 7548.03 | 77 |
+| 89 | [crisco13](https://osu.ppy.sh/u/3562488) | 7547.61 | 70 |
+| 90 | [rafalbrew](https://osu.ppy.sh/u/3872602) | 7540.99 | 85 |
+| 91 | [ItsKevZii](https://osu.ppy.sh/u/5201225) | 7536.89 | 40 |
+| 92 | [yellowy246](https://osu.ppy.sh/u/3833980) | 7533.65 | 49 |
+| 93 | [Pray](https://osu.ppy.sh/u/2190336) | 7521.62 | 57 |
+| 94 | [ncuh](https://osu.ppy.sh/u/2891734) | 7519.59 | 86 |
+| 95 | [Celis](https://osu.ppy.sh/u/1136098) | 7492.49 | 85 |
+| 96 | [xDarxen](https://osu.ppy.sh/u/4625954) | 7486.81 | 78 |
+| 97 | [Spork Lover](https://osu.ppy.sh/u/3417469) | 7477.06 | 63 |
+| 98 | [gusrua123](https://osu.ppy.sh/u/1336437) | 7469.39 | 73 |
+| 99 | [NerO](https://osu.ppy.sh/u/1545031) | 7469.21 | 33 |
+| 100 | [-Dylson-](https://osu.ppy.sh/u/6315784) | 7467.50 | 49 |
+| 101 | [Cremation](https://osu.ppy.sh/u/1059525) | 7466.79 | 71 |
+| 102 | [Mirtrax](https://osu.ppy.sh/u/2290888) | 7454.08 | 55 |
+| 103 | [Kuronora](https://osu.ppy.sh/u/2742030) | 7418.79 | 59 |
+| 104 | [muchy](https://osu.ppy.sh/u/1489475) | 7417.91 | 91 |
+| 105 | [diabolo77](https://osu.ppy.sh/u/4056694) | 7412.75 | 64 |
+| 106 | [Koltay](https://osu.ppy.sh/u/4787843) | 7411.14 | 61 |
+| 107 | [Sebu](https://osu.ppy.sh/u/3990173) | 7403.89 | 44 |
+| 108 | [[ G h o s t ]](https://osu.ppy.sh/u/3530678) | 7398.57 | 86 |
+| 109 | [skyegrey](https://osu.ppy.sh/u/3186952) | 7379.18 | 89 |
+| 110 | [Yaong Loli](https://osu.ppy.sh/u/3213239) | 7377.39 | 34 |
+| 111 | [Umbre](https://osu.ppy.sh/u/2766034) | 7366.29 | 45 |
+| 112 | [_Degenerate](https://osu.ppy.sh/u/2589649) | 7357.61 | 97 |
+| 113 | [Feraza](https://osu.ppy.sh/u/2263344) | 7352.10 | 81 |
+| 114 | [prhtnsm](https://osu.ppy.sh/u/6702666) | 7351.46 | 84 |
+| 115 | [c00kiezecky](https://osu.ppy.sh/u/2225267) | 7344.24 | 54 |
+| 116 | [benjacala](https://osu.ppy.sh/u/1625740) | 7340.79 | 69 |
+| 117 | [gilmat](https://osu.ppy.sh/u/5779181) | 7331.12 | 65 |
+| 118 | [shortpotato](https://osu.ppy.sh/u/1266102) | 7328.68 | 54 |
+| 119 | [RyuuBei](https://osu.ppy.sh/u/2222447) | 7323.43 | 92 |
+| 120 | [Tetla](https://osu.ppy.sh/u/3545547) | 7317.00 | 51 |
+| 121 | [Mortal](https://osu.ppy.sh/u/4759050) | 7314.22 | 81 |
+| 122 | [No01](https://osu.ppy.sh/u/2259709) | 7311.07 | 60 |
+| 123 | [Kagetsu](https://osu.ppy.sh/u/6203841) | 7306.15 | 88 |
+| 124 | [- Slice -](https://osu.ppy.sh/u/4239265) | 7305.17 | 68 |
+| 125 | [Arua](https://osu.ppy.sh/u/5038837) | 7304.80 | 57 |
+| 126 | [Psycopath-](https://osu.ppy.sh/u/3233957) | 7304.70 | 43 |
+| 127 | [Yellow](https://osu.ppy.sh/u/1203216) | 7303.88 | 43 |
+| 128 | [[C u r i]](https://osu.ppy.sh/u/4746949) | 7303.78 | 45 |
+| 129 | [Mrotaku](https://osu.ppy.sh/u/2266860) | 7292.92 | 40 |
+| 130 | [Juhmall](https://osu.ppy.sh/u/3831425) | 7276.94 | 71 |
+| 131 | [Guy](https://osu.ppy.sh/u/91738) | 7269.52 | 79 |
+| 132 | [froon](https://osu.ppy.sh/u/371546) | 7256.68 | 87 |
+| 133 | [sk0](https://osu.ppy.sh/u/3492649) | 7246.91 | 63 |
+| 134 | [Mooha](https://osu.ppy.sh/u/2705430) | 7241.76 | 48 |
+| 135 | [Arthior](https://osu.ppy.sh/u/3274817) | 7232.16 | 99 |
+| 136 | [zxxzxxz](https://osu.ppy.sh/u/1646474) | 7231.26 | 68 |
+| 137 | [Zodiaack](https://osu.ppy.sh/u/3096229) | 7218.71 | 60 |
+| 138 | [Sakurauchi Riko](https://osu.ppy.sh/u/5710809) | 7206.93 | 57 |
+| 139 | [Haynoru](https://osu.ppy.sh/u/3281136) | 7202.76 | 44 |
+| 140 | [Freezei](https://osu.ppy.sh/u/7188614) | 7199.84 | 72 |
+| 141 | [Hakurai](https://osu.ppy.sh/u/2190588) | 7185.61 | 72 |
+| 142 | [_---_](https://osu.ppy.sh/u/2930683) | 7184.34 | 49 |
+| 143 | [Reira](https://osu.ppy.sh/u/1184175) | 7182.62 | 64 |
+| 144 | [Hyppyri](https://osu.ppy.sh/u/3123423) | 7175.39 | 39 |
+| 145 | [-DuckLeader-](https://osu.ppy.sh/u/7969090) | 7174.56 | 97 |
+| 146 | [B e N i](https://osu.ppy.sh/u/733878) | 7173.71 | 44 |
+| 147 | [norbertosnt3](https://osu.ppy.sh/u/3644289) | 7167.55 | 73 |
+| 148 | [Koalazy](https://osu.ppy.sh/u/286740) | 7165.41 | 37 |
+| 149 | [Boy_314](https://osu.ppy.sh/u/4757979) | 7156.53 | 78 |
+| 150 | [Neab](https://osu.ppy.sh/u/916693) | 7155.84 | 93 |
+| 151 | [- Ruff -](https://osu.ppy.sh/u/4277702) | 7154.99 | 44 |
+| 152 | [MrPopCraft](https://osu.ppy.sh/u/3675733) | 7148.71 | 61 |
+| 153 | [CeilingWaffle](https://osu.ppy.sh/u/3336090) | 7143.85 | 84 |
+| 154 | [kafaN](https://osu.ppy.sh/u/1489743) | 7128.30 | 60 |
+| 155 | [Sj-Sama](https://osu.ppy.sh/u/2977954) | 7125.32 | 62 |
+| 156 | [Kardet](https://osu.ppy.sh/u/1438509) | 7108.74 | 62 |
+| 157 | [- Bastian -](https://osu.ppy.sh/u/4940765) | 7104.04 | 59 |
+| 158 | [Constelletion](https://osu.ppy.sh/u/3074650) | 7097.00 | 45 |
+| 159 | [Mercurius](https://osu.ppy.sh/u/589550) | 7096.67 | 55 |
+| 160 | [Bubbleman](https://osu.ppy.sh/u/5182050) | 7096.63 | 28 |
+| 161 | [GSBlank](https://osu.ppy.sh/u/2312106) | 7096.51 | 35 |
+| 162 | [Criss](https://osu.ppy.sh/u/3188017) | 7088.99 | 72 |
+| 163 | [Hanori](https://osu.ppy.sh/u/7078544) | 7088.18 | 62 |
+| 164 | [TheKid217](https://osu.ppy.sh/u/4843831) | 7077.81 | 41 |
+| 165 | [Bry Guy](https://osu.ppy.sh/u/3261131) | 7073.96 | 93 |
+| 166 | [HappyStick](https://osu.ppy.sh/u/256802) | 7071.92 | 23 |
+| 167 | [Asion](https://osu.ppy.sh/u/5894953) | 7060.19 | 53 |
+| 168 | [Fetish](https://osu.ppy.sh/u/3071262) | 7050.04 | 90 |
+| 169 | [cannedfruit](https://osu.ppy.sh/u/5102089) | 7048.65 | 98 |
+| 170 | [Zola](https://osu.ppy.sh/u/4272894) | 7048.03 | 97 |
+| 171 | [WagnerWarrior](https://osu.ppy.sh/u/4149140) | 7036.84 | 54 |
+| 172 | [Ma yin](https://osu.ppy.sh/u/1706092) | 7030.85 | 83 |
+| 173 | [- 2301 -](https://osu.ppy.sh/u/4411725) | 7029.89 | 79 |
+| 174 | [ChinaNo1](https://osu.ppy.sh/u/4919398) | 7024.03 | 55 |
+| 175 | [AngeLDarkness](https://osu.ppy.sh/u/761968) | 7021.32 | 89 |
+| 176 | [Timowoof](https://osu.ppy.sh/u/6390912) | 7017.14 | 69 |
+| 177 | [Burgerpower](https://osu.ppy.sh/u/1567069) | 7011.15 | 78 |
+| 178 | [Dymond](https://osu.ppy.sh/u/7297416) | 7006.48 | 83 |
+| 179 | [DuNai](https://osu.ppy.sh/u/2522197) | 6999.82 | 34 |
+| 180 | [Nelissa](https://osu.ppy.sh/u/2948828) | 6994.98 | 57 |
+| 181 | [wuhua](https://osu.ppy.sh/u/2932510) | 6991.87 | 36 |
+| 182 | [mniminwoo](https://osu.ppy.sh/u/3929529) | 6989.20 | 36 |
+| 183 | [Rinzler](https://osu.ppy.sh/u/2133381) | 6988.30 | 52 |
+| 184 | [Lexalia](https://osu.ppy.sh/u/1887616) | 6982.69 | 34 |
+| 185 | [Kyschel](https://osu.ppy.sh/u/3305640) | 6951.38 | 82 |
+| 186 | [PajWoj](https://osu.ppy.sh/u/4899393) | 6951.02 | 60 |
+| 187 | [[ baka 3b ]](https://osu.ppy.sh/u/3016611) | 6949.21 | 75 |
+| 188 | [TobiGH3](https://osu.ppy.sh/u/3341040) | 6945.60 | 50 |
+| 189 | [TCN](https://osu.ppy.sh/u/1175528) | 6944.73 | 74 |
+| 190 | [Blobby3000](https://osu.ppy.sh/u/6916774) | 6939.78 | 38 |
+| 191 | [Tobi](https://osu.ppy.sh/u/2970667) | 6936.28 | 88 |
+| 192 | [Twintail](https://osu.ppy.sh/u/2197482) | 6935.99 | 36 |
+| 193 | [SutiBu](https://osu.ppy.sh/u/2633472) | 6932.68 | 57 |
+| 194 | [Spazza17](https://osu.ppy.sh/u/3516241) | 6931.63 | 42 |
+| 195 | [Ferelix](https://osu.ppy.sh/u/5580827) | 6930.65 | 65 |
+| 196 | [nibupls](https://osu.ppy.sh/u/4309886) | 6885.12 | 98 |
+| 197 | [Firebool](https://osu.ppy.sh/u/6182439) | 6884.72 | 59 |
+| 198 | [esemoka57](https://osu.ppy.sh/u/2272413) | 6884.17 | 46 |
+| 199 | [Mareyo](https://osu.ppy.sh/u/2479500) | 6882.07 | 91 |
+| 200 | [Genny](https://osu.ppy.sh/u/2485447) | 6881.05 | 59 |
+| 201 | [Fleimi](https://osu.ppy.sh/u/2728326) | 6871.85 | 73 |
+| 202 | [Cheese Kai](https://osu.ppy.sh/u/5979619) | 6866.50 | 36 |
+| 203 | [Uzairr](https://osu.ppy.sh/u/4542811) | 6862.25 | 52 |
+| 204 | [Rhythm blue](https://osu.ppy.sh/u/6506107) | 6853.31 | 32 |
+| 205 | [blednak](https://osu.ppy.sh/u/912627) | 6853.00 | 76 |
+| 206 | [Firstus](https://osu.ppy.sh/u/1856829) | 6847.86 | 30 |
+| 207 | [4mpy](https://osu.ppy.sh/u/3755451) | 6847.67 | 50 |
+| 208 | [[ Enju-chan ]](https://osu.ppy.sh/u/3533706) | 6833.45 | 66 |
+| 209 | [Yuria](https://osu.ppy.sh/u/625988) | 6827.24 | 40 |
+| 210 | [XVoIR](https://osu.ppy.sh/u/2845588) | 6824.37 | 46 |
+| 211 | [JuZu](https://osu.ppy.sh/u/1062960) | 6822.09 | 85 |
+| 212 | [hvick810](https://osu.ppy.sh/u/2400141) | 6819.81 | 72 |
+| 213 | [nemiroN](https://osu.ppy.sh/u/4809354) | 6815.99 | 78 |
+| 214 | [Nakocchi](https://osu.ppy.sh/u/4039773) | 6806.39 | 41 |
+| 215 | [Far_Q](https://osu.ppy.sh/u/2896273) | 6802.24 | 39 |
+| 216 | [Forseen](https://osu.ppy.sh/u/556012) | 6797.59 | 84 |
+| 217 | [VRainbow](https://osu.ppy.sh/u/3635214) | 6797.34 | 71 |
+| 218 | [-Kanzaki](https://osu.ppy.sh/u/1652478) | 6795.75 | 72 |
+| 219 | [Tyguyy](https://osu.ppy.sh/u/2830070) | 6793.75 | 68 |
+| 220 | [ohiyaa](https://osu.ppy.sh/u/1254788) | 6777.00 | 70 |
+| 221 | [Davyroo](https://osu.ppy.sh/u/2641039) | 6768.82 | 79 |
+| 222 | [Rippu](https://osu.ppy.sh/u/5005621) | 6761.53 | 93 |
+| 223 | [Hazukashi](https://osu.ppy.sh/u/3477760) | 6746.86 | 55 |
+| 224 | [One Miss](https://osu.ppy.sh/u/4476989) | 6737.21 | 93 |
+| 225 | [legekka](https://osu.ppy.sh/u/4142446) | 6730.26 | 38 |
+| 226 | [Thunderbolt235](https://osu.ppy.sh/u/2546192) | 6730.11 | 80 |
+| 227 | [Meltina](https://osu.ppy.sh/u/946990) | 6726.04 | 28 |
+| 228 | [dat boi waffle](https://osu.ppy.sh/u/4215381) | 6717.55 | 80 |
+| 229 | [Puzzle](https://osu.ppy.sh/u/1814307) | 6713.96 | 80 |
+| 230 | [twofor199](https://osu.ppy.sh/u/3199927) | 6711.52 | 72 |
+| 231 | [markii](https://osu.ppy.sh/u/3049046) | 6710.84 | 78 |
+| 232 | [-SoMoE-](https://osu.ppy.sh/u/3814776) | 6701.11 | 47 |
+| 233 | [Sancho](https://osu.ppy.sh/u/6569619) | 6694.41 | 59 |
+| 234 | [Shield](https://osu.ppy.sh/u/2587424) | 6692.73 | 50 |
+| 235 | [nicogame14](https://osu.ppy.sh/u/3812213) | 6690.24 | 63 |
+| 236 | [Repulse](https://osu.ppy.sh/u/2414526) | 6689.88 | 59 |
+| 237 | [waywern2012](https://osu.ppy.sh/u/5870453) | 6683.58 | 38 |
+| 238 | [Lulek](https://osu.ppy.sh/u/1022587) | 6679.64 | 65 |
+| 239 | [_RyuK](https://osu.ppy.sh/u/6304246) | 6676.98 | 22 |
+| 240 | [Poofie](https://osu.ppy.sh/u/3517198) | 6674.86 | 83 |
+| 241 | [-Nanami](https://osu.ppy.sh/u/6173856) | 6674.75 | 91 |
+| 242 | [fuduhasio](https://osu.ppy.sh/u/6124018) | 6673.27 | 47 |
+| 243 | [Kymera](https://osu.ppy.sh/u/2709322) | 6662.49 | 87 |
+| 244 | [YuLi](https://osu.ppy.sh/u/1655110) | 6659.24 | 84 |
+| 245 | [[ Yozzied ]](https://osu.ppy.sh/u/675132) | 6659.08 | 46 |
+| 246 | [-Ekik-](https://osu.ppy.sh/u/2926676) | 6650.40 | 60 |
+| 247 | [Domino](https://osu.ppy.sh/u/6104093) | 6647.78 | 56 |
+| 248 | [FayeurS](https://osu.ppy.sh/u/3105416) | 6641.95 | 39 |
+| 249 | [Koni Kinmo](https://osu.ppy.sh/u/2106534) | 6638.18 | 45 |
+| 250 | [NH2-Suika](https://osu.ppy.sh/u/1904653) | 6637.58 | 63 |
+| 251 | [Reishara](https://osu.ppy.sh/u/4952448) | 6625.42 | 97 |
+| 252 | [Nitro](https://osu.ppy.sh/u/654098) | 6623.26 | 59 |
+| 253 | [JaeSu](https://osu.ppy.sh/u/3261991) | 6623.09 | 60 |
+| 254 | [Hranolka](https://osu.ppy.sh/u/6149947) | 6621.48 | 51 |
+| 255 | [morikuso](https://osu.ppy.sh/u/751834) | 6611.23 | 74 |
+| 256 | [yykkrr](https://osu.ppy.sh/u/1306161) | 6608.33 | 70 |
+| 257 | [Ranpo](https://osu.ppy.sh/u/3448024) | 6606.00 | 83 |
+| 258 | [Rimuru](https://osu.ppy.sh/u/4601372) | 6600.27 | 43 |
+| 259 | [Dustice](https://osu.ppy.sh/u/754565) | 6600.04 | 21 |
+| 260 | [Ciao](https://osu.ppy.sh/u/2674642) | 6591.49 | 45 |
+| 261 | [Manu028](https://osu.ppy.sh/u/6192633) | 6580.88 | 68 |
+| 262 | [Abu](https://osu.ppy.sh/u/2845158) | 6579.87 | 57 |
+| 263 | [Yuh](https://osu.ppy.sh/u/5217060) | 6578.89 | 38 |
+| 264 | [kittenrequiem](https://osu.ppy.sh/u/3513687) | 6575.05 | 87 |
+| 265 | [Halcy-](https://osu.ppy.sh/u/2267121) | 6569.95 | 69 |
+| 266 | [PandaWolf9a](https://osu.ppy.sh/u/5110677) | 6566.24 | 51 |
+| 267 | [Janga](https://osu.ppy.sh/u/3917884) | 6566.07 | 81 |
+| 268 | [jeanzy](https://osu.ppy.sh/u/4884852) | 6563.54 | 80 |
+| 269 | [step_201064](https://osu.ppy.sh/u/1590115) | 6562.70 | 51 |
+| 270 | [Maxe191](https://osu.ppy.sh/u/2184751) | 6560.67 | 50 |
+| 271 | [Yellowl](https://osu.ppy.sh/u/3354406) | 6557.97 | 43 |
+| 272 | [Ruru](https://osu.ppy.sh/u/1724626) | 6545.68 | 65 |
+| 273 | [Vyshus](https://osu.ppy.sh/u/7812798) | 6545.05 | 66 |
+| 274 | [-Rushi-](https://osu.ppy.sh/u/5897889) | 6534.65 | 47 |
+| 275 | [iPunqcake](https://osu.ppy.sh/u/6633574) | 6532.25 | 83 |
+| 276 | [QbaDoo](https://osu.ppy.sh/u/2395405) | 6532.03 | 52 |
+| 277 | [katatakatata](https://osu.ppy.sh/u/3540294) | 6529.31 | 50 |
+| 278 | [ArKeda](https://osu.ppy.sh/u/4765925) | 6528.07 | 74 |
+| 279 | [Knalli](https://osu.ppy.sh/u/8147403) | 6514.22 | 49 |
+| 280 | [[ xFrozZ ]](https://osu.ppy.sh/u/6462387) | 6513.48 | 45 |
+| 281 | [_iV_](https://osu.ppy.sh/u/3711142) | 6511.55 | 50 |
+| 282 | [moca](https://osu.ppy.sh/u/2309855) | 6508.16 | 36 |
+| 283 | [Madokaaa](https://osu.ppy.sh/u/2558823) | 6507.26 | 89 |
+| 284 | [gith](https://osu.ppy.sh/u/1583060) | 6505.62 | 76 |
+| 285 | [kLeptO](https://osu.ppy.sh/u/2902534) | 6500.23 | 60 |
+| 286 | [Haii](https://osu.ppy.sh/u/3290152) | 6499.40 | 97 |
+| 287 | [Blackskyline](https://osu.ppy.sh/u/2176282) | 6497.98 | 44 |
+| 288 | [- Menma-](https://osu.ppy.sh/u/4392909) | 6497.79 | 57 |
+| 289 | [Summer Solstice](https://osu.ppy.sh/u/3233710) | 6491.05 | 54 |
+| 290 | [iamVill](https://osu.ppy.sh/u/6295380) | 6490.61 | 26 |
+| 291 | [AYhaz](https://osu.ppy.sh/u/1669213) | 6490.33 | 61 |
+| 292 | [Ketchup](https://osu.ppy.sh/u/4820468) | 6482.78 | 65 |
+| 293 | [Chinese_Yazi](https://osu.ppy.sh/u/5163991) | 6479.87 | 85 |
+| 294 | [[ Steph ]](https://osu.ppy.sh/u/4062170) | 6479.49 | 68 |
+| 295 | [Rewolution](https://osu.ppy.sh/u/6458028) | 6476.17 | 65 |
+| 296 | [BoT-Shirt](https://osu.ppy.sh/u/1045281) | 6473.93 | 90 |
+| 297 | [Ayane](https://osu.ppy.sh/u/4287296) | 6470.19 | 73 |
+| 298 | [[ Nano ]](https://osu.ppy.sh/u/5132353) | 6467.33 | 54 |
+| 299 | [Haruzy](https://osu.ppy.sh/u/8180920) | 6461.76 | 73 |
+| 300 | [Nexius](https://osu.ppy.sh/u/5166438) | 6459.42 | 51 |
+| 301 | [jtpetino](https://osu.ppy.sh/u/3824934) | 6458.92 | 68 |
+| 302 | [Stein](https://osu.ppy.sh/u/7375340) | 6457.41 | 94 |
+| 303 | [Mentalol](https://osu.ppy.sh/u/6877456) | 6453.92 | 77 |
+| 304 | [-Ryan-](https://osu.ppy.sh/u/2765201) | 6453.81 | 56 |
+| 305 | [Beenrz](https://osu.ppy.sh/u/3865674) | 6453.23 | 62 |
+| 306 | [NPJn00bs](https://osu.ppy.sh/u/4960191) | 6447.05 | 69 |
+| 307 | [Mira-san](https://osu.ppy.sh/u/1587999) | 6446.30 | 34 |
+| 308 | [Yohei](https://osu.ppy.sh/u/4096595) | 6445.07 | 41 |
+| 309 | [LastKiss](https://osu.ppy.sh/u/1510670) | 6443.39 | 66 |
+| 310 | [MightyDJ](https://osu.ppy.sh/u/4329544) | 6442.71 | 87 |
+| 311 | [tomatoh4wk](https://osu.ppy.sh/u/4598564) | 6441.29 | 62 |
+| 312 | [Colors](https://osu.ppy.sh/u/2468171) | 6441.21 | 47 |
+| 313 | [-HERO-](https://osu.ppy.sh/u/1884516) | 6439.44 | 31 |
+| 314 | [W3CAT der Gott](https://osu.ppy.sh/u/2070822) | 6433.17 | 33 |
+| 315 | [jiantz](https://osu.ppy.sh/u/330252) | 6428.62 | 96 |
+| 316 | [My Angel Yaz](https://osu.ppy.sh/u/4117142) | 6419.83 | 35 |
+| 317 | [EpIcRaPtOr](https://osu.ppy.sh/u/2424857) | 6412.97 | 96 |
+| 318 | [Peekamoo](https://osu.ppy.sh/u/2337263) | 6412.70 | 55 |
+| 319 | [Lunarsol](https://osu.ppy.sh/u/6622650) | 6412.20 | 53 |
+| 320 | [GaTu](https://osu.ppy.sh/u/3583351) | 6412.10 | 45 |
+| 321 | [hard to freeze](https://osu.ppy.sh/u/448316) | 6409.03 | 97 |
+| 322 | [YuyuKo sama](https://osu.ppy.sh/u/234788) | 6406.10 | 50 |
+| 323 | [SkyzWai-](https://osu.ppy.sh/u/2353581) | 6404.94 | 41 |
+| 324 | [Super](https://osu.ppy.sh/u/4605144) | 6404.39 | 89 |
+| 325 | [aegishield3](https://osu.ppy.sh/u/4577373) | 6400.16 | 46 |
+| 326 | [Cato](https://osu.ppy.sh/u/6225420) | 6397.07 | 87 |
+| 327 | [-Haunted-](https://osu.ppy.sh/u/4454456) | 6396.09 | 74 |
+| 328 | [PikaPwn](https://osu.ppy.sh/u/2012453) | 6388.24 | 35 |
+| 329 | [Shiroi Yami](https://osu.ppy.sh/u/6465273) | 6386.84 | 77 |
+| 330 | [GHAngeloid](https://osu.ppy.sh/u/2792595) | 6386.57 | 33 |
+| 331 | [Visemir](https://osu.ppy.sh/u/4846616) | 6384.79 | 65 |
+| 332 | [laibin](https://osu.ppy.sh/u/467759) | 6380.58 | 59 |
+| 333 | [AtHeoN](https://osu.ppy.sh/u/1770367) | 6380.02 | 28 |
+| 334 | [5231_Kinoko](https://osu.ppy.sh/u/181057) | 6374.42 | 44 |
+| 335 | [CookEasy](https://osu.ppy.sh/u/453226) | 6374.21 | 57 |
+| 336 | [KurouHei](https://osu.ppy.sh/u/4956643) | 6360.95 | 84 |
+| 337 | [Derposoft](https://osu.ppy.sh/u/5024528) | 6356.13 | 38 |
+| 338 | [[banana]](https://osu.ppy.sh/u/1934445) | 6355.00 | 62 |
+| 339 | [qtz](https://osu.ppy.sh/u/7348524) | 6354.60 | 50 |
+| 340 | [skySoranano](https://osu.ppy.sh/u/2380030) | 6353.17 | 46 |
+| 341 | [iYiyo](https://osu.ppy.sh/u/3919785) | 6342.23 | 75 |
+| 342 | [-GN](https://osu.ppy.sh/u/895581) | 6342.12 | 35 |
+| 343 | [Talbadar](https://osu.ppy.sh/u/741407) | 6340.77 | 78 |
+| 344 | [_derp](https://osu.ppy.sh/u/6168403) | 6339.15 | 58 |
+| 345 | [001thefish](https://osu.ppy.sh/u/4121535) | 6334.05 | 50 |
+| 346 | [whosHxrtz](https://osu.ppy.sh/u/4634953) | 6330.62 | 90 |
+| 347 | [randomizer89](https://osu.ppy.sh/u/648613) | 6321.31 | 85 |
+| 348 | [Distracted](https://osu.ppy.sh/u/5586567) | 6318.84 | 62 |
+| 349 | [imPriDex](https://osu.ppy.sh/u/5359223) | 6316.38 | 88 |
+| 350 | [Slips](https://osu.ppy.sh/u/7438108) | 6316.12 | 66 |
+| 351 | [Diallo](https://osu.ppy.sh/u/3695865) | 6315.19 | 41 |
+| 352 | [okinamo](https://osu.ppy.sh/u/3765989) | 6311.76 | 41 |
+| 353 | [Kyatami](https://osu.ppy.sh/u/7801022) | 6310.68 | 86 |
+| 354 | [_vu69](https://osu.ppy.sh/u/2345079) | 6310.00 | 64 |
+| 355 | [Usotsuki](https://osu.ppy.sh/u/4450960) | 6306.38 | 78 |
+| 356 | [My Girl Ruri 96](https://osu.ppy.sh/u/4789153) | 6302.32 | 92 |
+| 357 | [Endie-](https://osu.ppy.sh/u/6156216) | 6298.35 | 48 |
+| 358 | [-Babixz-](https://osu.ppy.sh/u/4984632) | 6295.25 | 93 |
+| 359 | [fs000](https://osu.ppy.sh/u/614138) | 6293.86 | 51 |
+| 360 | [Goodstein](https://osu.ppy.sh/u/7318540) | 6291.06 | 85 |
+| 361 | [Lovestruck](https://osu.ppy.sh/u/5691595) | 6289.77 | 33 |
+| 362 | [Kert](https://osu.ppy.sh/u/119933) | 6289.42 | 59 |
+| 363 | [Fl0nka](https://osu.ppy.sh/u/3737611) | 6283.36 | 54 |
+| 364 | [RhuvRCZ](https://osu.ppy.sh/u/6736010) | 6280.40 | 47 |
+| 365 | [-Danya-](https://osu.ppy.sh/u/7773513) | 6276.78 | 82 |
+| 366 | [rosshi](https://osu.ppy.sh/u/6224704) | 6274.58 | 48 |
+| 367 | [Aeril](https://osu.ppy.sh/u/4334976) | 6271.32 | 33 |
+| 368 | [FzimoNN](https://osu.ppy.sh/u/1937445) | 6270.99 | 48 |
+| 369 | [Raindrop](https://osu.ppy.sh/u/1155871) | 6270.81 | 38 |
+| 370 | [-DarkAngel-](https://osu.ppy.sh/u/6646894) | 6267.74 | 70 |
+| 371 | [Sickoh](https://osu.ppy.sh/u/5411474) | 6265.69 | 35 |
+| 372 | [wallyk](https://osu.ppy.sh/u/7264641) | 6265.07 | 67 |
+| 373 | [xFluffyo](https://osu.ppy.sh/u/8397226) | 6257.85 | 66 |
+| 374 | [SyeruP](https://osu.ppy.sh/u/1725495) | 6255.36 | 76 |
+| 375 | [xasuma](https://osu.ppy.sh/u/3172980) | 6254.34 | 45 |
+| 376 | [Yumeko](https://osu.ppy.sh/u/5198953) | 6250.07 | 94 |
+| 377 | [TrySail](https://osu.ppy.sh/u/2238234) | 6245.40 | 53 |
+| 378 | [-o-](https://osu.ppy.sh/u/5295272) | 6244.15 | 62 |
+| 379 | [Wynner](https://osu.ppy.sh/u/4657263) | 6243.85 | 50 |
+| 380 | [AxewB](https://osu.ppy.sh/u/4928776) | 6241.38 | 32 |
+| 381 | [SevenTeen-](https://osu.ppy.sh/u/1859195) | 6234.44 | 54 |
+| 382 | [Oreon](https://osu.ppy.sh/u/4674207) | 6233.48 | 51 |
+| 383 | [turretxbuddy](https://osu.ppy.sh/u/2203646) | 6229.43 | 87 |
+| 384 | [respektive](https://osu.ppy.sh/u/1023489) | 6226.43 | 51 |
+| 385 | [kolgar](https://osu.ppy.sh/u/3123488) | 6223.03 | 72 |
+| 386 | [Yuzuru](https://osu.ppy.sh/u/2153336) | 6220.69 | 45 |
+| 387 | [H Y D R A](https://osu.ppy.sh/u/4403272) | 6217.78 | 63 |
+| 388 | [Seto Kousuke](https://osu.ppy.sh/u/2857314) | 6217.51 | 65 |
+| 389 | [Zallopomo](https://osu.ppy.sh/u/5741437) | 6211.77 | 43 |
+| 390 | [Myjowski](https://osu.ppy.sh/u/3983028) | 6210.03 | 65 |
+| 391 | [oshon](https://osu.ppy.sh/u/3962718) | 6209.33 | 100 |
+| 392 | [Jup3KW](https://osu.ppy.sh/u/5424170) | 6208.50 | 98 |
+| 393 | [v6842951370](https://osu.ppy.sh/u/1021342) | 6203.49 | 75 |
+| 394 | [Kouhai](https://osu.ppy.sh/u/3054147) | 6191.92 | 81 |
+| 395 | [Franc[e]sco](https://osu.ppy.sh/u/157972) | 6190.30 | 73 |
+| 396 | [Phenomenol](https://osu.ppy.sh/u/5247739) | 6186.98 | 67 |
+| 397 | [-raizen-](https://osu.ppy.sh/u/3872987) | 6186.50 | 29 |
+| 398 | [Great Banter](https://osu.ppy.sh/u/3112472) | 6182.95 | 82 |
+| 399 | [Athenai](https://osu.ppy.sh/u/5522789) | 6182.73 | 88 |
+| 400 | [elchxyrlia](https://osu.ppy.sh/u/1722835) | 6182.00 | 43 |
+| 401 | [e7793279](https://osu.ppy.sh/u/5982133) | 6179.66 | 51 |
+| 402 | [brain damage](https://osu.ppy.sh/u/3065571) | 6179.27 | 41 |
+| 403 | [Idealism](https://osu.ppy.sh/u/3869519) | 6177.94 | 36 |
+| 404 | [jeydude](https://osu.ppy.sh/u/2145193) | 6177.08 | 44 |
+| 405 | [c-atsuit](https://osu.ppy.sh/u/6904819) | 6171.06 | 54 |
+| 406 | [Alecto](https://osu.ppy.sh/u/1215045) | 6168.63 | 97 |
+| 407 | [Vendemmia](https://osu.ppy.sh/u/139670) | 6167.48 | 49 |
+| 408 | [Nagata](https://osu.ppy.sh/u/2158499) | 6156.75 | 88 |
+| 409 | [Suuchi](https://osu.ppy.sh/u/6261734) | 6155.88 | 87 |
+| 410 | [minus](https://osu.ppy.sh/u/4856562) | 6155.07 | 42 |
+| 411 | [HI_IM_TENMA](https://osu.ppy.sh/u/1544433) | 6152.98 | 66 |
+| 412 | [Blank-](https://osu.ppy.sh/u/3394763) | 6150.76 | 40 |
+| 413 | [Reazen](https://osu.ppy.sh/u/3053670) | 6149.44 | 91 |
+| 414 | [Warrock](https://osu.ppy.sh/u/2841744) | 6145.46 | 28 |
+| 415 | [S-e r v a l y](https://osu.ppy.sh/u/3544281) | 6144.72 | 45 |
+| 416 | [Sonoda-Umi](https://osu.ppy.sh/u/2197711) | 6143.70 | 32 |
+| 417 | [Tohru](https://osu.ppy.sh/u/3596296) | 6143.21 | 47 |
+| 418 | [Mihi](https://osu.ppy.sh/u/4973166) | 6143.14 | 81 |
+| 419 | [Mood Breaker](https://osu.ppy.sh/u/692065) | 6141.38 | 54 |
+| 420 | [Astrafe](https://osu.ppy.sh/u/7352219) | 6135.75 | 60 |
+| 421 | [Sparda](https://osu.ppy.sh/u/2308331) | 6121.70 | 90 |
+| 422 | [Pupper](https://osu.ppy.sh/u/3055278) | 6117.46 | 35 |
+| 423 | [Deyv](https://osu.ppy.sh/u/4063127) | 6112.64 | 52 |
+| 424 | [Kipley](https://osu.ppy.sh/u/2372045) | 6109.38 | 80 |
+| 425 | [Happy New Year](https://osu.ppy.sh/u/4600341) | 6107.26 | 28 |
+| 426 | [Sanko](https://osu.ppy.sh/u/3286679) | 6106.38 | 58 |
+| 427 | [wooz](https://osu.ppy.sh/u/6888206) | 6105.88 | 50 |
+| 428 | [WardoX](https://osu.ppy.sh/u/2649393) | 6104.53 | 45 |
+| 429 | [Kurtzilllaaa](https://osu.ppy.sh/u/5042825) | 6101.35 | 56 |
+| 430 | [Clyine](https://osu.ppy.sh/u/1275211) | 6100.89 | 54 |
+| 431 | [Will Stetson](https://osu.ppy.sh/u/4909088) | 6098.71 | 84 |
+| 432 | [Zodark](https://osu.ppy.sh/u/2295902) | 6097.91 | 54 |
+| 433 | [pooptartsonas](https://osu.ppy.sh/u/1334453) | 6095.22 | 84 |
+| 434 | [Melanch0wl](https://osu.ppy.sh/u/3123773) | 6093.00 | 89 |
+| 435 | [Italo](https://osu.ppy.sh/u/1164677) | 6091.78 | 47 |
+| 436 | [Pyrocks](https://osu.ppy.sh/u/5879559) | 6090.05 | 44 |
+| 437 | [MakaPunchaYo](https://osu.ppy.sh/u/4955458) | 6086.98 | 72 |
+| 438 | [DvxNL](https://osu.ppy.sh/u/3440388) | 6086.33 | 42 |
+| 439 | [[ Umaruun ]](https://osu.ppy.sh/u/4734632) | 6083.87 | 33 |
+| 440 | [haruurara222](https://osu.ppy.sh/u/85491) | 6076.46 | 65 |
+| 441 | [[ YukiNone ]](https://osu.ppy.sh/u/3916547) | 6074.99 | 46 |
+| 442 | [- Carl -](https://osu.ppy.sh/u/2140681) | 6073.46 | 45 |
+| 443 | [Naxurin](https://osu.ppy.sh/u/3589423) | 6070.69 | 44 |
+| 444 | [Flezlin](https://osu.ppy.sh/u/3696423) | 6065.06 | 51 |
+| 445 | [Deezy](https://osu.ppy.sh/u/6839736) | 6063.99 | 70 |
+| 446 | [Sadness](https://osu.ppy.sh/u/6560835) | 6061.65 | 29 |
+| 447 | [Cebrian](https://osu.ppy.sh/u/6131130) | 6060.50 | 65 |
+| 448 | [waezone](https://osu.ppy.sh/u/4953679) | 6058.85 | 72 |
+| 449 | [Wucki](https://osu.ppy.sh/u/5287410) | 6056.09 | 31 |
+| 450 | [Tenori-Taiga](https://osu.ppy.sh/u/2445162) | 6052.72 | 86 |
+| 451 | [[ Larssen ]](https://osu.ppy.sh/u/5784075) | 6048.67 | 37 |
+| 452 | [Tengu](https://osu.ppy.sh/u/380836) | 6045.01 | 39 |
+| 453 | [My Angel Kouko](https://osu.ppy.sh/u/1429071) | 6044.65 | 49 |
+| 454 | [Regal04](https://osu.ppy.sh/u/4461847) | 6037.77 | 56 |
+| 455 | [LLoyd-chan](https://osu.ppy.sh/u/2849149) | 6032.60 | 43 |
+| 456 | [DEK-](https://osu.ppy.sh/u/8276502) | 6030.21 | 71 |
+| 457 | [Digrick](https://osu.ppy.sh/u/2985092) | 6023.80 | 49 |
+| 458 | [gijs123a](https://osu.ppy.sh/u/3631885) | 6023.01 | 77 |
+| 459 | [Guffie](https://osu.ppy.sh/u/6076451) | 6019.31 | 50 |
+| 460 | [Radiateur](https://osu.ppy.sh/u/4862938) | 6016.42 | 48 |
+| 461 | [Dzyre](https://osu.ppy.sh/u/2456599) | 6010.40 | 51 |
+| 462 | [Ritka](https://osu.ppy.sh/u/7845894) | 5998.45 | 67 |
+| 463 | [Pan Oishii](https://osu.ppy.sh/u/3070426) | 5993.31 | 71 |
+| 464 | [SodaCatz](https://osu.ppy.sh/u/1483659) | 5989.88 | 56 |
+| 465 | [fabriciorby](https://osu.ppy.sh/u/209664) | 5983.13 | 29 |
+| 466 | [hshs](https://osu.ppy.sh/u/1644514) | 5980.91 | 25 |
+| 467 | [RealCuT](https://osu.ppy.sh/u/1610850) | 5980.42 | 40 |
+| 468 | [Onii Chan](https://osu.ppy.sh/u/3759172) | 5978.82 | 95 |
+| 469 | [Conyoh](https://osu.ppy.sh/u/4844496) | 5978.08 | 48 |
+| 470 | [Irixo](https://osu.ppy.sh/u/6566698) | 5977.31 | 72 |
+| 471 | [Rzzzzz](https://osu.ppy.sh/u/1874014) | 5976.98 | 73 |
+| 472 | [DukeOfDoom](https://osu.ppy.sh/u/3347903) | 5973.49 | 54 |
+| 473 | [SpellStorm](https://osu.ppy.sh/u/4249778) | 5969.64 | 53 |
+| 474 | [Dakke](https://osu.ppy.sh/u/3334945) | 5969.45 | 51 |
+| 475 | [realslim](https://osu.ppy.sh/u/2374682) | 5963.77 | 74 |
+| 476 | [AvPXx](https://osu.ppy.sh/u/4647831) | 5961.48 | 71 |
+| 477 | [Turbo-Tapczan](https://osu.ppy.sh/u/4947742) | 5960.99 | 68 |
+| 478 | [FlySlime](https://osu.ppy.sh/u/3876402) | 5957.97 | 29 |
+| 479 | [nrl](https://osu.ppy.sh/u/1138435) | 5939.85 | 94 |
+| 480 | [[Soope]](https://osu.ppy.sh/u/4909240) | 5936.21 | 78 |
+| 481 | [WhiteLily](https://osu.ppy.sh/u/4060366) | 5929.43 | 45 |
+| 482 | [Faylie](https://osu.ppy.sh/u/5041722) | 5921.03 | 55 |
+| 483 | [Safira](https://osu.ppy.sh/u/5085555) | 5919.92 | 83 |
+| 484 | [PeaChick](https://osu.ppy.sh/u/213014) | 5917.68 | 47 |
+| 485 | [FllareA](https://osu.ppy.sh/u/1163931) | 5917.43 | 28 |
+| 486 | [Pavkil](https://osu.ppy.sh/u/2677809) | 5911.01 | 44 |
+| 487 | [NoNameAlter](https://osu.ppy.sh/u/2206079) | 5910.76 | 64 |
+| 488 | [Hanburgeric](https://osu.ppy.sh/u/5379557) | 5910.21 | 75 |
+| 489 | [Alleros](https://osu.ppy.sh/u/4258689) | 5907.52 | 42 |
+| 490 | [MrGloves](https://osu.ppy.sh/u/4097769) | 5905.11 | 75 |
+| 491 | [snowbliss](https://osu.ppy.sh/u/3535601) | 5904.67 | 69 |
+| 492 | [Antipathy](https://osu.ppy.sh/u/2795520) | 5900.91 | 79 |
+| 493 | [ShuFunG-](https://osu.ppy.sh/u/7785421) | 5900.29 | 41 |
+| 494 | [Potofu](https://osu.ppy.sh/u/657404) | 5899.07 | 36 |
+| 495 | [YuaKKuma](https://osu.ppy.sh/u/655545) | 5897.68 | 48 |
+| 496 | [Dare](https://osu.ppy.sh/u/3953269) | 5895.74 | 46 |
+| 497 | [Kulezi](https://osu.ppy.sh/u/2603251) | 5895.47 | 37 |
+| 498 | [xXGrimmsXx](https://osu.ppy.sh/u/4476949) | 5892.01 | 47 |
+| 499 | [rapiersux](https://osu.ppy.sh/u/3477450) | 5891.33 | 93 |
+| 500 | [[ Matcha ]](https://osu.ppy.sh/u/2489146) | 5887.91 | 97 |
+| 501 | [ededed028](https://osu.ppy.sh/u/3932796) | 5883.19 | 31 |
+| 502 | [Linckey](https://osu.ppy.sh/u/982778) | 5882.54 | 62 |
+| 503 | [MetoA](https://osu.ppy.sh/u/3909629) | 5882.12 | 26 |
+| 504 | [koksu0123](https://osu.ppy.sh/u/4180985) | 5879.89 | 33 |
+| 505 | [Tomadoi](https://osu.ppy.sh/u/5712451) | 5879.62 | 32 |
+| 506 | [st0nebull](https://osu.ppy.sh/u/3214055) | 5877.99 | 73 |
+| 507 | [Xim](https://osu.ppy.sh/u/2083664) | 5877.51 | 46 |
+| 508 | [Tiger Claw](https://osu.ppy.sh/u/2064445) | 5876.06 | 26 |
+| 509 | [thr1ve](https://osu.ppy.sh/u/55378) | 5873.22 | 88 |
+| 510 | [kuroino[ni-so]](https://osu.ppy.sh/u/5123426) | 5873.12 | 45 |
+| 511 | [oohily](https://osu.ppy.sh/u/551450) | 5872.86 | 31 |
+| 512 | [Corelith](https://osu.ppy.sh/u/4695530) | 5871.63 | 40 |
+| 513 | [Shiina Noriko](https://osu.ppy.sh/u/1285637) | 5870.38 | 27 |
+| 514 | [xXKorreal420Xx](https://osu.ppy.sh/u/4470107) | 5864.41 | 48 |
+| 515 | [Abolaspany](https://osu.ppy.sh/u/4261853) | 5861.25 | 55 |
+| 516 | [Browsco](https://osu.ppy.sh/u/4464941) | 5860.06 | 62 |
+| 517 | [ahegao](https://osu.ppy.sh/u/4766423) | 5858.46 | 44 |
+| 518 | [Baim](https://osu.ppy.sh/u/4740488) | 5852.07 | 37 |
+| 519 | [[ KamKurGi521 ]](https://osu.ppy.sh/u/4511522) | 5849.94 | 30 |
+| 520 | [Oxia](https://osu.ppy.sh/u/1825928) | 5849.30 | 35 |
+| 521 | [[ -Ichor- ]](https://osu.ppy.sh/u/4751678) | 5838.33 | 44 |
+| 522 | [[Custer]](https://osu.ppy.sh/u/7100967) | 5832.34 | 38 |
+| 523 | [Fione](https://osu.ppy.sh/u/2258778) | 5831.51 | 81 |
+| 524 | [Pein](https://osu.ppy.sh/u/2212941) | 5824.42 | 29 |
+| 525 | [Toumei Dragon](https://osu.ppy.sh/u/6673830) | 5824.09 | 53 |
+| 526 | [MrFluffy](https://osu.ppy.sh/u/6462592) | 5814.36 | 51 |
+| 527 | [Morgan](https://osu.ppy.sh/u/4466673) | 5802.28 | 70 |
+| 528 | [ObviousBBQ](https://osu.ppy.sh/u/4100144) | 5798.93 | 45 |
+| 529 | [Kokoronashi](https://osu.ppy.sh/u/6467881) | 5793.09 | 66 |
+| 530 | [ZeCryptic](https://osu.ppy.sh/u/3381441) | 5792.72 | 48 |
+| 531 | [Playboy](https://osu.ppy.sh/u/2165558) | 5791.79 | 39 |
+| 532 | [Drezi](https://osu.ppy.sh/u/3936645) | 5784.17 | 48 |
+| 533 | [Gate](https://osu.ppy.sh/u/2943282) | 5782.62 | 39 |
+| 534 | [Fl0master1337](https://osu.ppy.sh/u/2964008) | 5780.12 | 43 |
+| 535 | [yuiko225](https://osu.ppy.sh/u/6542953) | 5779.90 | 82 |
+| 536 | [Bradley](https://osu.ppy.sh/u/1219567) | 5778.62 | 79 |
+| 537 | [rezfud](https://osu.ppy.sh/u/834377) | 5769.64 | 45 |
+| 538 | [MAJINAx](https://osu.ppy.sh/u/669808) | 5767.28 | 35 |
+| 539 | [Blitzcrieg](https://osu.ppy.sh/u/3831003) | 5764.41 | 71 |
+| 540 | [Koller](https://osu.ppy.sh/u/687325) | 5764.33 | 63 |
+| 541 | [----](https://osu.ppy.sh/u/4304495) | 5763.01 | 34 |
+| 542 | [Xtra](https://osu.ppy.sh/u/4255229) | 5762.74 | 36 |
+| 543 | [Maozis](https://osu.ppy.sh/u/1968452) | 5759.52 | 33 |
+| 544 | [WilczekCK](https://osu.ppy.sh/u/2427116) | 5759.05 | 86 |
+| 545 | [6974892](https://osu.ppy.sh/u/4006126) | 5758.99 | 74 |
+| 546 | [Floob](https://osu.ppy.sh/u/3997200) | 5758.23 | 46 |
+| 547 | [ZeChan](https://osu.ppy.sh/u/925752) | 5756.73 | 98 |
+| 548 | [soondevil](https://osu.ppy.sh/u/2352568) | 5754.25 | 42 |
+| 549 | [Chewin](https://osu.ppy.sh/u/617323) | 5751.85 | 31 |
+| 550 | [Kanwa](https://osu.ppy.sh/u/2197761) | 5750.30 | 37 |
+| 551 | [yaboytanner](https://osu.ppy.sh/u/4718170) | 5750.24 | 51 |
+| 552 | [Drummer](https://osu.ppy.sh/u/4102249) | 5749.05 | 79 |
+| 553 | [Phantasm](https://osu.ppy.sh/u/3961178) | 5746.69 | 64 |
+| 554 | [Spellsman](https://osu.ppy.sh/u/6900708) | 5745.09 | 87 |
+| 555 | [Neyphym](https://osu.ppy.sh/u/764889) | 5744.49 | 50 |
+| 556 | [Vergnobyl](https://osu.ppy.sh/u/2212376) | 5743.55 | 73 |
+| 557 | [yandri](https://osu.ppy.sh/u/3824470) | 5740.75 | 47 |
+| 558 | [OwocekTV](https://osu.ppy.sh/u/3886973) | 5740.33 | 48 |
+| 559 | [vick](https://osu.ppy.sh/u/4729546) | 5738.32 | 36 |
+| 560 | [Endu](https://osu.ppy.sh/u/4984843) | 5737.90 | 43 |
+| 561 | [Grappoz](https://osu.ppy.sh/u/4984199) | 5737.38 | 29 |
+| 562 | [Hellstorm](https://osu.ppy.sh/u/4796838) | 5736.56 | 68 |
+| 563 | [Mahou Shoujo](https://osu.ppy.sh/u/3343383) | 5729.23 | 81 |
+| 564 | [xElectroGH](https://osu.ppy.sh/u/3251373) | 5715.81 | 27 |
+| 565 | [LeQuack](https://osu.ppy.sh/u/7121588) | 5714.30 | 42 |
+| 566 | [Patriot720](https://osu.ppy.sh/u/5652163) | 5710.46 | 64 |
+| 567 | [Shiny Chariot](https://osu.ppy.sh/u/3115283) | 5710.20 | 29 |
+| 568 | [_AvA](https://osu.ppy.sh/u/7058132) | 5708.39 | 27 |
+| 569 | [Appleti](https://osu.ppy.sh/u/3889843) | 5708.03 | 35 |
+| 570 | [P R O C C E S S](https://osu.ppy.sh/u/3559516) | 5707.21 | 72 |
+| 571 | [Kroudon](https://osu.ppy.sh/u/7186833) | 5705.64 | 45 |
+| 572 | [[-Lockon-]](https://osu.ppy.sh/u/6726331) | 5701.31 | 26 |
+| 573 | [-Stoney](https://osu.ppy.sh/u/2785209) | 5700.47 | 70 |
+| 574 | [Meet](https://osu.ppy.sh/u/2003720) | 5699.63 | 43 |
+| 575 | [Ashes](https://osu.ppy.sh/u/6914639) | 5699.43 | 45 |
+| 576 | [Mango Berry](https://osu.ppy.sh/u/2400120) | 5693.63 | 82 |
+| 577 | [E n d](https://osu.ppy.sh/u/5942615) | 5693.32 | 47 |
+| 578 | [beeco](https://osu.ppy.sh/u/1424884) | 5692.39 | 72 |
+| 579 | [Potla](https://osu.ppy.sh/u/1788022) | 5690.85 | 58 |
+| 580 | [ImpurePug](https://osu.ppy.sh/u/3124248) | 5689.39 | 52 |
+| 581 | [-P0INT-](https://osu.ppy.sh/u/751908) | 5688.85 | 35 |
+| 582 | [byFlowee](https://osu.ppy.sh/u/2395241) | 5688.30 | 91 |
+| 583 | [Qchan](https://osu.ppy.sh/u/3847274) | 5685.95 | 40 |
+| 584 | [Kasztann](https://osu.ppy.sh/u/6231778) | 5681.30 | 44 |
+| 585 | [Mijn Aim Zuigt](https://osu.ppy.sh/u/4587487) | 5679.88 | 44 |
+| 586 | [Loli_Silica](https://osu.ppy.sh/u/1807167) | 5678.54 | 22 |
+| 587 | [gbacca](https://osu.ppy.sh/u/4848423) | 5678.34 | 47 |
+| 588 | [reg](https://osu.ppy.sh/u/2335982) | 5673.73 | 45 |
+| 589 | [DizzeY](https://osu.ppy.sh/u/2928305) | 5673.12 | 80 |
+| 590 | [Pengzy](https://osu.ppy.sh/u/4215187) | 5670.18 | 45 |
+| 591 | [Blondazz](https://osu.ppy.sh/u/6415654) | 5669.28 | 45 |
+| 592 | [_Xancos_](https://osu.ppy.sh/u/6787759) | 5664.89 | 31 |
+| 593 | [rnfma6228](https://osu.ppy.sh/u/8351538) | 5663.84 | 36 |
+| 594 | [KyoshiDeath](https://osu.ppy.sh/u/6314143) | 5662.77 | 45 |
+| 595 | [_Kumiko-chan_](https://osu.ppy.sh/u/6673790) | 5659.05 | 33 |
+| 596 | [OsuVil](https://osu.ppy.sh/u/4217546) | 5653.74 | 47 |
+| 597 | [xDark Magician](https://osu.ppy.sh/u/5327943) | 5650.71 | 54 |
+| 598 | [stalkyh](https://osu.ppy.sh/u/7717233) | 5650.63 | 94 |
+| 599 | [TB 358](https://osu.ppy.sh/u/3632016) | 5650.38 | 49 |
+| 600 | [juliancala](https://osu.ppy.sh/u/3272902) | 5647.94 | 55 |
+| 601 | [OneRing](https://osu.ppy.sh/u/5968647) | 5645.40 | 58 |
+| 602 | [Cinia Arctica](https://osu.ppy.sh/u/6385613) | 5644.76 | 48 |
+| 603 | [Conserve](https://osu.ppy.sh/u/6206454) | 5643.18 | 68 |
+| 604 | [Aotoleen](https://osu.ppy.sh/u/3162741) | 5641.18 | 34 |
+| 605 | [[Suiseiseki]](https://osu.ppy.sh/u/3963109) | 5638.19 | 95 |
+| 606 | [Free yourself](https://osu.ppy.sh/u/3983814) | 5637.55 | 71 |
+| 607 | [Equitler](https://osu.ppy.sh/u/4818510) | 5637.29 | 42 |
+| 608 | [Luskor](https://osu.ppy.sh/u/3807032) | 5636.48 | 56 |
+| 609 | [Genostriker](https://osu.ppy.sh/u/7518347) | 5635.72 | 49 |
+| 610 | [Neet_o](https://osu.ppy.sh/u/5336113) | 5633.90 | 89 |
+| 611 | [linkos](https://osu.ppy.sh/u/5890019) | 5633.34 | 50 |
+| 612 | [DualAkira](https://osu.ppy.sh/u/5220933) | 5627.35 | 26 |
+| 613 | [xPoison](https://osu.ppy.sh/u/5726405) | 5627.09 | 73 |
+| 614 | [408](https://osu.ppy.sh/u/2487447) | 5625.09 | 81 |
+| 615 | [Arkamy](https://osu.ppy.sh/u/1917516) | 5622.92 | 50 |
+| 616 | [xChorse](https://osu.ppy.sh/u/2217628) | 5621.40 | 55 |
+| 617 | [[ Arika ]](https://osu.ppy.sh/u/4791294) | 5621.37 | 97 |
+| 618 | [Muuki](https://osu.ppy.sh/u/2482261) | 5620.77 | 36 |
+| 619 | [My Angel Gordon](https://osu.ppy.sh/u/83114) | 5620.69 | 49 |
+| 620 | [iMinimal](https://osu.ppy.sh/u/2567768) | 5620.53 | 46 |
+| 621 | [cappuChino](https://osu.ppy.sh/u/3215546) | 5618.59 | 59 |
+| 622 | [Ai_SiN](https://osu.ppy.sh/u/4928691) | 5616.36 | 72 |
+| 623 | [Alacartx](https://osu.ppy.sh/u/1959767) | 5615.44 | 53 |
+| 624 | [MarianCap [AR]](https://osu.ppy.sh/u/7400150) | 5608.90 | 79 |
+| 625 | [Aviaty](https://osu.ppy.sh/u/8957275) | 5598.72 | 56 |
+| 626 | [nadesico](https://osu.ppy.sh/u/634035) | 5597.87 | 80 |
+| 627 | [diciestaking](https://osu.ppy.sh/u/5701369) | 5597.37 | 29 |
+| 628 | [Sonix](https://osu.ppy.sh/u/4029000) | 5596.83 | 27 |
+| 629 | [Scuderia-](https://osu.ppy.sh/u/2704753) | 5595.93 | 52 |
+| 630 | [natnat](https://osu.ppy.sh/u/4073754) | 5594.82 | 42 |
+| 631 | [Volcanism](https://osu.ppy.sh/u/2316751) | 5594.03 | 52 |
+| 632 | [Pozepi](https://osu.ppy.sh/u/2265659) | 5593.51 | 53 |
+| 633 | [Fuyu HaNa](https://osu.ppy.sh/u/2667239) | 5592.99 | 39 |
+| 634 | [Titus](https://osu.ppy.sh/u/2014867) | 5590.04 | 28 |
+| 635 | [[Haku]](https://osu.ppy.sh/u/2329184) | 5589.02 | 50 |
+| 636 | [Straszna Bzdura](https://osu.ppy.sh/u/1712900) | 5588.65 | 61 |
+| 637 | [Gwishki](https://osu.ppy.sh/u/3765098) | 5585.29 | 46 |
+| 638 | [bbackspinblow](https://osu.ppy.sh/u/3515347) | 5584.35 | 34 |
+| 639 | [Saferon](https://osu.ppy.sh/u/1825822) | 5582.97 | 55 |
+| 640 | [Torrito](https://osu.ppy.sh/u/4609869) | 5572.85 | 51 |
+| 641 | [Trygve](https://osu.ppy.sh/u/4302206) | 5567.17 | 51 |
+| 642 | [Yumbtah](https://osu.ppy.sh/u/2784663) | 5563.66 | 42 |
+| 643 | [Vento](https://osu.ppy.sh/u/4796794) | 5561.68 | 29 |
+| 644 | [Snorlaax](https://osu.ppy.sh/u/3820683) | 5560.13 | 23 |
+| 645 | [Agni](https://osu.ppy.sh/u/4808281) | 5559.34 | 26 |
+| 646 | [- Ninef -](https://osu.ppy.sh/u/2610325) | 5556.32 | 45 |
+| 647 | [davidercool](https://osu.ppy.sh/u/4043420) | 5552.71 | 60 |
+| 648 | [Amane-](https://osu.ppy.sh/u/2276847) | 5549.59 | 33 |
+| 649 | [Treekii](https://osu.ppy.sh/u/1998030) | 5549.27 | 43 |
+| 650 | [[ Niku ]](https://osu.ppy.sh/u/4325547) | 5544.22 | 34 |
+| 651 | [Doritos](https://osu.ppy.sh/u/2890714) | 5543.87 | 99 |
+| 652 | [Andrew](https://osu.ppy.sh/u/1776275) | 5542.29 | 31 |
+| 653 | [he rack](https://osu.ppy.sh/u/2644828) | 5540.11 | 22 |
+| 654 | [872316468](https://osu.ppy.sh/u/3504594) | 5539.35 | 30 |
+| 655 | [Lolixir](https://osu.ppy.sh/u/8268075) | 5539.21 | 38 |
+| 656 | [Ro Neko](https://osu.ppy.sh/u/4068003) | 5538.55 | 38 |
+| 657 | [Everywhere](https://osu.ppy.sh/u/7942443) | 5535.75 | 43 |
+| 658 | [xxVapeWizardxx](https://osu.ppy.sh/u/2799835) | 5531.49 | 83 |
+| 659 | [GitahMuttan](https://osu.ppy.sh/u/2706715) | 5531.03 | 47 |
+| 660 | [Celstea](https://osu.ppy.sh/u/704047) | 5530.76 | 65 |
+| 661 | [Fixr](https://osu.ppy.sh/u/2762603) | 5529.33 | 39 |
+| 662 | [zakipwnz](https://osu.ppy.sh/u/1612947) | 5525.82 | 39 |
+| 663 | [mugio3](https://osu.ppy.sh/u/491522) | 5525.32 | 35 |
+| 664 | [Morrowind](https://osu.ppy.sh/u/4433108) | 5518.51 | 40 |
+| 665 | [- Croma -](https://osu.ppy.sh/u/1752181) | 5515.16 | 35 |
+| 666 | [Haeron](https://osu.ppy.sh/u/8082444) | 5513.07 | 69 |
+| 667 | [ReiKatt](https://osu.ppy.sh/u/5082552) | 5511.24 | 42 |
+| 668 | [Oooooo661](https://osu.ppy.sh/u/6204579) | 5510.14 | 66 |
+| 669 | [MrSergio](https://osu.ppy.sh/u/2581696) | 5509.58 | 60 |
+| 670 | [Kor3ry3-Kun](https://osu.ppy.sh/u/6279567) | 5508.85 | 42 |
+| 671 | [Snowwy](https://osu.ppy.sh/u/4393092) | 5507.40 | 58 |
+| 672 | [Shiyuri](https://osu.ppy.sh/u/6661094) | 5505.33 | 60 |
+| 673 | [Seni](https://osu.ppy.sh/u/4830261) | 5505.19 | 46 |
+| 674 | [sub_WHISTLE](https://osu.ppy.sh/u/6286388) | 5504.38 | 50 |
+| 675 | [imoo](https://osu.ppy.sh/u/7302447) | 5500.89 | 72 |
+| 676 | [-RInx-](https://osu.ppy.sh/u/1572035) | 5498.12 | 51 |
+| 677 | [[ThisUsername]](https://osu.ppy.sh/u/3971908) | 5495.23 | 49 |
+| 678 | [Yumia](https://osu.ppy.sh/u/4694829) | 5491.81 | 36 |
+| 679 | [Refrum](https://osu.ppy.sh/u/7064509) | 5490.88 | 54 |
+| 680 | [Hawkuru](https://osu.ppy.sh/u/980816) | 5485.33 | 66 |
+| 681 | [Guminis](https://osu.ppy.sh/u/4146394) | 5480.40 | 52 |
+| 682 | [Chaosu](https://osu.ppy.sh/u/5486217) | 5479.67 | 48 |
+| 683 | [Jemmmmy](https://osu.ppy.sh/u/1921587) | 5478.13 | 53 |
+| 684 | [Lirufication](https://osu.ppy.sh/u/3651111) | 5475.84 | 35 |
+| 685 | [TheTopError](https://osu.ppy.sh/u/7680516) | 5468.14 | 55 |
+| 686 | [vitoco09](https://osu.ppy.sh/u/4282963) | 5467.04 | 31 |
+| 687 | [Win](https://osu.ppy.sh/u/3166197) | 5465.04 | 51 |
+| 688 | [Hsuan_han](https://osu.ppy.sh/u/2229982) | 5464.91 | 51 |
+| 689 | [- Aki](https://osu.ppy.sh/u/5225646) | 5458.70 | 27 |
+| 690 | [Snow Wind](https://osu.ppy.sh/u/2163585) | 5458.49 | 50 |
+| 691 | [Python](https://osu.ppy.sh/u/7315928) | 5457.69 | 30 |
+| 692 | [Roksuu-](https://osu.ppy.sh/u/4290833) | 5456.60 | 57 |
+| 693 | [[ -Sora- ]](https://osu.ppy.sh/u/3373128) | 5456.50 | 54 |
+| 694 | [JAKACHAN](https://osu.ppy.sh/u/718696) | 5451.41 | 62 |
+| 695 | [Rakyero](https://osu.ppy.sh/u/137441) | 5449.97 | 27 |
+| 696 | [Nyaamara](https://osu.ppy.sh/u/1860236) | 5449.73 | 85 |
+| 697 | [Phasius](https://osu.ppy.sh/u/6561504) | 5448.47 | 71 |
+| 698 | [-Miruku-](https://osu.ppy.sh/u/4712799) | 5443.27 | 28 |
+| 699 | [-Chiyorin-](https://osu.ppy.sh/u/5164134) | 5440.95 | 75 |
+| 700 | [Kintrai](https://osu.ppy.sh/u/5221108) | 5438.57 | 41 |
+| 701 | [Insane-Senpai](https://osu.ppy.sh/u/5114537) | 5435.22 | 46 |
+| 702 | [Viveliam](https://osu.ppy.sh/u/3506793) | 5429.30 | 22 |
+| 703 | [VankaTa](https://osu.ppy.sh/u/4780525) | 5428.97 | 43 |
+| 704 | [jayK](https://osu.ppy.sh/u/2307746) | 5428.93 | 41 |
+| 705 | [velocimactor](https://osu.ppy.sh/u/5192566) | 5427.91 | 67 |
+| 706 | [My Angel Seni](https://osu.ppy.sh/u/3586792) | 5426.93 | 32 |
+| 707 | [JomoLP](https://osu.ppy.sh/u/4612408) | 5425.76 | 52 |
+| 708 | [Ramy](https://osu.ppy.sh/u/4739782) | 5423.64 | 50 |
+| 709 | [Synopse](https://osu.ppy.sh/u/4385862) | 5420.65 | 45 |
+| 710 | [thebandit56](https://osu.ppy.sh/u/2893286) | 5419.33 | 75 |
+| 711 | [YoKoNikov](https://osu.ppy.sh/u/2039647) | 5418.59 | 50 |
+| 712 | [Sashimio](https://osu.ppy.sh/u/4437710) | 5417.56 | 84 |
+| 713 | [taka33](https://osu.ppy.sh/u/6550532) | 5415.65 | 38 |
+| 714 | [America](https://osu.ppy.sh/u/2348585) | 5415.28 | 63 |
+| 715 | [Golden-Lin](https://osu.ppy.sh/u/615442) | 5414.90 | 31 |
+| 716 | [oOFrostOo](https://osu.ppy.sh/u/3869815) | 5414.36 | 56 |
+| 717 | [Alex3i2](https://osu.ppy.sh/u/7745523) | 5413.18 | 96 |
+| 718 | [Kanjer](https://osu.ppy.sh/u/2892405) | 5413.05 | 45 |
+| 719 | [Lunirs](https://osu.ppy.sh/u/2118945) | 5410.38 | 25 |
+| 720 | [Eriror](https://osu.ppy.sh/u/45444) | 5405.41 | 46 |
+| 721 | [heikneuter](https://osu.ppy.sh/u/6765641) | 5404.44 | 34 |
+| 722 | [mosvannen](https://osu.ppy.sh/u/5312766) | 5402.25 | 41 |
+| 723 | [Elco](https://osu.ppy.sh/u/2878139) | 5401.46 | 39 |
+| 724 | [Rixel](https://osu.ppy.sh/u/7082407) | 5401.42 | 83 |
+| 725 | [-Raisa](https://osu.ppy.sh/u/4566450) | 5401.16 | 35 |
+| 726 | [LukerMaster](https://osu.ppy.sh/u/2093623) | 5400.53 | 43 |
+| 727 | [teakn](https://osu.ppy.sh/u/1256768) | 5397.54 | 41 |
+| 728 | [Schabek](https://osu.ppy.sh/u/6371965) | 5392.82 | 49 |
+| 729 | [Bupi](https://osu.ppy.sh/u/2578677) | 5392.56 | 87 |
+| 730 | [Maivo](https://osu.ppy.sh/u/4403287) | 5392.31 | 34 |
+| 731 | [meibiskyper](https://osu.ppy.sh/u/1502243) | 5391.13 | 62 |
+| 732 | [Tekkito](https://osu.ppy.sh/u/7075211) | 5384.57 | 39 |
+| 733 | [21_sucks](https://osu.ppy.sh/u/3020593) | 5384.17 | 30 |
+| 734 | [lemu lemu](https://osu.ppy.sh/u/3024746) | 5383.86 | 44 |
+| 735 | [yooriko](https://osu.ppy.sh/u/4976346) | 5378.71 | 29 |
+| 736 | [Firzen](https://osu.ppy.sh/u/3543130) | 5378.13 | 29 |
+| 737 | [Vexuas](https://osu.ppy.sh/u/8772982) | 5373.74 | 100 |
+| 738 | [[Jet]](https://osu.ppy.sh/u/8497340) | 5371.87 | 41 |
+| 739 | [Alisson](https://osu.ppy.sh/u/3716924) | 5367.03 | 60 |
+| 740 | [Viden](https://osu.ppy.sh/u/4521899) | 5366.47 | 51 |
+| 741 | [HDHRPF](https://osu.ppy.sh/u/5708403) | 5365.88 | 77 |
+| 742 | [RealizeNezumi](https://osu.ppy.sh/u/5325180) | 5364.03 | 50 |
+| 743 | [[-Anjellebot-]](https://osu.ppy.sh/u/3535685) | 5361.13 | 39 |
+| 744 | [YewJoeChai](https://osu.ppy.sh/u/5218753) | 5359.75 | 56 |
+| 745 | [Noopiezi](https://osu.ppy.sh/u/4824078) | 5358.95 | 66 |
+| 746 | [Foxxo](https://osu.ppy.sh/u/5206423) | 5356.76 | 45 |
+| 747 | [lensaiqq](https://osu.ppy.sh/u/4504926) | 5353.33 | 78 |
+| 748 | [keryann](https://osu.ppy.sh/u/2817156) | 5347.13 | 54 |
+| 749 | [Kirisaki](https://osu.ppy.sh/u/1281122) | 5346.94 | 89 |
+| 750 | [SASADUKA](https://osu.ppy.sh/u/440918) | 5345.73 | 41 |
+| 751 | [Synchrostar](https://osu.ppy.sh/u/419705) | 5345.20 | 53 |
+| 752 | [Rinquin](https://osu.ppy.sh/u/4050465) | 5344.90 | 36 |
+| 753 | [Sly](https://osu.ppy.sh/u/5070210) | 5340.36 | 34 |
+| 754 | [Shirone](https://osu.ppy.sh/u/1426098) | 5338.20 | 25 |
+| 755 | [PentaFish](https://osu.ppy.sh/u/4029593) | 5335.00 | 37 |
+| 756 | [Horo](https://osu.ppy.sh/u/992439) | 5332.96 | 42 |
+| 757 | [hisuiironosora](https://osu.ppy.sh/u/2137028) | 5332.86 | 30 |
+| 758 | [KonataN](https://osu.ppy.sh/u/1243556) | 5330.43 | 36 |
+| 759 | [Akananas](https://osu.ppy.sh/u/5019864) | 5327.69 | 38 |
+| 760 | [SugarCat](https://osu.ppy.sh/u/471554) | 5327.40 | 41 |
+| 761 | [-PC](https://osu.ppy.sh/u/2916414) | 5324.81 | 29 |
+| 762 | [Vrza](https://osu.ppy.sh/u/6434491) | 5324.07 | 77 |
+| 763 | [trek5900](https://osu.ppy.sh/u/3755276) | 5323.49 | 61 |
+| 764 | [Gazza](https://osu.ppy.sh/u/3648459) | 5319.75 | 85 |
+| 765 | [FeyCeNn](https://osu.ppy.sh/u/7443417) | 5319.06 | 83 |
+| 766 | [DJ VaGGoS 13](https://osu.ppy.sh/u/3906178) | 5318.53 | 52 |
+| 767 | [Minil](https://osu.ppy.sh/u/6662652) | 5316.99 | 30 |
+| 768 | [My Angel Saoie](https://osu.ppy.sh/u/5283769) | 5316.35 | 43 |
+| 769 | [dlynb](https://osu.ppy.sh/u/3253056) | 5315.58 | 63 |
+| 770 | [KKale](https://osu.ppy.sh/u/2885130) | 5312.73 | 49 |
+| 771 | [Mordrok54](https://osu.ppy.sh/u/5606735) | 5310.12 | 80 |
+| 772 | [Midget](https://osu.ppy.sh/u/4141635) | 5310.11 | 62 |
+| 773 | [-Miyano Kotone-](https://osu.ppy.sh/u/3935438) | 5309.74 | 40 |
+| 774 | [tecu](https://osu.ppy.sh/u/2652155) | 5307.07 | 55 |
+| 775 | [Saizen](https://osu.ppy.sh/u/4517221) | 5306.72 | 61 |
+| 776 | [Nectarine](https://osu.ppy.sh/u/2148013) | 5305.22 | 32 |
+| 777 | [-phurion](https://osu.ppy.sh/u/5184551) | 5304.00 | 41 |
+| 778 | [Nikulae](https://osu.ppy.sh/u/3554237) | 5299.15 | 26 |
+| 779 | [Miyazono](https://osu.ppy.sh/u/529036) | 5297.67 | 39 |
+| 780 | [Frostt](https://osu.ppy.sh/u/4950536) | 5297.16 | 43 |
+| 781 | [DOPZI](https://osu.ppy.sh/u/2511007) | 5293.96 | 51 |
+| 782 | [Garch](https://osu.ppy.sh/u/3353661) | 5290.34 | 28 |
+| 783 | [Honryo](https://osu.ppy.sh/u/7804383) | 5289.04 | 77 |
+| 784 | [[-Griffin-]](https://osu.ppy.sh/u/7162035) | 5288.66 | 50 |
+| 785 | [JaviLALA](https://osu.ppy.sh/u/4945665) | 5285.95 | 44 |
+| 786 | [-AnatA-](https://osu.ppy.sh/u/4092428) | 5284.00 | 35 |
+| 787 | [Kungen](https://osu.ppy.sh/u/5000648) | 5281.64 | 35 |
+| 788 | [Uzi I](https://osu.ppy.sh/u/6042123) | 5276.74 | 44 |
+| 789 | [Hayasaka Mirei](https://osu.ppy.sh/u/3921145) | 5275.27 | 65 |
+| 790 | [Tomcat](https://osu.ppy.sh/u/4050223) | 5274.57 | 66 |
+| 791 | [DarkwildDuck](https://osu.ppy.sh/u/3068520) | 5270.64 | 47 |
+| 792 | [adoragirl](https://osu.ppy.sh/u/2309545) | 5270.47 | 34 |
+| 793 | [Ritzeh](https://osu.ppy.sh/u/1028387) | 5265.38 | 21 |
+| 794 | [Ranshi](https://osu.ppy.sh/u/6680785) | 5263.99 | 37 |
+| 795 | [Emilio](https://osu.ppy.sh/u/3291716) | 5262.57 | 46 |
+| 796 | [livingrim](https://osu.ppy.sh/u/5300686) | 5262.40 | 63 |
+| 797 | [steini](https://osu.ppy.sh/u/5676259) | 5260.02 | 39 |
+| 798 | [Lionsoda](https://osu.ppy.sh/u/9129785) | 5259.62 | 70 |
+| 799 | [Slendy](https://osu.ppy.sh/u/2689577) | 5251.95 | 35 |
+| 800 | [YouRisins_](https://osu.ppy.sh/u/7831340) | 5250.46 | 70 |
+| 801 | [Kennen](https://osu.ppy.sh/u/5426392) | 5248.30 | 70 |
+| 802 | [XzCraftP](https://osu.ppy.sh/u/1593180) | 5248.08 | 43 |
+| 803 | [Shuezi](https://osu.ppy.sh/u/5276218) | 5247.58 | 30 |
+| 804 | [Kaofui](https://osu.ppy.sh/u/2718122) | 5247.38 | 40 |
+| 805 | [Timpeee](https://osu.ppy.sh/u/4782310) | 5247.23 | 90 |
+| 806 | [VXB](https://osu.ppy.sh/u/2597452) | 5242.34 | 28 |
+| 807 | [-SuHeRa-](https://osu.ppy.sh/u/3044576) | 5237.11 | 42 |
+| 808 | [chugleader](https://osu.ppy.sh/u/1622883) | 5231.23 | 22 |
+| 809 | [Kitichu](https://osu.ppy.sh/u/6585952) | 5229.99 | 31 |
+| 810 | [f i z i k](https://osu.ppy.sh/u/2276286) | 5228.03 | 40 |
+| 811 | [waefwerf](https://osu.ppy.sh/u/3868653) | 5227.58 | 30 |
+| 812 | [SleepLotus](https://osu.ppy.sh/u/632393) | 5227.21 | 32 |
+| 813 | [[ Lesu ]](https://osu.ppy.sh/u/6552632) | 5223.78 | 34 |
+| 814 | [iFakeRz](https://osu.ppy.sh/u/5281485) | 5222.70 | 44 |
+| 815 | [cynaRvz](https://osu.ppy.sh/u/4185921) | 5222.63 | 34 |
+| 816 | [chrisny](https://osu.ppy.sh/u/3119955) | 5220.87 | 55 |
+| 817 | [Yoshi City](https://osu.ppy.sh/u/6052166) | 5217.97 | 43 |
+| 818 | [PisunJr](https://osu.ppy.sh/u/5978515) | 5215.25 | 52 |
+| 819 | [amidel](https://osu.ppy.sh/u/1737661) | 5214.97 | 92 |
+| 820 | [Kon](https://osu.ppy.sh/u/4344404) | 5213.15 | 40 |
+| 821 | [ShotgunApe](https://osu.ppy.sh/u/5116930) | 5212.78 | 27 |
+| 822 | [ByYoshi14](https://osu.ppy.sh/u/4470553) | 5209.41 | 33 |
+| 823 | [Biggs111](https://osu.ppy.sh/u/4287238) | 5206.87 | 69 |
+| 824 | [-CloudStrife-](https://osu.ppy.sh/u/4309174) | 5204.87 | 30 |
+| 825 | [WORSTPOLACKEU](https://osu.ppy.sh/u/2686293) | 5202.44 | 26 |
+| 826 | [rrtyuki](https://osu.ppy.sh/u/6363218) | 5202.10 | 33 |
+| 827 | [MiniGame](https://osu.ppy.sh/u/1136426) | 5199.13 | 47 |
+| 828 | [Kairi](https://osu.ppy.sh/u/1586237) | 5198.24 | 39 |
+| 829 | [Topoi](https://osu.ppy.sh/u/6157605) | 5197.94 | 23 |
+| 830 | [Reiyoru-](https://osu.ppy.sh/u/161270) | 5194.59 | 30 |
+| 831 | [Hirako Shinji](https://osu.ppy.sh/u/8035558) | 5194.56 | 65 |
+| 832 | [Mastaah](https://osu.ppy.sh/u/1876565) | 5194.34 | 27 |
+| 833 | [SebastianIgn](https://osu.ppy.sh/u/2584892) | 5192.30 | 54 |
+| 834 | [[ Sao ]](https://osu.ppy.sh/u/3584861) | 5191.92 | 62 |
+| 835 | [BlakeTheKid](https://osu.ppy.sh/u/5551925) | 5190.59 | 65 |
+| 836 | [Domingo Cavallo](https://osu.ppy.sh/u/3984742) | 5186.53 | 89 |
+| 837 | [_Mattia_](https://osu.ppy.sh/u/3636065) | 5185.19 | 36 |
+| 838 | [drugkeeper](https://osu.ppy.sh/u/2786401) | 5184.92 | 22 |
+| 839 | [a123233555](https://osu.ppy.sh/u/3292934) | 5181.96 | 63 |
+| 840 | [Afro-senpai xD](https://osu.ppy.sh/u/6707903) | 5181.91 | 46 |
+| 841 | [CheshireBreak](https://osu.ppy.sh/u/438959) | 5181.45 | 52 |
+| 842 | [Where is honey](https://osu.ppy.sh/u/7874535) | 5181.20 | 52 |
+| 843 | [Shibuya rin-](https://osu.ppy.sh/u/9449453) | 5177.93 | 63 |
+| 844 | [Wavilia](https://osu.ppy.sh/u/2994317) | 5176.13 | 84 |
+| 845 | [[ Hero ]](https://osu.ppy.sh/u/4457661) | 5175.06 | 74 |
+| 846 | [3111](https://osu.ppy.sh/u/4099861) | 5173.79 | 51 |
+| 847 | [S4suk3](https://osu.ppy.sh/u/401955) | 5171.88 | 62 |
+| 848 | [Tichus](https://osu.ppy.sh/u/2599106) | 5168.81 | 62 |
+| 849 | [yourich](https://osu.ppy.sh/u/3916059) | 5163.46 | 48 |
+| 850 | [Fridolin](https://osu.ppy.sh/u/3667125) | 5163.07 | 32 |
+| 851 | [Saeb](https://osu.ppy.sh/u/7633518) | 5162.91 | 32 |
+| 852 | [Sayapis](https://osu.ppy.sh/u/1696409) | 5162.41 | 55 |
+| 853 | [Aikyuu-Chan](https://osu.ppy.sh/u/3932190) | 5161.96 | 41 |
+| 854 | [Rika Furude](https://osu.ppy.sh/u/5730821) | 5161.64 | 35 |
+| 855 | [PossuKeisari](https://osu.ppy.sh/u/6292501) | 5161.33 | 43 |
+| 856 | [Setiq](https://osu.ppy.sh/u/7128832) | 5161.32 | 93 |
+| 857 | [KA73N](https://osu.ppy.sh/u/7081485) | 5160.78 | 67 |
+| 858 | [- Daichi -](https://osu.ppy.sh/u/6602580) | 5159.85 | 23 |
+| 859 | [byereol](https://osu.ppy.sh/u/4326267) | 5157.11 | 44 |
+| 860 | [Ellevenfox](https://osu.ppy.sh/u/2499930) | 5157.03 | 74 |
+| 861 | [oppaiman](https://osu.ppy.sh/u/1771826) | 5152.41 | 48 |
+| 862 | [zaqlev](https://osu.ppy.sh/u/3188703) | 5151.94 | 30 |
+| 863 | [Ambrosia](https://osu.ppy.sh/u/9347004) | 5151.55 | 97 |
+| 864 | [[Ion]](https://osu.ppy.sh/u/6111086) | 5148.97 | 71 |
+| 865 | [Van Darkholme](https://osu.ppy.sh/u/1661517) | 5148.88 | 24 |
+| 866 | [Yuusuke](https://osu.ppy.sh/u/3937562) | 5147.33 | 31 |
+| 867 | [kyle](https://osu.ppy.sh/u/2694475) | 5145.88 | 22 |
+| 868 | [Quallinski](https://osu.ppy.sh/u/3063460) | 5139.46 | 25 |
+| 869 | [DazzLE_Wind](https://osu.ppy.sh/u/2537924) | 5137.02 | 27 |
+| 870 | [agyn](https://osu.ppy.sh/u/3923523) | 5134.19 | 47 |
+| 871 | [Reyuza](https://osu.ppy.sh/u/2454767) | 5133.29 | 20 |
+| 872 | [Nocturne [AR]](https://osu.ppy.sh/u/4776674) | 5133.28 | 70 |
+| 873 | [Rupertion](https://osu.ppy.sh/u/5774823) | 5132.08 | 31 |
+| 874 | [Sage](https://osu.ppy.sh/u/1795094) | 5131.41 | 35 |
+| 875 | [[ Roku ]](https://osu.ppy.sh/u/4238971) | 5130.26 | 46 |
+| 876 | [wiciu](https://osu.ppy.sh/u/401815) | 5129.50 | 34 |
+| 877 | [SunglassesEmoji](https://osu.ppy.sh/u/2772753) | 5128.76 | 41 |
+| 878 | [- BLiTz -](https://osu.ppy.sh/u/2921265) | 5126.22 | 25 |
+| 879 | [Poofin](https://osu.ppy.sh/u/2237979) | 5125.57 | 44 |
+| 880 | [a humble duck](https://osu.ppy.sh/u/3997788) | 5123.08 | 32 |
+| 881 | [Sam GoRiRa](https://osu.ppy.sh/u/2310776) | 5120.20 | 79 |
+| 882 | [MatsumotoRise](https://osu.ppy.sh/u/672726) | 5118.21 | 25 |
+| 883 | [Akizuki Maria](https://osu.ppy.sh/u/5045394) | 5117.64 | 40 |
+| 884 | [NotEnough](https://osu.ppy.sh/u/7204748) | 5117.37 | 44 |
+| 885 | [Not You](https://osu.ppy.sh/u/7486853) | 5112.68 | 82 |
+| 886 | [deidarabochi](https://osu.ppy.sh/u/6900829) | 5112.38 | 41 |
+| 887 | [hmrkhmrk](https://osu.ppy.sh/u/2372102) | 5109.70 | 28 |
+| 888 | [Araragi Karen](https://osu.ppy.sh/u/5051859) | 5109.29 | 30 |
+| 889 | [N a s y a](https://osu.ppy.sh/u/1473106) | 5108.17 | 42 |
+| 890 | [Sever](https://osu.ppy.sh/u/7479564) | 5107.92 | 35 |
+| 891 | [Ex6TenZ](https://osu.ppy.sh/u/2676512) | 5099.74 | 38 |
+| 892 | [ningalu](https://osu.ppy.sh/u/6934358) | 5098.72 | 29 |
+| 893 | [DomenCherry](https://osu.ppy.sh/u/665367) | 5095.99 | 27 |
+| 894 | [yummy pillow](https://osu.ppy.sh/u/4418213) | 5095.50 | 24 |
+| 895 | [OuO](https://osu.ppy.sh/u/1638303) | 5094.72 | 25 |
+| 896 | [Yamaan](https://osu.ppy.sh/u/5538617) | 5094.44 | 41 |
+| 897 | [LaZyAzN](https://osu.ppy.sh/u/2031877) | 5093.93 | 35 |
+| 898 | [Doge Owner](https://osu.ppy.sh/u/4584472) | 5093.61 | 27 |
+| 899 | [M I L E S](https://osu.ppy.sh/u/6036351) | 5092.10 | 38 |
+| 900 | [smh](https://osu.ppy.sh/u/1629553) | 5090.18 | 22 |
+| 901 | [Undead](https://osu.ppy.sh/u/5458069) | 5089.65 | 80 |
+| 902 | [doghowler45](https://osu.ppy.sh/u/4126039) | 5088.04 | 43 |
+| 903 | [QuadroKiller](https://osu.ppy.sh/u/7552072) | 5088.00 | 62 |
+| 904 | [Skydiver](https://osu.ppy.sh/u/4750008) | 5086.35 | 22 |
+| 905 | [Shelfdon](https://osu.ppy.sh/u/2535716) | 5084.01 | 45 |
+| 906 | [BarkingMadDog](https://osu.ppy.sh/u/3475189) | 5080.59 | 36 |
+| 907 | [Shionji Yuuko](https://osu.ppy.sh/u/88712) | 5080.38 | 64 |
+| 908 | [Rikuu](https://osu.ppy.sh/u/1828631) | 5080.36 | 51 |
+| 909 | [Orbi](https://osu.ppy.sh/u/3574151) | 5078.89 | 19 |
+| 910 | [Jensen](https://osu.ppy.sh/u/4719055) | 5078.77 | 25 |
+| 911 | [teko8](https://osu.ppy.sh/u/1743162) | 5077.06 | 59 |
+| 912 | [forevehappy](https://osu.ppy.sh/u/447813) | 5076.88 | 61 |
+| 913 | [HazzardFreak](https://osu.ppy.sh/u/2503803) | 5074.82 | 31 |
+| 914 | [qwe0570](https://osu.ppy.sh/u/2220282) | 5074.69 | 55 |
+| 915 | [Zienny](https://osu.ppy.sh/u/6685113) | 5074.49 | 84 |
+| 916 | [hello-rabbit](https://osu.ppy.sh/u/1513758) | 5073.30 | 44 |
+| 917 | [Rabi](https://osu.ppy.sh/u/3645876) | 5073.18 | 74 |
+| 918 | [Qylwok](https://osu.ppy.sh/u/1179760) | 5071.47 | 64 |
+| 919 | [icebucket](https://osu.ppy.sh/u/4577520) | 5067.82 | 32 |
+| 920 | [OVanillaO](https://osu.ppy.sh/u/1566382) | 5067.35 | 59 |
+| 921 | [MinG3012](https://osu.ppy.sh/u/1583218) | 5067.31 | 32 |
+| 922 | [xelo ns](https://osu.ppy.sh/u/3182941) | 5065.28 | 33 |
+| 923 | [Crypty](https://osu.ppy.sh/u/6770843) | 5064.35 | 49 |
+| 924 | [qqale](https://osu.ppy.sh/u/3244820) | 5063.01 | 33 |
+| 925 | [Sevigoth](https://osu.ppy.sh/u/2675982) | 5059.62 | 53 |
+| 926 | [ivaz](https://osu.ppy.sh/u/496424) | 5057.16 | 44 |
+| 927 | [[My Angel Momo]](https://osu.ppy.sh/u/7701428) | 5054.47 | 50 |
+| 928 | [lpsminecraft099](https://osu.ppy.sh/u/3587568) | 5054.28 | 63 |
+| 929 | [Dungeon](https://osu.ppy.sh/u/461720) | 5053.67 | 25 |
+| 930 | [Not Tomori](https://osu.ppy.sh/u/2758279) | 5052.63 | 33 |
+| 931 | [Sakurai Momoka](https://osu.ppy.sh/u/1978650) | 5051.44 | 21 |
+| 932 | [TheDude](https://osu.ppy.sh/u/6240365) | 5051.00 | 85 |
+| 933 | [Prograf](https://osu.ppy.sh/u/1549088) | 5042.94 | 23 |
+| 934 | [SiLviZ](https://osu.ppy.sh/u/1687524) | 5042.65 | 41 |
+| 935 | [[ Nekusasu ]](https://osu.ppy.sh/u/5053114) | 5040.88 | 76 |
+| 936 | [Mythol](https://osu.ppy.sh/u/735289) | 5035.60 | 56 |
+| 937 | [Shirasaka Koume](https://osu.ppy.sh/u/3062998) | 5034.46 | 25 |
+| 938 | [GunOfGaming](https://osu.ppy.sh/u/5522259) | 5032.42 | 29 |
+| 939 | [Ishkiz](https://osu.ppy.sh/u/2528325) | 5031.60 | 32 |
+| 940 | [Daoski](https://osu.ppy.sh/u/4752536) | 5027.25 | 44 |
+| 941 | [iEddie](https://osu.ppy.sh/u/3898396) | 5026.42 | 33 |
+| 942 | [SKaiBlue](https://osu.ppy.sh/u/579370) | 5025.56 | 24 |
+| 943 | [-Blue-](https://osu.ppy.sh/u/3534301) | 5023.93 | 41 |
+| 944 | [SubLime-](https://osu.ppy.sh/u/3181662) | 5023.14 | 58 |
+| 945 | [Lako](https://osu.ppy.sh/u/2906436) | 5022.85 | 48 |
+| 946 | [october](https://osu.ppy.sh/u/5513481) | 5021.75 | 44 |
+| 947 | [Cubic](https://osu.ppy.sh/u/5077396) | 5017.85 | 35 |
+| 948 | [viola d amore](https://osu.ppy.sh/u/2280009) | 5016.33 | 37 |
+| 949 | [liondandelion](https://osu.ppy.sh/u/7711526) | 5016.19 | 35 |
+| 950 | [rEdo](https://osu.ppy.sh/u/49329) | 5016.18 | 45 |
+| 951 | [EDIFF](https://osu.ppy.sh/u/4393327) | 5008.20 | 48 |
+| 952 | [Volkke](https://osu.ppy.sh/u/3270303) | 5007.08 | 44 |
+| 953 | [teemo](https://osu.ppy.sh/u/1506409) | 5000.53 | 40 |
+| 954 | [Lotragon](https://osu.ppy.sh/u/6063342) | 5000.28 | 34 |
+| 955 | [smau5](https://osu.ppy.sh/u/5084531) | 4999.76 | 30 |
+| 956 | [HellFrozenRain](https://osu.ppy.sh/u/4617631) | 4998.79 | 77 |
+| 957 | [Xbox](https://osu.ppy.sh/u/4050740) | 4997.95 | 25 |
+| 958 | [Celsea](https://osu.ppy.sh/u/7464885) | 4995.49 | 39 |
+| 959 | [Keirun](https://osu.ppy.sh/u/3517105) | 4991.02 | 27 |
+| 960 | [Aerislol](https://osu.ppy.sh/u/3134502) | 4990.45 | 96 |
+| 961 | [esoragoto](https://osu.ppy.sh/u/2050849) | 4990.05 | 41 |
+| 962 | [NaCoIa](https://osu.ppy.sh/u/1701610) | 4989.94 | 39 |
+| 963 | [- Josro -](https://osu.ppy.sh/u/4338711) | 4989.29 | 34 |
+| 964 | [koppe_pan](https://osu.ppy.sh/u/6343534) | 4989.08 | 58 |
+| 965 | [r0ck](https://osu.ppy.sh/u/1549620) | 4988.03 | 18 |
+| 966 | [imoTT](https://osu.ppy.sh/u/1529033) | 4986.31 | 52 |
+| 967 | [Settia](https://osu.ppy.sh/u/2445897) | 4985.14 | 38 |
+| 968 | [mugikoEX](https://osu.ppy.sh/u/3891662) | 4980.40 | 70 |
+| 969 | [Sertask](https://osu.ppy.sh/u/5866403) | 4976.69 | 85 |
+| 970 | [-LuXun-](https://osu.ppy.sh/u/6845847) | 4972.32 | 56 |
+| 971 | [OsunMoM-](https://osu.ppy.sh/u/1856728) | 4971.81 | 22 |
+| 972 | [My Angel Rize](https://osu.ppy.sh/u/2946715) | 4969.58 | 70 |
+| 973 | [WeanXianzheng](https://osu.ppy.sh/u/2715574) | 4966.19 | 27 |
+| 974 | [Yuuthi](https://osu.ppy.sh/u/4346550) | 4962.97 | 41 |
+| 975 | [Swoozle](https://osu.ppy.sh/u/6261903) | 4957.98 | 51 |
+| 976 | [ChronoTrig](https://osu.ppy.sh/u/3687489) | 4955.69 | 21 |
+| 977 | [Strykerto](https://osu.ppy.sh/u/6326722) | 4953.87 | 40 |
+| 978 | [vTr](https://osu.ppy.sh/u/6703684) | 4952.68 | 68 |
+| 979 | [Vitu](https://osu.ppy.sh/u/6369139) | 4949.99 | 51 |
+| 980 | [Dazeed](https://osu.ppy.sh/u/7388051) | 4948.95 | 40 |
+| 981 | [AimNeet](https://osu.ppy.sh/u/1573703) | 4948.21 | 35 |
+| 982 | [Lim Playz](https://osu.ppy.sh/u/6846806) | 4946.22 | 56 |
+| 983 | [ReazerXI](https://osu.ppy.sh/u/4367311) | 4945.86 | 38 |
+| 984 | [Miy](https://osu.ppy.sh/u/2018768) | 4945.71 | 25 |
+| 985 | [_niSe](https://osu.ppy.sh/u/5076437) | 4944.97 | 89 |
+| 986 | [folence](https://osu.ppy.sh/u/2790454) | 4944.84 | 31 |
+| 987 | [auux](https://osu.ppy.sh/u/2182866) | 4943.33 | 34 |
+| 988 | [Didas](https://osu.ppy.sh/u/6832543) | 4942.79 | 57 |
+| 989 | [Flandre-](https://osu.ppy.sh/u/2624025) | 4942.31 | 61 |
+| 990 | [Zurgdude](https://osu.ppy.sh/u/5207702) | 4940.19 | 65 |
+| 991 | [Karuna](https://osu.ppy.sh/u/8775024) | 4939.66 | 27 |
+| 992 | [Mad Carrot](https://osu.ppy.sh/u/2236064) | 4939.16 | 39 |
+| 993 | [Bloodyguol](https://osu.ppy.sh/u/2255108) | 4938.36 | 36 |
+| 994 | [Blackmantion](https://osu.ppy.sh/u/3951809) | 4935.86 | 36 |
+| 995 | [JumpLess](https://osu.ppy.sh/u/6519705) | 4934.60 | 36 |
+| 996 | [Evis-](https://osu.ppy.sh/u/3434954) | 4933.53 | 66 |
+| 997 | [AngelHanabi](https://osu.ppy.sh/u/7409717) | 4933.02 | 32 |
+| 998 | [Giocasta](https://osu.ppy.sh/u/3547370) | 4932.91 | 91 |
+| 999 | [kec2005](https://osu.ppy.sh/u/2392880) | 4932.64 | 29 |
+| 1000 | [Pidi](https://osu.ppy.sh/u/4086716) | 4931.79 | 24 |
+| 1001 | [Swiftaay](https://osu.ppy.sh/u/3562137) | 4930.97 | 25 |
+| 1002 | [yuriOS](https://osu.ppy.sh/u/6397955) | 4930.04 | 31 |
+| 1003 | [Eldera](https://osu.ppy.sh/u/3861234) | 4929.35 | 26 |
+| 1004 | [LinV](https://osu.ppy.sh/u/2831511) | 4928.92 | 81 |
+| 1005 | [KoJle4KoO](https://osu.ppy.sh/u/7666422) | 4928.67 | 84 |
+| 1006 | [[ Zyoumu ]](https://osu.ppy.sh/u/6254684) | 4928.45 | 34 |
+| 1007 | [Kiwigreen](https://osu.ppy.sh/u/5087866) | 4927.98 | 26 |
+| 1008 | [Gaburieru-](https://osu.ppy.sh/u/2560714) | 4927.10 | 55 |
+| 1009 | [hvick225](https://osu.ppy.sh/u/50265) | 4926.34 | 14 |
+| 1010 | [Trivium](https://osu.ppy.sh/u/4652798) | 4926.31 | 30 |
+| 1011 | [Cilly](https://osu.ppy.sh/u/2675039) | 4926.31 | 35 |
+| 1012 | [Raishu](https://osu.ppy.sh/u/2356242) | 4926.23 | 29 |
+| 1013 | [edamame](https://osu.ppy.sh/u/4690290) | 4920.23 | 42 |
+| 1014 | [Yangu](https://osu.ppy.sh/u/4652902) | 4916.99 | 61 |
+| 1015 | [Yuuzinho](https://osu.ppy.sh/u/6267851) | 4915.96 | 29 |
+| 1016 | [Antynum](https://osu.ppy.sh/u/4291334) | 4914.63 | 24 |
+| 1017 | [Elfice](https://osu.ppy.sh/u/479331) | 4911.41 | 39 |
+| 1018 | [AEIM](https://osu.ppy.sh/u/3703731) | 4911.35 | 57 |
+| 1019 | [m1cro_wave](https://osu.ppy.sh/u/1992040) | 4911.01 | 61 |
+| 1020 | [Ultraplex](https://osu.ppy.sh/u/4848200) | 4910.03 | 26 |
+| 1021 | [Hino](https://osu.ppy.sh/u/2052511) | 4910.02 | 23 |
+| 1022 | [EvilFox](https://osu.ppy.sh/u/6135883) | 4907.60 | 90 |
+| 1023 | [Reinam](https://osu.ppy.sh/u/5114248) | 4907.27 | 45 |
+| 1024 | [HesuTeia](https://osu.ppy.sh/u/973981) | 4905.56 | 33 |
+| 1025 | [Soulg](https://osu.ppy.sh/u/2356980) | 4904.76 | 30 |
+| 1026 | [aster11](https://osu.ppy.sh/u/3989765) | 4904.27 | 31 |
+| 1027 | [shARPII](https://osu.ppy.sh/u/776257) | 4902.63 | 40 |
+| 1028 | [ShadowSoul](https://osu.ppy.sh/u/494970) | 4901.92 | 27 |
+| 1029 | [chiu1994831](https://osu.ppy.sh/u/3068270) | 4900.82 | 73 |
+| 1030 | [IOSYS](https://osu.ppy.sh/u/6319707) | 4900.01 | 42 |
+| 1031 | [ntnt](https://osu.ppy.sh/u/3236948) | 4895.93 | 45 |
+| 1032 | [hawty](https://osu.ppy.sh/u/6063120) | 4894.25 | 56 |
+| 1033 | [moyamoyano_sa](https://osu.ppy.sh/u/3891439) | 4893.83 | 36 |
+| 1034 | [Lanaya](https://osu.ppy.sh/u/3110507) | 4892.18 | 59 |
+| 1035 | [Claximillions](https://osu.ppy.sh/u/2574144) | 4891.92 | 37 |
+| 1036 | [-Ryo](https://osu.ppy.sh/u/3113141) | 4890.86 | 39 |
+| 1037 | [Ciera](https://osu.ppy.sh/u/1490018) | 4889.52 | 27 |
+| 1038 | [Almyt](https://osu.ppy.sh/u/6430025) | 4888.67 | 43 |
+| 1039 | [KeigoClear](https://osu.ppy.sh/u/512319) | 4888.47 | 26 |
+| 1040 | [Synnphony](https://osu.ppy.sh/u/4274195) | 4887.33 | 82 |
+| 1041 | [AkaSUN](https://osu.ppy.sh/u/2011880) | 4886.75 | 44 |
+| 1042 | [DavidEd](https://osu.ppy.sh/u/4287454) | 4883.67 | 56 |
+| 1043 | [Medium](https://osu.ppy.sh/u/6027685) | 4883.53 | 39 |
+| 1044 | [Mykaterasu](https://osu.ppy.sh/u/4110225) | 4882.99 | 34 |
+| 1045 | [r3venger](https://osu.ppy.sh/u/4325601) | 4882.23 | 42 |
+| 1046 | [Raiku](https://osu.ppy.sh/u/1525538) | 4880.35 | 35 |
+| 1047 | [moricy](https://osu.ppy.sh/u/7354116) | 4879.56 | 35 |
+| 1048 | [coowhip](https://osu.ppy.sh/u/6875519) | 4878.12 | 48 |
+| 1049 | [MiauMeowMiau](https://osu.ppy.sh/u/1379717) | 4875.03 | 40 |
+| 1050 | [kimchii42](https://osu.ppy.sh/u/6551312) | 4874.97 | 29 |
+| 1051 | [Glinky](https://osu.ppy.sh/u/3629953) | 4874.57 | 25 |
+| 1052 | [Zadkiel](https://osu.ppy.sh/u/4579703) | 4874.41 | 29 |
+| 1053 | [-Itto Shura-](https://osu.ppy.sh/u/6907344) | 4873.42 | 39 |
+| 1054 | [dint](https://osu.ppy.sh/u/6048753) | 4872.98 | 57 |
+| 1055 | [[ Wakson ]](https://osu.ppy.sh/u/3048222) | 4872.23 | 19 |
+| 1056 | [YammZe](https://osu.ppy.sh/u/4496446) | 4868.93 | 43 |
+| 1057 | [[ Emperor ]](https://osu.ppy.sh/u/5917917) | 4868.69 | 25 |
+| 1058 | [mackapear](https://osu.ppy.sh/u/3262646) | 4866.73 | 41 |
+| 1059 | [fumis](https://osu.ppy.sh/u/355152) | 4865.35 | 52 |
+| 1060 | [Rain12](https://osu.ppy.sh/u/2658982) | 4863.95 | 78 |
+| 1061 | [Manteith](https://osu.ppy.sh/u/3493804) | 4860.61 | 39 |
+| 1062 | [Zeciarz](https://osu.ppy.sh/u/5913551) | 4860.48 | 41 |
+| 1063 | [KupcaH](https://osu.ppy.sh/u/7844575) | 4860.09 | 28 |
+| 1064 | [LilDoc](https://osu.ppy.sh/u/5887647) | 4859.54 | 21 |
+| 1065 | [nick1324](https://osu.ppy.sh/u/612898) | 4859.41 | 22 |
+| 1066 | [Meikai](https://osu.ppy.sh/u/7699534) | 4858.90 | 64 |
+| 1067 | [Kobra](https://osu.ppy.sh/u/4012607) | 4855.41 | 89 |
+| 1068 | [RiasG](https://osu.ppy.sh/u/7386201) | 4854.59 | 30 |
+| 1069 | [Mad Maiden](https://osu.ppy.sh/u/4223876) | 4853.10 | 50 |
+| 1070 | [Grewor](https://osu.ppy.sh/u/6379623) | 4852.73 | 41 |
+| 1071 | [Ora](https://osu.ppy.sh/u/5171995) | 4852.57 | 61 |
+| 1072 | [Bureizu](https://osu.ppy.sh/u/4310165) | 4848.62 | 28 |
+| 1073 | [Crystal](https://osu.ppy.sh/u/1646397) | 4846.01 | 20 |
+| 1074 | [In Vitro](https://osu.ppy.sh/u/4506671) | 4844.53 | 52 |
+| 1075 | [gasanww](https://osu.ppy.sh/u/487985) | 4843.59 | 19 |
+| 1076 | [Sidetail](https://osu.ppy.sh/u/2036217) | 4838.77 | 46 |
+| 1077 | [Crissinop](https://osu.ppy.sh/u/3429926) | 4837.67 | 23 |
+| 1078 | [aeS](https://osu.ppy.sh/u/3181837) | 4834.74 | 68 |
+| 1079 | [Gudako](https://osu.ppy.sh/u/5055693) | 4833.54 | 57 |
+| 1080 | [Catalysis](https://osu.ppy.sh/u/5958063) | 4833.23 | 25 |
+| 1081 | [serea](https://osu.ppy.sh/u/371961) | 4832.80 | 22 |
+| 1082 | [Pyroboom](https://osu.ppy.sh/u/689882) | 4831.77 | 35 |
+| 1083 | [SyoZohma](https://osu.ppy.sh/u/4138281) | 4829.84 | 23 |
+| 1084 | [Tyrrrz](https://osu.ppy.sh/u/7611297) | 4829.23 | 84 |
+| 1085 | [Ysirael](https://osu.ppy.sh/u/7325124) | 4827.60 | 48 |
+| 1086 | [HySkoa](https://osu.ppy.sh/u/956974) | 4827.09 | 45 |
+| 1087 | [Onecat](https://osu.ppy.sh/u/3356260) | 4826.59 | 44 |
+| 1088 | [- Shinobu -](https://osu.ppy.sh/u/4065667) | 4826.01 | 51 |
+| 1089 | [MyAngelGIL](https://osu.ppy.sh/u/8237088) | 4824.08 | 32 |
+| 1090 | [-Archangel-](https://osu.ppy.sh/u/1545019) | 4822.28 | 18 |
+| 1091 | [Rika_Desu](https://osu.ppy.sh/u/2595374) | 4821.74 | 26 |
+| 1092 | [2xExp](https://osu.ppy.sh/u/6576002) | 4821.25 | 54 |
+| 1093 | [ThiagOtaku](https://osu.ppy.sh/u/5609833) | 4819.60 | 37 |
+| 1094 | [-LucIly-](https://osu.ppy.sh/u/4199946) | 4819.42 | 76 |
+| 1095 | [[Cheir]](https://osu.ppy.sh/u/1626187) | 4817.44 | 46 |
+| 1096 | [Reuleaux](https://osu.ppy.sh/u/4265261) | 4817.41 | 52 |
+| 1097 | [Tanaka Aiko](https://osu.ppy.sh/u/5187234) | 4816.68 | 42 |
+| 1098 | [s6mjk](https://osu.ppy.sh/u/1954988) | 4812.04 | 90 |
+| 1099 | [My Angel Anzu](https://osu.ppy.sh/u/4896825) | 4809.20 | 24 |
+| 1100 | [Vettel](https://osu.ppy.sh/u/1208858) | 4808.38 | 17 |
+| 1101 | [TheUnexpected6](https://osu.ppy.sh/u/4495889) | 4807.79 | 25 |
+| 1102 | [KoTo](https://osu.ppy.sh/u/1382805) | 4806.35 | 26 |
+| 1103 | [tfg50](https://osu.ppy.sh/u/3312720) | 4804.39 | 33 |
+| 1104 | [Lie](https://osu.ppy.sh/u/6237817) | 4803.77 | 57 |
+| 1105 | [ruitica](https://osu.ppy.sh/u/4302002) | 4802.70 | 29 |
+| 1106 | [[ Blue ]](https://osu.ppy.sh/u/4859699) | 4801.40 | 29 |
+| 1107 | [Evanescent-](https://osu.ppy.sh/u/4259366) | 4801.17 | 34 |
+| 1108 | [Ashtar](https://osu.ppy.sh/u/1565856) | 4800.00 | 21 |
+| 1109 | [Quite Cynical](https://osu.ppy.sh/u/3361154) | 4799.39 | 61 |
+| 1110 | [Qash](https://osu.ppy.sh/u/3648411) | 4796.72 | 30 |
+| 1111 | [Winky Face](https://osu.ppy.sh/u/2228371) | 4795.04 | 40 |
+| 1112 | [kug1](https://osu.ppy.sh/u/6997572) | 4794.98 | 44 |
+| 1113 | [Meepoex](https://osu.ppy.sh/u/4516675) | 4794.28 | 30 |
+| 1114 | [f33dir](https://osu.ppy.sh/u/6686495) | 4793.11 | 54 |
+| 1115 | [-Crazy-](https://osu.ppy.sh/u/5368855) | 4791.34 | 27 |
+| 1116 | [Yoon](https://osu.ppy.sh/u/4359858) | 4791.27 | 43 |
+| 1117 | [Anchobee](https://osu.ppy.sh/u/405726) | 4790.98 | 67 |
+| 1118 | [m o m o c o_](https://osu.ppy.sh/u/3180264) | 4790.45 | 54 |
+| 1119 | [5joshi](https://osu.ppy.sh/u/4279650) | 4788.79 | 49 |
+| 1120 | [orangedough](https://osu.ppy.sh/u/5056999) | 4787.51 | 30 |
+| 1121 | [ToGlette](https://osu.ppy.sh/u/1076236) | 4786.39 | 26 |
+| 1122 | [Cecile](https://osu.ppy.sh/u/1735143) | 4784.93 | 26 |
+| 1123 | [Brayanou](https://osu.ppy.sh/u/8275909) | 4784.54 | 46 |
+| 1124 | [Choke Lord](https://osu.ppy.sh/u/5363940) | 4784.07 | 35 |
+| 1125 | [quipo](https://osu.ppy.sh/u/3177141) | 4783.98 | 27 |
+| 1126 | [TattiJaakko](https://osu.ppy.sh/u/4550849) | 4780.57 | 48 |
+| 1127 | [Stevenn](https://osu.ppy.sh/u/2164528) | 4779.10 | 36 |
+| 1128 | [Slowest](https://osu.ppy.sh/u/5580057) | 4774.86 | 25 |
+| 1129 | [_Dysania](https://osu.ppy.sh/u/6252415) | 4768.69 | 63 |
+| 1130 | [sunbob](https://osu.ppy.sh/u/4382428) | 4768.65 | 46 |
+| 1131 | [Nikosbks](https://osu.ppy.sh/u/3803747) | 4765.54 | 24 |
+| 1132 | [Hasawa Kraenes](https://osu.ppy.sh/u/1568047) | 4764.54 | 21 |
+| 1133 | [GraySilvers](https://osu.ppy.sh/u/1382032) | 4764.24 | 44 |
+| 1134 | [yuuch](https://osu.ppy.sh/u/2509587) | 4761.26 | 50 |
+| 1135 | [salsa](https://osu.ppy.sh/u/2788798) | 4757.28 | 35 |
+| 1136 | [Nemuii](https://osu.ppy.sh/u/6772435) | 4756.76 | 67 |
+| 1137 | [saikurondark](https://osu.ppy.sh/u/2060046) | 4756.72 | 19 |
+| 1138 | [Radusek](https://osu.ppy.sh/u/3217345) | 4756.63 | 30 |
+| 1139 | [Div](https://osu.ppy.sh/u/3751116) | 4754.89 | 25 |
+| 1140 | [Nyrhiade](https://osu.ppy.sh/u/4720080) | 4754.70 | 40 |
+| 1141 | [[ HSNL ]](https://osu.ppy.sh/u/2140437) | 4749.95 | 40 |
+| 1142 | [Duke Webelos](https://osu.ppy.sh/u/8498803) | 4748.19 | 53 |
+| 1143 | [TrainStation](https://osu.ppy.sh/u/2508243) | 4743.69 | 45 |
+| 1144 | [Revenge76](https://osu.ppy.sh/u/7003939) | 4742.10 | 42 |
+| 1145 | [Lecana](https://osu.ppy.sh/u/1476203) | 4741.21 | 81 |
+| 1146 | [Atsuhito](https://osu.ppy.sh/u/2583912) | 4737.79 | 31 |
+| 1147 | [Coolgav](https://osu.ppy.sh/u/1703089) | 4737.38 | 30 |
+| 1148 | [AreYouAnime](https://osu.ppy.sh/u/4620294) | 4736.68 | 64 |
+| 1149 | [pyon](https://osu.ppy.sh/u/2319238) | 4736.44 | 16 |
+| 1150 | [oStable](https://osu.ppy.sh/u/6335044) | 4735.74 | 65 |
+| 1151 | [Whathaveyougot](https://osu.ppy.sh/u/4885734) | 4735.29 | 41 |
+| 1152 | [Klomi](https://osu.ppy.sh/u/2391358) | 4733.76 | 32 |
+| 1153 | [potap](https://osu.ppy.sh/u/1056329) | 4732.15 | 40 |
+| 1154 | [oneplusone](https://osu.ppy.sh/u/1843447) | 4730.97 | 28 |
+| 1155 | [Strategas](https://osu.ppy.sh/u/2971837) | 4730.44 | 36 |
+| 1156 | [BobbyZlich](https://osu.ppy.sh/u/6779549) | 4730.32 | 29 |
+| 1157 | [PawnOnMeth](https://osu.ppy.sh/u/7837061) | 4729.56 | 59 |
+| 1158 | [alkalde](https://osu.ppy.sh/u/7314046) | 4728.87 | 29 |
+| 1159 | [Reset-](https://osu.ppy.sh/u/3850861) | 4724.38 | 71 |
+| 1160 | [cc5838p](https://osu.ppy.sh/u/679524) | 4723.08 | 43 |
+| 1161 | [alexrb22](https://osu.ppy.sh/u/2842428) | 4718.56 | 38 |
+| 1162 | [Best459](https://osu.ppy.sh/u/8185366) | 4716.51 | 47 |
+| 1163 | [[D I O]](https://osu.ppy.sh/u/2472934) | 4715.37 | 31 |
+| 1164 | [-lazy](https://osu.ppy.sh/u/5339311) | 4715.17 | 48 |
+| 1165 | [Disasterday](https://osu.ppy.sh/u/6546691) | 4715.09 | 24 |
+| 1166 | [PhaCeLia](https://osu.ppy.sh/u/483523) | 4713.64 | 28 |
+| 1167 | [DokiPon](https://osu.ppy.sh/u/3283468) | 4712.98 | 33 |
+| 1168 | [Warui Kitsune](https://osu.ppy.sh/u/2658457) | 4711.95 | 43 |
+| 1169 | [SmallStreet](https://osu.ppy.sh/u/8728956) | 4710.38 | 41 |
+| 1170 | [Kagami Hekiru](https://osu.ppy.sh/u/4577393) | 4710.10 | 29 |
+| 1171 | [Sean-](https://osu.ppy.sh/u/3706392) | 4703.84 | 23 |
+| 1172 | [espion0](https://osu.ppy.sh/u/1551711) | 4703.26 | 59 |
+| 1173 | [Aya TenSai](https://osu.ppy.sh/u/4374631) | 4699.78 | 29 |
+| 1174 | [[-Lethal-]](https://osu.ppy.sh/u/2133379) | 4696.47 | 48 |
+| 1175 | [Rain](https://osu.ppy.sh/u/865724) | 4695.96 | 32 |
+| 1176 | [Turok2511](https://osu.ppy.sh/u/8816632) | 4695.65 | 87 |
+| 1177 | [Acceptable](https://osu.ppy.sh/u/4901625) | 4695.09 | 43 |
+| 1178 | [Shleffles](https://osu.ppy.sh/u/6357349) | 4692.48 | 25 |
+| 1179 | [Epiphronn](https://osu.ppy.sh/u/4916326) | 4691.92 | 27 |
+| 1180 | [Toukai](https://osu.ppy.sh/u/1541390) | 4690.62 | 22 |
+| 1181 | [NoodleDoodle](https://osu.ppy.sh/u/3317493) | 4688.70 | 45 |
+| 1182 | [[MoorE]](https://osu.ppy.sh/u/2262143) | 4685.33 | 26 |
+| 1183 | [Der](https://osu.ppy.sh/u/4405666) | 4684.88 | 22 |
+| 1184 | [WhatTheDuck](https://osu.ppy.sh/u/790216) | 4683.45 | 26 |
+| 1185 | [Vinsu](https://osu.ppy.sh/u/2803031) | 4683.21 | 23 |
+| 1186 | [Kafein](https://osu.ppy.sh/u/6939649) | 4682.99 | 44 |
+| 1187 | [putigame](https://osu.ppy.sh/u/1484652) | 4682.99 | 37 |
+| 1188 | [[O]nLy](https://osu.ppy.sh/u/5829759) | 4679.64 | 37 |
+| 1189 | [Nick-](https://osu.ppy.sh/u/4729876) | 4679.53 | 50 |
+| 1190 | [fabivs](https://osu.ppy.sh/u/4747188) | 4678.34 | 42 |
+| 1191 | [-Cacadrilo-](https://osu.ppy.sh/u/8967510) | 4678.30 | 65 |
+| 1192 | [FiX947](https://osu.ppy.sh/u/6437722) | 4675.77 | 51 |
+| 1193 | [umpshy](https://osu.ppy.sh/u/6458365) | 4673.66 | 43 |
+| 1194 | [Kakiage](https://osu.ppy.sh/u/3104031) | 4673.64 | 26 |
+| 1195 | [Silverfox732](https://osu.ppy.sh/u/6530347) | 4673.40 | 38 |
+| 1196 | [FinL](https://osu.ppy.sh/u/6828024) | 4670.04 | 38 |
+| 1197 | [RandykhaRu](https://osu.ppy.sh/u/2158836) | 4669.91 | 36 |
+| 1198 | [Colonel-](https://osu.ppy.sh/u/3679052) | 4669.08 | 49 |
+| 1199 | [MewzaH](https://osu.ppy.sh/u/2170484) | 4668.96 | 38 |
+| 1200 | [ArFunG](https://osu.ppy.sh/u/7403461) | 4668.73 | 32 |
+| 1201 | [Rozpacz](https://osu.ppy.sh/u/4074167) | 4666.88 | 70 |
+| 1202 | [Netz](https://osu.ppy.sh/u/2443758) | 4666.22 | 29 |
+| 1203 | [ItsBluu](https://osu.ppy.sh/u/6946083) | 4663.37 | 51 |
+| 1204 | [kuroshiroJack](https://osu.ppy.sh/u/3304682) | 4662.69 | 50 |
+| 1205 | [Paov](https://osu.ppy.sh/u/4491264) | 4661.85 | 43 |
+| 1206 | [Pixy_wow](https://osu.ppy.sh/u/1319156) | 4661.54 | 32 |
+| 1207 | [[Asian]](https://osu.ppy.sh/u/3035457) | 4659.05 | 50 |
+| 1208 | [MnogonoshkaArts](https://osu.ppy.sh/u/6448730) | 4658.98 | 45 |
+| 1209 | [Muukeh](https://osu.ppy.sh/u/3577226) | 4658.15 | 28 |
+| 1210 | [Trooper-](https://osu.ppy.sh/u/7301672) | 4658.09 | 34 |
+| 1211 | [iWumpZ](https://osu.ppy.sh/u/6574658) | 4655.67 | 34 |
+| 1212 | [OnlyBjarne](https://osu.ppy.sh/u/3131461) | 4653.06 | 35 |
+| 1213 | [Aden](https://osu.ppy.sh/u/4342841) | 4651.13 | 18 |
+| 1214 | [Snakeq](https://osu.ppy.sh/u/6094894) | 4649.94 | 33 |
+| 1215 | [naruuru](https://osu.ppy.sh/u/5199996) | 4649.61 | 41 |
+| 1216 | [lighttoheaven](https://osu.ppy.sh/u/3275970) | 4648.44 | 46 |
+| 1217 | [Kay-](https://osu.ppy.sh/u/1068829) | 4647.55 | 27 |
+| 1218 | [PyKemis](https://osu.ppy.sh/u/7569160) | 4643.85 | 65 |
+| 1219 | [Complete Trash](https://osu.ppy.sh/u/7971757) | 4642.64 | 30 |
+| 1220 | [Soy Sauce](https://osu.ppy.sh/u/3124617) | 4642.15 | 33 |
+| 1221 | [Kevini](https://osu.ppy.sh/u/2577278) | 4638.10 | 41 |
+| 1222 | [HKrecords_](https://osu.ppy.sh/u/2246417) | 4636.97 | 29 |
+| 1223 | [ethox](https://osu.ppy.sh/u/441380) | 4633.53 | 59 |
+| 1224 | [ibrocky](https://osu.ppy.sh/u/3423039) | 4630.85 | 24 |
+| 1225 | [Adam_tw](https://osu.ppy.sh/u/3414615) | 4630.67 | 18 |
+| 1226 | [Reveil](https://osu.ppy.sh/u/2720394) | 4630.18 | 41 |
+| 1227 | [Zekker](https://osu.ppy.sh/u/4663554) | 4629.33 | 16 |
+| 1228 | [_indecchi](https://osu.ppy.sh/u/3936503) | 4627.54 | 31 |
+| 1229 | [[Sudar]](https://osu.ppy.sh/u/6903773) | 4626.64 | 57 |
+| 1230 | [Shigure chan](https://osu.ppy.sh/u/1048423) | 4625.40 | 19 |
+| 1231 | [jairocor](https://osu.ppy.sh/u/4124047) | 4623.20 | 53 |
+| 1232 | [Sharpsight](https://osu.ppy.sh/u/7929698) | 4621.45 | 30 |
+| 1233 | [Takei Hisa](https://osu.ppy.sh/u/640011) | 4619.52 | 36 |
+| 1234 | [Clockwork](https://osu.ppy.sh/u/2415565) | 4618.47 | 30 |
+| 1235 | [Keeane](https://osu.ppy.sh/u/5266092) | 4617.59 | 55 |
+| 1236 | [Herbayse](https://osu.ppy.sh/u/4924094) | 4617.27 | 21 |
+| 1237 | [Pandarix](https://osu.ppy.sh/u/1721994) | 4616.76 | 36 |
+| 1238 | [[ WayZ ]](https://osu.ppy.sh/u/2008278) | 4615.45 | 32 |
+| 1239 | [VINXIS](https://osu.ppy.sh/u/4323406) | 4613.78 | 21 |
+| 1240 | [iDrinkUrSlushy](https://osu.ppy.sh/u/2802343) | 4611.06 | 49 |
+| 1241 | [Yuuki-chan](https://osu.ppy.sh/u/7031287) | 4610.17 | 23 |
+| 1242 | [DeleteNumber](https://osu.ppy.sh/u/4837956) | 4610.12 | 22 |
+| 1243 | [DigiDrake](https://osu.ppy.sh/u/7863082) | 4606.49 | 17 |
+| 1244 | [influxd](https://osu.ppy.sh/u/1579374) | 4602.52 | 31 |
+| 1245 | [Shokobear](https://osu.ppy.sh/u/2476728) | 4602.37 | 21 |
+| 1246 | [Cyan Yoshi](https://osu.ppy.sh/u/3283935) | 4598.09 | 28 |
+| 1247 | [Nines](https://osu.ppy.sh/u/2696453) | 4598.03 | 35 |
+| 1248 | [LanJay](https://osu.ppy.sh/u/5210595) | 4597.18 | 17 |
+| 1249 | [-makaron-](https://osu.ppy.sh/u/6033576) | 4595.32 | 43 |
+| 1250 | [Leomyn](https://osu.ppy.sh/u/5097710) | 4594.70 | 35 |
+| 1251 | [L u m i n o u s](https://osu.ppy.sh/u/1637989) | 4592.87 | 40 |
+| 1252 | [PeteX](https://osu.ppy.sh/u/1285945) | 4592.68 | 20 |
+| 1253 | [Vocal](https://osu.ppy.sh/u/2369650) | 4592.24 | 25 |
+| 1254 | [Markden](https://osu.ppy.sh/u/4188624) | 4589.48 | 28 |
+| 1255 | [Gruszka](https://osu.ppy.sh/u/8783900) | 4589.15 | 51 |
+| 1256 | [Rosiu](https://osu.ppy.sh/u/6145243) | 4586.90 | 29 |
+| 1257 | [sangu](https://osu.ppy.sh/u/2813430) | 4585.41 | 76 |
+| 1258 | [Heal](https://osu.ppy.sh/u/2768128) | 4584.80 | 40 |
+| 1259 | [Cocaine dog](https://osu.ppy.sh/u/3213014) | 4584.69 | 19 |
+| 1260 | [Curvely](https://osu.ppy.sh/u/2414531) | 4584.10 | 22 |
+| 1261 | [Enns](https://osu.ppy.sh/u/6375834) | 4583.97 | 19 |
+| 1262 | [KafuuChino](https://osu.ppy.sh/u/427355) | 4583.83 | 20 |
+| 1263 | [soadmaniac](https://osu.ppy.sh/u/5166041) | 4576.66 | 50 |
+| 1264 | [Crescendo Blue](https://osu.ppy.sh/u/3494254) | 4576.66 | 39 |
+| 1265 | [Mokuteki](https://osu.ppy.sh/u/2715720) | 4574.53 | 46 |
+| 1266 | [cabbage](https://osu.ppy.sh/u/2358072) | 4571.67 | 30 |
+| 1267 | [klubek](https://osu.ppy.sh/u/112265) | 4570.55 | 36 |
+| 1268 | [KonKonKinakoN](https://osu.ppy.sh/u/4733185) | 4569.74 | 28 |
+| 1269 | [MyOker](https://osu.ppy.sh/u/2531436) | 4569.21 | 38 |
+| 1270 | [Fichi](https://osu.ppy.sh/u/6437445) | 4567.05 | 30 |
+| 1271 | [Aoru-](https://osu.ppy.sh/u/3611871) | 4565.79 | 34 |
+| 1272 | [LordTimeWaste](https://osu.ppy.sh/u/4105747) | 4563.38 | 26 |
+| 1273 | [Destiny9](https://osu.ppy.sh/u/3461251) | 4562.11 | 23 |
+| 1274 | [ZAMORSKIY](https://osu.ppy.sh/u/6861120) | 4559.91 | 28 |
+| 1275 | [tutuhara](https://osu.ppy.sh/u/3043544) | 4555.28 | 34 |
+| 1276 | [-Rafterz-](https://osu.ppy.sh/u/464677) | 4555.15 | 62 |
+| 1277 | [Spender-R](https://osu.ppy.sh/u/3824279) | 4554.60 | 36 |
+| 1278 | [Loner89](https://osu.ppy.sh/u/7323532) | 4554.29 | 50 |
+| 1279 | [d00k](https://osu.ppy.sh/u/3599371) | 4552.72 | 38 |
+| 1280 | [Arualevoli](https://osu.ppy.sh/u/6065942) | 4552.51 | 41 |
+| 1281 | [rips](https://osu.ppy.sh/u/626367) | 4551.98 | 34 |
+| 1282 | [Terra](https://osu.ppy.sh/u/3297385) | 4550.90 | 24 |
+| 1283 | [sumeshi](https://osu.ppy.sh/u/1170977) | 4549.31 | 44 |
+| 1284 | [_AfterWind](https://osu.ppy.sh/u/2086138) | 4547.13 | 24 |
+| 1285 | [Piratex](https://osu.ppy.sh/u/4638668) | 4546.00 | 55 |
+| 1286 | [raser1234](https://osu.ppy.sh/u/2527887) | 4545.83 | 22 |
+| 1287 | [vitail](https://osu.ppy.sh/u/6512857) | 4544.99 | 20 |
+| 1288 | [Ragnawrawk](https://osu.ppy.sh/u/1838239) | 4543.92 | 24 |
+| 1289 | [Rythze](https://osu.ppy.sh/u/469808) | 4543.54 | 35 |
+| 1290 | [Teachu](https://osu.ppy.sh/u/3204246) | 4542.30 | 19 |
+| 1291 | [- Yuuma](https://osu.ppy.sh/u/6598355) | 4541.49 | 52 |
+| 1292 | [Getus Rektus](https://osu.ppy.sh/u/6466189) | 4537.51 | 25 |
+| 1293 | [Shikatsu](https://osu.ppy.sh/u/3392418) | 4536.38 | 29 |
+| 1294 | [Eros](https://osu.ppy.sh/u/7531114) | 4530.87 | 44 |
+| 1295 | [mikoske](https://osu.ppy.sh/u/5685165) | 4528.08 | 44 |
+| 1296 | [Galakey](https://osu.ppy.sh/u/3385634) | 4526.90 | 26 |
+| 1297 | [Kocari](https://osu.ppy.sh/u/3592149) | 4525.12 | 27 |
+| 1298 | [DmS14](https://osu.ppy.sh/u/3018823) | 4523.51 | 53 |
+| 1299 | [Rough Rhythm](https://osu.ppy.sh/u/4275838) | 4523.14 | 26 |
+| 1300 | [ChiSuki](https://osu.ppy.sh/u/2152699) | 4518.70 | 25 |
+| 1301 | [hyung102200](https://osu.ppy.sh/u/7406009) | 4514.47 | 27 |
+| 1302 | [Borsuk664](https://osu.ppy.sh/u/3075673) | 4513.37 | 51 |
+| 1303 | [Hijikata](https://osu.ppy.sh/u/1694523) | 4511.63 | 21 |
+| 1304 | [everlasting](https://osu.ppy.sh/u/3440337) | 4509.92 | 37 |
+| 1305 | [_shinji](https://osu.ppy.sh/u/2971085) | 4507.00 | 27 |
+| 1306 | [Terandr](https://osu.ppy.sh/u/4239101) | 4506.11 | 36 |
+| 1307 | [Blazemon](https://osu.ppy.sh/u/6718427) | 4504.89 | 21 |
+| 1308 | [Amalgamation](https://osu.ppy.sh/u/1523555) | 4504.42 | 37 |
+| 1309 | [abinsan](https://osu.ppy.sh/u/3363171) | 4502.23 | 29 |
+| 1310 | [Sey10](https://osu.ppy.sh/u/5843837) | 4501.68 | 32 |
+| 1311 | [Ayai-](https://osu.ppy.sh/u/4393641) | 4501.55 | 29 |
+| 1312 | [PlatinumAki](https://osu.ppy.sh/u/5012729) | 4499.36 | 29 |
+| 1313 | [[Sony]](https://osu.ppy.sh/u/8750694) | 4498.90 | 23 |
+| 1314 | [Deed](https://osu.ppy.sh/u/3864523) | 4497.41 | 26 |
+| 1315 | [Darken](https://osu.ppy.sh/u/4829231) | 4496.92 | 27 |
+| 1316 | [DigitalHypno](https://osu.ppy.sh/u/4384207) | 4494.29 | 22 |
+| 1317 | [Chiwu](https://osu.ppy.sh/u/1557374) | 4490.99 | 32 |
+| 1318 | [winterNebs](https://osu.ppy.sh/u/4344596) | 4489.58 | 31 |
+| 1319 | [aod](https://osu.ppy.sh/u/723100) | 4489.33 | 25 |
+| 1320 | [mentalw](https://osu.ppy.sh/u/6572276) | 4487.56 | 30 |
+| 1321 | [Nedsing](https://osu.ppy.sh/u/4141013) | 4487.23 | 36 |
+| 1322 | [bro_gamer72](https://osu.ppy.sh/u/1419095) | 4484.92 | 11 |
+| 1323 | [Linkle](https://osu.ppy.sh/u/3253550) | 4483.43 | 26 |
+| 1324 | [Ball](https://osu.ppy.sh/u/3098148) | 4483.19 | 42 |
+| 1325 | [Ponyawka](https://osu.ppy.sh/u/4082445) | 4482.74 | 21 |
+| 1326 | [Aoba Karingo](https://osu.ppy.sh/u/4012621) | 4481.94 | 22 |
+| 1327 | [theworst987](https://osu.ppy.sh/u/6598233) | 4481.06 | 40 |
+| 1328 | [TheBlueEight](https://osu.ppy.sh/u/6096166) | 4480.53 | 23 |
+| 1329 | [JohnyZ](https://osu.ppy.sh/u/4508048) | 4479.63 | 21 |
+| 1330 | [Ry4chikA](https://osu.ppy.sh/u/6095098) | 4478.62 | 33 |
+| 1331 | [Izikz](https://osu.ppy.sh/u/5785515) | 4476.48 | 24 |
+| 1332 | [Sempai](https://osu.ppy.sh/u/3228141) | 4476.36 | 33 |
+| 1333 | [Cherie](https://osu.ppy.sh/u/1869975) | 4476.07 | 20 |
+| 1334 | [Mateo](https://osu.ppy.sh/u/3851867) | 4475.97 | 26 |
+| 1335 | [0203okaT](https://osu.ppy.sh/u/1897445) | 4475.42 | 22 |
+| 1336 | [cleverdmg](https://osu.ppy.sh/u/2147829) | 4475.40 | 35 |
+| 1337 | [kenji-](https://osu.ppy.sh/u/7546212) | 4475.32 | 31 |
+| 1338 | [xSuffix](https://osu.ppy.sh/u/6106053) | 4472.89 | 29 |
+| 1339 | [Rusio](https://osu.ppy.sh/u/2243537) | 4471.61 | 20 |
+| 1340 | [Leiv](https://osu.ppy.sh/u/3389195) | 4470.55 | 36 |
+| 1341 | [Akani](https://osu.ppy.sh/u/2323137) | 4470.45 | 19 |
+| 1342 | [-Marika](https://osu.ppy.sh/u/2199427) | 4470.30 | 20 |
+| 1343 | [arth](https://osu.ppy.sh/u/3600549) | 4469.99 | 20 |
+| 1344 | [FelixNy](https://osu.ppy.sh/u/2814070) | 4468.00 | 26 |
+| 1345 | [cub656](https://osu.ppy.sh/u/6279188) | 4467.25 | 36 |
+| 1346 | [m00nboy](https://osu.ppy.sh/u/3309674) | 4466.97 | 43 |
+| 1347 | [Asterix-](https://osu.ppy.sh/u/5138193) | 4466.77 | 29 |
+| 1348 | [Himeragi Yukina](https://osu.ppy.sh/u/708630) | 4464.72 | 43 |
+| 1349 | [michta](https://osu.ppy.sh/u/3197799) | 4462.05 | 43 |
+| 1350 | [DeathAdderz](https://osu.ppy.sh/u/7457788) | 4459.96 | 28 |
+| 1351 | [C4J_](https://osu.ppy.sh/u/4222783) | 4457.54 | 34 |
+| 1352 | [-PloX](https://osu.ppy.sh/u/6404583) | 4454.96 | 20 |
+| 1353 | [MFZ](https://osu.ppy.sh/u/2162960) | 4454.24 | 26 |
+| 1354 | [sarvikuono](https://osu.ppy.sh/u/4302675) | 4453.71 | 36 |
+| 1355 | [Widelux13](https://osu.ppy.sh/u/3938945) | 4452.51 | 26 |
+| 1356 | [Majestic Panda](https://osu.ppy.sh/u/7504689) | 4451.36 | 44 |
+| 1357 | [NyaKame](https://osu.ppy.sh/u/2026980) | 4449.97 | 31 |
+| 1358 | [RikuSexualToy](https://osu.ppy.sh/u/6141330) | 4449.75 | 31 |
+| 1359 | [NeoAxel](https://osu.ppy.sh/u/6806934) | 4448.14 | 26 |
+| 1360 | [Elzbieta](https://osu.ppy.sh/u/3734954) | 4446.79 | 24 |
+| 1361 | [OskaRRRitoS](https://osu.ppy.sh/u/7051163) | 4446.43 | 21 |
+| 1362 | [Truth](https://osu.ppy.sh/u/3388375) | 4446.34 | 31 |
+| 1363 | [helix](https://osu.ppy.sh/u/3322597) | 4435.57 | 21 |
+| 1364 | [Deolink](https://osu.ppy.sh/u/457523) | 4435.30 | 34 |
+| 1365 | [-Shinryaku-](https://osu.ppy.sh/u/8127948) | 4433.70 | 27 |
+| 1366 | [Envy_ss](https://osu.ppy.sh/u/8386483) | 4432.32 | 25 |
+| 1367 | [Xho](https://osu.ppy.sh/u/2064219) | 4428.56 | 41 |
+| 1368 | [KingKitsaer](https://osu.ppy.sh/u/4252812) | 4426.69 | 22 |
+| 1369 | [Ramhh](https://osu.ppy.sh/u/1734772) | 4426.07 | 38 |
+| 1370 | [Noobish](https://osu.ppy.sh/u/502592) | 4425.69 | 46 |
+| 1371 | [SwENeMbO](https://osu.ppy.sh/u/652793) | 4424.92 | 50 |
+| 1372 | [Tsumia](https://osu.ppy.sh/u/2244234) | 4424.65 | 30 |
+| 1373 | [Otters](https://osu.ppy.sh/u/4817162) | 4424.25 | 23 |
+| 1374 | [LoliFow](https://osu.ppy.sh/u/4803374) | 4423.53 | 36 |
+| 1375 | [Windham](https://osu.ppy.sh/u/782346) | 4422.75 | 49 |
+| 1376 | [Drew](https://osu.ppy.sh/u/1200005) | 4419.53 | 37 |
+| 1377 | [unberlin](https://osu.ppy.sh/u/2408278) | 4418.51 | 18 |
+| 1378 | [Hakuma](https://osu.ppy.sh/u/5394550) | 4418.01 | 37 |
+| 1379 | [a href](https://osu.ppy.sh/u/3785523) | 4411.51 | 35 |
+| 1380 | [blizzen](https://osu.ppy.sh/u/5139223) | 4409.48 | 31 |
+| 1381 | [bubbagumperson](https://osu.ppy.sh/u/2980681) | 4406.09 | 23 |
+| 1382 | [Yusomi](https://osu.ppy.sh/u/4174940) | 4405.92 | 21 |
+| 1383 | [Sealeet](https://osu.ppy.sh/u/2466360) | 4405.40 | 30 |
+| 1384 | [NikaRuso](https://osu.ppy.sh/u/5391748) | 4404.57 | 30 |
+| 1385 | [Ampoz](https://osu.ppy.sh/u/2949928) | 4404.41 | 27 |
+| 1386 | [Risiing](https://osu.ppy.sh/u/2282047) | 4403.67 | 15 |
+| 1387 | [reversiout](https://osu.ppy.sh/u/3378394) | 4403.27 | 26 |
+| 1388 | [Miralyn](https://osu.ppy.sh/u/4839771) | 4399.38 | 28 |
+| 1389 | [kjuszino](https://osu.ppy.sh/u/3623805) | 4398.93 | 23 |
+| 1390 | [sAraShina](https://osu.ppy.sh/u/723565) | 4396.57 | 19 |
+| 1391 | [Pelzio](https://osu.ppy.sh/u/4775226) | 4395.77 | 38 |
+| 1392 | [kjsk](https://osu.ppy.sh/u/1475447) | 4394.73 | 54 |
+| 1393 | [LoverJuzu](https://osu.ppy.sh/u/2198706) | 4387.65 | 27 |
+| 1394 | [[Tsunderella]](https://osu.ppy.sh/u/4332644) | 4386.87 | 34 |
+| 1395 | [swerve](https://osu.ppy.sh/u/6247868) | 4385.56 | 22 |
+| 1396 | [Zavarka](https://osu.ppy.sh/u/4607565) | 4383.60 | 16 |
+| 1397 | [konawiki](https://osu.ppy.sh/u/4003979) | 4382.48 | 25 |
+| 1398 | [Oreemo](https://osu.ppy.sh/u/3832571) | 4381.84 | 30 |
+| 1399 | [Citoxe](https://osu.ppy.sh/u/3958540) | 4381.65 | 30 |
+| 1400 | [Plomppa](https://osu.ppy.sh/u/3937175) | 4378.99 | 25 |
+| 1401 | [Iris](https://osu.ppy.sh/u/758181) | 4378.39 | 34 |
+| 1402 | [jvt](https://osu.ppy.sh/u/6884370) | 4376.15 | 22 |
+| 1403 | [haxsu](https://osu.ppy.sh/u/1042325) | 4374.47 | 24 |
+| 1404 | [Ritsumi](https://osu.ppy.sh/u/5218320) | 4373.51 | 20 |
+| 1405 | [Kliiper](https://osu.ppy.sh/u/1836826) | 4373.49 | 44 |
+| 1406 | [Mikumo](https://osu.ppy.sh/u/1769638) | 4372.21 | 38 |
+| 1407 | [Penguin UwU](https://osu.ppy.sh/u/3992043) | 4368.17 | 25 |
+| 1408 | [Melt3dCheeze](https://osu.ppy.sh/u/634837) | 4366.47 | 21 |
+| 1409 | [Shogud](https://osu.ppy.sh/u/4505479) | 4365.95 | 27 |
+| 1410 | [- Christian -](https://osu.ppy.sh/u/3757665) | 4364.83 | 36 |
+| 1411 | [MCNortrom](https://osu.ppy.sh/u/1709406) | 4362.55 | 19 |
+| 1412 | [_Mayuri](https://osu.ppy.sh/u/1955058) | 4361.71 | 22 |
+| 1413 | [Daramar](https://osu.ppy.sh/u/3522442) | 4359.92 | 28 |
+| 1414 | [eagle3o](https://osu.ppy.sh/u/3492356) | 4359.82 | 47 |
+| 1415 | [Kishidle](https://osu.ppy.sh/u/3518149) | 4359.22 | 32 |
+| 1416 | [EZNF](https://osu.ppy.sh/u/6175709) | 4358.02 | 25 |
+| 1417 | [Hudda](https://osu.ppy.sh/u/4103629) | 4356.71 | 24 |
+| 1418 | [rasssler](https://osu.ppy.sh/u/3289000) | 4354.78 | 26 |
+| 1419 | [Plain](https://osu.ppy.sh/u/2327558) | 4354.50 | 31 |
+| 1420 | [Im a Pencil](https://osu.ppy.sh/u/7524649) | 4354.33 | 27 |
+| 1421 | [w00t98](https://osu.ppy.sh/u/3735603) | 4353.50 | 43 |
+| 1422 | [Frostmourne](https://osu.ppy.sh/u/199669) | 4351.23 | 20 |
+| 1423 | [Meersu](https://osu.ppy.sh/u/6311605) | 4347.46 | 21 |
+| 1424 | [SheshaiV](https://osu.ppy.sh/u/5186208) | 4343.78 | 36 |
+| 1425 | [InBu](https://osu.ppy.sh/u/6302450) | 4341.46 | 45 |
+| 1426 | [-Poporo-](https://osu.ppy.sh/u/6727357) | 4341.07 | 58 |
+| 1427 | [Celosia](https://osu.ppy.sh/u/6388317) | 4339.59 | 38 |
+| 1428 | [GGdub](https://osu.ppy.sh/u/5690455) | 4338.86 | 27 |
+| 1429 | [Chisayo20](https://osu.ppy.sh/u/4667643) | 4337.72 | 27 |
+| 1430 | [Marec](https://osu.ppy.sh/u/3569225) | 4335.89 | 30 |
+| 1431 | [Xerpa](https://osu.ppy.sh/u/3837965) | 4331.80 | 32 |
+| 1432 | [Zyphox](https://osu.ppy.sh/u/6589047) | 4328.87 | 32 |
+| 1433 | [Osuology](https://osu.ppy.sh/u/3988540) | 4328.13 | 36 |
+| 1434 | [Uan](https://osu.ppy.sh/u/147623) | 4324.92 | 28 |
+| 1435 | [Kraiz](https://osu.ppy.sh/u/240049) | 4323.80 | 31 |
+| 1436 | [Stoney](https://osu.ppy.sh/u/4366565) | 4321.42 | 29 |
+| 1437 | [Daokou](https://osu.ppy.sh/u/7462111) | 4317.82 | 23 |
+| 1438 | [My Angel Ran](https://osu.ppy.sh/u/2639385) | 4317.14 | 39 |
+| 1439 | [Sn0rY](https://osu.ppy.sh/u/4672386) | 4314.38 | 38 |
+| 1440 | [Ldd-D](https://osu.ppy.sh/u/1407094) | 4313.39 | 25 |
+| 1441 | [Shironi](https://osu.ppy.sh/u/8660120) | 4311.76 | 27 |
+| 1442 | [WEIRD FACE](https://osu.ppy.sh/u/1431354) | 4311.10 | 24 |
+| 1443 | [hlanden](https://osu.ppy.sh/u/4934554) | 4310.78 | 23 |
+| 1444 | [Noune](https://osu.ppy.sh/u/4883087) | 4309.64 | 32 |
+| 1445 | [chasebeleren](https://osu.ppy.sh/u/5696185) | 4309.28 | 30 |
+| 1446 | [rustbell](https://osu.ppy.sh/u/227717) | 4305.11 | 13 |
+| 1447 | [xClusion](https://osu.ppy.sh/u/2263910) | 4301.70 | 25 |
+| 1448 | [sebamanski](https://osu.ppy.sh/u/6783450) | 4301.48 | 32 |
+| 1449 | [DykkyLieS](https://osu.ppy.sh/u/2338476) | 4300.49 | 28 |
+| 1450 | [Woey](https://osu.ppy.sh/u/3792472) | 4299.31 | 18 |
+| 1451 | [Ranker](https://osu.ppy.sh/u/796613) | 4297.31 | 18 |
+| 1452 | [Wiped](https://osu.ppy.sh/u/4731835) | 4289.38 | 24 |
+| 1453 | [Genzoku](https://osu.ppy.sh/u/3880481) | 4288.37 | 41 |
+| 1454 | [Disprolii](https://osu.ppy.sh/u/5286833) | 4284.93 | 26 |
+| 1455 | [perepepepe](https://osu.ppy.sh/u/673248) | 4284.36 | 37 |
+| 1456 | [kilyNn](https://osu.ppy.sh/u/6114618) | 4283.84 | 31 |
+| 1457 | [Yukiyo](https://osu.ppy.sh/u/4541873) | 4283.15 | 19 |
+| 1458 | [Leadenginger](https://osu.ppy.sh/u/3799991) | 4281.91 | 48 |
+| 1459 | [CZDemon](https://osu.ppy.sh/u/3548077) | 4278.57 | 27 |
+| 1460 | [StasiekXD](https://osu.ppy.sh/u/1367955) | 4278.09 | 36 |
+| 1461 | [K i w i](https://osu.ppy.sh/u/1226208) | 4277.49 | 23 |
+| 1462 | [X rated](https://osu.ppy.sh/u/6373863) | 4274.77 | 23 |
+| 1463 | [mathyu6270](https://osu.ppy.sh/u/6303313) | 4273.47 | 18 |
+| 1464 | [Shinoue](https://osu.ppy.sh/u/4359069) | 4272.77 | 22 |
+| 1465 | [Muxy](https://osu.ppy.sh/u/3704792) | 4271.95 | 31 |
+| 1466 | [PainHate](https://osu.ppy.sh/u/1965699) | 4271.67 | 34 |
+| 1467 | [FreeSongs](https://osu.ppy.sh/u/2116792) | 4271.55 | 26 |
+| 1468 | [Jabba](https://osu.ppy.sh/u/6068934) | 4271.51 | 27 |
+| 1469 | [XealouS](https://osu.ppy.sh/u/5012812) | 4270.93 | 47 |
+| 1470 | [Helikaze](https://osu.ppy.sh/u/6107833) | 4267.38 | 35 |
+| 1471 | [Kyoja](https://osu.ppy.sh/u/5599541) | 4264.44 | 27 |
+| 1472 | [Frolie](https://osu.ppy.sh/u/2528780) | 4263.25 | 32 |
+| 1473 | [Jordan](https://osu.ppy.sh/u/618549) | 4262.28 | 22 |
+| 1474 | [Carbone](https://osu.ppy.sh/u/5783315) | 4253.17 | 19 |
+| 1475 | [broodjepure](https://osu.ppy.sh/u/3868012) | 4250.55 | 22 |
+| 1476 | [[ DANIEZ ]](https://osu.ppy.sh/u/887924) | 4249.45 | 16 |
+| 1477 | [murasaki_sk](https://osu.ppy.sh/u/1022958) | 4248.90 | 24 |
+| 1478 | [RepL4y](https://osu.ppy.sh/u/1974797) | 4245.82 | 28 |
+| 1479 | [KaanKorkmaz](https://osu.ppy.sh/u/4906401) | 4245.49 | 17 |
+| 1480 | [Black fires](https://osu.ppy.sh/u/2296938) | 4244.46 | 24 |
+| 1481 | [-shatter](https://osu.ppy.sh/u/7795892) | 4242.75 | 28 |
+| 1482 | [ithgyu](https://osu.ppy.sh/u/5113781) | 4242.59 | 17 |
+| 1483 | [Aline](https://osu.ppy.sh/u/2724358) | 4241.34 | 37 |
+| 1484 | [caned](https://osu.ppy.sh/u/4944043) | 4241.11 | 30 |
+| 1485 | [Vanillaire](https://osu.ppy.sh/u/2359549) | 4237.57 | 26 |
+| 1486 | [whiteMoCa](https://osu.ppy.sh/u/3072729) | 4237.44 | 46 |
+| 1487 | [DarudeFurystorm](https://osu.ppy.sh/u/6291617) | 4236.92 | 29 |
+| 1488 | [Triple Agent](https://osu.ppy.sh/u/7252032) | 4236.21 | 27 |
+| 1489 | [Loazo](https://osu.ppy.sh/u/3925586) | 4236.05 | 22 |
+| 1490 | [Cr1tical](https://osu.ppy.sh/u/5113874) | 4234.31 | 22 |
+| 1491 | [OreoWaffles](https://osu.ppy.sh/u/5832017) | 4233.60 | 24 |
+| 1492 | [Bzer](https://osu.ppy.sh/u/980956) | 4233.08 | 25 |
+| 1493 | [Lexion](https://osu.ppy.sh/u/5271371) | 4232.66 | 18 |
+| 1494 | [Quag](https://osu.ppy.sh/u/6535093) | 4232.31 | 37 |
+| 1495 | [[ Zane ]](https://osu.ppy.sh/u/3517706) | 4231.93 | 14 |
+| 1496 | [Niksukii-Senpai](https://osu.ppy.sh/u/4889867) | 4231.10 | 20 |
+| 1497 | [Zenden](https://osu.ppy.sh/u/3070694) | 4230.19 | 24 |
+| 1498 | [_WinRAWR](https://osu.ppy.sh/u/3360947) | 4229.49 | 24 |
+| 1499 | [Clarity](https://osu.ppy.sh/u/3441616) | 4227.90 | 15 |
+| 1500 | [Crone](https://osu.ppy.sh/u/5183111) | 4227.60 | 30 |
+| 1501 | [Space Chicken](https://osu.ppy.sh/u/6465867) | 4227.00 | 28 |
+| 1502 | [[-Kurobuta-]](https://osu.ppy.sh/u/3876121) | 4226.64 | 31 |
+| 1503 | [Faces](https://osu.ppy.sh/u/2826407) | 4226.60 | 23 |
+| 1504 | [azuraer](https://osu.ppy.sh/u/145851) | 4226.52 | 48 |
+| 1505 | [GfMRT](https://osu.ppy.sh/u/3163649) | 4226.14 | 23 |
+| 1506 | [_Anzu](https://osu.ppy.sh/u/4459174) | 4225.76 | 56 |
+| 1507 | [prrn](https://osu.ppy.sh/u/8307382) | 4222.53 | 39 |
+| 1508 | [Borealisnow](https://osu.ppy.sh/u/2930084) | 4221.93 | 35 |
+| 1509 | [Zetaku](https://osu.ppy.sh/u/1615897) | 4220.63 | 36 |
+| 1510 | [Nega](https://osu.ppy.sh/u/3181083) | 4220.22 | 19 |
+| 1511 | [BabyRomeo](https://osu.ppy.sh/u/2526649) | 4219.55 | 24 |
+| 1512 | [isuzukawaii](https://osu.ppy.sh/u/4266448) | 4218.00 | 29 |
+| 1513 | [GooDly](https://osu.ppy.sh/u/2497096) | 4216.09 | 34 |
+| 1514 | [Chiasm](https://osu.ppy.sh/u/1639495) | 4213.78 | 32 |
+| 1515 | [Gian](https://osu.ppy.sh/u/2105981) | 4213.58 | 20 |
+| 1516 | [Rk0](https://osu.ppy.sh/u/979519) | 4208.63 | 41 |
+| 1517 | [AAA](https://osu.ppy.sh/u/4374853) | 4206.88 | 16 |
+| 1518 | [Natorin](https://osu.ppy.sh/u/617194) | 4204.32 | 23 |
+| 1519 | [Chrysphylax](https://osu.ppy.sh/u/6833983) | 4203.82 | 33 |
+| 1520 | [Kafuu Chino](https://osu.ppy.sh/u/2451651) | 4203.50 | 20 |
+| 1521 | [DavidStylez](https://osu.ppy.sh/u/4825000) | 4197.91 | 26 |
+| 1522 | [Bauxe](https://osu.ppy.sh/u/1881685) | 4196.53 | 17 |
+| 1523 | [TrueForce](https://osu.ppy.sh/u/4682174) | 4196.22 | 31 |
+| 1524 | [S E L](https://osu.ppy.sh/u/2115465) | 4196.15 | 35 |
+| 1525 | [junb2951](https://osu.ppy.sh/u/1020035) | 4191.47 | 41 |
+| 1526 | [puh-puh](https://osu.ppy.sh/u/4267803) | 4188.87 | 27 |
+| 1527 | [Valentine](https://osu.ppy.sh/u/4437309) | 4187.31 | 18 |
+| 1528 | [-[ DarkGsTON ]-](https://osu.ppy.sh/u/1237190) | 4186.79 | 37 |
+| 1529 | [Proviteus](https://osu.ppy.sh/u/4686342) | 4185.73 | 26 |
+| 1530 | [dVz](https://osu.ppy.sh/u/2258076) | 4185.65 | 45 |
+| 1531 | [TSGWhatever](https://osu.ppy.sh/u/4536664) | 4185.16 | 30 |
+| 1532 | [Hard Rock](https://osu.ppy.sh/u/2776244) | 4183.38 | 44 |
+| 1533 | [Cloz1k](https://osu.ppy.sh/u/4548264) | 4182.29 | 16 |
+| 1534 | [Lumina](https://osu.ppy.sh/u/2953233) | 4176.89 | 32 |
+| 1535 | [Karlos Harjulez](https://osu.ppy.sh/u/4358250) | 4173.24 | 34 |
+| 1536 | [SnowMery](https://osu.ppy.sh/u/3768153) | 4169.85 | 36 |
+| 1537 | [baobob](https://osu.ppy.sh/u/1796438) | 4169.65 | 19 |
+| 1538 | [TpSlimigt](https://osu.ppy.sh/u/2813324) | 4168.75 | 25 |
+| 1539 | [Sh1ko](https://osu.ppy.sh/u/4056014) | 4167.66 | 22 |
+| 1540 | [TJay93](https://osu.ppy.sh/u/4045862) | 4165.60 | 36 |
+| 1541 | [Exarch](https://osu.ppy.sh/u/5370153) | 4161.47 | 15 |
+| 1542 | [Shapy](https://osu.ppy.sh/u/2705769) | 4158.05 | 25 |
+| 1543 | [Niphora](https://osu.ppy.sh/u/6566312) | 4157.20 | 23 |
+| 1544 | [Neta](https://osu.ppy.sh/u/832084) | 4156.05 | 13 |
+| 1545 | [- Ikuze -](https://osu.ppy.sh/u/8320034) | 4155.89 | 27 |
+| 1546 | [Maggy](https://osu.ppy.sh/u/4301627) | 4154.47 | 27 |
+| 1547 | [Mya](https://osu.ppy.sh/u/2868952) | 4152.87 | 17 |
+| 1548 | [K I N O](https://osu.ppy.sh/u/1041943) | 4151.32 | 19 |
+| 1549 | [Timpai](https://osu.ppy.sh/u/5054798) | 4150.41 | 18 |
+| 1550 | [No Image](https://osu.ppy.sh/u/6120498) | 4147.77 | 35 |
+| 1551 | [-Vanilla](https://osu.ppy.sh/u/4660116) | 4145.48 | 28 |
+| 1552 | [SiLCRo](https://osu.ppy.sh/u/2214102) | 4144.38 | 37 |
+| 1553 | [Nidopasvn](https://osu.ppy.sh/u/3891241) | 4143.20 | 36 |
+| 1554 | [KingLizardYT](https://osu.ppy.sh/u/7817891) | 4140.09 | 21 |
+| 1555 | [ruruuJr](https://osu.ppy.sh/u/4642884) | 4139.39 | 21 |
+| 1556 | [Grindle](https://osu.ppy.sh/u/5894933) | 4137.60 | 25 |
+| 1557 | [TopSp1n](https://osu.ppy.sh/u/7657761) | 4137.04 | 22 |
+| 1558 | [Bluecrow309](https://osu.ppy.sh/u/4375933) | 4135.38 | 28 |
+| 1559 | [Azure Desu](https://osu.ppy.sh/u/4294599) | 4134.47 | 23 |
+| 1560 | [Elusive](https://osu.ppy.sh/u/3698691) | 4133.97 | 23 |
+| 1561 | [punikidesu-](https://osu.ppy.sh/u/1443338) | 4129.76 | 20 |
+| 1562 | [Unforgiven](https://osu.ppy.sh/u/4889672) | 4128.08 | 37 |
+| 1563 | [hopperhtkn](https://osu.ppy.sh/u/311550) | 4127.94 | 54 |
+| 1564 | [Lazypity](https://osu.ppy.sh/u/2231017) | 4127.68 | 35 |
+| 1565 | [bmd6150](https://osu.ppy.sh/u/5264998) | 4124.95 | 27 |
+| 1566 | [Bowashe](https://osu.ppy.sh/u/2163544) | 4124.89 | 27 |
+| 1567 | [Hiromu](https://osu.ppy.sh/u/625429) | 4124.29 | 23 |
+| 1568 | [gummimallow](https://osu.ppy.sh/u/6372755) | 4118.31 | 30 |
+| 1569 | [- Beyond -](https://osu.ppy.sh/u/6950584) | 4116.66 | 26 |
+| 1570 | [Liqh](https://osu.ppy.sh/u/3409838) | 4114.84 | 23 |
+| 1571 | [Rekinaja](https://osu.ppy.sh/u/2214908) | 4109.63 | 25 |
+| 1572 | [-Urushihara-](https://osu.ppy.sh/u/6169195) | 4107.41 | 24 |
+| 1573 | [djsettle](https://osu.ppy.sh/u/4010354) | 4106.68 | 27 |
+| 1574 | [Chippy](https://osu.ppy.sh/u/2314115) | 4100.81 | 18 |
+| 1575 | [xinksprin9](https://osu.ppy.sh/u/6027139) | 4100.22 | 30 |
+| 1576 | [Deruz](https://osu.ppy.sh/u/5386106) | 4099.10 | 25 |
+| 1577 | [Cryaq](https://osu.ppy.sh/u/3642394) | 4098.41 | 23 |
+| 1578 | [davidqu2](https://osu.ppy.sh/u/6090175) | 4098.14 | 18 |
+| 1579 | [MasterPizza](https://osu.ppy.sh/u/5490473) | 4097.76 | 23 |
+| 1580 | [Ayakura Mei](https://osu.ppy.sh/u/1083002) | 4096.76 | 25 |
+| 1581 | [Aphrow](https://osu.ppy.sh/u/2736959) | 4094.33 | 17 |
+| 1582 | [Z1nc](https://osu.ppy.sh/u/2860339) | 4092.11 | 21 |
+| 1583 | [SilverOfTheMoon](https://osu.ppy.sh/u/7980502) | 4088.90 | 25 |
+| 1584 | [L0st](https://osu.ppy.sh/u/7809099) | 4086.69 | 33 |
+| 1585 | [hamanaka](https://osu.ppy.sh/u/1579122) | 4086.36 | 27 |
+| 1586 | [El Guido](https://osu.ppy.sh/u/1497994) | 4081.93 | 39 |
+| 1587 | [Zukarido](https://osu.ppy.sh/u/3612558) | 4081.69 | 24 |
+| 1588 | [3ckokill](https://osu.ppy.sh/u/1253972) | 4079.08 | 25 |
+| 1589 | [ScarletAngel](https://osu.ppy.sh/u/6959506) | 4077.73 | 35 |
+| 1590 | [NameAcht](https://osu.ppy.sh/u/7037315) | 4076.66 | 22 |
+| 1591 | [Hub3r](https://osu.ppy.sh/u/6966624) | 4076.14 | 34 |
+| 1592 | [Inconsistent](https://osu.ppy.sh/u/3242760) | 4072.71 | 24 |
+| 1593 | [NeXoN-PL](https://osu.ppy.sh/u/5029319) | 4071.32 | 30 |
+| 1594 | [Lunedill](https://osu.ppy.sh/u/3811954) | 4070.36 | 18 |
+| 1595 | [nO_Clu](https://osu.ppy.sh/u/4179446) | 4070.09 | 23 |
+| 1596 | [SoullessTM](https://osu.ppy.sh/u/4060073) | 4067.93 | 21 |
+| 1597 | [Takakura Anzu](https://osu.ppy.sh/u/682968) | 4064.13 | 28 |
+| 1598 | [Emilia](https://osu.ppy.sh/u/2003326) | 4061.27 | 10 |
+| 1599 | [teamplayer51](https://osu.ppy.sh/u/3084508) | 4061.04 | 27 |
+| 1600 | [Lunaii](https://osu.ppy.sh/u/3683387) | 4060.93 | 21 |
+| 1601 | [Skill](https://osu.ppy.sh/u/7802027) | 4060.34 | 19 |
+| 1602 | [Chaya](https://osu.ppy.sh/u/4768570) | 4059.39 | 29 |
+| 1603 | [ibvan](https://osu.ppy.sh/u/5315077) | 4058.48 | 19 |
+| 1604 | [Big Z](https://osu.ppy.sh/u/8641416) | 4057.73 | 19 |
+| 1605 | [Amanion](https://osu.ppy.sh/u/7382973) | 4056.96 | 26 |
+| 1606 | [space potato](https://osu.ppy.sh/u/6545407) | 4055.81 | 20 |
+| 1607 | [BtCCCY](https://osu.ppy.sh/u/1039355) | 4049.86 | 23 |
+| 1608 | [sorotot](https://osu.ppy.sh/u/7178728) | 4049.48 | 28 |
+| 1609 | [pandemicxlr](https://osu.ppy.sh/u/3770558) | 4049.14 | 44 |
+| 1610 | [Sophia](https://osu.ppy.sh/u/3778766) | 4046.60 | 24 |
+| 1611 | [Minoxs](https://osu.ppy.sh/u/7850836) | 4044.47 | 33 |
+| 1612 | [Planksu](https://osu.ppy.sh/u/2713543) | 4044.32 | 26 |
+| 1613 | [toara_fict](https://osu.ppy.sh/u/1786588) | 4043.61 | 39 |
+| 1614 | [[ Elsie ]](https://osu.ppy.sh/u/1853408) | 4043.57 | 22 |
+| 1615 | [Perception](https://osu.ppy.sh/u/3415572) | 4042.86 | 41 |
+| 1616 | [Yuukeh](https://osu.ppy.sh/u/6315052) | 4042.66 | 31 |
+| 1617 | [Katrion](https://osu.ppy.sh/u/6267524) | 4040.67 | 39 |
+| 1618 | [Syrte](https://osu.ppy.sh/u/2806486) | 4039.93 | 22 |
+| 1619 | [Lithium](https://osu.ppy.sh/u/4720862) | 4039.53 | 25 |
+| 1620 | [Commy](https://osu.ppy.sh/u/1023420) | 4036.53 | 17 |
+| 1621 | [Wolkid](https://osu.ppy.sh/u/924007) | 4035.71 | 26 |
+| 1622 | [Snase](https://osu.ppy.sh/u/4258410) | 4035.29 | 20 |
+| 1623 | [OK_Kenny](https://osu.ppy.sh/u/3888456) | 4031.25 | 21 |
+| 1624 | [Useful](https://osu.ppy.sh/u/6197288) | 4030.18 | 22 |
+| 1625 | [Sunfish](https://osu.ppy.sh/u/6817123) | 4029.56 | 39 |
+| 1626 | [pp447576](https://osu.ppy.sh/u/4196943) | 4024.67 | 20 |
+| 1627 | [PIS](https://osu.ppy.sh/u/1701573) | 4023.75 | 30 |
+| 1628 | [translate](https://osu.ppy.sh/u/4484957) | 4023.30 | 20 |
+| 1629 | [Keepu](https://osu.ppy.sh/u/4145363) | 4022.93 | 28 |
+| 1630 | [squidfish](https://osu.ppy.sh/u/4480218) | 4022.55 | 25 |
+| 1631 | [S o n y](https://osu.ppy.sh/u/3564530) | 4022.12 | 27 |
+| 1632 | [Zaffer](https://osu.ppy.sh/u/3188094) | 4019.02 | 27 |
+| 1633 | [kevjn](https://osu.ppy.sh/u/5735327) | 4018.33 | 20 |
+| 1634 | [Resh](https://osu.ppy.sh/u/8608327) | 4017.91 | 40 |
+| 1635 | [Kim Tae-yeon](https://osu.ppy.sh/u/1623209) | 4017.91 | 32 |
+| 1636 | [[BlackModerm10]](https://osu.ppy.sh/u/7963246) | 4017.46 | 21 |
+| 1637 | [psie](https://osu.ppy.sh/u/1507750) | 4017.02 | 22 |
+| 1638 | [CocoaBeanie](https://osu.ppy.sh/u/6440247) | 4015.65 | 26 |
+| 1639 | [ThatRandomguy](https://osu.ppy.sh/u/9303599) | 4014.87 | 24 |
+| 1640 | [dokhakerok](https://osu.ppy.sh/u/6979693) | 4011.70 | 18 |
+| 1641 | [Betwin](https://osu.ppy.sh/u/1968481) | 4009.92 | 18 |
+| 1642 | [Ascendance](https://osu.ppy.sh/u/2931883) | 4009.61 | 37 |
+| 1643 | [E n d e r](https://osu.ppy.sh/u/1907262) | 4007.08 | 38 |
+| 1644 | [Razuh](https://osu.ppy.sh/u/6731135) | 4005.17 | 17 |
+| 1645 | [KevstracK](https://osu.ppy.sh/u/5325213) | 4001.18 | 19 |
+| 1646 | [1RoHa_](https://osu.ppy.sh/u/4632503) | 3999.63 | 31 |
+| 1647 | [Kurumix](https://osu.ppy.sh/u/4229598) | 3998.66 | 25 |
+| 1648 | [eyph0ria](https://osu.ppy.sh/u/7904220) | 3998.30 | 26 |
+| 1649 | [MyShovelKurumi](https://osu.ppy.sh/u/7823498) | 3997.41 | 23 |
+| 1650 | [harunaruna](https://osu.ppy.sh/u/2932923) | 3996.35 | 14 |
+| 1651 | [fea](https://osu.ppy.sh/u/3316977) | 3996.13 | 20 |
+| 1652 | [NesoKaiyoH](https://osu.ppy.sh/u/5770355) | 3995.74 | 27 |
+| 1653 | [PhilippeDesu](https://osu.ppy.sh/u/3684035) | 3994.78 | 34 |
+| 1654 | [Vertarix](https://osu.ppy.sh/u/7315668) | 3992.31 | 19 |
+| 1655 | [Eldinox](https://osu.ppy.sh/u/3219580) | 3988.96 | 30 |
+| 1656 | [kamr](https://osu.ppy.sh/u/6988252) | 3988.29 | 27 |
+| 1657 | [_DerF](https://osu.ppy.sh/u/8385190) | 3988.09 | 19 |
+| 1658 | [karott90](https://osu.ppy.sh/u/6200807) | 3983.96 | 25 |
+| 1659 | [Crafticious](https://osu.ppy.sh/u/5167164) | 3981.95 | 21 |
+| 1660 | [Vyteras](https://osu.ppy.sh/u/2560106) | 3981.14 | 21 |
+| 1661 | [Aragami](https://osu.ppy.sh/u/1499997) | 3980.42 | 19 |
+| 1662 | [funshine](https://osu.ppy.sh/u/772111) | 3979.08 | 37 |
+| 1663 | [K N i S](https://osu.ppy.sh/u/1042234) | 3978.79 | 40 |
+| 1664 | [-Fusein-](https://osu.ppy.sh/u/3789701) | 3973.84 | 23 |
+| 1665 | [Kleio](https://osu.ppy.sh/u/2372240) | 3971.35 | 23 |
+| 1666 | [Loslite](https://osu.ppy.sh/u/6398160) | 3969.95 | 22 |
+| 1667 | [ffstar](https://osu.ppy.sh/u/1163205) | 3968.54 | 21 |
+| 1668 | [i8atree](https://osu.ppy.sh/u/2091761) | 3968.52 | 30 |
+| 1669 | [Jimzzyyy](https://osu.ppy.sh/u/3600441) | 3965.76 | 18 |
+| 1670 | [euphonious zero](https://osu.ppy.sh/u/1166152) | 3960.12 | 33 |
+| 1671 | [Serah](https://osu.ppy.sh/u/1314651) | 3956.92 | 21 |
+| 1672 | [Totti](https://osu.ppy.sh/u/7701614) | 3953.56 | 34 |
+| 1673 | [sobatsuyu](https://osu.ppy.sh/u/2076374) | 3953.55 | 33 |
+| 1674 | [SanTisy](https://osu.ppy.sh/u/1815399) | 3952.15 | 21 |
+| 1675 | [Gomo Pslvarh](https://osu.ppy.sh/u/1206417) | 3952.12 | 14 |
+| 1676 | [Weabole](https://osu.ppy.sh/u/6806754) | 3949.85 | 17 |
+| 1677 | [blitzzzard](https://osu.ppy.sh/u/6264187) | 3949.00 | 22 |
+| 1678 | [Anroyz](https://osu.ppy.sh/u/1818573) | 3948.11 | 15 |
+| 1679 | [Kootek](https://osu.ppy.sh/u/6703291) | 3945.67 | 20 |
+| 1680 | [StreetS](https://osu.ppy.sh/u/2300776) | 3945.09 | 22 |
+| 1681 | [hisk](https://osu.ppy.sh/u/1728880) | 3944.12 | 28 |
+| 1682 | [Seikyuu0](https://osu.ppy.sh/u/1084394) | 3942.53 | 19 |
+| 1683 | [Jibaru](https://osu.ppy.sh/u/5434405) | 3942.13 | 43 |
+| 1684 | [Enso](https://osu.ppy.sh/u/4347912) | 3941.15 | 25 |
+| 1685 | [Noverdy](https://osu.ppy.sh/u/2329990) | 3940.93 | 32 |
+| 1686 | [kiyumi](https://osu.ppy.sh/u/3701898) | 3940.74 | 18 |
+| 1687 | [Glazbom](https://osu.ppy.sh/u/608277) | 3939.49 | 21 |
+| 1688 | [subtle](https://osu.ppy.sh/u/3575629) | 3939.34 | 28 |
+| 1689 | [Piotrekol](https://osu.ppy.sh/u/304520) | 3937.06 | 17 |
+| 1690 | [Mizuru](https://osu.ppy.sh/u/4495871) | 3937.00 | 11 |
+| 1691 | [Amplify](https://osu.ppy.sh/u/2772381) | 3934.48 | 16 |
+| 1692 | [Arcadeas](https://osu.ppy.sh/u/3216875) | 3933.94 | 14 |
+| 1693 | [conradmittn](https://osu.ppy.sh/u/8208289) | 3933.72 | 22 |
+| 1694 | [My Angel Jeremy](https://osu.ppy.sh/u/10038441) | 3933.29 | 35 |
+| 1695 | [Satori_TL](https://osu.ppy.sh/u/3221705) | 3931.85 | 24 |
+| 1696 | [Chrome](https://osu.ppy.sh/u/2606470) | 3926.33 | 18 |
+| 1697 | [Aoiyuuki-](https://osu.ppy.sh/u/1820694) | 3924.99 | 18 |
+| 1698 | [Destroter](https://osu.ppy.sh/u/3822001) | 3922.01 | 22 |
+| 1699 | [cuckei](https://osu.ppy.sh/u/5263631) | 3921.31 | 20 |
+| 1700 | [Hvick711](https://osu.ppy.sh/u/4702209) | 3920.02 | 22 |
+| 1701 | [ZachiZombie](https://osu.ppy.sh/u/4597600) | 3918.48 | 17 |
+| 1702 | [[KOR]Kosaki](https://osu.ppy.sh/u/1195423) | 3917.30 | 17 |
+| 1703 | [mook](https://osu.ppy.sh/u/6362900) | 3914.40 | 22 |
+| 1704 | [Thexo](https://osu.ppy.sh/u/4887938) | 3911.72 | 33 |
+| 1705 | [-Wolfy-](https://osu.ppy.sh/u/4497582) | 3911.70 | 15 |
+| 1706 | [krnk819](https://osu.ppy.sh/u/2858210) | 3911.53 | 24 |
+| 1707 | [Rekens](https://osu.ppy.sh/u/1073575) | 3910.67 | 17 |
+| 1708 | [serobor](https://osu.ppy.sh/u/1144238) | 3908.93 | 25 |
+| 1709 | [Mablet](https://osu.ppy.sh/u/8570369) | 3907.22 | 35 |
+| 1710 | [Alleus](https://osu.ppy.sh/u/2103638) | 3906.15 | 23 |
+| 1711 | [wairo](https://osu.ppy.sh/u/6369405) | 3905.24 | 24 |
+| 1712 | [Pedro yH](https://osu.ppy.sh/u/5579031) | 3905.05 | 25 |
+| 1713 | [akwari](https://osu.ppy.sh/u/7927754) | 3904.65 | 30 |
+| 1714 | [forever](https://osu.ppy.sh/u/856785) | 3903.10 | 31 |
+| 1715 | [[Yuki]iona-san](https://osu.ppy.sh/u/2799888) | 3902.84 | 29 |
+| 1716 | [Droplitz](https://osu.ppy.sh/u/6482555) | 3901.41 | 25 |
+| 1717 | [VeLias](https://osu.ppy.sh/u/1433838) | 3899.03 | 21 |
+| 1718 | [ShadOhhh](https://osu.ppy.sh/u/3110986) | 3898.50 | 31 |
+| 1719 | [ryota-](https://osu.ppy.sh/u/5334780) | 3896.31 | 25 |
+| 1720 | [Shigure-](https://osu.ppy.sh/u/4473980) | 3892.94 | 18 |
+| 1721 | [yuuki999](https://osu.ppy.sh/u/4336699) | 3892.23 | 29 |
+| 1722 | [sbsonic](https://osu.ppy.sh/u/7716455) | 3889.46 | 22 |
+| 1723 | [Jarvis](https://osu.ppy.sh/u/4814060) | 3888.99 | 17 |
+| 1724 | [Woon](https://osu.ppy.sh/u/5406813) | 3888.44 | 33 |
+| 1725 | [nf_nl](https://osu.ppy.sh/u/1202460) | 3885.79 | 19 |
+| 1726 | [PikachuFanHD](https://osu.ppy.sh/u/6560131) | 3885.54 | 22 |
+| 1727 | [Northern](https://osu.ppy.sh/u/3595112) | 3883.18 | 25 |
+| 1728 | [BenyOsu](https://osu.ppy.sh/u/5094571) | 3882.18 | 27 |
+| 1729 | [gman](https://osu.ppy.sh/u/3408715) | 3880.84 | 26 |
+| 1730 | [KII0](https://osu.ppy.sh/u/2332976) | 3879.42 | 26 |
+| 1731 | [Exceptional](https://osu.ppy.sh/u/3323098) | 3878.94 | 29 |
+| 1732 | [Breiz](https://osu.ppy.sh/u/2105946) | 3878.00 | 20 |
+| 1733 | [[Kiri]](https://osu.ppy.sh/u/4365973) | 3872.93 | 25 |
+| 1734 | [[- Momo -]](https://osu.ppy.sh/u/6024502) | 3871.96 | 17 |
+| 1735 | [Jac](https://osu.ppy.sh/u/7804116) | 3871.82 | 24 |
+| 1736 | [-Scorpii-](https://osu.ppy.sh/u/6410703) | 3868.04 | 33 |
+| 1737 | [iRe](https://osu.ppy.sh/u/7388062) | 3866.68 | 28 |
+| 1738 | [_Mitsuha](https://osu.ppy.sh/u/6416790) | 3866.67 | 22 |
+| 1739 | [GoSheNite](https://osu.ppy.sh/u/4282087) | 3863.37 | 20 |
+| 1740 | [SpitsLove](https://osu.ppy.sh/u/6873745) | 3862.02 | 27 |
+| 1741 | [kril ns](https://osu.ppy.sh/u/3187674) | 3861.75 | 35 |
+| 1742 | [Crybaby](https://osu.ppy.sh/u/3770761) | 3858.23 | 17 |
+| 1743 | [nekz](https://osu.ppy.sh/u/7177233) | 3857.89 | 24 |
+| 1744 | [Elferj](https://osu.ppy.sh/u/2540245) | 3855.90 | 20 |
+| 1745 | [PowahForDays](https://osu.ppy.sh/u/5186250) | 3855.47 | 28 |
+| 1746 | [Flizzzan](https://osu.ppy.sh/u/6743402) | 3852.96 | 26 |
+| 1747 | [Allsiss](https://osu.ppy.sh/u/4434831) | 3850.19 | 33 |
+| 1748 | [fripSide](https://osu.ppy.sh/u/2488457) | 3847.78 | 15 |
+| 1749 | [Xtra thicc](https://osu.ppy.sh/u/3203947) | 3845.26 | 20 |
+| 1750 | [voidlessheart](https://osu.ppy.sh/u/4295838) | 3844.29 | 28 |
+| 1751 | [WorstOsuPlayer](https://osu.ppy.sh/u/6794827) | 3843.04 | 20 |
+| 1752 | [Mikkuri](https://osu.ppy.sh/u/317494) | 3842.91 | 19 |
+| 1753 | [zargot](https://osu.ppy.sh/u/5419188) | 3840.79 | 17 |
+| 1754 | [mithral](https://osu.ppy.sh/u/1365500) | 3838.08 | 35 |
+| 1755 | [Pollo](https://osu.ppy.sh/u/2440864) | 3837.14 | 34 |
+| 1756 | [SomeLikeItHot](https://osu.ppy.sh/u/2694889) | 3836.82 | 25 |
+| 1757 | [Mlaw22](https://osu.ppy.sh/u/3126596) | 3836.56 | 11 |
+| 1758 | [BouGouDou76](https://osu.ppy.sh/u/6173962) | 3836.26 | 25 |
+| 1759 | [[KOR]Rem](https://osu.ppy.sh/u/5538115) | 3835.52 | 16 |
+| 1760 | [_kiria](https://osu.ppy.sh/u/4718409) | 3835.29 | 24 |
+| 1761 | [-Machine-](https://osu.ppy.sh/u/5459981) | 3834.02 | 17 |
+| 1762 | [Potat](https://osu.ppy.sh/u/5407436) | 3829.95 | 25 |
+| 1763 | [MitsuShiro](https://osu.ppy.sh/u/7445824) | 3828.78 | 34 |
+| 1764 | [DakiniBrave](https://osu.ppy.sh/u/5174427) | 3828.07 | 29 |
+| 1765 | [-Daku-](https://osu.ppy.sh/u/4762839) | 3827.88 | 18 |
+| 1766 | [Imamoto](https://osu.ppy.sh/u/1201224) | 3827.76 | 16 |
+| 1767 | [Riuzaky918](https://osu.ppy.sh/u/7165477) | 3825.20 | 27 |
+| 1768 | [Douky](https://osu.ppy.sh/u/5659605) | 3822.72 | 31 |
+| 1769 | [finalist](https://osu.ppy.sh/u/3089043) | 3821.60 | 28 |
+| 1770 | [Shiinon](https://osu.ppy.sh/u/2114523) | 3819.17 | 42 |
+| 1771 | [My Aim Garbage](https://osu.ppy.sh/u/3493249) | 3815.52 | 24 |
+| 1772 | [My Aim Is Paska](https://osu.ppy.sh/u/5432990) | 3814.84 | 21 |
+| 1773 | [xLeoSOULx](https://osu.ppy.sh/u/2981029) | 3813.52 | 23 |
+| 1774 | [Konsekvens](https://osu.ppy.sh/u/2882572) | 3813.39 | 27 |
+| 1775 | [-Frosty-](https://osu.ppy.sh/u/6796523) | 3812.37 | 29 |
+| 1776 | [-Vid](https://osu.ppy.sh/u/8105655) | 3810.55 | 21 |
+| 1777 | [Pam](https://osu.ppy.sh/u/2690339) | 3809.37 | 30 |
+| 1778 | [Znon](https://osu.ppy.sh/u/2367162) | 3809.34 | 20 |
+| 1779 | [CarryTheDay-](https://osu.ppy.sh/u/4046893) | 3808.17 | 30 |
+| 1780 | [Orange Mushroom](https://osu.ppy.sh/u/2088084) | 3807.48 | 21 |
+| 1781 | [quickman30](https://osu.ppy.sh/u/6438296) | 3804.24 | 21 |
+| 1782 | [KniVe](https://osu.ppy.sh/u/5905835) | 3804.21 | 20 |
+| 1783 | [tkdtkd74](https://osu.ppy.sh/u/7941706) | 3804.14 | 23 |
+| 1784 | [SnowyFox](https://osu.ppy.sh/u/5324810) | 3804.06 | 21 |
+| 1785 | [Elias-](https://osu.ppy.sh/u/4824454) | 3800.52 | 25 |
+| 1786 | [Hituh](https://osu.ppy.sh/u/4360493) | 3799.40 | 22 |
+| 1787 | [Reswery](https://osu.ppy.sh/u/3021716) | 3796.00 | 20 |
+| 1788 | [Zerophyne](https://osu.ppy.sh/u/3758072) | 3795.85 | 21 |
+| 1789 | [Megure](https://osu.ppy.sh/u/3468264) | 3794.85 | 15 |
+| 1790 | [Hyrax77](https://osu.ppy.sh/u/9007544) | 3794.35 | 33 |
+| 1791 | [Hikaru Rose](https://osu.ppy.sh/u/4811275) | 3793.26 | 24 |
+| 1792 | [TTGL](https://osu.ppy.sh/u/2729388) | 3793.04 | 24 |
+| 1793 | [Yui Nyan Nyan](https://osu.ppy.sh/u/2577225) | 3791.81 | 30 |
+| 1794 | [Rdzu](https://osu.ppy.sh/u/7621110) | 3790.98 | 23 |
+| 1795 | [Deppyforce](https://osu.ppy.sh/u/5286213) | 3790.85 | 14 |
+| 1796 | [Frostlance](https://osu.ppy.sh/u/3931049) | 3790.62 | 22 |
+| 1797 | [myre](https://osu.ppy.sh/u/3643824) | 3789.86 | 25 |
+| 1798 | [Leotic](https://osu.ppy.sh/u/4263943) | 3788.85 | 15 |
+| 1799 | [Shads](https://osu.ppy.sh/u/8936644) | 3788.79 | 40 |
+| 1800 | [Spicker](https://osu.ppy.sh/u/425595) | 3788.61 | 24 |
+| 1801 | [NeNe_GoShyuJiN](https://osu.ppy.sh/u/373320) | 3788.03 | 19 |
+| 1802 | [eoehd1ek](https://osu.ppy.sh/u/3938876) | 3787.66 | 14 |
+| 1803 | [ParkourWizard](https://osu.ppy.sh/u/6938249) | 3786.88 | 18 |
+| 1804 | [aleho8](https://osu.ppy.sh/u/6127312) | 3786.76 | 12 |
+| 1805 | [Flat Cat](https://osu.ppy.sh/u/6278447) | 3784.93 | 31 |
+| 1806 | [Emula](https://osu.ppy.sh/u/2891792) | 3778.02 | 13 |
+| 1807 | [Finnu](https://osu.ppy.sh/u/3034329) | 3774.98 | 18 |
+| 1808 | [Jakesoly](https://osu.ppy.sh/u/2236407) | 3774.61 | 22 |
+| 1809 | [-Ray](https://osu.ppy.sh/u/3395214) | 3773.78 | 18 |
+| 1810 | [GureN](https://osu.ppy.sh/u/5507475) | 3773.25 | 23 |
+| 1811 | [Hot Korean Girl](https://osu.ppy.sh/u/3976494) | 3772.08 | 17 |
+| 1812 | [- [ Nao ] -](https://osu.ppy.sh/u/7986499) | 3771.67 | 60 |
+| 1813 | [Nakano-](https://osu.ppy.sh/u/1893953) | 3771.16 | 15 |
+| 1814 | [Sad Senpie](https://osu.ppy.sh/u/6952125) | 3769.19 | 19 |
+| 1815 | [-Nanami Aoyama-](https://osu.ppy.sh/u/1895660) | 3769.07 | 17 |
+| 1816 | [burntcedar13](https://osu.ppy.sh/u/7360644) | 3767.61 | 27 |
+| 1817 | [PossessedRabbit](https://osu.ppy.sh/u/4586031) | 3760.03 | 30 |
+| 1818 | [Haxwell](https://osu.ppy.sh/u/1726105) | 3759.16 | 24 |
+| 1819 | [Shinaa](https://osu.ppy.sh/u/6094053) | 3755.65 | 21 |
+| 1820 | [Jaime](https://osu.ppy.sh/u/7256816) | 3755.01 | 19 |
+| 1821 | [Skie1134](https://osu.ppy.sh/u/6977112) | 3754.96 | 29 |
+| 1822 | [Kaizuun](https://osu.ppy.sh/u/4919909) | 3751.80 | 20 |
+| 1823 | [-Neoo](https://osu.ppy.sh/u/5293065) | 3748.94 | 24 |
+| 1824 | [Youkai](https://osu.ppy.sh/u/2714117) | 3748.49 | 23 |
+| 1825 | [onixir](https://osu.ppy.sh/u/2993521) | 3746.58 | 29 |
+| 1826 | [julchiar](https://osu.ppy.sh/u/2016326) | 3744.67 | 23 |
+| 1827 | [face0xff](https://osu.ppy.sh/u/4349938) | 3744.60 | 21 |
+| 1828 | [BongPuncher420](https://osu.ppy.sh/u/6279645) | 3743.92 | 24 |
+| 1829 | [Yukino Miko](https://osu.ppy.sh/u/2069974) | 3741.87 | 18 |
+| 1830 | [SrSkyPlayer](https://osu.ppy.sh/u/3860376) | 3741.87 | 17 |
+| 1831 | [Shiguri](https://osu.ppy.sh/u/2665207) | 3740.69 | 25 |
+| 1832 | [Gon](https://osu.ppy.sh/u/583765) | 3740.20 | 21 |
+| 1833 | [PixelRafael](https://osu.ppy.sh/u/1458651) | 3737.89 | 22 |
+| 1834 | [Miu Matsuoka](https://osu.ppy.sh/u/10641) | 3735.40 | 17 |
+| 1835 | [Jordan The Bear](https://osu.ppy.sh/u/7477458) | 3732.05 | 22 |
+| 1836 | [Reimu-Desu](https://osu.ppy.sh/u/948713) | 3731.97 | 11 |
+| 1837 | [[ D Myung ]](https://osu.ppy.sh/u/4292029) | 3726.30 | 26 |
+| 1838 | [Dualshock](https://osu.ppy.sh/u/1902591) | 3725.28 | 22 |
+| 1839 | [wutboy113](https://osu.ppy.sh/u/4980554) | 3724.19 | 22 |
+| 1840 | [Sleepstick](https://osu.ppy.sh/u/6831611) | 3721.12 | 21 |
+| 1841 | [KittyForz](https://osu.ppy.sh/u/7304580) | 3720.48 | 22 |
+| 1842 | [620](https://osu.ppy.sh/u/6139582) | 3715.85 | 26 |
+| 1843 | [Juan Fail](https://osu.ppy.sh/u/2075070) | 3714.50 | 23 |
+| 1844 | [AcevZ](https://osu.ppy.sh/u/3534256) | 3714.39 | 23 |
+| 1845 | [MouseEasy](https://osu.ppy.sh/u/1558603) | 3712.14 | 11 |
+| 1846 | [Yufina](https://osu.ppy.sh/u/4507345) | 3709.63 | 15 |
+| 1847 | [CuteChino](https://osu.ppy.sh/u/9013371) | 3708.08 | 23 |
+| 1848 | [Vanz](https://osu.ppy.sh/u/3452011) | 3707.93 | 22 |
+| 1849 | [Jtcantwell](https://osu.ppy.sh/u/4437927) | 3707.42 | 22 |
+| 1850 | [flevy](https://osu.ppy.sh/u/2057457) | 3706.04 | 20 |
+| 1851 | [Wrath-](https://osu.ppy.sh/u/5662033) | 3703.60 | 21 |
+| 1852 | [xXZeRoXXx](https://osu.ppy.sh/u/4138785) | 3703.57 | 20 |
+| 1853 | [3312](https://osu.ppy.sh/u/4927211) | 3702.79 | 22 |
+| 1854 | [Maguro](https://osu.ppy.sh/u/2405429) | 3700.96 | 23 |
+| 1855 | [renoxz](https://osu.ppy.sh/u/686093) | 3700.89 | 15 |
+| 1856 | [KIRANAGAMATU](https://osu.ppy.sh/u/2086811) | 3700.88 | 25 |
+| 1857 | [rockrick](https://osu.ppy.sh/u/2338775) | 3699.50 | 19 |
+| 1858 | [Broodich](https://osu.ppy.sh/u/2484629) | 3698.87 | 13 |
+| 1859 | [Clueless](https://osu.ppy.sh/u/6563760) | 3697.08 | 20 |
+| 1860 | [im bad](https://osu.ppy.sh/u/4680149) | 3696.76 | 15 |
+| 1861 | [- Xyph -](https://osu.ppy.sh/u/7781163) | 3693.70 | 30 |
+| 1862 | [Husolm](https://osu.ppy.sh/u/8260302) | 3693.53 | 26 |
+| 1863 | [Vynillae](https://osu.ppy.sh/u/4645185) | 3692.73 | 27 |
+| 1864 | [[Sayuu]](https://osu.ppy.sh/u/8372750) | 3692.63 | 27 |
+| 1865 | [Bey](https://osu.ppy.sh/u/3125639) | 3691.59 | 25 |
+| 1866 | [Pengrio](https://osu.ppy.sh/u/6255471) | 3691.22 | 20 |
+| 1867 | [Gurrman](https://osu.ppy.sh/u/7761476) | 3689.44 | 26 |
+| 1868 | [Y O U T A](https://osu.ppy.sh/u/4909860) | 3687.87 | 27 |
+| 1869 | [CPUGeek](https://osu.ppy.sh/u/4172839) | 3687.11 | 13 |
+| 1870 | [deidarasz](https://osu.ppy.sh/u/3748334) | 3686.82 | 32 |
+| 1871 | [Lee Jung Hyun](https://osu.ppy.sh/u/4065138) | 3685.27 | 16 |
+| 1872 | [Quanteck](https://osu.ppy.sh/u/2122400) | 3685.02 | 15 |
+| 1873 | [PantyDev](https://osu.ppy.sh/u/5420543) | 3684.79 | 20 |
+| 1874 | [ricecustomer](https://osu.ppy.sh/u/5152999) | 3679.36 | 18 |
+| 1875 | [-[Snitch]-](https://osu.ppy.sh/u/1222625) | 3679.10 | 32 |
+| 1876 | [ikhebepicmuis](https://osu.ppy.sh/u/4163430) | 3678.87 | 21 |
+| 1877 | [Arne-](https://osu.ppy.sh/u/3110444) | 3674.99 | 28 |
+| 1878 | [[ Yuichi ]](https://osu.ppy.sh/u/6657024) | 3674.06 | 25 |
+| 1879 | [-Yui](https://osu.ppy.sh/u/6649605) | 3674.05 | 23 |
+| 1880 | [Codyy](https://osu.ppy.sh/u/7889757) | 3674.04 | 27 |
+| 1881 | [My_](https://osu.ppy.sh/u/739343) | 3672.65 | 28 |
+| 1882 | [Seaweed](https://osu.ppy.sh/u/5151214) | 3672.05 | 23 |
+| 1883 | [Feezly](https://osu.ppy.sh/u/6072777) | 3671.68 | 27 |
+| 1884 | [Mayoi Hachikuji](https://osu.ppy.sh/u/2114273) | 3669.60 | 13 |
+| 1885 | [SolariS](https://osu.ppy.sh/u/4467950) | 3669.22 | 26 |
+| 1886 | [Akane Hime](https://osu.ppy.sh/u/6772887) | 3667.80 | 19 |
+| 1887 | [Meg](https://osu.ppy.sh/u/1872496) | 3667.68 | 16 |
+| 1888 | [buny](https://osu.ppy.sh/u/1488796) | 3665.18 | 15 |
+| 1889 | [givlar](https://osu.ppy.sh/u/7487224) | 3663.95 | 25 |
+| 1890 | [Midosouji](https://osu.ppy.sh/u/7563435) | 3662.93 | 23 |
+| 1891 | [Kirin](https://osu.ppy.sh/u/1852356) | 3662.43 | 14 |
+| 1892 | [Alexy the Cat](https://osu.ppy.sh/u/6985079) | 3662.12 | 24 |
+| 1893 | [ToLove](https://osu.ppy.sh/u/4772355) | 3661.51 | 15 |
+| 1894 | [Gizu-](https://osu.ppy.sh/u/3504715) | 3660.31 | 18 |
+| 1895 | [lup](https://osu.ppy.sh/u/7704849) | 3659.83 | 28 |
+| 1896 | [Hot Cocoa](https://osu.ppy.sh/u/4986705) | 3659.21 | 22 |
+| 1897 | [DPPt444444](https://osu.ppy.sh/u/1819342) | 3656.42 | 20 |
+| 1898 | [Riobener](https://osu.ppy.sh/u/6529833) | 3655.09 | 24 |
+| 1899 | [zeluaR](https://osu.ppy.sh/u/1126229) | 3655.05 | 10 |
+| 1900 | [Fuccho](https://osu.ppy.sh/u/3053382) | 3654.65 | 29 |
+| 1901 | [Synxx3](https://osu.ppy.sh/u/3290322) | 3654.63 | 25 |
+| 1902 | [[ Athena ]](https://osu.ppy.sh/u/7714045) | 3653.72 | 19 |
+| 1903 | [SolaEclipse](https://osu.ppy.sh/u/6621158) | 3653.54 | 16 |
+| 1904 | [Shiro-](https://osu.ppy.sh/u/2170128) | 3650.79 | 25 |
+| 1905 | [[ YoroshiKle ]](https://osu.ppy.sh/u/4197092) | 3649.87 | 22 |
+| 1906 | [-YN](https://osu.ppy.sh/u/3678274) | 3649.11 | 20 |
+| 1907 | [[Twinkle]](https://osu.ppy.sh/u/1964251) | 3647.65 | 30 |
+| 1908 | [Hime Lotus -](https://osu.ppy.sh/u/3449887) | 3646.62 | 16 |
+| 1909 | [Konekoiro Sekai](https://osu.ppy.sh/u/2790563) | 3646.32 | 30 |
+| 1910 | [Levidia](https://osu.ppy.sh/u/3588571) | 3646.25 | 27 |
+| 1911 | [cubathorium](https://osu.ppy.sh/u/6607046) | 3645.82 | 30 |
+| 1912 | [Monko2k](https://osu.ppy.sh/u/4852013) | 3645.59 | 10 |
+| 1913 | [Naattori](https://osu.ppy.sh/u/4274394) | 3644.17 | 27 |
+| 1914 | [waruo](https://osu.ppy.sh/u/300011) | 3643.59 | 22 |
+| 1915 | [[ -Scarlet- ]](https://osu.ppy.sh/u/2427693) | 3642.05 | 22 |
+| 1916 | [terryaa](https://osu.ppy.sh/u/4311251) | 3641.03 | 22 |
+| 1917 | [Coni](https://osu.ppy.sh/u/2188855) | 3639.07 | 20 |
+| 1918 | [Rayne Sylvania](https://osu.ppy.sh/u/4573205) | 3637.71 | 18 |
+| 1919 | [CRZMATTi](https://osu.ppy.sh/u/5659877) | 3637.20 | 25 |
+| 1920 | [KmK](https://osu.ppy.sh/u/7077554) | 3636.54 | 20 |
+| 1921 | [TeaBiscuitz](https://osu.ppy.sh/u/2265679) | 3636.42 | 21 |
+| 1922 | [LittleDan](https://osu.ppy.sh/u/6316077) | 3636.21 | 17 |
+| 1923 | [Subbie](https://osu.ppy.sh/u/1590138) | 3634.15 | 17 |
+| 1924 | [Saaba](https://osu.ppy.sh/u/6315838) | 3632.98 | 21 |
+| 1925 | [Fureimuu](https://osu.ppy.sh/u/2268330) | 3631.98 | 25 |
+| 1926 | [Smilevie](https://osu.ppy.sh/u/957635) | 3631.15 | 20 |
+| 1927 | [gappuri-4th](https://osu.ppy.sh/u/2163190) | 3629.42 | 22 |
+| 1928 | [Nozomi-](https://osu.ppy.sh/u/8733514) | 3629.00 | 20 |
+| 1929 | [_Criller](https://osu.ppy.sh/u/8116659) | 3627.82 | 31 |
+| 1930 | [- Akira Len -](https://osu.ppy.sh/u/1899986) | 3618.90 | 15 |
+| 1931 | [Mentora](https://osu.ppy.sh/u/7698397) | 3618.52 | 17 |
+| 1932 | [Trance](https://osu.ppy.sh/u/2170951) | 3610.61 | 23 |
+| 1933 | [Riknoob](https://osu.ppy.sh/u/4624788) | 3610.47 | 23 |
+| 1934 | [Molonov](https://osu.ppy.sh/u/6123557) | 3608.59 | 25 |
+| 1935 | [StarrStyx](https://osu.ppy.sh/u/4600383) | 3607.79 | 20 |
+| 1936 | [Msushi](https://osu.ppy.sh/u/1840062) | 3605.72 | 20 |
+| 1937 | [Dartandr](https://osu.ppy.sh/u/4944211) | 3601.10 | 26 |
+| 1938 | [Zeatlan](https://osu.ppy.sh/u/5830489) | 3595.55 | 32 |
+| 1939 | [Ket](https://osu.ppy.sh/u/3762504) | 3593.09 | 23 |
+| 1940 | [Dereban](https://osu.ppy.sh/u/4882979) | 3592.34 | 12 |
+| 1941 | [Mattisticus](https://osu.ppy.sh/u/4260755) | 3590.17 | 17 |
+| 1942 | [Hare_CFJ](https://osu.ppy.sh/u/3079214) | 3589.58 | 31 |
+| 1943 | [23456789](https://osu.ppy.sh/u/5413027) | 3588.90 | 18 |
+| 1944 | [potatoes](https://osu.ppy.sh/u/2490088) | 3588.32 | 16 |
+| 1945 | [-Alyxious](https://osu.ppy.sh/u/6286023) | 3587.44 | 29 |
+| 1946 | [Death Zone](https://osu.ppy.sh/u/1886902) | 3587.32 | 16 |
+| 1947 | [Glacial](https://osu.ppy.sh/u/3181548) | 3586.94 | 17 |
+| 1948 | [BNY963](https://osu.ppy.sh/u/1477258) | 3585.92 | 14 |
+| 1949 | [Cinia Pacifica](https://osu.ppy.sh/u/1414625) | 3583.43 | 13 |
+| 1950 | [Karube](https://osu.ppy.sh/u/1249737) | 3582.53 | 19 |
+| 1951 | [Ducki](https://osu.ppy.sh/u/3680832) | 3581.36 | 25 |
+| 1952 | [Sahyuk](https://osu.ppy.sh/u/1687218) | 3579.49 | 26 |
+| 1953 | [LightsOut](https://osu.ppy.sh/u/8581210) | 3578.23 | 27 |
+| 1954 | [Nick3307](https://osu.ppy.sh/u/6324845) | 3575.06 | 18 |
+| 1955 | [Fortuner](https://osu.ppy.sh/u/2036685) | 3573.39 | 18 |
+| 1956 | [Aim Noob](https://osu.ppy.sh/u/7189845) | 3572.96 | 16 |
+| 1957 | [Wind God Girl](https://osu.ppy.sh/u/7488955) | 3572.20 | 15 |
+| 1958 | [Timpan](https://osu.ppy.sh/u/7071638) | 3572.02 | 29 |
+| 1959 | [[ TAY ]](https://osu.ppy.sh/u/5178313) | 3570.73 | 19 |
+| 1960 | [- Akio](https://osu.ppy.sh/u/2976823) | 3569.15 | 29 |
+| 1961 | [TikTak](https://osu.ppy.sh/u/4423405) | 3569.12 | 19 |
+| 1962 | [Vaxue](https://osu.ppy.sh/u/7458813) | 3566.86 | 21 |
+| 1963 | [Tilted af](https://osu.ppy.sh/u/7488088) | 3566.68 | 17 |
+| 1964 | [n4gi](https://osu.ppy.sh/u/7242418) | 3566.63 | 28 |
+| 1965 | [Lorenzo](https://osu.ppy.sh/u/4214858) | 3563.69 | 25 |
+| 1966 | [Mut4nte](https://osu.ppy.sh/u/3304114) | 3562.13 | 19 |
+| 1967 | [Joy Boy](https://osu.ppy.sh/u/2848040) | 3560.51 | 18 |
+| 1968 | [nomen](https://osu.ppy.sh/u/1439018) | 3560.15 | 24 |
+| 1969 | [Christofu12](https://osu.ppy.sh/u/5086872) | 3559.75 | 27 |
+| 1970 | [RedSkyNight](https://osu.ppy.sh/u/6125457) | 3558.84 | 27 |
+| 1971 | [ywit](https://osu.ppy.sh/u/4459864) | 3557.66 | 27 |
+| 1972 | [ArzatoRx](https://osu.ppy.sh/u/372256) | 3552.85 | 23 |
+| 1973 | [shadowtm](https://osu.ppy.sh/u/438759) | 3550.51 | 22 |
+| 1974 | [DaDobster](https://osu.ppy.sh/u/4630536) | 3549.13 | 15 |
+| 1975 | [Rime](https://osu.ppy.sh/u/1397232) | 3548.59 | 20 |
+| 1976 | [HineX](https://osu.ppy.sh/u/13854) | 3547.67 | 18 |
+| 1977 | [KinomiCandy](https://osu.ppy.sh/u/375143) | 3547.48 | 20 |
+| 1978 | [- Vanilla -](https://osu.ppy.sh/u/2946481) | 3546.47 | 17 |
+| 1979 | [Small New](https://osu.ppy.sh/u/1384874) | 3544.32 | 23 |
+| 1980 | [Xyhalion](https://osu.ppy.sh/u/5487179) | 3544.29 | 19 |
+| 1981 | [SaD](https://osu.ppy.sh/u/1274825) | 3541.91 | 18 |
+| 1982 | [Miseration](https://osu.ppy.sh/u/2127640) | 3541.70 | 18 |
+| 1983 | [Flute](https://osu.ppy.sh/u/211278) | 3539.29 | 26 |
+| 1984 | [Herbiv](https://osu.ppy.sh/u/6152602) | 3537.96 | 26 |
+| 1985 | [NexT50](https://osu.ppy.sh/u/3090187) | 3536.55 | 18 |
+| 1986 | [TojoO](https://osu.ppy.sh/u/4237800) | 3535.99 | 30 |
+| 1987 | [E-Daisuki](https://osu.ppy.sh/u/1322869) | 3535.66 | 28 |
+| 1988 | [Azir](https://osu.ppy.sh/u/4852907) | 3533.99 | 19 |
+| 1989 | [PickaBoB](https://osu.ppy.sh/u/6700474) | 3533.92 | 23 |
+| 1990 | [Runeandre4](https://osu.ppy.sh/u/4930482) | 3530.73 | 25 |
+| 1991 | [TheRealMasterK](https://osu.ppy.sh/u/7454607) | 3529.96 | 24 |
+| 1992 | [Kyouya](https://osu.ppy.sh/u/480984) | 3528.84 | 21 |
+| 1993 | [Keanu](https://osu.ppy.sh/u/3394048) | 3527.31 | 19 |
+| 1994 | [Knighty-](https://osu.ppy.sh/u/3486230) | 3526.83 | 24 |
+| 1995 | [Trent-Sama](https://osu.ppy.sh/u/1309451) | 3526.30 | 21 |
+| 1996 | [Horolynn](https://osu.ppy.sh/u/478364) | 3525.35 | 24 |
+| 1997 | [Orangelightning](https://osu.ppy.sh/u/6658249) | 3523.12 | 18 |
+| 1998 | [OzzyOzborne](https://osu.ppy.sh/u/5377173) | 3519.50 | 24 |
+| 1999 | [_Otouto](https://osu.ppy.sh/u/4931888) | 3516.15 | 18 |
+| 2000 | [Miroku](https://osu.ppy.sh/u/1492771) | 3515.31 | 18 |
+| 2001 | [HiverK](https://osu.ppy.sh/u/2968970) | 3515.25 | 16 |
+| 2002 | [instantlovee](https://osu.ppy.sh/u/2533128) | 3515.04 | 25 |
+| 2003 | [Sekuria](https://osu.ppy.sh/u/3275670) | 3513.45 | 18 |
+| 2004 | [vkysno_pyknyl](https://osu.ppy.sh/u/7870875) | 3513.31 | 24 |
+| 2005 | [harti5](https://osu.ppy.sh/u/1948208) | 3512.12 | 21 |
+| 2006 | [Kenzo](https://osu.ppy.sh/u/4222488) | 3509.11 | 21 |
+| 2007 | [MyReadingSuck](https://osu.ppy.sh/u/3891889) | 3508.10 | 19 |
+| 2008 | [FreshMint](https://osu.ppy.sh/u/2751056) | 3506.39 | 15 |
+| 2009 | [SlySly](https://osu.ppy.sh/u/715220) | 3504.12 | 26 |
+| 2010 | [Growlithe](https://osu.ppy.sh/u/8450727) | 3499.38 | 17 |
+| 2011 | [Farengate](https://osu.ppy.sh/u/6278935) | 3498.62 | 29 |
+| 2012 | [PainSinger](https://osu.ppy.sh/u/697843) | 3497.61 | 16 |
+| 2013 | [MagiTaSo](https://osu.ppy.sh/u/4323101) | 3496.44 | 21 |
+| 2014 | [DJ_Nyanodesu](https://osu.ppy.sh/u/1490678) | 3493.44 | 23 |
+| 2015 | [Suzumiya-H](https://osu.ppy.sh/u/693917) | 3491.69 | 22 |
+| 2016 | [Kiwi910](https://osu.ppy.sh/u/7522902) | 3488.84 | 20 |
+| 2017 | [Cassu2](https://osu.ppy.sh/u/2587961) | 3485.25 | 20 |
+| 2018 | [Shizukka Senpai](https://osu.ppy.sh/u/4798100) | 3484.58 | 14 |
+| 2019 | [GoonDugLer](https://osu.ppy.sh/u/7795194) | 3483.57 | 32 |
+| 2020 | [Izumi Kyouka](https://osu.ppy.sh/u/6239874) | 3483.37 | 24 |
+| 2021 | [Too Slow](https://osu.ppy.sh/u/2944449) | 3480.98 | 17 |
+| 2022 | [Lucipur](https://osu.ppy.sh/u/5295576) | 3480.46 | 27 |
+| 2023 | [Kohaku](https://osu.ppy.sh/u/1866048) | 3480.21 | 28 |
+| 2024 | [xLautaPvP](https://osu.ppy.sh/u/4403112) | 3479.84 | 18 |
+| 2025 | [ThePro365](https://osu.ppy.sh/u/4415285) | 3479.57 | 15 |
+| 2026 | [Rishe](https://osu.ppy.sh/u/5043454) | 3476.84 | 23 |
+| 2027 | [Sevy](https://osu.ppy.sh/u/6516635) | 3476.52 | 21 |
+| 2028 | [Bck-ON](https://osu.ppy.sh/u/5114388) | 3473.05 | 20 |
+| 2029 | [Jacob](https://osu.ppy.sh/u/2786413) | 3472.91 | 14 |
+| 2030 | [raycoN](https://osu.ppy.sh/u/2971468) | 3472.41 | 15 |
+| 2031 | [Rose Pacifica](https://osu.ppy.sh/u/1393255) | 3472.12 | 17 |
+| 2032 | [- s t e n-](https://osu.ppy.sh/u/4623347) | 3470.68 | 14 |
+| 2033 | [sprItzEr](https://osu.ppy.sh/u/818633) | 3465.47 | 17 |
+| 2034 | [Squapple](https://osu.ppy.sh/u/6826036) | 3463.92 | 12 |
+| 2035 | [-Crescent-](https://osu.ppy.sh/u/2852743) | 3462.64 | 19 |
+| 2036 | [Codalix](https://osu.ppy.sh/u/6310466) | 3462.21 | 31 |
+| 2037 | [WhoYouTalkinTo](https://osu.ppy.sh/u/4707843) | 3461.49 | 17 |
+| 2038 | [Texats](https://osu.ppy.sh/u/1638293) | 3461.29 | 12 |
+| 2039 | [Shikyoga Kira](https://osu.ppy.sh/u/5266981) | 3457.76 | 18 |
+| 2040 | [Deoscillate](https://osu.ppy.sh/u/1307614) | 3453.62 | 24 |
+| 2041 | [ReexFX](https://osu.ppy.sh/u/7249324) | 3450.88 | 20 |
+| 2042 | [Storyboarder](https://osu.ppy.sh/u/6124671) | 3449.82 | 22 |
+| 2043 | [ZheKiel-](https://osu.ppy.sh/u/8249895) | 3449.79 | 24 |
+| 2044 | [Trillion](https://osu.ppy.sh/u/5341816) | 3448.90 | 16 |
+| 2045 | [Baustein](https://osu.ppy.sh/u/950517) | 3444.50 | 20 |
+| 2046 | [Sonoda Umi](https://osu.ppy.sh/u/746866) | 3442.32 | 17 |
+| 2047 | [Pase09](https://osu.ppy.sh/u/3609229) | 3442.10 | 21 |
+| 2048 | [Usagi sama](https://osu.ppy.sh/u/384478) | 3441.89 | 13 |
+| 2049 | [-[CoalMiester]-](https://osu.ppy.sh/u/5028144) | 3440.98 | 17 |
+| 2050 | [[-Voust-]](https://osu.ppy.sh/u/6306191) | 3440.42 | 20 |
+| 2051 | [Ametsuchi](https://osu.ppy.sh/u/3398482) | 3439.17 | 19 |
+| 2052 | [Hugobolt](https://osu.ppy.sh/u/602760) | 3434.55 | 16 |
+| 2053 | [MedMango](https://osu.ppy.sh/u/5071125) | 3432.10 | 15 |
+| 2054 | [TheProsecutor](https://osu.ppy.sh/u/6905826) | 3429.87 | 24 |
+| 2055 | [yotampoco](https://osu.ppy.sh/u/7073613) | 3428.54 | 14 |
+| 2056 | [watun](https://osu.ppy.sh/u/2217753) | 3427.26 | 12 |
+| 2057 | [vickdude](https://osu.ppy.sh/u/3006693) | 3427.01 | 24 |
+| 2058 | [[ Mishka ]](https://osu.ppy.sh/u/1847193) | 3426.46 | 17 |
+| 2059 | [Booguboo](https://osu.ppy.sh/u/7126520) | 3425.81 | 20 |
+| 2060 | [Mei misakii](https://osu.ppy.sh/u/4365151) | 3425.68 | 16 |
+| 2061 | [-AIAI-](https://osu.ppy.sh/u/2133598) | 3424.70 | 20 |
+| 2062 | [wgz1w9a08](https://osu.ppy.sh/u/1639721) | 3424.69 | 22 |
+| 2063 | [Level](https://osu.ppy.sh/u/2421695) | 3424.38 | 19 |
+| 2064 | [Kestler](https://osu.ppy.sh/u/4750710) | 3423.33 | 25 |
+| 2065 | [Heroic](https://osu.ppy.sh/u/4756229) | 3420.03 | 27 |
+| 2066 | [Hellbeak](https://osu.ppy.sh/u/2367495) | 3419.99 | 17 |
+| 2067 | [Niklazy](https://osu.ppy.sh/u/4625869) | 3418.17 | 22 |
+| 2068 | [RagingSmile](https://osu.ppy.sh/u/5150811) | 3417.38 | 22 |
+| 2069 | [-Stella man](https://osu.ppy.sh/u/2910507) | 3416.97 | 20 |
+| 2070 | [Homura-](https://osu.ppy.sh/u/482120) | 3416.14 | 18 |
+| 2071 | [Kastellann](https://osu.ppy.sh/u/4973617) | 3410.15 | 26 |
+| 2072 | [deyo](https://osu.ppy.sh/u/654296) | 3404.29 | 15 |
+| 2073 | [Pencil-kun](https://osu.ppy.sh/u/4662795) | 3400.93 | 21 |
+| 2074 | [Janixs](https://osu.ppy.sh/u/3014683) | 3399.07 | 21 |
+| 2075 | [First Love](https://osu.ppy.sh/u/3905273) | 3396.22 | 15 |
+| 2076 | [Zeny](https://osu.ppy.sh/u/3311424) | 3395.62 | 17 |
+| 2077 | [ImEraghi_](https://osu.ppy.sh/u/7642605) | 3392.36 | 23 |
+| 2078 | [TmaTe](https://osu.ppy.sh/u/2593210) | 3391.60 | 22 |
+| 2079 | [SugKuken](https://osu.ppy.sh/u/3886870) | 3391.20 | 24 |
+| 2080 | [Saizu](https://osu.ppy.sh/u/4064914) | 3388.90 | 12 |
+| 2081 | [Rektygon](https://osu.ppy.sh/u/7813296) | 3388.30 | 22 |
+| 2082 | [su11201130](https://osu.ppy.sh/u/4641801) | 3387.70 | 21 |
+| 2083 | [Skrypt3d](https://osu.ppy.sh/u/5557599) | 3386.96 | 22 |
+| 2084 | [BREEZEM OUT](https://osu.ppy.sh/u/1969673) | 3386.19 | 18 |
+| 2085 | [Juzaa](https://osu.ppy.sh/u/620661) | 3383.73 | 21 |
+| 2086 | [Zur4x](https://osu.ppy.sh/u/7749064) | 3382.41 | 21 |
+| 2087 | [[ Lusso-Kun ]](https://osu.ppy.sh/u/2993901) | 3378.60 | 16 |
+| 2088 | [Lucid Astray](https://osu.ppy.sh/u/1773225) | 3377.53 | 16 |
+| 2089 | [santerinog](https://osu.ppy.sh/u/7197109) | 3377.44 | 24 |
+| 2090 | [Redmoss](https://osu.ppy.sh/u/3364526) | 3375.00 | 16 |
+| 2091 | [jehlp](https://osu.ppy.sh/u/7568542) | 3373.15 | 17 |
+| 2092 | [AeroZim](https://osu.ppy.sh/u/6192320) | 3369.23 | 18 |
+| 2093 | [Spare](https://osu.ppy.sh/u/2204373) | 3367.49 | 8 |
+| 2094 | [Gildz](https://osu.ppy.sh/u/6935996) | 3367.28 | 15 |
+| 2095 | [Suzuta](https://osu.ppy.sh/u/3028834) | 3366.76 | 18 |
+| 2096 | [Riku-Desu](https://osu.ppy.sh/u/5192400) | 3366.31 | 19 |
+| 2097 | [Linx](https://osu.ppy.sh/u/3881305) | 3365.79 | 24 |
+| 2098 | [Moshu_X](https://osu.ppy.sh/u/3611422) | 3363.75 | 19 |
+| 2099 | [DrunkMan](https://osu.ppy.sh/u/4138822) | 3363.58 | 20 |
+| 2100 | [holycrap1337](https://osu.ppy.sh/u/2893009) | 3362.04 | 20 |
+| 2101 | [B3A5T-](https://osu.ppy.sh/u/7667796) | 3357.22 | 19 |
+| 2102 | [Zetsubou](https://osu.ppy.sh/u/1901026) | 3356.98 | 15 |
+| 2103 | [Azers Mom](https://osu.ppy.sh/u/2303856) | 3354.41 | 20 |
+| 2104 | [Hookay](https://osu.ppy.sh/u/6340401) | 3354.08 | 18 |
+| 2105 | [[ Reisun ]](https://osu.ppy.sh/u/3060221) | 3354.04 | 23 |
+| 2106 | [x-treme](https://osu.ppy.sh/u/1454687) | 3349.89 | 20 |
+| 2107 | [Apraxia](https://osu.ppy.sh/u/4194445) | 3343.52 | 10 |
+| 2108 | [ezu](https://osu.ppy.sh/u/7681451) | 3341.77 | 16 |
+| 2109 | [Inactive User](https://osu.ppy.sh/u/6310985) | 3341.77 | 27 |
+| 2110 | [omphen](https://osu.ppy.sh/u/8816844) | 3341.73 | 21 |
+| 2111 | [[-Kazumine-]](https://osu.ppy.sh/u/6372345) | 3340.14 | 26 |
+| 2112 | [Slendey](https://osu.ppy.sh/u/4461525) | 3339.14 | 17 |
+| 2113 | [kyu-](https://osu.ppy.sh/u/4787223) | 3336.12 | 20 |
+| 2114 | [Maji](https://osu.ppy.sh/u/624029) | 3334.43 | 20 |
+| 2115 | [kevimgod](https://osu.ppy.sh/u/4142213) | 3334.08 | 21 |
+| 2116 | [n0mercy](https://osu.ppy.sh/u/5536431) | 3332.41 | 18 |
+| 2117 | [Beniek](https://osu.ppy.sh/u/1649633) | 3327.89 | 26 |
+| 2118 | [Vamhi-](https://osu.ppy.sh/u/6123428) | 3322.63 | 12 |
+| 2119 | [Hyustar](https://osu.ppy.sh/u/4843657) | 3322.27 | 19 |
+| 2120 | [King Hong](https://osu.ppy.sh/u/7263047) | 3321.47 | 21 |
+| 2121 | [Frikandel](https://osu.ppy.sh/u/3735705) | 3320.28 | 18 |
+| 2122 | [LordGeezer](https://osu.ppy.sh/u/4362314) | 3314.66 | 17 |
+| 2123 | [xPray](https://osu.ppy.sh/u/7599564) | 3314.27 | 20 |
+| 2124 | [SamiraAL](https://osu.ppy.sh/u/4819896) | 3312.70 | 22 |
+| 2125 | [Seen_LOSO](https://osu.ppy.sh/u/5082392) | 3311.73 | 19 |
+| 2126 | [xerioc042034](https://osu.ppy.sh/u/4617060) | 3311.34 | 17 |
+| 2127 | [Darksonic](https://osu.ppy.sh/u/570042) | 3309.27 | 16 |
+| 2128 | [SCLItachi](https://osu.ppy.sh/u/2254038) | 3308.66 | 20 |
+| 2129 | [MujouSekai](https://osu.ppy.sh/u/5412070) | 3307.19 | 18 |
+| 2130 | [Pada](https://osu.ppy.sh/u/4333913) | 3306.31 | 24 |
+| 2131 | [YokesPai](https://osu.ppy.sh/u/6399568) | 3305.45 | 16 |
+| 2132 | [DiarK](https://osu.ppy.sh/u/2302569) | 3304.71 | 20 |
+| 2133 | [[-Nightmare-]](https://osu.ppy.sh/u/627365) | 3304.43 | 18 |
+| 2134 | [ilikepoPfly](https://osu.ppy.sh/u/5071315) | 3303.65 | 24 |
+| 2135 | [Sytarno](https://osu.ppy.sh/u/6160235) | 3302.27 | 18 |
+| 2136 | [Hentomi](https://osu.ppy.sh/u/938409) | 3301.72 | 16 |
+| 2137 | [Linada](https://osu.ppy.sh/u/5239047) | 3299.45 | 22 |
+| 2138 | [Myth](https://osu.ppy.sh/u/4200901) | 3298.77 | 14 |
+| 2139 | [-okaysonz-](https://osu.ppy.sh/u/6708955) | 3298.69 | 14 |
+| 2140 | [Acrid](https://osu.ppy.sh/u/3603177) | 3298.69 | 19 |
+| 2141 | [Jolene](https://osu.ppy.sh/u/2672025) | 3297.40 | 12 |
+| 2142 | [Wolfiix3](https://osu.ppy.sh/u/7942687) | 3297.24 | 26 |
+| 2143 | [TheForgiven](https://osu.ppy.sh/u/3402318) | 3297.14 | 20 |
+| 2144 | [NexioMusic](https://osu.ppy.sh/u/5393729) | 3296.80 | 22 |
+| 2145 | [HaruHong](https://osu.ppy.sh/u/2971423) | 3296.52 | 18 |
+| 2146 | [schultzika](https://osu.ppy.sh/u/3629410) | 3296.09 | 15 |
+| 2147 | [maR meR](https://osu.ppy.sh/u/1071269) | 3294.50 | 20 |
+| 2148 | [[Arkdn]](https://osu.ppy.sh/u/2870675) | 3292.57 | 17 |
+| 2149 | [kayu77](https://osu.ppy.sh/u/4730146) | 3292.36 | 19 |
+| 2150 | [XbFTB](https://osu.ppy.sh/u/7890314) | 3290.05 | 21 |
+| 2151 | [D1812](https://osu.ppy.sh/u/9137896) | 3283.52 | 17 |
+| 2152 | [john25k](https://osu.ppy.sh/u/5098752) | 3282.30 | 20 |
+| 2153 | [- Phantasma -](https://osu.ppy.sh/u/1427407) | 3281.20 | 11 |
+| 2154 | [Zer0-](https://osu.ppy.sh/u/4260033) | 3280.85 | 19 |
+| 2155 | [Kaori Nakaseko](https://osu.ppy.sh/u/1335744) | 3279.94 | 18 |
+| 2156 | [Blue-Orb](https://osu.ppy.sh/u/6612210) | 3279.68 | 17 |
+| 2157 | [MiyazonoKuma](https://osu.ppy.sh/u/3366658) | 3279.09 | 18 |
+| 2158 | [NanoSaiko](https://osu.ppy.sh/u/4972282) | 3278.87 | 21 |
+| 2159 | [LikeNeverBefore](https://osu.ppy.sh/u/2938541) | 3278.56 | 18 |
+| 2160 | [Darrile](https://osu.ppy.sh/u/4591451) | 3278.54 | 18 |
+| 2161 | [Stampapa](https://osu.ppy.sh/u/2772204) | 3277.32 | 22 |
+| 2162 | [Emilia -](https://osu.ppy.sh/u/3226990) | 3274.61 | 19 |
+| 2163 | [Near-N](https://osu.ppy.sh/u/2009479) | 3274.58 | 19 |
+| 2164 | [Kanzaki Sayaka](https://osu.ppy.sh/u/1571067) | 3274.07 | 27 |
+| 2165 | [zebarkez](https://osu.ppy.sh/u/4095562) | 3273.52 | 23 |
+| 2166 | [Buddy](https://osu.ppy.sh/u/4726636) | 3272.49 | 17 |
+| 2167 | [Jekel](https://osu.ppy.sh/u/6757169) | 3272.15 | 15 |
+| 2168 | [Bass](https://osu.ppy.sh/u/63829) | 3270.88 | 20 |
+| 2169 | [VicoTeen](https://osu.ppy.sh/u/4339470) | 3269.53 | 18 |
+| 2170 | [sullyjhf](https://osu.ppy.sh/u/1994780) | 3268.89 | 14 |
+| 2171 | [Kurogemy](https://osu.ppy.sh/u/5014714) | 3267.97 | 20 |
+| 2172 | [SepticChild](https://osu.ppy.sh/u/6415821) | 3267.78 | 17 |
+| 2173 | [Xanthous](https://osu.ppy.sh/u/7548708) | 3267.60 | 15 |
+| 2174 | [Xilver](https://osu.ppy.sh/u/3099689) | 3267.24 | 9 |
+| 2175 | [Wombraider](https://osu.ppy.sh/u/7342622) | 3266.26 | 12 |
+| 2176 | [- Emerald](https://osu.ppy.sh/u/6488891) | 3264.43 | 16 |
+| 2177 | [Cookieboy](https://osu.ppy.sh/u/6473713) | 3262.82 | 17 |
+| 2178 | [Auxemia](https://osu.ppy.sh/u/234386) | 3262.46 | 19 |
+| 2179 | [Pato](https://osu.ppy.sh/u/3860604) | 3258.76 | 18 |
+| 2180 | [Jeby](https://osu.ppy.sh/u/3136279) | 3258.50 | 19 |
+| 2181 | [--------------](https://osu.ppy.sh/u/1306875) | 3257.51 | 24 |
+| 2182 | [Qwerty](https://osu.ppy.sh/u/5783785) | 3256.40 | 21 |
+| 2183 | [Wizor](https://osu.ppy.sh/u/6099362) | 3256.11 | 20 |
+| 2184 | [A5uka](https://osu.ppy.sh/u/5137553) | 3256.08 | 18 |
+| 2185 | [tit](https://osu.ppy.sh/u/255669) | 3255.50 | 20 |
+| 2186 | [Itasha_S13](https://osu.ppy.sh/u/3897366) | 3255.16 | 20 |
+| 2187 | [Vatras](https://osu.ppy.sh/u/3403384) | 3250.82 | 20 |
+| 2188 | [[ Aether ]](https://osu.ppy.sh/u/3909969) | 3250.46 | 22 |
+| 2189 | [Cytrynkaa](https://osu.ppy.sh/u/4430790) | 3250.45 | 19 |
+| 2190 | [Dsan](https://osu.ppy.sh/u/1266166) | 3250.44 | 10 |
+| 2191 | [Supi](https://osu.ppy.sh/u/296448) | 3249.48 | 21 |
+| 2192 | [CBullet](https://osu.ppy.sh/u/8541283) | 3246.94 | 19 |
+| 2193 | [Cellina](https://osu.ppy.sh/u/2490770) | 3244.45 | 13 |
+| 2194 | [zortman](https://osu.ppy.sh/u/8117049) | 3243.72 | 22 |
+| 2195 | [shigurin](https://osu.ppy.sh/u/1328523) | 3242.56 | 18 |
+| 2196 | [eason123222](https://osu.ppy.sh/u/3002666) | 3237.45 | 19 |
+| 2197 | [KG Ragny](https://osu.ppy.sh/u/5103371) | 3235.59 | 19 |
+| 2198 | [Ediiz](https://osu.ppy.sh/u/2892393) | 3235.08 | 20 |
+| 2199 | [Kentucky312](https://osu.ppy.sh/u/2447934) | 3234.26 | 16 |
+| 2200 | [[ Neopolitan ]](https://osu.ppy.sh/u/6975286) | 3233.77 | 23 |
+| 2201 | [Mr Palta](https://osu.ppy.sh/u/2907838) | 3231.11 | 22 |
+| 2202 | [hlx_groden](https://osu.ppy.sh/u/2041322) | 3230.45 | 12 |
+| 2203 | [Guiz](https://osu.ppy.sh/u/5099289) | 3227.62 | 13 |
+| 2204 | [Teazkor](https://osu.ppy.sh/u/5695241) | 3227.23 | 14 |
+| 2205 | [TheKoala](https://osu.ppy.sh/u/3906405) | 3225.52 | 14 |
+| 2206 | [Fuma](https://osu.ppy.sh/u/1501956) | 3224.79 | 15 |
+| 2207 | [xiAmME](https://osu.ppy.sh/u/1428960) | 3222.93 | 12 |
+| 2208 | [nomaiza](https://osu.ppy.sh/u/6824358) | 3221.30 | 15 |
+| 2209 | [JesterTLJ](https://osu.ppy.sh/u/3747845) | 3219.88 | 21 |
+| 2210 | [Utaha](https://osu.ppy.sh/u/2828591) | 3219.56 | 19 |
+| 2211 | [cormic566](https://osu.ppy.sh/u/3085401) | 3219.04 | 16 |
+| 2212 | [_FyMurakami_](https://osu.ppy.sh/u/4714525) | 3213.69 | 18 |
+| 2213 | [CaLiA Ruin](https://osu.ppy.sh/u/2700583) | 3210.80 | 14 |
+| 2214 | [Krims](https://osu.ppy.sh/u/4148449) | 3210.14 | 16 |
+| 2215 | [- S i m p l e -](https://osu.ppy.sh/u/7726945) | 3209.35 | 21 |
+| 2216 | [Lawlietik](https://osu.ppy.sh/u/6253779) | 3209.14 | 21 |
+| 2217 | [Serary](https://osu.ppy.sh/u/2283331) | 3208.91 | 17 |
+| 2218 | [sovel](https://osu.ppy.sh/u/4888257) | 3207.67 | 13 |
+| 2219 | [Kaanibaru](https://osu.ppy.sh/u/3117824) | 3206.31 | 10 |
+| 2220 | [BygyJoel](https://osu.ppy.sh/u/4990524) | 3205.44 | 14 |
+| 2221 | [I am graduated](https://osu.ppy.sh/u/2056105) | 3205.33 | 18 |
+| 2222 | [Jakuu](https://osu.ppy.sh/u/3067549) | 3204.68 | 23 |
+| 2223 | [TheANDRAXY](https://osu.ppy.sh/u/2435672) | 3203.71 | 17 |
+| 2224 | [Azerak](https://osu.ppy.sh/u/4730392) | 3202.60 | 16 |
+| 2225 | [DyDy](https://osu.ppy.sh/u/2874183) | 3201.66 | 19 |
+| 2226 | [Zaborn](https://osu.ppy.sh/u/3637747) | 3201.01 | 19 |
+| 2227 | [KomachiBaka](https://osu.ppy.sh/u/6155320) | 3198.34 | 18 |
+| 2228 | [HuangQi](https://osu.ppy.sh/u/8038942) | 3198.27 | 20 |
+| 2229 | [Tang](https://osu.ppy.sh/u/2162609) | 3197.77 | 17 |
+| 2230 | [Takane Enomoto](https://osu.ppy.sh/u/1208491) | 3197.13 | 21 |
+| 2231 | [Crymore13](https://osu.ppy.sh/u/2628836) | 3195.62 | 17 |
+| 2232 | [OhCyberMedium](https://osu.ppy.sh/u/7400290) | 3195.52 | 22 |
+| 2233 | [[-Neon-]](https://osu.ppy.sh/u/6064382) | 3195.50 | 17 |
+| 2234 | [w1sp](https://osu.ppy.sh/u/2770796) | 3194.21 | 11 |
+| 2235 | [rsmodx123](https://osu.ppy.sh/u/1011629) | 3193.25 | 17 |
+| 2236 | [[ Soulless ]](https://osu.ppy.sh/u/5081973) | 3190.94 | 24 |
+| 2237 | [obby](https://osu.ppy.sh/u/7700831) | 3190.76 | 18 |
+| 2238 | [Chinox](https://osu.ppy.sh/u/1077026) | 3190.07 | 15 |
+| 2239 | [Bladma](https://osu.ppy.sh/u/3493078) | 3185.92 | 15 |
+| 2240 | [Elvish](https://osu.ppy.sh/u/7729110) | 3185.09 | 19 |
+| 2241 | [Onetzi](https://osu.ppy.sh/u/7675844) | 3184.86 | 20 |
+| 2242 | [-Famous-](https://osu.ppy.sh/u/814328) | 3180.78 | 19 |
+| 2243 | [FancyMouse](https://osu.ppy.sh/u/2698767) | 3176.33 | 22 |
+| 2244 | [Thankyoubomb](https://osu.ppy.sh/u/2589843) | 3173.94 | 20 |
+| 2245 | [96013M88](https://osu.ppy.sh/u/7095800) | 3172.53 | 16 |
+| 2246 | [Condor](https://osu.ppy.sh/u/5090973) | 3172.01 | 16 |
+| 2247 | [Juno](https://osu.ppy.sh/u/2588961) | 3171.46 | 13 |
+| 2248 | [StevenDANK](https://osu.ppy.sh/u/1729766) | 3171.31 | 17 |
+| 2249 | [Lucker96](https://osu.ppy.sh/u/1416472) | 3170.46 | 18 |
+| 2250 | [Mefiu](https://osu.ppy.sh/u/4222491) | 3170.20 | 22 |
+| 2251 | [DeviLDarkness](https://osu.ppy.sh/u/8743598) | 3168.68 | 19 |
+| 2252 | [[ Echidna ]](https://osu.ppy.sh/u/7909237) | 3168.19 | 16 |
+| 2253 | [Osama](https://osu.ppy.sh/u/799218) | 3167.83 | 15 |
+| 2254 | [- Kurume -](https://osu.ppy.sh/u/7863657) | 3167.24 | 21 |
+| 2255 | [MalcoraX](https://osu.ppy.sh/u/1812692) | 3166.28 | 16 |
+| 2256 | [Schill Cyrene](https://osu.ppy.sh/u/1827174) | 3164.87 | 13 |
+| 2257 | [Rinna](https://osu.ppy.sh/u/4144093) | 3163.65 | 21 |
+| 2258 | [[ - Sora - ]](https://osu.ppy.sh/u/2987120) | 3163.45 | 12 |
+| 2259 | [Fallicon](https://osu.ppy.sh/u/5217651) | 3163.25 | 15 |
+| 2260 | [MintyOne92](https://osu.ppy.sh/u/5092583) | 3162.54 | 23 |
+| 2261 | [Tentsuki](https://osu.ppy.sh/u/1025587) | 3161.80 | 14 |
+| 2262 | [Mitatsh](https://osu.ppy.sh/u/4165369) | 3160.53 | 16 |
+| 2263 | [MrNeener](https://osu.ppy.sh/u/5253869) | 3159.54 | 21 |
+| 2264 | [SeeL](https://osu.ppy.sh/u/5104320) | 3155.58 | 12 |
+| 2265 | [krotoxx](https://osu.ppy.sh/u/4444957) | 3155.23 | 17 |
+| 2266 | [Zerg](https://osu.ppy.sh/u/2069595) | 3154.13 | 22 |
+| 2267 | [NeverAim](https://osu.ppy.sh/u/3346597) | 3154.03 | 15 |
+| 2268 | [Mombei](https://osu.ppy.sh/u/4571817) | 3151.87 | 16 |
+| 2269 | [xRillerx](https://osu.ppy.sh/u/4439444) | 3151.37 | 19 |
+| 2270 | [-Hideki-](https://osu.ppy.sh/u/8688804) | 3151.26 | 14 |
+| 2271 | [Zeth234](https://osu.ppy.sh/u/4643986) | 3151.11 | 17 |
+| 2272 | [DipG](https://osu.ppy.sh/u/2983311) | 3150.14 | 16 |
+| 2273 | [hamato](https://osu.ppy.sh/u/2998382) | 3149.87 | 15 |
+| 2274 | [NaLDeey](https://osu.ppy.sh/u/6891679) | 3149.77 | 21 |
+| 2275 | [Angry](https://osu.ppy.sh/u/4432964) | 3149.70 | 17 |
+| 2276 | [ikar0ss](https://osu.ppy.sh/u/3972443) | 3149.00 | 18 |
+| 2277 | [NoSanity420](https://osu.ppy.sh/u/6032386) | 3148.78 | 16 |
+| 2278 | [pshxe](https://osu.ppy.sh/u/7753330) | 3148.69 | 17 |
+| 2279 | [- Amatsukaze-](https://osu.ppy.sh/u/5364944) | 3145.54 | 18 |
+| 2280 | [tsugi](https://osu.ppy.sh/u/3595954) | 3145.18 | 21 |
+| 2281 | [Noomn](https://osu.ppy.sh/u/4698603) | 3145.17 | 19 |
+| 2282 | [JonJonH](https://osu.ppy.sh/u/2833903) | 3144.29 | 17 |
+| 2283 | [Adqua](https://osu.ppy.sh/u/5337109) | 3143.94 | 15 |
+| 2284 | [NoiiZeDesignS](https://osu.ppy.sh/u/4386188) | 3140.53 | 16 |
+| 2285 | [FishFutaba](https://osu.ppy.sh/u/5290240) | 3140.41 | 18 |
+| 2286 | [soflawless](https://osu.ppy.sh/u/7681103) | 3139.54 | 23 |
+| 2287 | [Flashtop](https://osu.ppy.sh/u/6591339) | 3137.43 | 20 |
+| 2288 | [shAe1eck](https://osu.ppy.sh/u/1553672) | 3137.30 | 18 |
+| 2289 | [Areox](https://osu.ppy.sh/u/7680559) | 3137.09 | 16 |
+| 2290 | [Shiroime](https://osu.ppy.sh/u/6723257) | 3136.51 | 24 |
+| 2291 | [Syriusi](https://osu.ppy.sh/u/4477543) | 3136.04 | 18 |
+| 2292 | [pyrus10000](https://osu.ppy.sh/u/5149097) | 3133.52 | 16 |
+| 2293 | [LongExistence](https://osu.ppy.sh/u/2380426) | 3132.75 | 16 |
+| 2294 | [conjure](https://osu.ppy.sh/u/9348917) | 3132.62 | 18 |
+| 2295 | [Duftende Pizza](https://osu.ppy.sh/u/2316517) | 3131.85 | 11 |
+| 2296 | [- Takashi -](https://osu.ppy.sh/u/5119065) | 3129.95 | 15 |
+| 2297 | [Warbreon](https://osu.ppy.sh/u/7104251) | 3128.38 | 14 |
+| 2298 | [Shimox](https://osu.ppy.sh/u/1192387) | 3128.05 | 13 |
+| 2299 | [oamaok](https://osu.ppy.sh/u/3844204) | 3126.13 | 16 |
+| 2300 | [Niko](https://osu.ppy.sh/u/175141) | 3124.95 | 12 |
+| 2301 | [Shiori Leiko](https://osu.ppy.sh/u/4983038) | 3123.74 | 13 |
+| 2302 | [Yasen](https://osu.ppy.sh/u/6879408) | 3123.36 | 14 |
+| 2303 | [DranktZ](https://osu.ppy.sh/u/4408622) | 3119.10 | 19 |
+| 2304 | [Franktonimist](https://osu.ppy.sh/u/6871518) | 3117.50 | 17 |
+| 2305 | [Cup](https://osu.ppy.sh/u/2110902) | 3115.78 | 18 |
+| 2306 | [Hanatan](https://osu.ppy.sh/u/1349849) | 3115.17 | 12 |
+| 2307 | [Boxes](https://osu.ppy.sh/u/3288018) | 3114.69 | 12 |
+| 2308 | [Xytic](https://osu.ppy.sh/u/4098109) | 3113.67 | 21 |
+| 2309 | [Zayn](https://osu.ppy.sh/u/1518469) | 3113.57 | 18 |
+| 2310 | [crrwn](https://osu.ppy.sh/u/5149551) | 3111.58 | 14 |
+| 2311 | [Hakka](https://osu.ppy.sh/u/3335839) | 3109.96 | 17 |
+| 2312 | [pyccknn](https://osu.ppy.sh/u/3618773) | 3109.84 | 12 |
+| 2313 | [Mr HeliX](https://osu.ppy.sh/u/2330619) | 3108.92 | 16 |
+| 2314 | [Kevinneth](https://osu.ppy.sh/u/2244452) | 3108.19 | 18 |
+| 2315 | [Xue Yue](https://osu.ppy.sh/u/3589522) | 3107.11 | 17 |
+| 2316 | [Ikki](https://osu.ppy.sh/u/4712690) | 3106.95 | 20 |
+| 2317 | [Fiovaranti](https://osu.ppy.sh/u/5831449) | 3106.58 | 26 |
+| 2318 | [Sarasa](https://osu.ppy.sh/u/2159014) | 3105.47 | 11 |
+| 2319 | [- G I D Z -](https://osu.ppy.sh/u/2286528) | 3105.30 | 10 |
+| 2320 | [Macho](https://osu.ppy.sh/u/2846779) | 3105.29 | 11 |
+| 2321 | [Delis](https://osu.ppy.sh/u/1603923) | 3104.37 | 11 |
+| 2322 | [Kyoushouryuu](https://osu.ppy.sh/u/1386931) | 3098.72 | 11 |
+| 2323 | [SmartMove3150](https://osu.ppy.sh/u/4780986) | 3098.65 | 15 |
+| 2324 | [Mattof](https://osu.ppy.sh/u/3573174) | 3096.94 | 23 |
+| 2325 | [_OytheBumbler](https://osu.ppy.sh/u/4018443) | 3095.43 | 24 |
+| 2326 | [Enify](https://osu.ppy.sh/u/5061403) | 3094.90 | 16 |
+| 2327 | [Gun-_-](https://osu.ppy.sh/u/2695890) | 3094.64 | 17 |
+| 2328 | [Paladin1us](https://osu.ppy.sh/u/2714158) | 3091.14 | 15 |
+| 2329 | [Peturd](https://osu.ppy.sh/u/4610046) | 3088.99 | 22 |
+| 2330 | [Shiruhi](https://osu.ppy.sh/u/6349663) | 3088.55 | 24 |
+| 2331 | [Boggles](https://osu.ppy.sh/u/3923278) | 3088.22 | 11 |
+| 2332 | [Start](https://osu.ppy.sh/u/2190156) | 3087.65 | 16 |
+| 2333 | [Yken](https://osu.ppy.sh/u/6082212) | 3086.57 | 19 |
+| 2334 | [YukiNeko](https://osu.ppy.sh/u/889331) | 3085.62 | 16 |
+| 2335 | [NonxE](https://osu.ppy.sh/u/319312) | 3085.20 | 15 |
+| 2336 | [sachi_nyan](https://osu.ppy.sh/u/4652473) | 3081.74 | 19 |
+| 2337 | [[Shaiden]](https://osu.ppy.sh/u/4913598) | 3079.40 | 12 |
+| 2338 | [Moly](https://osu.ppy.sh/u/1843224) | 3077.43 | 11 |
+| 2339 | [Aimseky](https://osu.ppy.sh/u/4464845) | 3076.75 | 17 |
+| 2340 | [Aswababa](https://osu.ppy.sh/u/2475730) | 3076.19 | 16 |
+| 2341 | [[DrG]](https://osu.ppy.sh/u/6521049) | 3075.87 | 21 |
+| 2342 | [Coppola](https://osu.ppy.sh/u/258104) | 3074.10 | 16 |
+| 2343 | [Broxo](https://osu.ppy.sh/u/7447724) | 3074.00 | 19 |
+| 2344 | [Keksbla](https://osu.ppy.sh/u/2417616) | 3073.58 | 14 |
+| 2345 | [[Mashiro-Desu]](https://osu.ppy.sh/u/7193996) | 3072.36 | 14 |
+| 2346 | [ExImperia](https://osu.ppy.sh/u/5200499) | 3071.53 | 16 |
+| 2347 | [- Eric -](https://osu.ppy.sh/u/4430650) | 3070.89 | 17 |
+| 2348 | [Sanduan](https://osu.ppy.sh/u/6391252) | 3070.16 | 19 |
+| 2349 | [Jace](https://osu.ppy.sh/u/4394718) | 3069.13 | 11 |
+| 2350 | [Jairod](https://osu.ppy.sh/u/3088364) | 3065.84 | 14 |
+| 2351 | [Ryazumi](https://osu.ppy.sh/u/2466327) | 3065.61 | 21 |
+| 2352 | [Lahael](https://osu.ppy.sh/u/3324693) | 3064.07 | 16 |
+| 2353 | [Gusty](https://osu.ppy.sh/u/2904287) | 3060.69 | 21 |
+| 2354 | [Kujinn](https://osu.ppy.sh/u/3723568) | 3060.63 | 13 |
+| 2355 | [Skycries](https://osu.ppy.sh/u/4608074) | 3058.70 | 13 |
+| 2356 | [RATATAI](https://osu.ppy.sh/u/6073841) | 3057.98 | 14 |
+| 2357 | [Namo](https://osu.ppy.sh/u/4400981) | 3057.51 | 15 |
+| 2358 | [Chupalika](https://osu.ppy.sh/u/1926383) | 3057.31 | 18 |
+| 2359 | [Swishi](https://osu.ppy.sh/u/2795639) | 3055.99 | 15 |
+| 2360 | [Senpai](https://osu.ppy.sh/u/4151291) | 3055.26 | 26 |
+| 2361 | [Frostcage](https://osu.ppy.sh/u/4200090) | 3055.05 | 20 |
+| 2362 | [Fu3ya_](https://osu.ppy.sh/u/5122187) | 3052.94 | 14 |
+| 2363 | [KrulTepes](https://osu.ppy.sh/u/6902328) | 3050.43 | 23 |
+| 2364 | [SloppySeal](https://osu.ppy.sh/u/3161312) | 3047.85 | 14 |
+| 2365 | [TTG](https://osu.ppy.sh/u/6135442) | 3047.26 | 12 |
+| 2366 | [SonicShinobu](https://osu.ppy.sh/u/3457063) | 3047.08 | 16 |
+| 2367 | [MyHand](https://osu.ppy.sh/u/1571481) | 3046.55 | 18 |
+| 2368 | [Spring Roll](https://osu.ppy.sh/u/2499198) | 3046.43 | 15 |
+| 2369 | [My Angel Lexion](https://osu.ppy.sh/u/2185987) | 3044.79 | 12 |
+| 2370 | [HydroCannon13](https://osu.ppy.sh/u/5425046) | 3042.96 | 15 |
+| 2371 | [puncia](https://osu.ppy.sh/u/782633) | 3042.09 | 15 |
+| 2372 | [Seiji Yamamura](https://osu.ppy.sh/u/5517753) | 3040.61 | 15 |
+| 2373 | [Anticipate](https://osu.ppy.sh/u/1643990) | 3040.09 | 20 |
+| 2374 | [Lunchaniru](https://osu.ppy.sh/u/1270850) | 3038.15 | 17 |
+| 2375 | [tommy0519](https://osu.ppy.sh/u/2455360) | 3037.75 | 19 |
+| 2376 | [[ Rinia ]](https://osu.ppy.sh/u/3891693) | 3037.44 | 19 |
+| 2377 | [shaneoyo](https://osu.ppy.sh/u/527298) | 3036.86 | 20 |
+| 2378 | [ZomboUser](https://osu.ppy.sh/u/3327889) | 3035.36 | 21 |
+| 2379 | [mukachu](https://osu.ppy.sh/u/930825) | 3034.85 | 14 |
+| 2380 | [My Angel Shimo](https://osu.ppy.sh/u/4199233) | 3033.93 | 14 |
+| 2381 | [kampfmops_](https://osu.ppy.sh/u/2482783) | 3033.44 | 18 |
+| 2382 | [ThisIsTrance](https://osu.ppy.sh/u/7327317) | 3032.37 | 16 |
+| 2383 | [Human Trash](https://osu.ppy.sh/u/5039267) | 3030.48 | 15 |
+| 2384 | [Yuzi](https://osu.ppy.sh/u/1562137) | 3030.15 | 17 |
+| 2385 | [TheOnlyLeon](https://osu.ppy.sh/u/4201807) | 3029.94 | 18 |
+| 2386 | [_YuriNee](https://osu.ppy.sh/u/1794082) | 3029.51 | 11 |
+| 2387 | [- Hoang -](https://osu.ppy.sh/u/5423872) | 3029.32 | 18 |
+| 2388 | [Midi](https://osu.ppy.sh/u/3636617) | 3027.05 | 14 |
+| 2389 | [Shanmore](https://osu.ppy.sh/u/2944014) | 3025.37 | 15 |
+| 2390 | [Schlomo](https://osu.ppy.sh/u/7485282) | 3022.90 | 16 |
+| 2391 | [sinon](https://osu.ppy.sh/u/3537182) | 3021.84 | 11 |
+| 2392 | [Zboys](https://osu.ppy.sh/u/2876906) | 3021.56 | 12 |
+| 2393 | [monome](https://osu.ppy.sh/u/4370557) | 3021.29 | 12 |
+| 2394 | [Princess Lucina](https://osu.ppy.sh/u/974931) | 3020.29 | 21 |
+| 2395 | [Senpaii](https://osu.ppy.sh/u/1538935) | 3019.13 | 21 |
+| 2396 | [Senbonzakura](https://osu.ppy.sh/u/1357150) | 3016.69 | 18 |
+| 2397 | [ayygurl](https://osu.ppy.sh/u/4899898) | 3016.45 | 13 |
+| 2398 | [SaitamaSenpai](https://osu.ppy.sh/u/4318732) | 3014.14 | 17 |
+| 2399 | [revurii](https://osu.ppy.sh/u/4180036) | 3013.78 | 12 |
+| 2400 | [B1TcH ShOT](https://osu.ppy.sh/u/6861007) | 3013.67 | 15 |
+| 2401 | [Cobweb](https://osu.ppy.sh/u/6677470) | 3012.31 | 20 |
+| 2402 | [Dat_Neko](https://osu.ppy.sh/u/2765253) | 3011.91 | 21 |
+| 2403 | [Bebo](https://osu.ppy.sh/u/2423005) | 3010.82 | 16 |
+| 2404 | [Brunows11](https://osu.ppy.sh/u/4135509) | 3010.71 | 14 |
+| 2405 | [tiuq](https://osu.ppy.sh/u/3692940) | 3008.86 | 15 |
+| 2406 | [-Lundberg](https://osu.ppy.sh/u/3734627) | 3008.39 | 22 |
+| 2407 | [PiorPie](https://osu.ppy.sh/u/7695654) | 3007.05 | 15 |
+| 2408 | [pattrik](https://osu.ppy.sh/u/2823017) | 3002.39 | 11 |
+| 2409 | [WhyV](https://osu.ppy.sh/u/5041691) | 3001.62 | 14 |
+| 2410 | [Bloody](https://osu.ppy.sh/u/3674696) | 3001.01 | 14 |
+| 2411 | [gizmond](https://osu.ppy.sh/u/5333526) | 3000.67 | 15 |
+| 2412 | [[ ToMo ]](https://osu.ppy.sh/u/2478119) | 3000.45 | 20 |
+| 2413 | [Incera](https://osu.ppy.sh/u/2159415) | 3000.01 | 14 |
+| 2414 | [-Ranndom-](https://osu.ppy.sh/u/5022536) | 2999.78 | 13 |
+| 2415 | [Trigonoculus](https://osu.ppy.sh/u/7627013) | 2999.64 | 15 |
+| 2416 | [Chiyuyu](https://osu.ppy.sh/u/4343242) | 2999.06 | 19 |
+| 2417 | [Arcamenel](https://osu.ppy.sh/u/4489161) | 2997.12 | 14 |
+| 2418 | [John the Dog](https://osu.ppy.sh/u/3455623) | 2994.98 | 14 |
+| 2419 | [Nightsky](https://osu.ppy.sh/u/6177006) | 2991.35 | 20 |
+| 2420 | [Kaneda](https://osu.ppy.sh/u/7426348) | 2991.17 | 16 |
+| 2421 | [[ Riki-dere ]](https://osu.ppy.sh/u/1946213) | 2990.85 | 13 |
+| 2422 | [Miezekatze](https://osu.ppy.sh/u/913697) | 2990.73 | 20 |
+| 2423 | [ShamFleet](https://osu.ppy.sh/u/7104330) | 2987.45 | 16 |
+| 2424 | [kriers](https://osu.ppy.sh/u/333241) | 2987.15 | 19 |
+| 2425 | [Battquif](https://osu.ppy.sh/u/2389333) | 2986.96 | 13 |
+| 2426 | [matt9998](https://osu.ppy.sh/u/5601239) | 2986.42 | 15 |
+| 2427 | [Dapent](https://osu.ppy.sh/u/900315) | 2983.56 | 17 |
+| 2428 | [-Jordan-](https://osu.ppy.sh/u/7288862) | 2983.55 | 21 |
+| 2429 | [csaba21123](https://osu.ppy.sh/u/7764237) | 2983.30 | 14 |
+| 2430 | [Painketsu](https://osu.ppy.sh/u/2127432) | 2982.97 | 16 |
+| 2431 | [FreytagMorgan](https://osu.ppy.sh/u/2517668) | 2982.65 | 17 |
+| 2432 | [Slay](https://osu.ppy.sh/u/7093124) | 2982.32 | 18 |
+| 2433 | [Dinoxe](https://osu.ppy.sh/u/6521659) | 2981.70 | 12 |
+| 2434 | [Atsuki](https://osu.ppy.sh/u/6519175) | 2980.93 | 18 |
+| 2435 | [PLiv](https://osu.ppy.sh/u/929134) | 2978.66 | 20 |
+| 2436 | [mintakiin](https://osu.ppy.sh/u/3203628) | 2978.60 | 18 |
+| 2437 | [Qweik](https://osu.ppy.sh/u/5147099) | 2978.26 | 19 |
+| 2438 | [-Eniglizx-](https://osu.ppy.sh/u/5895047) | 2975.37 | 12 |
+| 2439 | [Mousiini](https://osu.ppy.sh/u/8691695) | 2975.24 | 14 |
+| 2440 | [kbwaaablya](https://osu.ppy.sh/u/6473092) | 2973.93 | 14 |
+| 2441 | [yoshiyoyoyo](https://osu.ppy.sh/u/5020258) | 2972.33 | 20 |
+| 2442 | [- Wrath -](https://osu.ppy.sh/u/2387294) | 2967.06 | 18 |
+| 2443 | [Bowzaa](https://osu.ppy.sh/u/3229391) | 2965.12 | 13 |
+| 2444 | [killerzombie453](https://osu.ppy.sh/u/6296013) | 2964.67 | 15 |
+| 2445 | [Mind](https://osu.ppy.sh/u/4174825) | 2964.24 | 12 |
+| 2446 | [Legestrophe](https://osu.ppy.sh/u/7350684) | 2962.52 | 11 |
+| 2447 | [CaStet](https://osu.ppy.sh/u/2134555) | 2961.95 | 14 |
+| 2448 | [appleeaterx](https://osu.ppy.sh/u/2407160) | 2959.73 | 16 |
+| 2449 | [PizzaLovers007](https://osu.ppy.sh/u/1064536) | 2959.29 | 10 |
+| 2450 | [So Amy](https://osu.ppy.sh/u/1708517) | 2955.92 | 13 |
+| 2451 | [[ Splash ]](https://osu.ppy.sh/u/7777836) | 2954.46 | 14 |
+| 2452 | [Ducks](https://osu.ppy.sh/u/2374880) | 2953.88 | 12 |
+| 2453 | [ArmedAnt](https://osu.ppy.sh/u/6056862) | 2953.28 | 18 |
+| 2454 | [RIP](https://osu.ppy.sh/u/3499939) | 2953.05 | 14 |
+| 2455 | [Freg](https://osu.ppy.sh/u/7034846) | 2951.95 | 13 |
+| 2456 | [Atheneon](https://osu.ppy.sh/u/2164627) | 2951.25 | 13 |
+| 2457 | [Platinum Mad](https://osu.ppy.sh/u/5587267) | 2951.25 | 16 |
+| 2458 | [Oneirostalgia](https://osu.ppy.sh/u/5010464) | 2949.55 | 21 |
+| 2459 | [JayJay-San](https://osu.ppy.sh/u/5457371) | 2948.35 | 16 |
+| 2460 | [SmiLe999](https://osu.ppy.sh/u/267776) | 2946.72 | 17 |
+| 2461 | [Winfall](https://osu.ppy.sh/u/3894968) | 2946.68 | 18 |
+| 2462 | [mar](https://osu.ppy.sh/u/3815387) | 2945.27 | 17 |
+| 2463 | [Gorgotz](https://osu.ppy.sh/u/1903394) | 2945.02 | 21 |
+| 2464 | [Leetrapoi](https://osu.ppy.sh/u/3147457) | 2943.19 | 15 |
+| 2465 | [pekolove](https://osu.ppy.sh/u/177886) | 2942.89 | 19 |
+| 2466 | [xsrsbsns](https://osu.ppy.sh/u/414427) | 2941.79 | 10 |
+| 2467 | [Cephus](https://osu.ppy.sh/u/3373206) | 2941.09 | 16 |
+| 2468 | [janitoreihil](https://osu.ppy.sh/u/3307897) | 2940.65 | 13 |
+| 2469 | [Oxlak](https://osu.ppy.sh/u/2407718) | 2939.43 | 23 |
+| 2470 | [[ Jewel Yuki ]](https://osu.ppy.sh/u/1749413) | 2939.12 | 11 |
+| 2471 | [My Angel Tawawa](https://osu.ppy.sh/u/7585910) | 2938.79 | 16 |
+| 2472 | [Zhen Ji](https://osu.ppy.sh/u/3495610) | 2937.59 | 12 |
+| 2473 | [Arnold24x24](https://osu.ppy.sh/u/2291265) | 2936.89 | 9 |
+| 2474 | [Myucel](https://osu.ppy.sh/u/5068568) | 2935.26 | 19 |
+| 2475 | [Shikinami Asuka](https://osu.ppy.sh/u/3148520) | 2934.31 | 14 |
+| 2476 | [Macchiato](https://osu.ppy.sh/u/6126146) | 2934.17 | 16 |
+| 2477 | [Diezel](https://osu.ppy.sh/u/3990198) | 2933.20 | 19 |
+| 2478 | [[ Andy ]](https://osu.ppy.sh/u/3491714) | 2931.84 | 15 |
+| 2479 | [MentaLoli](https://osu.ppy.sh/u/817840) | 2931.83 | 12 |
+| 2480 | [ThePonite](https://osu.ppy.sh/u/5283210) | 2930.71 | 13 |
+| 2481 | [momoyo-san](https://osu.ppy.sh/u/2038069) | 2930.39 | 14 |
+| 2482 | [YeeI](https://osu.ppy.sh/u/6162099) | 2929.05 | 15 |
+| 2483 | [goto99](https://osu.ppy.sh/u/6390281) | 2928.67 | 13 |
+| 2484 | [Valdyr](https://osu.ppy.sh/u/2980356) | 2924.19 | 19 |
+| 2485 | [Vesture](https://osu.ppy.sh/u/712923) | 2923.96 | 13 |
+| 2486 | [LuBren](https://osu.ppy.sh/u/6573651) | 2923.13 | 19 |
+| 2487 | [-Rei-](https://osu.ppy.sh/u/2707498) | 2922.40 | 13 |
+| 2488 | [Pwae](https://osu.ppy.sh/u/4765794) | 2920.66 | 15 |
+| 2489 | [4ikos](https://osu.ppy.sh/u/5211231) | 2920.41 | 13 |
+| 2490 | [Darkform](https://osu.ppy.sh/u/3001648) | 2920.38 | 12 |
+| 2491 | [Wendy-chan](https://osu.ppy.sh/u/4798307) | 2919.85 | 18 |
+| 2492 | [Tomaboi](https://osu.ppy.sh/u/6211190) | 2919.78 | 17 |
+| 2493 | [N0thingSpecial](https://osu.ppy.sh/u/7371161) | 2919.30 | 13 |
+| 2494 | [Poptartnyan](https://osu.ppy.sh/u/7287236) | 2918.17 | 14 |
+| 2495 | [-Slasher](https://osu.ppy.sh/u/7440644) | 2917.93 | 15 |
+| 2496 | [z0mbir](https://osu.ppy.sh/u/4939107) | 2917.34 | 15 |
+| 2497 | [Blue Desire](https://osu.ppy.sh/u/1521035) | 2914.32 | 13 |
+| 2498 | [FujiwaraNoMokou](https://osu.ppy.sh/u/685188) | 2912.63 | 18 |
+| 2499 | [Mking](https://osu.ppy.sh/u/8114163) | 2911.46 | 16 |
+| 2500 | [-Dragonite](https://osu.ppy.sh/u/3859787) | 2910.36 | 19 |
+| 2501 | [[ Spydor ]](https://osu.ppy.sh/u/4073278) | 2910.31 | 17 |
+| 2502 | [sumomo EX](https://osu.ppy.sh/u/1229144) | 2910.07 | 15 |
+| 2503 | [EyesMan](https://osu.ppy.sh/u/1762155) | 2906.38 | 15 |
+| 2504 | [[Innocent]](https://osu.ppy.sh/u/7002028) | 2902.22 | 16 |
+| 2505 | [sonuvabetch](https://osu.ppy.sh/u/4447977) | 2901.94 | 17 |
+| 2506 | [FGSky](https://osu.ppy.sh/u/2094566) | 2901.57 | 11 |
+| 2507 | [Bites](https://osu.ppy.sh/u/1671598) | 2899.04 | 12 |
+| 2508 | [JoeroMc](https://osu.ppy.sh/u/4135156) | 2897.96 | 15 |
+| 2509 | [Bupper](https://osu.ppy.sh/u/4010927) | 2895.40 | 13 |
+| 2510 | [Shoko84](https://osu.ppy.sh/u/1847484) | 2895.11 | 13 |
+| 2511 | [tryonelove](https://osu.ppy.sh/u/4752232) | 2894.30 | 13 |
+| 2512 | [Pyrooo](https://osu.ppy.sh/u/5276579) | 2893.34 | 14 |
+| 2513 | [Wew](https://osu.ppy.sh/u/7207725) | 2891.73 | 17 |
+| 2514 | [WillCookie](https://osu.ppy.sh/u/6404488) | 2890.60 | 11 |
+| 2515 | [Sp0rk](https://osu.ppy.sh/u/6854393) | 2889.87 | 17 |
+| 2516 | [Damiek](https://osu.ppy.sh/u/5081921) | 2889.43 | 20 |
+| 2517 | [Arnbition](https://osu.ppy.sh/u/5295743) | 2888.85 | 8 |
+| 2518 | [Dagresha](https://osu.ppy.sh/u/3780145) | 2887.27 | 18 |
+| 2519 | [Shockwave000](https://osu.ppy.sh/u/2295157) | 2886.10 | 11 |
+| 2520 | [coflAinsane](https://osu.ppy.sh/u/551445) | 2884.34 | 21 |
+| 2521 | [GeeSsang](https://osu.ppy.sh/u/972006) | 2884.10 | 14 |
+| 2522 | [StiKsy](https://osu.ppy.sh/u/6337978) | 2883.55 | 20 |
+| 2523 | [vaporlol](https://osu.ppy.sh/u/3007738) | 2883.49 | 11 |
+| 2524 | [Sanzai](https://osu.ppy.sh/u/3806055) | 2881.82 | 19 |
+| 2525 | [whuppo](https://osu.ppy.sh/u/2064234) | 2881.49 | 12 |
+| 2526 | [Ralyks](https://osu.ppy.sh/u/3700648) | 2880.30 | 11 |
+| 2527 | [z3r0A1M](https://osu.ppy.sh/u/7390726) | 2880.26 | 17 |
+| 2528 | [Walshy](https://osu.ppy.sh/u/7136934) | 2879.77 | 17 |
+| 2529 | [Jontelini](https://osu.ppy.sh/u/4746822) | 2877.71 | 15 |
+| 2530 | [- Twoearle -](https://osu.ppy.sh/u/4326332) | 2877.63 | 13 |
+| 2531 | [KuKu_QY](https://osu.ppy.sh/u/2598812) | 2876.78 | 15 |
+| 2532 | [creeper44881](https://osu.ppy.sh/u/3546255) | 2876.33 | 18 |
+| 2533 | [A s h e m u](https://osu.ppy.sh/u/2384296) | 2872.68 | 15 |
+| 2534 | [NotTheRealJohn](https://osu.ppy.sh/u/6395214) | 2871.47 | 15 |
+| 2535 | [Maus](https://osu.ppy.sh/u/4450095) | 2870.21 | 17 |
+| 2536 | [[ Xfrogman43 ]](https://osu.ppy.sh/u/4673131) | 2869.05 | 20 |
+| 2537 | [WeanNeuer](https://osu.ppy.sh/u/4655584) | 2868.85 | 12 |
+| 2538 | [Aireu](https://osu.ppy.sh/u/1650010) | 2867.74 | 8 |
+| 2539 | [Danidesu](https://osu.ppy.sh/u/2748187) | 2863.30 | 10 |
+| 2540 | [KiiRiiTZu](https://osu.ppy.sh/u/8438894) | 2861.99 | 14 |
+| 2541 | [NikolasM2453](https://osu.ppy.sh/u/7759641) | 2855.26 | 17 |
+| 2542 | [Mousr](https://osu.ppy.sh/u/2703862) | 2848.46 | 12 |
+| 2543 | [Fawx](https://osu.ppy.sh/u/7093736) | 2847.16 | 12 |
+| 2544 | [KromaRO](https://osu.ppy.sh/u/7543723) | 2846.08 | 17 |
+| 2545 | [z980838928](https://osu.ppy.sh/u/1355695) | 2845.79 | 13 |
+| 2546 | [morcfiz](https://osu.ppy.sh/u/2728802) | 2843.82 | 17 |
+| 2547 | [Kubabow](https://osu.ppy.sh/u/6898498) | 2842.11 | 14 |
+| 2548 | [Salvage](https://osu.ppy.sh/u/242119) | 2841.65 | 13 |
+| 2549 | [onyaga](https://osu.ppy.sh/u/2984823) | 2841.12 | 11 |
+| 2550 | [sUrYeok](https://osu.ppy.sh/u/2576881) | 2840.07 | 19 |
+| 2551 | [Small K](https://osu.ppy.sh/u/952751) | 2837.29 | 10 |
+| 2552 | [Aruka](https://osu.ppy.sh/u/2935432) | 2837.09 | 16 |
+| 2553 | [DDM](https://osu.ppy.sh/u/7910282) | 2836.61 | 11 |
+| 2554 | [Nyanaro](https://osu.ppy.sh/u/4157611) | 2836.00 | 16 |
+| 2555 | [Kuuki ToRa](https://osu.ppy.sh/u/2447066) | 2835.27 | 12 |
+| 2556 | [-Kurisu](https://osu.ppy.sh/u/4192842) | 2834.25 | 11 |
+| 2557 | [sLeekzz](https://osu.ppy.sh/u/5111036) | 2833.79 | 15 |
+| 2558 | [Uta - chan](https://osu.ppy.sh/u/4600838) | 2831.98 | 14 |
+| 2559 | [Felrion](https://osu.ppy.sh/u/3673083) | 2831.19 | 13 |
+| 2560 | [Rost94](https://osu.ppy.sh/u/490568) | 2829.53 | 17 |
+| 2561 | [Antares-](https://osu.ppy.sh/u/2194763) | 2828.77 | 14 |
+| 2562 | [MegaMK](https://osu.ppy.sh/u/8454773) | 2828.76 | 13 |
+| 2563 | [tralk331](https://osu.ppy.sh/u/5039382) | 2823.29 | 14 |
+| 2564 | [squirrelxoxo](https://osu.ppy.sh/u/3842877) | 2821.60 | 19 |
+| 2565 | [Freddy](https://osu.ppy.sh/u/5235218) | 2820.42 | 17 |
+| 2566 | [HarddS](https://osu.ppy.sh/u/2389346) | 2818.89 | 15 |
+| 2567 | [Kaseru](https://osu.ppy.sh/u/6953170) | 2815.69 | 16 |
+| 2568 | [Sio-](https://osu.ppy.sh/u/3933693) | 2815.15 | 16 |
+| 2569 | [Tger201](https://osu.ppy.sh/u/4182969) | 2814.86 | 15 |
+| 2570 | [Afrodafro](https://osu.ppy.sh/u/3551255) | 2814.57 | 7 |
+| 2571 | [FluffyLuffy](https://osu.ppy.sh/u/2334901) | 2811.61 | 14 |
+| 2572 | [morix](https://osu.ppy.sh/u/6875907) | 2811.05 | 15 |
+| 2573 | [Captain Sanae](https://osu.ppy.sh/u/6184795) | 2808.98 | 13 |
+| 2574 | [Lazer](https://osu.ppy.sh/u/1799925) | 2807.83 | 10 |
+| 2575 | [GimmeYourSkill](https://osu.ppy.sh/u/3803644) | 2806.26 | 17 |
+| 2576 | [JoleK](https://osu.ppy.sh/u/7786382) | 2806.21 | 14 |
+| 2577 | [Canozo](https://osu.ppy.sh/u/2189709) | 2804.07 | 12 |
+| 2578 | [CocoaLion](https://osu.ppy.sh/u/1224334) | 2803.17 | 12 |
+| 2579 | [diino](https://osu.ppy.sh/u/4701393) | 2799.89 | 13 |
+| 2580 | [Justin](https://osu.ppy.sh/u/3437581) | 2799.59 | 15 |
+| 2581 | [dudey7ftw](https://osu.ppy.sh/u/4620465) | 2797.32 | 11 |
+| 2582 | [Snowio](https://osu.ppy.sh/u/2087761) | 2795.93 | 11 |
+| 2583 | [Tedda](https://osu.ppy.sh/u/6906789) | 2795.08 | 14 |
+| 2584 | [transcendental](https://osu.ppy.sh/u/3304713) | 2794.41 | 17 |
+| 2585 | [InabaTewi](https://osu.ppy.sh/u/1078004) | 2792.69 | 11 |
+| 2586 | [Seiren](https://osu.ppy.sh/u/616536) | 2792.00 | 19 |
+| 2587 | [Muzkan](https://osu.ppy.sh/u/3975143) | 2791.63 | 14 |
+| 2588 | [Harutora](https://osu.ppy.sh/u/4924835) | 2791.22 | 14 |
+| 2589 | [Mikagura Seisa](https://osu.ppy.sh/u/1990956) | 2790.86 | 13 |
+| 2590 | [NixXSkate](https://osu.ppy.sh/u/671747) | 2790.66 | 13 |
+| 2591 | [PrakMR](https://osu.ppy.sh/u/344613) | 2789.41 | 14 |
+| 2592 | [Mane](https://osu.ppy.sh/u/2585243) | 2788.35 | 20 |
+| 2593 | [Nozdormu](https://osu.ppy.sh/u/7169208) | 2787.05 | 17 |
+| 2594 | [Iron Man](https://osu.ppy.sh/u/4242381) | 2786.08 | 16 |
+| 2595 | [Spooky Ougi](https://osu.ppy.sh/u/2658660) | 2780.98 | 12 |
+| 2596 | [Gryzus24](https://osu.ppy.sh/u/6687122) | 2779.72 | 17 |
+| 2597 | [KGaryry](https://osu.ppy.sh/u/5740191) | 2779.34 | 13 |
+| 2598 | [911](https://osu.ppy.sh/u/3284523) | 2779.11 | 15 |
+| 2599 | [God GMN](https://osu.ppy.sh/u/5824193) | 2776.92 | 17 |
+| 2600 | [[Chiyo]](https://osu.ppy.sh/u/2000416) | 2774.90 | 10 |
+| 2601 | [Naomaku](https://osu.ppy.sh/u/6581415) | 2774.58 | 18 |
+| 2602 | [-Remilia-](https://osu.ppy.sh/u/2513995) | 2774.29 | 21 |
+| 2603 | [A r M i N](https://osu.ppy.sh/u/5115995) | 2773.46 | 16 |
+| 2604 | [xarathas](https://osu.ppy.sh/u/3551117) | 2771.37 | 16 |
+| 2605 | [Ryugar](https://osu.ppy.sh/u/3997638) | 2771.17 | 13 |
+| 2606 | [zelbog](https://osu.ppy.sh/u/2602659) | 2770.68 | 15 |
+| 2607 | [Bren](https://osu.ppy.sh/u/4538332) | 2767.18 | 18 |
+| 2608 | [KING MAT 050](https://osu.ppy.sh/u/4820429) | 2767.18 | 14 |
+| 2609 | [Spartaan](https://osu.ppy.sh/u/3486996) | 2763.19 | 13 |
+| 2610 | [_zepH](https://osu.ppy.sh/u/2847332) | 2762.47 | 18 |
+| 2611 | [Inuka Linora](https://osu.ppy.sh/u/4326995) | 2761.53 | 13 |
+| 2612 | [GenDoNL](https://osu.ppy.sh/u/5939445) | 2760.91 | 17 |
+| 2613 | [Breic](https://osu.ppy.sh/u/6673060) | 2759.22 | 17 |
+| 2614 | [itukenn](https://osu.ppy.sh/u/1554054) | 2757.70 | 16 |
+| 2615 | [AlexXerox](https://osu.ppy.sh/u/4764671) | 2757.47 | 12 |
+| 2616 | [God Bless You](https://osu.ppy.sh/u/5338466) | 2756.80 | 13 |
+| 2617 | [DrayZess](https://osu.ppy.sh/u/2329891) | 2756.65 | 11 |
+| 2618 | [HeeJin](https://osu.ppy.sh/u/2773410) | 2756.12 | 14 |
+| 2619 | [Franek0533](https://osu.ppy.sh/u/6970626) | 2755.32 | 14 |
+| 2620 | [Suome](https://osu.ppy.sh/u/3958814) | 2754.36 | 13 |
+| 2621 | [Anze](https://osu.ppy.sh/u/1545563) | 2753.87 | 9 |
+| 2622 | [Kalvin](https://osu.ppy.sh/u/4420138) | 2753.62 | 12 |
+| 2623 | [- Neo](https://osu.ppy.sh/u/4671199) | 2752.28 | 18 |
+| 2624 | [Arctic Wolf](https://osu.ppy.sh/u/6045685) | 2752.06 | 17 |
+| 2625 | [- Matha -](https://osu.ppy.sh/u/7354729) | 2751.89 | 12 |
+| 2626 | [Ziggo](https://osu.ppy.sh/u/1472659) | 2749.30 | 16 |
+| 2627 | [Suimmy](https://osu.ppy.sh/u/772107) | 2748.80 | 13 |
+| 2628 | [Kencho](https://osu.ppy.sh/u/3178411) | 2748.65 | 18 |
+| 2629 | [Nykke](https://osu.ppy.sh/u/8181950) | 2748.46 | 12 |
+| 2630 | [Euphori](https://osu.ppy.sh/u/4921021) | 2748.39 | 14 |
+| 2631 | [xiaofenghui](https://osu.ppy.sh/u/2332175) | 2747.09 | 15 |
+| 2632 | [Noname0](https://osu.ppy.sh/u/280147) | 2746.45 | 9 |
+| 2633 | [SakiZ](https://osu.ppy.sh/u/4347191) | 2745.82 | 13 |
+| 2634 | [lolwuts](https://osu.ppy.sh/u/6138966) | 2743.43 | 20 |
+| 2635 | [TcnKZLy](https://osu.ppy.sh/u/6965936) | 2742.56 | 12 |
+| 2636 | [Tabris](https://osu.ppy.sh/u/2477387) | 2741.74 | 12 |
+| 2637 | [Unknown](https://osu.ppy.sh/u/1390623) | 2741.35 | 12 |
+| 2638 | [Doddaz](https://osu.ppy.sh/u/4900042) | 2741.06 | 14 |
+| 2639 | [Junjou](https://osu.ppy.sh/u/7077648) | 2740.11 | 12 |
+| 2640 | [All21](https://osu.ppy.sh/u/1175321) | 2739.20 | 17 |
+| 2641 | [vectus69](https://osu.ppy.sh/u/6913278) | 2738.87 | 15 |
+| 2642 | [YellowPomelo](https://osu.ppy.sh/u/4006307) | 2738.50 | 16 |
+| 2643 | [Crundelic](https://osu.ppy.sh/u/3970969) | 2736.99 | 15 |
+| 2644 | [powerstream89](https://osu.ppy.sh/u/2293274) | 2736.88 | 15 |
+| 2645 | [OrangeOctagon](https://osu.ppy.sh/u/4345032) | 2734.26 | 18 |
+| 2646 | [Twizth](https://osu.ppy.sh/u/2911160) | 2734.25 | 15 |
+| 2647 | [NekoMaid](https://osu.ppy.sh/u/5184728) | 2733.92 | 14 |
+| 2648 | [lespi6](https://osu.ppy.sh/u/4595465) | 2733.44 | 15 |
+| 2649 | [SoyAuro](https://osu.ppy.sh/u/5194834) | 2733.37 | 14 |
+| 2650 | [Yuio](https://osu.ppy.sh/u/4481829) | 2733.34 | 18 |
+| 2651 | [Optimism](https://osu.ppy.sh/u/2064831) | 2731.57 | 11 |
+| 2652 | [Roam](https://osu.ppy.sh/u/5077897) | 2731.48 | 16 |
+| 2653 | [Sururi](https://osu.ppy.sh/u/4585377) | 2723.57 | 15 |
+| 2654 | [rinkon](https://osu.ppy.sh/u/926614) | 2722.31 | 10 |
+| 2655 | [Maja](https://osu.ppy.sh/u/3613232) | 2722.23 | 17 |
+| 2656 | [My Angel Hibiki](https://osu.ppy.sh/u/7655358) | 2722.14 | 16 |
+| 2657 | [Malle](https://osu.ppy.sh/u/2825194) | 2721.77 | 14 |
+| 2658 | [AngeLMumei](https://osu.ppy.sh/u/6578420) | 2719.98 | 15 |
+| 2659 | [gr0t](https://osu.ppy.sh/u/2268873) | 2717.55 | 15 |
+| 2660 | [Bloomy](https://osu.ppy.sh/u/4607286) | 2717.11 | 15 |
+| 2661 | [Silver_Cr0w](https://osu.ppy.sh/u/6754712) | 2715.18 | 12 |
+| 2662 | [Zabijaka](https://osu.ppy.sh/u/3526708) | 2714.49 | 9 |
+| 2663 | [DOM](https://osu.ppy.sh/u/1667603) | 2712.22 | 14 |
+| 2664 | [[Neko-Chan]](https://osu.ppy.sh/u/8647044) | 2712.01 | 14 |
+| 2665 | [XaXaTySH](https://osu.ppy.sh/u/6068055) | 2711.72 | 16 |
+| 2666 | [Yokaze](https://osu.ppy.sh/u/3290759) | 2711.11 | 14 |
+| 2667 | [Ei onnistunu](https://osu.ppy.sh/u/6459001) | 2710.92 | 16 |
+| 2668 | [Taeze](https://osu.ppy.sh/u/8229584) | 2709.49 | 15 |
+| 2669 | [Manakura](https://osu.ppy.sh/u/2414602) | 2707.26 | 10 |
+| 2670 | [CodeFur](https://osu.ppy.sh/u/3722567) | 2706.46 | 14 |
+| 2671 | [Shauna](https://osu.ppy.sh/u/5847873) | 2705.14 | 14 |
+| 2672 | [Muffins13](https://osu.ppy.sh/u/2717555) | 2702.66 | 13 |
+| 2673 | [Sotarks](https://osu.ppy.sh/u/4452992) | 2700.27 | 17 |
+| 2674 | [Feyyy](https://osu.ppy.sh/u/2523703) | 2699.67 | 13 |
+| 2675 | [Angelis](https://osu.ppy.sh/u/3962085) | 2699.18 | 16 |
+| 2676 | [BeDuck](https://osu.ppy.sh/u/1345911) | 2699.04 | 13 |
+| 2677 | [Sleeptalk](https://osu.ppy.sh/u/5128971) | 2698.55 | 15 |
+| 2678 | [- Shiro -](https://osu.ppy.sh/u/1946575) | 2698.55 | 17 |
+| 2679 | [Lkxemmeji](https://osu.ppy.sh/u/7947034) | 2698.19 | 14 |
+| 2680 | [Markus_264](https://osu.ppy.sh/u/8414284) | 2697.11 | 15 |
+| 2681 | [jub](https://osu.ppy.sh/u/5538837) | 2696.58 | 14 |
+| 2682 | [Cursetyl](https://osu.ppy.sh/u/6045788) | 2696.54 | 15 |
+| 2683 | [Infil7](https://osu.ppy.sh/u/2607123) | 2696.52 | 11 |
+| 2684 | [Vakeros](https://osu.ppy.sh/u/5224889) | 2695.43 | 14 |
+| 2685 | [Syoru](https://osu.ppy.sh/u/3508414) | 2690.37 | 13 |
+| 2686 | [Tironas](https://osu.ppy.sh/u/3505278) | 2690.36 | 19 |
+| 2687 | [Xerephiral](https://osu.ppy.sh/u/5240690) | 2690.16 | 16 |
+| 2688 | [BlazeITA](https://osu.ppy.sh/u/3340376) | 2689.91 | 18 |
+| 2689 | [What2Ty](https://osu.ppy.sh/u/5834607) | 2689.33 | 17 |
+| 2690 | [Selfish Zwartje](https://osu.ppy.sh/u/5285945) | 2689.00 | 15 |
+| 2691 | [Eyonu](https://osu.ppy.sh/u/7808254) | 2688.66 | 16 |
+| 2692 | [Black Hill](https://osu.ppy.sh/u/5321316) | 2688.50 | 17 |
+| 2693 | [Sanapri](https://osu.ppy.sh/u/4180105) | 2688.31 | 13 |
+| 2694 | [[Misakura]](https://osu.ppy.sh/u/8516410) | 2686.63 | 16 |
+| 2695 | [Ignite](https://osu.ppy.sh/u/3122948) | 2686.60 | 9 |
+| 2696 | [Rizzo](https://osu.ppy.sh/u/717873) | 2686.26 | 14 |
+| 2697 | [_tottoko_](https://osu.ppy.sh/u/8354698) | 2684.78 | 16 |
+| 2698 | [13chlenix37](https://osu.ppy.sh/u/8074774) | 2682.82 | 13 |
+| 2699 | [divinehate](https://osu.ppy.sh/u/3262174) | 2682.63 | 15 |
+| 2700 | [Dailycare](https://osu.ppy.sh/u/1634445) | 2682.58 | 13 |
+| 2701 | [Darthray](https://osu.ppy.sh/u/4383807) | 2681.34 | 12 |
+| 2702 | [skillerownz1](https://osu.ppy.sh/u/6056002) | 2680.74 | 16 |
+| 2703 | [dqi](https://osu.ppy.sh/u/3899112) | 2679.83 | 13 |
+| 2704 | [juanpitox87](https://osu.ppy.sh/u/4994103) | 2679.25 | 14 |
+| 2705 | [[-Crissaegrim-]](https://osu.ppy.sh/u/5405836) | 2676.49 | 13 |
+| 2706 | [Pavciok](https://osu.ppy.sh/u/6046187) | 2675.44 | 14 |
+| 2707 | [Lochts](https://osu.ppy.sh/u/708859) | 2674.16 | 16 |
+| 2708 | [pascato01](https://osu.ppy.sh/u/3059493) | 2673.63 | 14 |
+| 2709 | [Xuteris](https://osu.ppy.sh/u/4720139) | 2673.39 | 12 |
+| 2710 | [GoeTaN](https://osu.ppy.sh/u/7370930) | 2671.54 | 14 |
+| 2711 | [Leaf](https://osu.ppy.sh/u/1380419) | 2670.47 | 8 |
+| 2712 | [OcklePod](https://osu.ppy.sh/u/7094393) | 2669.45 | 16 |
+| 2713 | [Ancaqt](https://osu.ppy.sh/u/2309741) | 2669.07 | 14 |
+| 2714 | [-Tofik-](https://osu.ppy.sh/u/4124033) | 2668.25 | 12 |
+| 2715 | [JanteSmith](https://osu.ppy.sh/u/371772) | 2667.06 | 18 |
+| 2716 | [Dracu876](https://osu.ppy.sh/u/3441041) | 2666.33 | 16 |
+| 2717 | [Suzutsuki-](https://osu.ppy.sh/u/1026028) | 2666.21 | 11 |
+| 2718 | [Broccoly](https://osu.ppy.sh/u/1629059) | 2662.38 | 9 |
+| 2719 | [Kizan](https://osu.ppy.sh/u/3074197) | 2660.64 | 11 |
+| 2720 | [Nailuo](https://osu.ppy.sh/u/923012) | 2660.54 | 16 |
+| 2721 | [Settone](https://osu.ppy.sh/u/534818) | 2659.80 | 11 |
+| 2722 | [Huang Melin](https://osu.ppy.sh/u/643390) | 2659.36 | 10 |
+| 2723 | [Yoruka](https://osu.ppy.sh/u/3150540) | 2658.71 | 14 |
+| 2724 | [Skitzor](https://osu.ppy.sh/u/3353314) | 2658.69 | 13 |
+| 2725 | [-HM](https://osu.ppy.sh/u/2735631) | 2657.15 | 13 |
+| 2726 | [5hiki](https://osu.ppy.sh/u/5549697) | 2656.17 | 12 |
+| 2727 | [Yuukr](https://osu.ppy.sh/u/7862452) | 2650.96 | 16 |
+| 2728 | [WalyNrk](https://osu.ppy.sh/u/8065626) | 2649.63 | 13 |
+| 2729 | [Leepka](https://osu.ppy.sh/u/5019445) | 2648.09 | 15 |
+| 2730 | [imagaK](https://osu.ppy.sh/u/2022445) | 2644.92 | 8 |
+| 2731 | [[ Nyx ]](https://osu.ppy.sh/u/3813559) | 2644.28 | 14 |
+| 2732 | [Zero-](https://osu.ppy.sh/u/4396295) | 2643.73 | 16 |
+| 2733 | [BluOxy](https://osu.ppy.sh/u/580925) | 2643.53 | 14 |
+| 2734 | [C0C0C0](https://osu.ppy.sh/u/5102961) | 2642.51 | 16 |
+| 2735 | [Musieq](https://osu.ppy.sh/u/3307040) | 2639.94 | 12 |
+| 2736 | [MhliA](https://osu.ppy.sh/u/5680365) | 2639.23 | 17 |
+| 2737 | [lezlei](https://osu.ppy.sh/u/7880779) | 2638.25 | 15 |
+| 2738 | [Pring](https://osu.ppy.sh/u/3478883) | 2635.41 | 8 |
+| 2739 | [Heart Attack](https://osu.ppy.sh/u/3778982) | 2634.97 | 15 |
+| 2740 | [Mayzel](https://osu.ppy.sh/u/696435) | 2633.88 | 9 |
+| 2741 | [ipod](https://osu.ppy.sh/u/7726147) | 2630.88 | 16 |
+| 2742 | [Startrick](https://osu.ppy.sh/u/2782104) | 2627.97 | 11 |
+| 2743 | [bckps7336](https://osu.ppy.sh/u/3978602) | 2627.89 | 15 |
+| 2744 | [bossan](https://osu.ppy.sh/u/972949) | 2627.51 | 11 |
+| 2745 | [Anya Maki](https://osu.ppy.sh/u/7111118) | 2626.60 | 11 |
+| 2746 | [Ancelia](https://osu.ppy.sh/u/4408391) | 2620.74 | 13 |
+| 2747 | [follon](https://osu.ppy.sh/u/3973474) | 2620.14 | 9 |
+| 2748 | [Shibi](https://osu.ppy.sh/u/6543496) | 2614.19 | 12 |
+| 2749 | [qaws55](https://osu.ppy.sh/u/3015526) | 2613.82 | 15 |
+| 2750 | [bob80905](https://osu.ppy.sh/u/6648899) | 2613.41 | 15 |
+| 2751 | [egemenbsrms](https://osu.ppy.sh/u/4520477) | 2611.98 | 9 |
+| 2752 | [Darksider35](https://osu.ppy.sh/u/4546021) | 2610.61 | 14 |
+| 2753 | [Taito](https://osu.ppy.sh/u/1278397) | 2609.93 | 11 |
+| 2754 | [FANTAstic](https://osu.ppy.sh/u/4546036) | 2609.90 | 11 |
+| 2755 | [[ Rigel ]](https://osu.ppy.sh/u/3201620) | 2607.92 | 16 |
+| 2756 | [i7Minions](https://osu.ppy.sh/u/6291789) | 2607.21 | 16 |
+| 2757 | [RaZn](https://osu.ppy.sh/u/7299557) | 2606.16 | 13 |
+| 2758 | [stablest](https://osu.ppy.sh/u/2796903) | 2604.15 | 12 |
+| 2759 | [Paramecia](https://osu.ppy.sh/u/1487966) | 2603.63 | 18 |
+| 2760 | [Sichtfeld](https://osu.ppy.sh/u/6533011) | 2603.43 | 15 |
+| 2761 | [Krapy](https://osu.ppy.sh/u/4665780) | 2602.33 | 13 |
+| 2762 | [Arieruco](https://osu.ppy.sh/u/1811271) | 2599.82 | 11 |
+| 2763 | [Willump](https://osu.ppy.sh/u/2480755) | 2599.23 | 17 |
+| 2764 | [Kinoro](https://osu.ppy.sh/u/7217249) | 2598.48 | 11 |
+| 2765 | [Segai-G](https://osu.ppy.sh/u/2232392) | 2595.85 | 19 |
+| 2766 | [Snowye](https://osu.ppy.sh/u/4086381) | 2592.84 | 11 |
+| 2767 | [firebat92](https://osu.ppy.sh/u/1777162) | 2591.03 | 5 |
+| 2768 | [ffs](https://osu.ppy.sh/u/8353166) | 2589.72 | 14 |
+| 2769 | [Agozz](https://osu.ppy.sh/u/3052776) | 2589.13 | 11 |
+| 2770 | [Toraschrein](https://osu.ppy.sh/u/4236997) | 2587.32 | 13 |
+| 2771 | [HICCA](https://osu.ppy.sh/u/2627688) | 2586.97 | 14 |
+| 2772 | [- Y u K a R i -](https://osu.ppy.sh/u/4548637) | 2586.87 | 16 |
+| 2773 | [Simfy](https://osu.ppy.sh/u/3762767) | 2584.30 | 14 |
+| 2774 | [na2tu](https://osu.ppy.sh/u/5066908) | 2584.18 | 10 |
+| 2775 | [encryptedsalad](https://osu.ppy.sh/u/3688602) | 2583.52 | 15 |
+| 2776 | [-Thunder-](https://osu.ppy.sh/u/4349443) | 2582.86 | 15 |
+| 2777 | [[ Rianyang ]](https://osu.ppy.sh/u/3769249) | 2581.80 | 10 |
+| 2778 | [mellowboyyy](https://osu.ppy.sh/u/1934176) | 2581.72 | 13 |
+| 2779 | [Siege](https://osu.ppy.sh/u/4402173) | 2581.14 | 17 |
+| 2780 | [Mekuru](https://osu.ppy.sh/u/2279477) | 2580.80 | 10 |
+| 2781 | [JappyBabes](https://osu.ppy.sh/u/697783) | 2579.95 | 9 |
+| 2782 | [Astar](https://osu.ppy.sh/u/27055) | 2579.70 | 7 |
+| 2783 | [-HinKO-](https://osu.ppy.sh/u/1776750) | 2579.67 | 14 |
+| 2784 | [Distant years](https://osu.ppy.sh/u/1515238) | 2579.63 | 9 |
+| 2785 | [RankoNim](https://osu.ppy.sh/u/2629756) | 2578.29 | 12 |
+| 2786 | [Jinpe](https://osu.ppy.sh/u/7455508) | 2578.01 | 13 |
+| 2787 | [mado_ka](https://osu.ppy.sh/u/7997783) | 2577.91 | 14 |
+| 2788 | [7205488](https://osu.ppy.sh/u/2400953) | 2576.18 | 16 |
+| 2789 | [-Miyashiro-](https://osu.ppy.sh/u/7198334) | 2576.06 | 15 |
+| 2790 | [- Jelly -](https://osu.ppy.sh/u/2555102) | 2575.61 | 14 |
+| 2791 | [Hakurae](https://osu.ppy.sh/u/6284304) | 2575.35 | 11 |
+| 2792 | [Palace](https://osu.ppy.sh/u/6893333) | 2575.26 | 11 |
+| 2793 | [Voided](https://osu.ppy.sh/u/3401205) | 2573.12 | 14 |
+| 2794 | [HLOZSi](https://osu.ppy.sh/u/4827452) | 2572.96 | 11 |
+| 2795 | [NickIB](https://osu.ppy.sh/u/2123482) | 2571.82 | 14 |
+| 2796 | [KurosawaRuby-](https://osu.ppy.sh/u/6766670) | 2571.59 | 13 |
+| 2797 | [-Lolisim-](https://osu.ppy.sh/u/5142960) | 2570.69 | 10 |
+| 2798 | [ninja9004](https://osu.ppy.sh/u/5458663) | 2567.55 | 16 |
+| 2799 | [meltz](https://osu.ppy.sh/u/6741042) | 2566.58 | 10 |
+| 2800 | [Cl9](https://osu.ppy.sh/u/4915987) | 2562.84 | 12 |
+| 2801 | [Leissss](https://osu.ppy.sh/u/4750716) | 2561.87 | 11 |
+| 2802 | [Puszmen](https://osu.ppy.sh/u/3586995) | 2561.54 | 14 |
+| 2803 | [Koshiur](https://osu.ppy.sh/u/3627225) | 2561.46 | 16 |
+| 2804 | [Brunolt101](https://osu.ppy.sh/u/4304535) | 2561.40 | 11 |
+| 2805 | [Abo](https://osu.ppy.sh/u/3362370) | 2560.79 | 15 |
+| 2806 | [Ice-v-](https://osu.ppy.sh/u/6480112) | 2558.36 | 12 |
+| 2807 | [MangoMike](https://osu.ppy.sh/u/6784399) | 2558.26 | 14 |
+| 2808 | [umii](https://osu.ppy.sh/u/2538695) | 2558.08 | 10 |
+| 2809 | [-Moha](https://osu.ppy.sh/u/6854392) | 2557.74 | 13 |
+| 2810 | [Kappakeepo](https://osu.ppy.sh/u/3481070) | 2556.80 | 15 |
+| 2811 | [Savvas](https://osu.ppy.sh/u/2246831) | 2556.26 | 16 |
+| 2812 | [Sknight](https://osu.ppy.sh/u/1465386) | 2554.46 | 12 |
+| 2813 | [111](https://osu.ppy.sh/u/5326197) | 2552.62 | 13 |
+| 2814 | [RWDavid](https://osu.ppy.sh/u/5443287) | 2551.04 | 11 |
+| 2815 | [Seamooo](https://osu.ppy.sh/u/6403191) | 2548.80 | 14 |
+| 2816 | [Weyland](https://osu.ppy.sh/u/1794083) | 2548.15 | 14 |
+| 2817 | [RastaGecko](https://osu.ppy.sh/u/7170414) | 2547.03 | 16 |
+| 2818 | [Aqourt -](https://osu.ppy.sh/u/2451688) | 2546.52 | 18 |
+| 2819 | [Kanon](https://osu.ppy.sh/u/109249) | 2545.04 | 13 |
+| 2820 | [KosegawaShiromi](https://osu.ppy.sh/u/4118677) | 2544.22 | 14 |
+| 2821 | [momotayan](https://osu.ppy.sh/u/1448729) | 2540.76 | 9 |
+| 2822 | [Okiraishi](https://osu.ppy.sh/u/5560055) | 2540.47 | 16 |
+| 2823 | [mx10000](https://osu.ppy.sh/u/3730848) | 2540.37 | 13 |
+| 2824 | [SASA2981](https://osu.ppy.sh/u/612766) | 2539.54 | 13 |
+| 2825 | [SJS](https://osu.ppy.sh/u/6476359) | 2538.52 | 15 |
+| 2826 | [Bat777](https://osu.ppy.sh/u/2699198) | 2533.22 | 11 |
+| 2827 | [vladste](https://osu.ppy.sh/u/6422382) | 2532.68 | 13 |
+| 2828 | [Constalletion](https://osu.ppy.sh/u/4641728) | 2532.29 | 11 |
+| 2829 | [Cinderella Time](https://osu.ppy.sh/u/2808004) | 2531.23 | 13 |
+| 2830 | [cavoeboy](https://osu.ppy.sh/u/7361815) | 2530.75 | 11 |
+| 2831 | [SlimcY](https://osu.ppy.sh/u/7160657) | 2530.32 | 12 |
+| 2832 | [SeGin](https://osu.ppy.sh/u/2449894) | 2530.30 | 11 |
+| 2833 | [Gerald](https://osu.ppy.sh/u/5216849) | 2530.22 | 13 |
+| 2834 | [apolosenpai](https://osu.ppy.sh/u/7075733) | 2529.77 | 13 |
+| 2835 | [Nenko](https://osu.ppy.sh/u/2368367) | 2528.66 | 9 |
+| 2836 | [- Eucliwood -](https://osu.ppy.sh/u/1587427) | 2528.65 | 9 |
+| 2837 | [Martlet](https://osu.ppy.sh/u/6950777) | 2528.43 | 12 |
+| 2838 | [57doki](https://osu.ppy.sh/u/5839901) | 2528.28 | 12 |
+| 2839 | [usmc](https://osu.ppy.sh/u/4555814) | 2528.06 | 11 |
+| 2840 | [DGmG](https://osu.ppy.sh/u/3460534) | 2527.32 | 11 |
+| 2841 | [iHeartSnuSnu](https://osu.ppy.sh/u/4863687) | 2527.07 | 12 |
+| 2842 | [Abrown516](https://osu.ppy.sh/u/3345466) | 2524.81 | 13 |
+| 2843 | [Kakit](https://osu.ppy.sh/u/102951) | 2524.23 | 15 |
+| 2844 | [Climate](https://osu.ppy.sh/u/1735867) | 2523.96 | 9 |
+| 2845 | [yans601](https://osu.ppy.sh/u/2268262) | 2522.67 | 15 |
+| 2846 | [Lolivery](https://osu.ppy.sh/u/5406099) | 2519.80 | 12 |
+| 2847 | [Lorn](https://osu.ppy.sh/u/4445335) | 2519.36 | 14 |
+| 2848 | [UltraCyberstar](https://osu.ppy.sh/u/2268509) | 2519.31 | 17 |
+| 2849 | [wuwedver](https://osu.ppy.sh/u/5250173) | 2519.29 | 10 |
+| 2850 | [- Sunny4](https://osu.ppy.sh/u/4833337) | 2516.97 | 16 |
+| 2851 | [Ninjaman20](https://osu.ppy.sh/u/6032897) | 2516.40 | 16 |
+| 2852 | [Yulivee](https://osu.ppy.sh/u/341447) | 2516.24 | 14 |
+| 2853 | [Alternater](https://osu.ppy.sh/u/4980256) | 2515.98 | 15 |
+| 2854 | [L A P I S](https://osu.ppy.sh/u/1663328) | 2515.31 | 11 |
+| 2855 | [Empyreal](https://osu.ppy.sh/u/6544807) | 2514.57 | 13 |
+| 2856 | [[Micro-Quazar]](https://osu.ppy.sh/u/3946347) | 2513.26 | 17 |
+| 2857 | [mzy123](https://osu.ppy.sh/u/4451906) | 2512.85 | 13 |
+| 2858 | [roar](https://osu.ppy.sh/u/3103367) | 2511.75 | 13 |
+| 2859 | [gauf1337](https://osu.ppy.sh/u/7032191) | 2511.58 | 12 |
+| 2860 | [Hydrobubble](https://osu.ppy.sh/u/4598888) | 2511.04 | 16 |
+| 2861 | [-Sakuya Izayoi](https://osu.ppy.sh/u/4277691) | 2509.42 | 13 |
+| 2862 | [Accurian](https://osu.ppy.sh/u/4438652) | 2508.27 | 14 |
+| 2863 | [Elscar](https://osu.ppy.sh/u/2253511) | 2506.26 | 9 |
+| 2864 | [Asymmetry Echo](https://osu.ppy.sh/u/4290324) | 2506.16 | 12 |
+| 2865 | [Sawagi](https://osu.ppy.sh/u/8768283) | 2504.85 | 15 |
+| 2866 | [Raiin](https://osu.ppy.sh/u/4117912) | 2504.28 | 12 |
+| 2867 | [omnu](https://osu.ppy.sh/u/4547370) | 2503.82 | 13 |
+| 2868 | [- Kaizen -](https://osu.ppy.sh/u/3955590) | 2503.01 | 12 |
+| 2869 | [Erick](https://osu.ppy.sh/u/6235225) | 2502.45 | 10 |
+| 2870 | [-Vexity-](https://osu.ppy.sh/u/7417838) | 2502.31 | 15 |
+| 2871 | [deredere-](https://osu.ppy.sh/u/3941988) | 2500.57 | 12 |
+| 2872 | [Blanco](https://osu.ppy.sh/u/4106400) | 2498.42 | 10 |
+| 2873 | [Nhan](https://osu.ppy.sh/u/1240981) | 2498.39 | 10 |
+| 2874 | [soap](https://osu.ppy.sh/u/3786813) | 2498.18 | 13 |
+| 2875 | [BAKKALO](https://osu.ppy.sh/u/7948627) | 2497.88 | 11 |
+| 2876 | [S I C L A](https://osu.ppy.sh/u/5718797) | 2494.23 | 8 |
+| 2877 | [Madou Zakura](https://osu.ppy.sh/u/2708009) | 2494.07 | 12 |
+| 2878 | [_s3raph](https://osu.ppy.sh/u/5252968) | 2493.38 | 11 |
+| 2879 | [Specksan](https://osu.ppy.sh/u/6189944) | 2491.83 | 11 |
+| 2880 | [Emillia-](https://osu.ppy.sh/u/5372203) | 2491.54 | 16 |
+| 2881 | [yorsk](https://osu.ppy.sh/u/766468) | 2490.91 | 12 |
+| 2882 | [Wildfire](https://osu.ppy.sh/u/5104352) | 2487.24 | 12 |
+| 2883 | [bep](https://osu.ppy.sh/u/2922393) | 2486.45 | 13 |
+| 2884 | [Chro_ma](https://osu.ppy.sh/u/6305833) | 2486.13 | 14 |
+| 2885 | [- Luna -](https://osu.ppy.sh/u/6707214) | 2485.57 | 12 |
+| 2886 | [Flower Way](https://osu.ppy.sh/u/5144843) | 2485.23 | 12 |
+| 2887 | [ActiveX](https://osu.ppy.sh/u/1554635) | 2485.11 | 14 |
+| 2888 | [-jei-](https://osu.ppy.sh/u/2971822) | 2479.84 | 13 |
+| 2889 | [Oscar-Sama](https://osu.ppy.sh/u/7683668) | 2478.91 | 16 |
+| 2890 | [Resia](https://osu.ppy.sh/u/843086) | 2476.13 | 8 |
+| 2891 | [Informous](https://osu.ppy.sh/u/4734244) | 2476.09 | 8 |
+| 2892 | [My Angel Hifumi](https://osu.ppy.sh/u/6951812) | 2475.10 | 15 |
+| 2893 | [ruyo](https://osu.ppy.sh/u/3712966) | 2474.86 | 11 |
+| 2894 | [lazOre](https://osu.ppy.sh/u/5084502) | 2474.39 | 13 |
+| 2895 | [jurl](https://osu.ppy.sh/u/3892967) | 2474.38 | 12 |
+| 2896 | [Fraye](https://osu.ppy.sh/u/5352971) | 2474.30 | 13 |
+| 2897 | [Snookie](https://osu.ppy.sh/u/1484934) | 2472.46 | 14 |
+| 2898 | [Dag](https://osu.ppy.sh/u/4045400) | 2472.36 | 11 |
+| 2899 | [ThermiteZ](https://osu.ppy.sh/u/6609974) | 2472.29 | 12 |
+| 2900 | [Calamidad](https://osu.ppy.sh/u/4406107) | 2471.88 | 11 |
+| 2901 | [Wolpis Kater](https://osu.ppy.sh/u/2534607) | 2470.43 | 12 |
+| 2902 | [richardf](https://osu.ppy.sh/u/7997616) | 2470.34 | 14 |
+| 2903 | [Febreeze](https://osu.ppy.sh/u/5665183) | 2468.67 | 11 |
+| 2904 | [Sweetie Belle](https://osu.ppy.sh/u/2291870) | 2466.21 | 14 |
+| 2905 | [Eifi](https://osu.ppy.sh/u/7026613) | 2465.07 | 14 |
+| 2906 | [xna](https://osu.ppy.sh/u/3363743) | 2464.62 | 12 |
+| 2907 | [GuessWho](https://osu.ppy.sh/u/5272823) | 2463.64 | 9 |
+| 2908 | [GaryRock123](https://osu.ppy.sh/u/519474) | 2463.35 | 15 |
+| 2909 | [BlackDisplay](https://osu.ppy.sh/u/2114348) | 2460.82 | 12 |
+| 2910 | [blindmodz](https://osu.ppy.sh/u/4122111) | 2460.11 | 12 |
+| 2911 | [Banweol](https://osu.ppy.sh/u/1484227) | 2455.57 | 14 |
+| 2912 | [ExCellRaD](https://osu.ppy.sh/u/2189591) | 2455.32 | 13 |
+| 2913 | [Chadi](https://osu.ppy.sh/u/4651050) | 2454.95 | 16 |
+| 2914 | [ShaNai-](https://osu.ppy.sh/u/5992667) | 2454.25 | 15 |
+| 2915 | [Autist](https://osu.ppy.sh/u/3332465) | 2453.11 | 16 |
+| 2916 | [avalanche](https://osu.ppy.sh/u/5910601) | 2452.84 | 9 |
+| 2917 | [Chadford1324](https://osu.ppy.sh/u/3965038) | 2452.76 | 15 |
+| 2918 | [Demonsim](https://osu.ppy.sh/u/5396411) | 2450.08 | 12 |
+| 2919 | [Olari](https://osu.ppy.sh/u/6314315) | 2450.02 | 13 |
+| 2920 | [Rino Kyrielite](https://osu.ppy.sh/u/5009263) | 2449.07 | 12 |
+| 2921 | [Simonosis](https://osu.ppy.sh/u/6512490) | 2447.47 | 14 |
+| 2922 | [Vaxei](https://osu.ppy.sh/u/4787150) | 2447.03 | 5 |
+| 2923 | [Arakune](https://osu.ppy.sh/u/3689111) | 2445.72 | 9 |
+| 2924 | [Spicy Salsa](https://osu.ppy.sh/u/3582320) | 2444.42 | 12 |
+| 2925 | [EiW](https://osu.ppy.sh/u/4898467) | 2442.27 | 12 |
+| 2926 | [icera](https://osu.ppy.sh/u/2607681) | 2442.03 | 12 |
+| 2927 | [My Angel Kaoura](https://osu.ppy.sh/u/456788) | 2441.92 | 9 |
+| 2928 | [Axarious](https://osu.ppy.sh/u/2614511) | 2440.96 | 7 |
+| 2929 | [PotatoIceCream](https://osu.ppy.sh/u/8053576) | 2439.55 | 11 |
+| 2930 | [anchobi](https://osu.ppy.sh/u/592034) | 2439.17 | 11 |
+| 2931 | [natdog37](https://osu.ppy.sh/u/2340026) | 2436.46 | 13 |
+| 2932 | [Gimows](https://osu.ppy.sh/u/3462910) | 2435.74 | 14 |
+| 2933 | [Eta Carinae](https://osu.ppy.sh/u/5841333) | 2434.82 | 11 |
+| 2934 | [Chtioploute](https://osu.ppy.sh/u/4381959) | 2433.05 | 11 |
+| 2935 | [Yuiteru](https://osu.ppy.sh/u/2197474) | 2432.35 | 9 |
+| 2936 | [Rayhan Hakim](https://osu.ppy.sh/u/4085825) | 2430.81 | 10 |
+| 2937 | [Liselsia](https://osu.ppy.sh/u/2641141) | 2429.58 | 10 |
+| 2938 | [odk9000](https://osu.ppy.sh/u/4648479) | 2428.36 | 14 |
+| 2939 | [GaCiel](https://osu.ppy.sh/u/5440803) | 2427.37 | 11 |
+| 2940 | [LeVixon](https://osu.ppy.sh/u/5729233) | 2426.17 | 14 |
+| 2941 | [iammyself123](https://osu.ppy.sh/u/8076038) | 2425.99 | 15 |
+| 2942 | [_2B_](https://osu.ppy.sh/u/4799031) | 2423.33 | 13 |
+| 2943 | [Lema](https://osu.ppy.sh/u/5622751) | 2420.83 | 13 |
+| 2944 | [mokoro](https://osu.ppy.sh/u/1367313) | 2419.05 | 11 |
+| 2945 | [1337Future](https://osu.ppy.sh/u/8148304) | 2417.97 | 17 |
+| 2946 | [Doclife-](https://osu.ppy.sh/u/6265645) | 2417.87 | 13 |
+| 2947 | [Luuuuna](https://osu.ppy.sh/u/2615759) | 2417.55 | 14 |
+| 2948 | [Nosh](https://osu.ppy.sh/u/4027794) | 2414.84 | 13 |
+| 2949 | [Opti](https://osu.ppy.sh/u/4833859) | 2414.19 | 14 |
+| 2950 | [dracrosinos](https://osu.ppy.sh/u/2470818) | 2413.34 | 12 |
+| 2951 | [NeGaTiVeMinD](https://osu.ppy.sh/u/965038) | 2412.92 | 12 |
+| 2952 | [suki desu](https://osu.ppy.sh/u/3451077) | 2412.80 | 15 |
+| 2953 | [Doomsday](https://osu.ppy.sh/u/18983) | 2412.60 | 7 |
+| 2954 | [Darmyster](https://osu.ppy.sh/u/4739165) | 2412.27 | 15 |
+| 2955 | [Gazer](https://osu.ppy.sh/u/179881) | 2412.27 | 9 |
+| 2956 | [apple17](https://osu.ppy.sh/u/6893006) | 2410.49 | 15 |
+| 2957 | [Yazawa Nico](https://osu.ppy.sh/u/8799156) | 2410.30 | 14 |
+| 2958 | [jean11killer](https://osu.ppy.sh/u/5238661) | 2410.12 | 14 |
+| 2959 | [-Hydra-](https://osu.ppy.sh/u/7841283) | 2408.02 | 12 |
+| 2960 | [imsleepy](https://osu.ppy.sh/u/2714196) | 2406.54 | 11 |
+| 2961 | [Restia](https://osu.ppy.sh/u/647766) | 2406.27 | 13 |
+| 2962 | [vZoro](https://osu.ppy.sh/u/4881176) | 2406.09 | 14 |
+| 2963 | [NEXabc](https://osu.ppy.sh/u/2868260) | 2405.55 | 12 |
+| 2964 | [Chitogod](https://osu.ppy.sh/u/6076529) | 2404.70 | 8 |
+| 2965 | [Arnica](https://osu.ppy.sh/u/1337292) | 2400.80 | 13 |
+| 2966 | [KiroKusA](https://osu.ppy.sh/u/4355621) | 2400.64 | 12 |
+| 2967 | [Hopran](https://osu.ppy.sh/u/1732810) | 2400.23 | 13 |
+| 2968 | [Sublime](https://osu.ppy.sh/u/5190362) | 2398.22 | 14 |
+| 2969 | [My Angelsim](https://osu.ppy.sh/u/3149577) | 2398.00 | 8 |
+| 2970 | [Logic Agent](https://osu.ppy.sh/u/6341262) | 2394.68 | 13 |
+| 2971 | [noplz](https://osu.ppy.sh/u/3166476) | 2394.37 | 14 |
+| 2972 | [K_N](https://osu.ppy.sh/u/3158922) | 2393.01 | 10 |
+| 2973 | [Link135](https://osu.ppy.sh/u/3433893) | 2390.66 | 8 |
+| 2974 | [Master](https://osu.ppy.sh/u/3973608) | 2390.65 | 8 |
+| 2975 | [rafalsky](https://osu.ppy.sh/u/5106555) | 2389.84 | 14 |
+| 2976 | [-Kupo-](https://osu.ppy.sh/u/4343103) | 2389.07 | 9 |
+| 2977 | [Zexylian](https://osu.ppy.sh/u/8932920) | 2387.04 | 9 |
+| 2978 | [Rhyktangle](https://osu.ppy.sh/u/7402052) | 2386.03 | 10 |
+| 2979 | [Qwikk](https://osu.ppy.sh/u/7772380) | 2385.31 | 14 |
+| 2980 | [Gebhuza](https://osu.ppy.sh/u/3213806) | 2385.10 | 13 |
+| 2981 | [Freezd](https://osu.ppy.sh/u/6524603) | 2384.75 | 8 |
+| 2982 | [Shaww](https://osu.ppy.sh/u/2704809) | 2383.87 | 10 |
+| 2983 | [doctorindark](https://osu.ppy.sh/u/609227) | 2382.91 | 12 |
+| 2984 | [hemelo](https://osu.ppy.sh/u/7134495) | 2381.97 | 14 |
+| 2985 | [nep](https://osu.ppy.sh/u/3023072) | 2381.96 | 14 |
+| 2986 | [Hyotic](https://osu.ppy.sh/u/6386041) | 2381.60 | 14 |
+| 2987 | [Satonaka](https://osu.ppy.sh/u/767009) | 2377.93 | 15 |
+| 2988 | [Osu Gem](https://osu.ppy.sh/u/3513557) | 2377.59 | 16 |
+| 2989 | [ebiltun](https://osu.ppy.sh/u/6761901) | 2375.06 | 14 |
+| 2990 | [Xera](https://osu.ppy.sh/u/4868278) | 2374.90 | 11 |
+| 2991 | [Lucas TW](https://osu.ppy.sh/u/3050252) | 2373.78 | 10 |
+| 2992 | [Kawaii Koneko](https://osu.ppy.sh/u/3922251) | 2373.66 | 11 |
+| 2993 | [-JoKer](https://osu.ppy.sh/u/3647931) | 2372.97 | 13 |
+| 2994 | [Sharpgold](https://osu.ppy.sh/u/2493539) | 2372.38 | 13 |
+| 2995 | [Kurogami](https://osu.ppy.sh/u/4435332) | 2370.05 | 8 |
+| 2996 | [Allas](https://osu.ppy.sh/u/763872) | 2368.74 | 14 |
+| 2997 | [F Scarlet](https://osu.ppy.sh/u/6752520) | 2368.30 | 13 |
+| 2998 | [ShaneLiang](https://osu.ppy.sh/u/6716499) | 2366.85 | 11 |
+| 2999 | [xTreal](https://osu.ppy.sh/u/8754044) | 2366.82 | 14 |
+| 3000 | [peng](https://osu.ppy.sh/u/6043452) | 2365.87 | 11 |
+| 3001 | [Jamu](https://osu.ppy.sh/u/8139865) | 2365.51 | 14 |
+| 3002 | [lly](https://osu.ppy.sh/u/235224) | 2365.43 | 12 |
+| 3003 | [Snow still](https://osu.ppy.sh/u/2709233) | 2365.09 | 11 |
+| 3004 | [EX-tremaLs](https://osu.ppy.sh/u/6581579) | 2364.77 | 14 |
+| 3005 | [Arastelia](https://osu.ppy.sh/u/7945027) | 2363.92 | 11 |
+| 3006 | [- HideKi -](https://osu.ppy.sh/u/2892702) | 2363.91 | 14 |
+| 3007 | [LogicSystem](https://osu.ppy.sh/u/7622097) | 2363.72 | 10 |
+| 3008 | [trenzh](https://osu.ppy.sh/u/4819534) | 2362.48 | 13 |
+| 3009 | [pupidi](https://osu.ppy.sh/u/4080543) | 2361.49 | 11 |
+| 3010 | [HulbeH](https://osu.ppy.sh/u/3866848) | 2361.41 | 10 |
+| 3011 | [kieve](https://osu.ppy.sh/u/3755095) | 2360.96 | 14 |
+| 3012 | [Lolparty](https://osu.ppy.sh/u/3820315) | 2359.29 | 11 |
+| 3013 | [IZesch](https://osu.ppy.sh/u/6451401) | 2358.37 | 13 |
+| 3014 | [hmax](https://osu.ppy.sh/u/6507533) | 2358.36 | 12 |
+| 3015 | [KoaLeahq](https://osu.ppy.sh/u/4321876) | 2355.15 | 9 |
+| 3016 | [Sanik](https://osu.ppy.sh/u/1610207) | 2354.73 | 11 |
+| 3017 | [Rashomon](https://osu.ppy.sh/u/5120169) | 2353.92 | 13 |
+| 3018 | [FA Q](https://osu.ppy.sh/u/2938404) | 2352.95 | 12 |
+| 3019 | [cvc](https://osu.ppy.sh/u/3065625) | 2352.47 | 9 |
+| 3020 | [xenoframium](https://osu.ppy.sh/u/4502584) | 2352.33 | 10 |
+| 3021 | [w i k i-](https://osu.ppy.sh/u/3826037) | 2351.43 | 12 |
+| 3022 | [- Mito -](https://osu.ppy.sh/u/4395111) | 2350.06 | 15 |
+| 3023 | [- Ryuujou -](https://osu.ppy.sh/u/4737169) | 2349.41 | 10 |
+| 3024 | [-Romantic-](https://osu.ppy.sh/u/4142361) | 2349.36 | 13 |
+| 3025 | [Sinch](https://osu.ppy.sh/u/360552) | 2349.20 | 8 |
+| 3026 | [iFroelz](https://osu.ppy.sh/u/6498951) | 2349.05 | 11 |
+| 3027 | [AcidiC](https://osu.ppy.sh/u/4985148) | 2345.74 | 12 |
+| 3028 | [Dikovsky](https://osu.ppy.sh/u/6621582) | 2343.72 | 13 |
+| 3029 | [Nano List](https://osu.ppy.sh/u/3820567) | 2342.10 | 9 |
+| 3030 | [Weber](https://osu.ppy.sh/u/6410432) | 2340.36 | 9 |
+| 3031 | [painlol228](https://osu.ppy.sh/u/5229283) | 2337.64 | 11 |
+| 3032 | [ShiroKuuhaku27](https://osu.ppy.sh/u/7290539) | 2336.99 | 12 |
+| 3033 | [[Raye]](https://osu.ppy.sh/u/4507211) | 2336.83 | 9 |
+| 3034 | [Adrien](https://osu.ppy.sh/u/8500409) | 2336.66 | 16 |
+| 3035 | [how2miss](https://osu.ppy.sh/u/4477199) | 2336.01 | 12 |
+| 3036 | [osu player84](https://osu.ppy.sh/u/2562987) | 2334.38 | 6 |
+| 3037 | [Seynn](https://osu.ppy.sh/u/5720813) | 2333.58 | 12 |
+| 3038 | [Olzi](https://osu.ppy.sh/u/5915383) | 2333.45 | 12 |
+| 3039 | [Nikjee](https://osu.ppy.sh/u/7077347) | 2333.34 | 11 |
+| 3040 | [BreadedFish](https://osu.ppy.sh/u/5485349) | 2332.55 | 12 |
+| 3041 | [Solo](https://osu.ppy.sh/u/4285255) | 2331.85 | 12 |
+| 3042 | [Vexisu](https://osu.ppy.sh/u/5170627) | 2330.81 | 11 |
+| 3043 | [Hey lululu](https://osu.ppy.sh/u/4086497) | 2323.90 | 11 |
+| 3044 | [Pure Hybrid](https://osu.ppy.sh/u/5836443) | 2323.32 | 12 |
+| 3045 | [Tmkk](https://osu.ppy.sh/u/2304675) | 2321.89 | 15 |
+| 3046 | [Megami Aqua](https://osu.ppy.sh/u/3682852) | 2321.54 | 8 |
+| 3047 | [MelodyP](https://osu.ppy.sh/u/4607215) | 2319.56 | 12 |
+| 3048 | [Curze](https://osu.ppy.sh/u/3586791) | 2319.07 | 12 |
+| 3049 | [Vectors](https://osu.ppy.sh/u/6550420) | 2318.86 | 13 |
+| 3050 | [Asahina Momoko](https://osu.ppy.sh/u/3650145) | 2318.77 | 11 |
+| 3051 | [Kii-san](https://osu.ppy.sh/u/6705782) | 2318.29 | 14 |
+| 3052 | [woodzy](https://osu.ppy.sh/u/7361767) | 2317.83 | 12 |
+| 3053 | [shmily1019](https://osu.ppy.sh/u/1468903) | 2316.36 | 12 |
+| 3054 | [cchihying](https://osu.ppy.sh/u/4718675) | 2316.29 | 12 |
+| 3055 | [Stift](https://osu.ppy.sh/u/2696338) | 2316.17 | 12 |
+| 3056 | [CrazyAz0Te](https://osu.ppy.sh/u/6170067) | 2315.89 | 13 |
+| 3057 | [ShadowOfTheOrc](https://osu.ppy.sh/u/6467478) | 2314.71 | 11 |
+| 3058 | [Bloo-Sun](https://osu.ppy.sh/u/6778877) | 2313.60 | 9 |
+| 3059 | [Raydric](https://osu.ppy.sh/u/648462) | 2313.22 | 9 |
+| 3060 | [Y o u Y o u](https://osu.ppy.sh/u/3863328) | 2311.67 | 9 |
+| 3061 | [[Kergio]](https://osu.ppy.sh/u/5404081) | 2311.15 | 12 |
+| 3062 | [ClystaL-](https://osu.ppy.sh/u/4467080) | 2306.10 | 9 |
+| 3063 | [RafisJrr](https://osu.ppy.sh/u/6412073) | 2305.41 | 9 |
+| 3064 | [Gyuunyu](https://osu.ppy.sh/u/799102) | 2303.26 | 10 |
+| 3065 | [Desumond](https://osu.ppy.sh/u/7399262) | 2302.85 | 9 |
+| 3066 | [explosionboom](https://osu.ppy.sh/u/4681410) | 2302.56 | 9 |
+| 3067 | [-R i z e-](https://osu.ppy.sh/u/3002585) | 2302.51 | 10 |
+| 3068 | [young_hikka](https://osu.ppy.sh/u/8701087) | 2302.07 | 14 |
+| 3069 | [dermit](https://osu.ppy.sh/u/4425586) | 2301.79 | 10 |
+| 3070 | [ZFM](https://osu.ppy.sh/u/6175077) | 2301.72 | 11 |
+| 3071 | [Epsile](https://osu.ppy.sh/u/4045954) | 2301.65 | 11 |
+| 3072 | [Sun1180](https://osu.ppy.sh/u/618230) | 2301.46 | 17 |
+| 3073 | [Malvin](https://osu.ppy.sh/u/8260206) | 2301.34 | 10 |
+| 3074 | [Tenshinawi](https://osu.ppy.sh/u/5010029) | 2300.97 | 12 |
+| 3075 | [TheGingerOne](https://osu.ppy.sh/u/6718940) | 2299.10 | 13 |
+| 3076 | [Evil MrMuffinz](https://osu.ppy.sh/u/7649361) | 2299.08 | 16 |
+| 3077 | [Polo Master](https://osu.ppy.sh/u/3739240) | 2297.08 | 12 |
+| 3078 | [Lucas Zubs](https://osu.ppy.sh/u/4253615) | 2296.45 | 10 |
+| 3079 | [MrShepard](https://osu.ppy.sh/u/5453801) | 2296.39 | 12 |
+| 3080 | [quattro cani](https://osu.ppy.sh/u/2154153) | 2294.73 | 9 |
+| 3081 | [Fastenz](https://osu.ppy.sh/u/3549711) | 2293.85 | 10 |
+| 3082 | [Juanvfx](https://osu.ppy.sh/u/7119715) | 2292.55 | 11 |
+| 3083 | [Spinesnight](https://osu.ppy.sh/u/4519494) | 2292.52 | 11 |
+| 3084 | [[ Raito ]](https://osu.ppy.sh/u/2635960) | 2291.34 | 10 |
+| 3085 | [Tadzinator](https://osu.ppy.sh/u/7104431) | 2291.20 | 13 |
+| 3086 | [JustBob](https://osu.ppy.sh/u/6574048) | 2291.06 | 11 |
+| 3087 | [Sewrong](https://osu.ppy.sh/u/6241330) | 2289.24 | 11 |
+| 3088 | [Turquoise-](https://osu.ppy.sh/u/7524046) | 2288.51 | 13 |
+| 3089 | [DarK-AnGeL](https://osu.ppy.sh/u/2044501) | 2288.01 | 11 |
+| 3090 | [Sophy](https://osu.ppy.sh/u/7403100) | 2285.13 | 9 |
+| 3091 | [PoNo](https://osu.ppy.sh/u/4610047) | 2285.07 | 13 |
+| 3092 | [Valandril](https://osu.ppy.sh/u/4053816) | 2282.42 | 13 |
+| 3093 | [Valsora](https://osu.ppy.sh/u/7596181) | 2282.26 | 10 |
+| 3094 | [BlackSheep](https://osu.ppy.sh/u/3918377) | 2281.34 | 11 |
+| 3095 | [KliaQ](https://osu.ppy.sh/u/7554089) | 2281.06 | 13 |
+| 3096 | [jitsumin](https://osu.ppy.sh/u/2621843) | 2280.63 | 10 |
+| 3097 | [Furry](https://osu.ppy.sh/u/2563563) | 2280.27 | 11 |
+| 3098 | [Tzemetal](https://osu.ppy.sh/u/6088976) | 2278.33 | 12 |
+| 3099 | [Syrin](https://osu.ppy.sh/u/5701575) | 2277.01 | 12 |
+| 3100 | [pshsb1004](https://osu.ppy.sh/u/5349850) | 2275.88 | 11 |
+| 3101 | [Meticulous](https://osu.ppy.sh/u/6426561) | 2275.39 | 9 |
+| 3102 | [salkin](https://osu.ppy.sh/u/6499356) | 2274.51 | 10 |
+| 3103 | [Wadas](https://osu.ppy.sh/u/3201658) | 2274.49 | 10 |
+| 3104 | [awesomegamer](https://osu.ppy.sh/u/3216815) | 2274.09 | 12 |
+| 3105 | [SiLviA](https://osu.ppy.sh/u/409747) | 2273.80 | 11 |
+| 3106 | [Otsukimi](https://osu.ppy.sh/u/3124308) | 2271.79 | 12 |
+| 3107 | [Neba_Glubina](https://osu.ppy.sh/u/6896350) | 2271.48 | 11 |
+| 3108 | [Flevius](https://osu.ppy.sh/u/4191188) | 2269.81 | 11 |
+| 3109 | [TrickMirror](https://osu.ppy.sh/u/2138739) | 2269.65 | 9 |
+| 3110 | [Krilex](https://osu.ppy.sh/u/4072191) | 2268.41 | 12 |
+| 3111 | [Fastz](https://osu.ppy.sh/u/3896369) | 2268.24 | 12 |
+| 3112 | [[ Erina ]](https://osu.ppy.sh/u/1040250) | 2266.52 | 10 |
+| 3113 | [AuctionedZeus10](https://osu.ppy.sh/u/7463468) | 2265.95 | 12 |
+| 3114 | [RemoteControler](https://osu.ppy.sh/u/4297180) | 2263.41 | 11 |
+| 3115 | [Speedy0407](https://osu.ppy.sh/u/7871210) | 2263.00 | 13 |
+| 3116 | [Giru-](https://osu.ppy.sh/u/1026461) | 2261.38 | 12 |
+| 3117 | [Nawakaski](https://osu.ppy.sh/u/3939250) | 2259.65 | 10 |
+| 3118 | [Future Son](https://osu.ppy.sh/u/4139027) | 2259.02 | 11 |
+| 3119 | [Frozen](https://osu.ppy.sh/u/4784540) | 2258.85 | 11 |
+| 3120 | [Xearo](https://osu.ppy.sh/u/4644931) | 2258.46 | 12 |
+| 3121 | [Benpoi](https://osu.ppy.sh/u/4361380) | 2256.94 | 12 |
+| 3122 | [mellerr](https://osu.ppy.sh/u/2610315) | 2256.07 | 13 |
+| 3123 | [Ruchika](https://osu.ppy.sh/u/2657537) | 2255.77 | 8 |
+| 3124 | [T o y](https://osu.ppy.sh/u/989056) | 2255.23 | 11 |
+| 3125 | [PorousRock](https://osu.ppy.sh/u/7717045) | 2255.15 | 12 |
+| 3126 | [Glentenma](https://osu.ppy.sh/u/3032846) | 2254.16 | 10 |
+| 3127 | [Xer_91](https://osu.ppy.sh/u/4219165) | 2254.14 | 10 |
+| 3128 | [CptAncient](https://osu.ppy.sh/u/6426912) | 2252.99 | 9 |
+| 3129 | [zin](https://osu.ppy.sh/u/7447249) | 2252.96 | 9 |
+| 3130 | [kcar8899](https://osu.ppy.sh/u/1081136) | 2252.55 | 12 |
+| 3131 | [Gruzzli](https://osu.ppy.sh/u/4285230) | 2251.82 | 15 |
+| 3132 | [Nashiro-](https://osu.ppy.sh/u/5840679) | 2251.79 | 9 |
+| 3133 | [Taeyang](https://osu.ppy.sh/u/2732340) | 2251.23 | 11 |
+| 3134 | [[Danny-senpai]](https://osu.ppy.sh/u/4263153) | 2251.00 | 11 |
+| 3135 | [Leria_V](https://osu.ppy.sh/u/7033580) | 2249.38 | 9 |
+| 3136 | [Crouly](https://osu.ppy.sh/u/4587375) | 2249.32 | 12 |
+| 3137 | [Milo](https://osu.ppy.sh/u/2216084) | 2248.84 | 12 |
+| 3138 | [Rikolino-kun](https://osu.ppy.sh/u/4909212) | 2247.16 | 14 |
+| 3139 | [desireofpainx](https://osu.ppy.sh/u/3660794) | 2246.70 | 11 |
+| 3140 | [OmarZero](https://osu.ppy.sh/u/5327197) | 2245.72 | 13 |
+| 3141 | [Callum](https://osu.ppy.sh/u/2476935) | 2243.81 | 10 |
+| 3142 | [Lolsniper](https://osu.ppy.sh/u/3761983) | 2243.12 | 12 |
+| 3143 | [Proteus](https://osu.ppy.sh/u/4073572) | 2240.06 | 8 |
+| 3144 | [Dris](https://osu.ppy.sh/u/3680558) | 2237.18 | 13 |
+| 3145 | [kasuga-ayumu](https://osu.ppy.sh/u/1358586) | 2237.10 | 11 |
+| 3146 | [CRISTOPHER](https://osu.ppy.sh/u/1782977) | 2236.78 | 10 |
+| 3147 | [Noxern](https://osu.ppy.sh/u/3084212) | 2236.47 | 13 |
+| 3148 | [Dhaox](https://osu.ppy.sh/u/1778120) | 2231.50 | 12 |
+| 3149 | [MasterQing](https://osu.ppy.sh/u/5022085) | 2228.92 | 14 |
+| 3150 | [Whatisdiss](https://osu.ppy.sh/u/5178590) | 2228.42 | 14 |
+| 3151 | [_Ariel_](https://osu.ppy.sh/u/4518163) | 2228.28 | 11 |
+| 3152 | [silverL](https://osu.ppy.sh/u/1087496) | 2228.13 | 11 |
+| 3153 | [Mafham](https://osu.ppy.sh/u/3660531) | 2227.96 | 8 |
+| 3154 | [waste of oxygen](https://osu.ppy.sh/u/8364754) | 2227.78 | 11 |
+| 3155 | [Sullus](https://osu.ppy.sh/u/3278919) | 2227.55 | 12 |
+| 3156 | [Kasanariau](https://osu.ppy.sh/u/4317363) | 2227.08 | 11 |
+| 3157 | [dawerte](https://osu.ppy.sh/u/6810671) | 2224.60 | 11 |
+| 3158 | [trilex](https://osu.ppy.sh/u/6036692) | 2222.85 | 13 |
+| 3159 | [Aia](https://osu.ppy.sh/u/3492472) | 2221.01 | 9 |
+| 3160 | [Yamaraja](https://osu.ppy.sh/u/5144730) | 2217.07 | 11 |
+| 3161 | [F1N4LY](https://osu.ppy.sh/u/6822747) | 2216.76 | 10 |
+| 3162 | [iaeqb](https://osu.ppy.sh/u/4682923) | 2214.98 | 10 |
+| 3163 | [Etsukazu](https://osu.ppy.sh/u/6073846) | 2214.86 | 10 |
+| 3164 | [Lea](https://osu.ppy.sh/u/4685335) | 2214.52 | 9 |
+| 3165 | [Vantos](https://osu.ppy.sh/u/4545563) | 2214.19 | 9 |
+| 3166 | [reyler](https://osu.ppy.sh/u/3059562) | 2213.44 | 13 |
+| 3167 | [[ Lukita ]](https://osu.ppy.sh/u/4138568) | 2213.12 | 12 |
+| 3168 | [Gladeryn](https://osu.ppy.sh/u/2791958) | 2209.58 | 13 |
+| 3169 | [jesneit](https://osu.ppy.sh/u/2511839) | 2209.25 | 10 |
+| 3170 | [gif](https://osu.ppy.sh/u/8565697) | 2209.11 | 12 |
+| 3171 | [YubiGori](https://osu.ppy.sh/u/3431746) | 2209.03 | 10 |
+| 3172 | [inchanpiyu](https://osu.ppy.sh/u/927490) | 2207.69 | 9 |
+| 3173 | [Potatsu](https://osu.ppy.sh/u/3555989) | 2207.37 | 11 |
+| 3174 | [Chitogechi](https://osu.ppy.sh/u/7707618) | 2207.36 | 11 |
+| 3175 | [opium addict](https://osu.ppy.sh/u/6126718) | 2207.05 | 11 |
+| 3176 | [Sugoi-_-Desu](https://osu.ppy.sh/u/3306777) | 2206.49 | 11 |
+| 3177 | [Komiuke](https://osu.ppy.sh/u/2901257) | 2204.89 | 10 |
+| 3178 | [Krakence](https://osu.ppy.sh/u/7794488) | 2203.35 | 10 |
+| 3179 | [Sarviace](https://osu.ppy.sh/u/7080420) | 2203.13 | 12 |
+| 3180 | [Stepajke](https://osu.ppy.sh/u/6929728) | 2201.79 | 11 |
+| 3181 | [weakerr](https://osu.ppy.sh/u/2771211) | 2201.46 | 10 |
+| 3182 | [[ Wara ]](https://osu.ppy.sh/u/7649672) | 2198.78 | 9 |
+| 3183 | [Tokari](https://osu.ppy.sh/u/9497752) | 2197.45 | 10 |
+| 3184 | [Freddie](https://osu.ppy.sh/u/6850329) | 2197.30 | 10 |
+| 3185 | [bucket man](https://osu.ppy.sh/u/4992055) | 2195.32 | 12 |
+| 3186 | [Moreon](https://osu.ppy.sh/u/5286078) | 2194.84 | 10 |
+| 3187 | [Carupin](https://osu.ppy.sh/u/4595723) | 2193.67 | 12 |
+| 3188 | [Shieq](https://osu.ppy.sh/u/1562705) | 2193.49 | 15 |
+| 3189 | [Ephryorus](https://osu.ppy.sh/u/6768056) | 2192.74 | 13 |
+| 3190 | [Dank Uta](https://osu.ppy.sh/u/6566362) | 2192.18 | 12 |
+| 3191 | [Mugs](https://osu.ppy.sh/u/3775516) | 2191.26 | 12 |
+| 3192 | [ImNuclear](https://osu.ppy.sh/u/6675998) | 2191.02 | 10 |
+| 3193 | [Sungmo](https://osu.ppy.sh/u/1193823) | 2189.25 | 10 |
+| 3194 | [Michi](https://osu.ppy.sh/u/932342) | 2188.69 | 10 |
+| 3195 | [Clueless Man](https://osu.ppy.sh/u/6924125) | 2187.93 | 10 |
+| 3196 | [Brandon-](https://osu.ppy.sh/u/5737841) | 2187.70 | 8 |
+| 3197 | [Krogxone](https://osu.ppy.sh/u/6848094) | 2186.08 | 12 |
+| 3198 | [Tosino Kyoko](https://osu.ppy.sh/u/4224060) | 2185.80 | 7 |
+| 3199 | [Shinoa](https://osu.ppy.sh/u/5077157) | 2185.33 | 9 |
+| 3200 | [- Ruby](https://osu.ppy.sh/u/4416639) | 2183.71 | 13 |
+| 3201 | [Cawfee](https://osu.ppy.sh/u/4935477) | 2183.02 | 12 |
+| 3202 | [LiNia](https://osu.ppy.sh/u/4464252) | 2181.25 | 12 |
+| 3203 | [iCurse557](https://osu.ppy.sh/u/6553338) | 2180.34 | 8 |
+| 3204 | [[ Taco ]](https://osu.ppy.sh/u/6078862) | 2179.37 | 12 |
+| 3205 | [wackobako](https://osu.ppy.sh/u/3649156) | 2179.24 | 10 |
+| 3206 | [Ecchi](https://osu.ppy.sh/u/5421595) | 2178.40 | 12 |
+| 3207 | [Greyy](https://osu.ppy.sh/u/4348066) | 2177.58 | 11 |
+| 3208 | [Hexii](https://osu.ppy.sh/u/1066242) | 2177.31 | 10 |
+| 3209 | [anEgrahm](https://osu.ppy.sh/u/2086524) | 2177.19 | 11 |
+| 3210 | [Raidex](https://osu.ppy.sh/u/2244606) | 2176.76 | 10 |
+| 3211 | [Tokida_san](https://osu.ppy.sh/u/4504079) | 2176.64 | 10 |
+| 3212 | [SenpaiDeoxys](https://osu.ppy.sh/u/7094471) | 2175.87 | 10 |
+| 3213 | [JFRN](https://osu.ppy.sh/u/877082) | 2174.39 | 12 |
+| 3214 | [-Rookie-](https://osu.ppy.sh/u/3292377) | 2174.33 | 13 |
+| 3215 | [rynbowl](https://osu.ppy.sh/u/2253930) | 2170.27 | 10 |
+| 3216 | [Nokamu](https://osu.ppy.sh/u/7416569) | 2169.99 | 12 |
+| 3217 | [K-Rebu](https://osu.ppy.sh/u/3798482) | 2169.50 | 9 |
+| 3218 | [SNWJ](https://osu.ppy.sh/u/7266178) | 2169.21 | 13 |
+| 3219 | [[-Sekai]](https://osu.ppy.sh/u/4025255) | 2168.76 | 10 |
+| 3220 | [Pretonom](https://osu.ppy.sh/u/2210201) | 2168.42 | 10 |
+| 3221 | [Astana](https://osu.ppy.sh/u/4170037) | 2167.54 | 6 |
+| 3222 | [C l o p e n](https://osu.ppy.sh/u/1864698) | 2166.06 | 9 |
+| 3223 | [Alumetri](https://osu.ppy.sh/u/5371497) | 2163.98 | 7 |
+| 3224 | [Muzha ComboKing](https://osu.ppy.sh/u/981591) | 2162.61 | 10 |
+| 3225 | [YesTak](https://osu.ppy.sh/u/7311057) | 2161.44 | 9 |
+| 3226 | [Hestai](https://osu.ppy.sh/u/4622337) | 2160.70 | 12 |
+| 3227 | [YaVOR](https://osu.ppy.sh/u/3235892) | 2159.94 | 9 |
+| 3228 | [G3k0771](https://osu.ppy.sh/u/4632259) | 2159.09 | 10 |
+| 3229 | [_Eternity](https://osu.ppy.sh/u/4884065) | 2158.12 | 10 |
+| 3230 | [Finshie](https://osu.ppy.sh/u/2018960) | 2157.76 | 12 |
+| 3231 | [Remzy](https://osu.ppy.sh/u/3157538) | 2156.82 | 12 |
+| 3232 | [P e g a s u s](https://osu.ppy.sh/u/5049619) | 2155.80 | 12 |
+| 3233 | [Bawpalo](https://osu.ppy.sh/u/3113135) | 2155.77 | 10 |
+| 3234 | [supertyp](https://osu.ppy.sh/u/3207832) | 2153.88 | 12 |
+| 3235 | [Kirinya](https://osu.ppy.sh/u/1375606) | 2153.21 | 8 |
+| 3236 | [ktgster](https://osu.ppy.sh/u/53378) | 2151.26 | 10 |
+| 3237 | [ScrYpt](https://osu.ppy.sh/u/2432784) | 2150.31 | 11 |
+| 3238 | [HibikiDesu](https://osu.ppy.sh/u/4179367) | 2146.78 | 12 |
+| 3239 | [Zhiend](https://osu.ppy.sh/u/7474404) | 2146.44 | 12 |
+| 3240 | [sesh](https://osu.ppy.sh/u/4321503) | 2146.42 | 14 |
+| 3241 | [Wodahshian](https://osu.ppy.sh/u/2304449) | 2146.03 | 11 |
+| 3242 | [Desew](https://osu.ppy.sh/u/6393126) | 2144.70 | 8 |
+| 3243 | [Cuneyt Arkin](https://osu.ppy.sh/u/4864962) | 2144.01 | 12 |
+| 3244 | [SIMONETRAPANI](https://osu.ppy.sh/u/7329177) | 2140.22 | 8 |
+| 3245 | [Silleth](https://osu.ppy.sh/u/408088) | 2139.95 | 8 |
+| 3246 | [11g](https://osu.ppy.sh/u/6138847) | 2138.09 | 10 |
+| 3247 | [AppLocale](https://osu.ppy.sh/u/282375) | 2137.54 | 12 |
+| 3248 | [Redd -](https://osu.ppy.sh/u/3931582) | 2135.77 | 12 |
+| 3249 | [Onbeat](https://osu.ppy.sh/u/870855) | 2135.16 | 12 |
+| 3250 | [doKXiD](https://osu.ppy.sh/u/1096299) | 2134.57 | 12 |
+| 3251 | [-Kazuki-](https://osu.ppy.sh/u/3614356) | 2131.82 | 7 |
+| 3252 | [Anxther](https://osu.ppy.sh/u/5281942) | 2131.46 | 12 |
+| 3253 | [SanteriP](https://osu.ppy.sh/u/1981187) | 2130.79 | 8 |
+| 3254 | [Flying V](https://osu.ppy.sh/u/1448556) | 2129.60 | 10 |
+| 3255 | [BiG_ChilD](https://osu.ppy.sh/u/596196) | 2129.56 | 12 |
+| 3256 | [[ xKito ]](https://osu.ppy.sh/u/3937463) | 2128.94 | 12 |
+| 3257 | [Kefan](https://osu.ppy.sh/u/4809916) | 2128.22 | 11 |
+| 3258 | [SuperK](https://osu.ppy.sh/u/5901841) | 2127.71 | 11 |
+| 3259 | [NucleaRaven](https://osu.ppy.sh/u/6216919) | 2127.52 | 10 |
+| 3260 | [Kahoria](https://osu.ppy.sh/u/2473397) | 2127.34 | 9 |
+| 3261 | [ElopingSeal](https://osu.ppy.sh/u/7291486) | 2125.88 | 11 |
+| 3262 | [TKyoko](https://osu.ppy.sh/u/5511491) | 2125.56 | 9 |
+| 3263 | [Lyne](https://osu.ppy.sh/u/4557083) | 2122.50 | 7 |
+| 3264 | [HappyIv4n-Desu](https://osu.ppy.sh/u/7069209) | 2121.69 | 12 |
+| 3265 | [Qcks](https://osu.ppy.sh/u/2379893) | 2120.79 | 10 |
+| 3266 | [[- Nishi -]](https://osu.ppy.sh/u/3992582) | 2120.55 | 8 |
+| 3267 | [Xalen](https://osu.ppy.sh/u/4479549) | 2120.47 | 11 |
+| 3268 | [Arcley](https://osu.ppy.sh/u/1916349) | 2119.25 | 11 |
+| 3269 | [Rezo-](https://osu.ppy.sh/u/2409524) | 2119.08 | 10 |
+| 3270 | [[- Karen -]](https://osu.ppy.sh/u/6652874) | 2118.88 | 9 |
+| 3271 | [sefp](https://osu.ppy.sh/u/3194118) | 2115.82 | 9 |
+| 3272 | [Tona](https://osu.ppy.sh/u/2678812) | 2114.72 | 7 |
+| 3273 | [Dark and Hard](https://osu.ppy.sh/u/1208727) | 2114.43 | 10 |
+| 3274 | [ioioj](https://osu.ppy.sh/u/9387009) | 2114.36 | 15 |
+| 3275 | [KaiMin](https://osu.ppy.sh/u/6400030) | 2114.24 | 12 |
+| 3276 | [dethindays](https://osu.ppy.sh/u/3857985) | 2113.55 | 12 |
+| 3277 | [Megatron](https://osu.ppy.sh/u/3639090) | 2113.08 | 12 |
+| 3278 | [Battlefront18](https://osu.ppy.sh/u/7981819) | 2112.37 | 11 |
+| 3279 | [TheGamingNinja](https://osu.ppy.sh/u/5066136) | 2111.99 | 9 |
+| 3280 | [ShAvi](https://osu.ppy.sh/u/572948) | 2111.78 | 10 |
+| 3281 | [HowToBeBored](https://osu.ppy.sh/u/7809532) | 2111.77 | 10 |
+| 3282 | [GeBo](https://osu.ppy.sh/u/2855747) | 2111.10 | 11 |
+| 3283 | [Kiiwa](https://osu.ppy.sh/u/231111) | 2110.47 | 13 |
+| 3284 | [FeriOP](https://osu.ppy.sh/u/2052847) | 2109.98 | 7 |
+| 3285 | [Poppahns](https://osu.ppy.sh/u/4269368) | 2104.49 | 11 |
+| 3286 | [Humbergas](https://osu.ppy.sh/u/3609276) | 2102.34 | 12 |
+| 3287 | [Pedofu](https://osu.ppy.sh/u/3934295) | 2100.40 | 11 |
+| 3288 | [Sey-](https://osu.ppy.sh/u/5191255) | 2099.84 | 11 |
+| 3289 | [DonnieBrasco](https://osu.ppy.sh/u/8026384) | 2098.59 | 12 |
+| 3290 | [yuzuki-](https://osu.ppy.sh/u/2601333) | 2097.79 | 12 |
+| 3291 | [MyAngelRemi](https://osu.ppy.sh/u/4295865) | 2097.76 | 12 |
+| 3292 | [Miidelz](https://osu.ppy.sh/u/3115903) | 2096.72 | 9 |
+| 3293 | [mookss1231](https://osu.ppy.sh/u/1483371) | 2096.30 | 9 |
+| 3294 | [likejaxirl](https://osu.ppy.sh/u/7093373) | 2096.27 | 9 |
+| 3295 | [Skystar](https://osu.ppy.sh/u/873961) | 2095.57 | 10 |
+| 3296 | [Butlergunner](https://osu.ppy.sh/u/6031237) | 2094.80 | 10 |
+| 3297 | [blyat](https://osu.ppy.sh/u/2691391) | 2093.04 | 12 |
+| 3298 | [Hydr0z](https://osu.ppy.sh/u/6452684) | 2092.71 | 10 |
+| 3299 | [Cousy](https://osu.ppy.sh/u/2760943) | 2091.32 | 10 |
+| 3300 | [tehbchoi](https://osu.ppy.sh/u/2237283) | 2091.13 | 11 |
+| 3301 | [Kettioh](https://osu.ppy.sh/u/3037647) | 2090.43 | 10 |
+| 3302 | [IV CrossFlame2](https://osu.ppy.sh/u/4031904) | 2090.06 | 12 |
+| 3303 | [OtakusRin](https://osu.ppy.sh/u/3383404) | 2090.01 | 10 |
+| 3304 | [Shott](https://osu.ppy.sh/u/965354) | 2089.98 | 8 |
+| 3305 | [oscar3403](https://osu.ppy.sh/u/5757765) | 2089.52 | 12 |
+| 3306 | [Scythe_Kun](https://osu.ppy.sh/u/5216145) | 2087.82 | 12 |
+| 3307 | [pudingkokoro](https://osu.ppy.sh/u/3822323) | 2087.46 | 7 |
+| 3308 | [RohulkXLyra](https://osu.ppy.sh/u/6044155) | 2086.96 | 11 |
+| 3309 | [Anopob](https://osu.ppy.sh/u/728332) | 2086.86 | 12 |
+| 3310 | [Pandas](https://osu.ppy.sh/u/3155125) | 2085.68 | 9 |
+| 3311 | [AnteeeK](https://osu.ppy.sh/u/3093047) | 2084.89 | 10 |
+| 3312 | [[ XiO ]](https://osu.ppy.sh/u/8458201) | 2084.77 | 11 |
+| 3313 | [ArLiuE](https://osu.ppy.sh/u/4315025) | 2084.76 | 8 |
+| 3314 | [Smurfee](https://osu.ppy.sh/u/5339196) | 2084.74 | 9 |
+| 3315 | [L a n c i r](https://osu.ppy.sh/u/3986423) | 2083.07 | 9 |
+| 3316 | [KasirPL](https://osu.ppy.sh/u/7233662) | 2082.77 | 10 |
+| 3317 | [Kakeru](https://osu.ppy.sh/u/5082269) | 2080.87 | 12 |
+| 3318 | [-Zel](https://osu.ppy.sh/u/7042978) | 2079.63 | 11 |
+| 3319 | [I322mydotagames](https://osu.ppy.sh/u/8765828) | 2079.62 | 10 |
+| 3320 | [xtend](https://osu.ppy.sh/u/1794903) | 2077.84 | 8 |
+| 3321 | [Captain Black](https://osu.ppy.sh/u/7776158) | 2077.22 | 9 |
+| 3322 | [Illustrious](https://osu.ppy.sh/u/8338750) | 2075.71 | 11 |
+| 3323 | [Sir Teapot](https://osu.ppy.sh/u/5482531) | 2074.01 | 13 |
+| 3324 | [Kano](https://osu.ppy.sh/u/3036203) | 2073.36 | 8 |
+| 3325 | [brayan](https://osu.ppy.sh/u/4973982) | 2070.69 | 12 |
+| 3326 | [- Sana -](https://osu.ppy.sh/u/4720880) | 2068.52 | 8 |
+| 3327 | [Spook](https://osu.ppy.sh/u/2232928) | 2068.39 | 6 |
+| 3328 | [Nimamu](https://osu.ppy.sh/u/9495934) | 2067.05 | 16 |
+| 3329 | [seris](https://osu.ppy.sh/u/1907689) | 2065.36 | 14 |
+| 3330 | [Kirito104](https://osu.ppy.sh/u/4454824) | 2062.97 | 10 |
+| 3331 | [Kopiko](https://osu.ppy.sh/u/7832754) | 2062.50 | 12 |
+| 3332 | [AdvancedDead](https://osu.ppy.sh/u/7305488) | 2062.45 | 9 |
+| 3333 | [Rhonin](https://osu.ppy.sh/u/7043843) | 2060.93 | 11 |
+| 3334 | [MeSuck](https://osu.ppy.sh/u/2803956) | 2059.64 | 9 |
+| 3335 | [LeMainManCarfan](https://osu.ppy.sh/u/4050895) | 2058.96 | 9 |
+| 3336 | [Raitoningu](https://osu.ppy.sh/u/3847162) | 2054.65 | 9 |
+| 3337 | [Atsuro](https://osu.ppy.sh/u/2279351) | 2053.38 | 8 |
+| 3338 | [Your Bae](https://osu.ppy.sh/u/4705559) | 2052.22 | 10 |
+| 3339 | [RyoidenshiSama](https://osu.ppy.sh/u/5320980) | 2051.42 | 8 |
+| 3340 | [FlyingTuna](https://osu.ppy.sh/u/9224078) | 2051.06 | 7 |
+| 3341 | [Maqnuz](https://osu.ppy.sh/u/2936044) | 2049.32 | 9 |
+| 3342 | [Upload](https://osu.ppy.sh/u/7146208) | 2047.34 | 10 |
+| 3343 | [RedFoxess](https://osu.ppy.sh/u/7791692) | 2046.11 | 11 |
+| 3344 | [Scisly](https://osu.ppy.sh/u/2116476) | 2045.13 | 12 |
+| 3345 | [Jason](https://osu.ppy.sh/u/7342098) | 2043.93 | 10 |
+| 3346 | [Raddy](https://osu.ppy.sh/u/2751736) | 2042.59 | 10 |
+| 3347 | [Gunnar](https://osu.ppy.sh/u/2169104) | 2041.48 | 12 |
+| 3348 | [Alenith](https://osu.ppy.sh/u/2300619) | 2040.20 | 11 |
+| 3349 | [X-Harn](https://osu.ppy.sh/u/3648989) | 2039.80 | 11 |
+| 3350 | [dcv](https://osu.ppy.sh/u/1511973) | 2039.75 | 9 |
+| 3351 | [BletasChee](https://osu.ppy.sh/u/5559643) | 2038.26 | 9 |
+| 3352 | [SBackflip](https://osu.ppy.sh/u/3273955) | 2037.07 | 10 |
+| 3353 | [Soly](https://osu.ppy.sh/u/910779) | 2035.15 | 8 |
+| 3354 | [D non](https://osu.ppy.sh/u/2036268) | 2033.55 | 8 |
+| 3355 | [izumimashiro](https://osu.ppy.sh/u/7597918) | 2032.22 | 12 |
+| 3356 | [gu0910](https://osu.ppy.sh/u/7915070) | 2031.89 | 9 |
+| 3357 | [PowerSeal](https://osu.ppy.sh/u/6731291) | 2031.85 | 10 |
+| 3358 | [Angeljim](https://osu.ppy.sh/u/2023404) | 2030.58 | 8 |
+| 3359 | [ExSpringWind](https://osu.ppy.sh/u/2805775) | 2030.07 | 9 |
+| 3360 | [[Sayori]](https://osu.ppy.sh/u/1251249) | 2028.93 | 10 |
+| 3361 | [Ma13vr](https://osu.ppy.sh/u/4791235) | 2028.00 | 11 |
+| 3362 | [Pain](https://osu.ppy.sh/u/1460263) | 2027.94 | 8 |
+| 3363 | [Danitos](https://osu.ppy.sh/u/7324921) | 2025.83 | 10 |
+| 3364 | [reiichii](https://osu.ppy.sh/u/4104311) | 2024.06 | 10 |
+| 3365 | [JohnnyWOT](https://osu.ppy.sh/u/4854186) | 2023.99 | 8 |
+| 3366 | [Potatorz](https://osu.ppy.sh/u/3681024) | 2023.71 | 8 |
+| 3367 | [yuzu](https://osu.ppy.sh/u/3511138) | 2023.58 | 8 |
+| 3368 | [Houkago Stride](https://osu.ppy.sh/u/5708643) | 2021.91 | 7 |
+| 3369 | [Sakuzyo](https://osu.ppy.sh/u/2509328) | 2020.53 | 11 |
+| 3370 | [LastTheory](https://osu.ppy.sh/u/7523273) | 2018.52 | 10 |
+| 3371 | [MrGero155](https://osu.ppy.sh/u/5068537) | 2016.10 | 9 |
+| 3372 | [Rocktune](https://osu.ppy.sh/u/3695749) | 2015.39 | 11 |
+| 3373 | [V4RCH](https://osu.ppy.sh/u/5799627) | 2014.56 | 8 |
+| 3374 | [BartekBBBBB](https://osu.ppy.sh/u/6404027) | 2013.80 | 8 |
+| 3375 | [Garpzz](https://osu.ppy.sh/u/4092961) | 2013.58 | 9 |
+| 3376 | [Aguus](https://osu.ppy.sh/u/6167837) | 2013.25 | 10 |
+| 3377 | [LiB](https://osu.ppy.sh/u/1810964) | 2011.39 | 11 |
+| 3378 | [Babypowder13](https://osu.ppy.sh/u/6240495) | 2011.08 | 9 |
+| 3379 | [T r i s t a n](https://osu.ppy.sh/u/6544217) | 2009.91 | 10 |
+| 3380 | [[Quarter]](https://osu.ppy.sh/u/3656344) | 2009.77 | 7 |
+| 3381 | [Yuuya_ke](https://osu.ppy.sh/u/6441720) | 2008.15 | 9 |
+| 3382 | [ninfia](https://osu.ppy.sh/u/4215672) | 2007.55 | 9 |
+| 3383 | [aerith1025](https://osu.ppy.sh/u/1293069) | 2007.44 | 11 |
+| 3384 | [Yahari](https://osu.ppy.sh/u/3118489) | 2007.34 | 10 |
+| 3385 | [Micro](https://osu.ppy.sh/u/4801080) | 2006.09 | 12 |
+| 3386 | [_windex](https://osu.ppy.sh/u/7107711) | 2005.93 | 12 |
+| 3387 | [AirProject](https://osu.ppy.sh/u/3350639) | 2005.30 | 11 |
+| 3388 | [RoundNight](https://osu.ppy.sh/u/4313991) | 2003.94 | 8 |
+| 3389 | [-DjNemas-](https://osu.ppy.sh/u/3908797) | 2002.77 | 10 |
+| 3390 | [xKirito](https://osu.ppy.sh/u/4018079) | 2002.71 | 10 |
+| 3391 | [AIoli Sauce](https://osu.ppy.sh/u/5282664) | 2002.54 | 10 |
+| 3392 | [Lasseh](https://osu.ppy.sh/u/4881251) | 2000.90 | 11 |
+| 3393 | [_tsubasa_](https://osu.ppy.sh/u/1365316) | 1999.95 | 8 |
+| 3394 | [N a n o](https://osu.ppy.sh/u/694114) | 1997.99 | 8 |
+| 3395 | [Gumi-Desu](https://osu.ppy.sh/u/2659456) | 1997.62 | 9 |
+| 3396 | [Tomoka Rin](https://osu.ppy.sh/u/125308) | 1996.99 | 8 |
+| 3397 | [Lunaevi](https://osu.ppy.sh/u/9079679) | 1995.81 | 10 |
+| 3398 | [Kijoszi](https://osu.ppy.sh/u/7458548) | 1995.80 | 9 |
+| 3399 | [KcHecKa](https://osu.ppy.sh/u/4584427) | 1995.03 | 12 |
+| 3400 | [Yakisoba_Pan](https://osu.ppy.sh/u/3345902) | 1993.63 | 6 |
+| 3401 | [VileFury](https://osu.ppy.sh/u/2745099) | 1991.60 | 9 |
+| 3402 | [Area](https://osu.ppy.sh/u/4100604) | 1989.01 | 6 |
+| 3403 | [NakagawaNatsuki](https://osu.ppy.sh/u/1421586) | 1988.16 | 10 |
+| 3404 | [mrzomb](https://osu.ppy.sh/u/1694887) | 1986.79 | 7 |
+| 3405 | [TsuRaRa](https://osu.ppy.sh/u/3614985) | 1986.33 | 10 |
+| 3406 | [ACG](https://osu.ppy.sh/u/7327547) | 1986.29 | 11 |
+| 3407 | [CatBagasm](https://osu.ppy.sh/u/6351962) | 1985.59 | 7 |
+| 3408 | [LoGo](https://osu.ppy.sh/u/750382) | 1983.83 | 8 |
+| 3409 | [moppi_osaru](https://osu.ppy.sh/u/2935195) | 1983.45 | 10 |
+| 3410 | [Cuckweezy](https://osu.ppy.sh/u/7154358) | 1982.87 | 9 |
+| 3411 | [Mits](https://osu.ppy.sh/u/6256255) | 1981.70 | 10 |
+| 3412 | [Symacon](https://osu.ppy.sh/u/5185236) | 1981.50 | 8 |
+| 3413 | [Icestorm359](https://osu.ppy.sh/u/4573765) | 1979.10 | 11 |
+| 3414 | [Shiny Gardevoir](https://osu.ppy.sh/u/4360718) | 1977.44 | 7 |
+| 3415 | [Elveti_slana](https://osu.ppy.sh/u/4338985) | 1976.92 | 11 |
+| 3416 | [byfar](https://osu.ppy.sh/u/4674054) | 1976.21 | 9 |
+| 3417 | [[ Katz ]](https://osu.ppy.sh/u/3446938) | 1975.35 | 10 |
+| 3418 | [Hermatis](https://osu.ppy.sh/u/451786) | 1974.89 | 7 |
+| 3419 | [SoDexCo](https://osu.ppy.sh/u/5249717) | 1973.90 | 9 |
+| 3420 | [WakaiYuki](https://osu.ppy.sh/u/7883418) | 1973.17 | 7 |
+| 3421 | [Trayle](https://osu.ppy.sh/u/4430642) | 1972.84 | 11 |
+| 3422 | [Hexicate](https://osu.ppy.sh/u/2171562) | 1972.53 | 7 |
+| 3423 | [Rewindosc](https://osu.ppy.sh/u/5495369) | 1971.92 | 8 |
+| 3424 | [[ Mocha ]](https://osu.ppy.sh/u/3812331) | 1970.66 | 11 |
+| 3425 | [[ Listen ]](https://osu.ppy.sh/u/1157415) | 1970.41 | 10 |
+| 3426 | [tomer149](https://osu.ppy.sh/u/2555859) | 1968.94 | 9 |
+| 3427 | [Rhythm_X](https://osu.ppy.sh/u/4137956) | 1967.81 | 11 |
+| 3428 | [BLIZARD123](https://osu.ppy.sh/u/4418262) | 1965.22 | 9 |
+| 3429 | [Rycloz](https://osu.ppy.sh/u/6404064) | 1963.53 | 10 |
+| 3430 | [Rorry](https://osu.ppy.sh/u/198574) | 1963.23 | 10 |
+| 3431 | [Sorega](https://osu.ppy.sh/u/2582632) | 1961.31 | 9 |
+| 3432 | [LirikKun](https://osu.ppy.sh/u/8517270) | 1958.89 | 12 |
+| 3433 | [Hiyorin](https://osu.ppy.sh/u/493961) | 1957.86 | 10 |
+| 3434 | [Mistrzux](https://osu.ppy.sh/u/4020973) | 1957.45 | 10 |
+| 3435 | [LightCute](https://osu.ppy.sh/u/4312196) | 1955.78 | 10 |
+| 3436 | [Someday](https://osu.ppy.sh/u/4730831) | 1955.56 | 10 |
+| 3437 | [darklord142](https://osu.ppy.sh/u/2714540) | 1955.49 | 10 |
+| 3438 | [Benton](https://osu.ppy.sh/u/791477) | 1954.05 | 8 |
+| 3439 | [MeanYellow](https://osu.ppy.sh/u/3215487) | 1953.95 | 11 |
+| 3440 | [Domal](https://osu.ppy.sh/u/6638200) | 1952.48 | 8 |
+| 3441 | [BlueCrystal004](https://osu.ppy.sh/u/4349974) | 1952.15 | 8 |
+| 3442 | [Zmatureeno](https://osu.ppy.sh/u/3895969) | 1951.93 | 6 |
+| 3443 | [Zakura](https://osu.ppy.sh/u/3053599) | 1951.14 | 7 |
+| 3444 | [Cotton](https://osu.ppy.sh/u/8544524) | 1950.24 | 11 |
+| 3445 | [birgers](https://osu.ppy.sh/u/3511247) | 1949.92 | 9 |
+| 3446 | [neko ds](https://osu.ppy.sh/u/4688735) | 1948.46 | 7 |
+| 3447 | [TVim](https://osu.ppy.sh/u/6660546) | 1948.39 | 9 |
+| 3448 | [Nicksomething](https://osu.ppy.sh/u/6904371) | 1946.90 | 10 |
+| 3449 | [ImAl3x](https://osu.ppy.sh/u/8576721) | 1946.67 | 9 |
+| 3450 | [Old K](https://osu.ppy.sh/u/2385405) | 1943.63 | 9 |
+| 3451 | [zetadezorro](https://osu.ppy.sh/u/9336886) | 1942.86 | 11 |
+| 3452 | [Bestaquiio](https://osu.ppy.sh/u/5189431) | 1941.40 | 10 |
+| 3453 | [Coyri](https://osu.ppy.sh/u/6353097) | 1940.78 | 7 |
+| 3454 | [Ichimaster](https://osu.ppy.sh/u/7844650) | 1940.57 | 12 |
+| 3455 | [Shanghai](https://osu.ppy.sh/u/7474718) | 1939.87 | 10 |
+| 3456 | [taru](https://osu.ppy.sh/u/4231047) | 1938.98 | 9 |
+| 3457 | [MishaVB](https://osu.ppy.sh/u/3137415) | 1935.90 | 12 |
+| 3458 | [ig188](https://osu.ppy.sh/u/7678706) | 1934.31 | 9 |
+| 3459 | [- Angel Dust -](https://osu.ppy.sh/u/1122052) | 1933.41 | 6 |
+| 3460 | [Temper](https://osu.ppy.sh/u/7123826) | 1933.32 | 11 |
+| 3461 | [[Byul_Ha]](https://osu.ppy.sh/u/3137188) | 1932.40 | 9 |
+| 3462 | [PudiPudi](https://osu.ppy.sh/u/2245807) | 1931.38 | 7 |
+| 3463 | [PainKiller](https://osu.ppy.sh/u/927520) | 1931.22 | 9 |
+| 3464 | [Yuzuki VD](https://osu.ppy.sh/u/10495758) | 1930.56 | 7 |
+| 3465 | [Leftiezi](https://osu.ppy.sh/u/3423454) | 1930.54 | 7 |
+| 3466 | [Mindovrmattr](https://osu.ppy.sh/u/7666028) | 1930.23 | 11 |
+| 3467 | [[Trinity]](https://osu.ppy.sh/u/1867571) | 1928.70 | 7 |
+| 3468 | [Lineax](https://osu.ppy.sh/u/7388021) | 1928.43 | 11 |
+| 3469 | [Rizia](https://osu.ppy.sh/u/1367570) | 1928.39 | 8 |
+| 3470 | [sitaso](https://osu.ppy.sh/u/1424687) | 1927.86 | 11 |
+| 3471 | [Lamina](https://osu.ppy.sh/u/2988018) | 1927.19 | 10 |
+| 3472 | [BeasttrollMC](https://osu.ppy.sh/u/3171691) | 1926.89 | 6 |
+| 3473 | [kMPr4](https://osu.ppy.sh/u/6691099) | 1926.59 | 9 |
+| 3474 | [NEVlR](https://osu.ppy.sh/u/8339126) | 1925.52 | 12 |
+| 3475 | [allives](https://osu.ppy.sh/u/3951781) | 1925.47 | 7 |
+| 3476 | [Hallfar](https://osu.ppy.sh/u/3012273) | 1924.40 | 12 |
+| 3477 | [Jazzercize](https://osu.ppy.sh/u/5963637) | 1923.56 | 11 |
+| 3478 | [Shakira](https://osu.ppy.sh/u/4493453) | 1922.63 | 8 |
+| 3479 | [xhale](https://osu.ppy.sh/u/4623895) | 1922.40 | 9 |
+| 3480 | [remster102](https://osu.ppy.sh/u/5279415) | 1919.43 | 10 |
+| 3481 | [kawaine](https://osu.ppy.sh/u/4628308) | 1919.04 | 6 |
+| 3482 | [Thaze](https://osu.ppy.sh/u/722052) | 1918.80 | 10 |
+| 3483 | [homl7](https://osu.ppy.sh/u/8551770) | 1917.27 | 8 |
+| 3484 | [TechnoTrance123](https://osu.ppy.sh/u/4903850) | 1916.95 | 9 |
+| 3485 | [cptnXn](https://osu.ppy.sh/u/495272) | 1914.92 | 7 |
+| 3486 | [Kyon](https://osu.ppy.sh/u/4227663) | 1914.19 | 10 |
+| 3487 | [thaibuy](https://osu.ppy.sh/u/4250296) | 1913.00 | 7 |
+| 3488 | [KRZY](https://osu.ppy.sh/u/114017) | 1912.02 | 9 |
+| 3489 | [LikeThisNick](https://osu.ppy.sh/u/3386571) | 1911.70 | 11 |
+| 3490 | [Qinec14](https://osu.ppy.sh/u/2308998) | 1911.38 | 8 |
+| 3491 | [Cnya](https://osu.ppy.sh/u/1759879) | 1910.49 | 6 |
+| 3492 | [bozbez](https://osu.ppy.sh/u/4863976) | 1910.35 | 10 |
+| 3493 | [benqbenq](https://osu.ppy.sh/u/7184537) | 1910.26 | 9 |
+| 3494 | [ilift](https://osu.ppy.sh/u/4903239) | 1910.04 | 10 |
+| 3495 | [KaBanchuu](https://osu.ppy.sh/u/4641703) | 1909.79 | 9 |
+| 3496 | [Super Arrow](https://osu.ppy.sh/u/1970239) | 1908.38 | 6 |
+| 3497 | [Marigold](https://osu.ppy.sh/u/7729548) | 1907.27 | 9 |
+| 3498 | [NiceOxygen](https://osu.ppy.sh/u/6307880) | 1906.96 | 9 |
+| 3499 | [9eater](https://osu.ppy.sh/u/6556530) | 1906.79 | 9 |
+| 3500 | [Tarkun](https://osu.ppy.sh/u/2692178) | 1905.43 | 8 |
+| 3501 | [OrangebananaHD](https://osu.ppy.sh/u/4382220) | 1903.22 | 10 |
+| 3502 | [Cuber](https://osu.ppy.sh/u/4213009) | 1901.87 | 11 |
+| 3503 | [Lunatic](https://osu.ppy.sh/u/720256) | 1901.51 | 9 |
+| 3504 | [gtfo](https://osu.ppy.sh/u/2114760) | 1899.10 | 7 |
+| 3505 | [Raptus](https://osu.ppy.sh/u/4539376) | 1898.14 | 10 |
+| 3506 | [Wilsiaii](https://osu.ppy.sh/u/4574441) | 1897.50 | 8 |
+| 3507 | [bilbo2007](https://osu.ppy.sh/u/6448306) | 1897.40 | 12 |
+| 3508 | [PancakeMan4](https://osu.ppy.sh/u/5664629) | 1897.40 | 9 |
+| 3509 | [Gamanoid](https://osu.ppy.sh/u/7668715) | 1896.20 | 9 |
+| 3510 | [Apricot](https://osu.ppy.sh/u/438547) | 1895.83 | 9 |
+| 3511 | [MrDennydee](https://osu.ppy.sh/u/6871408) | 1895.07 | 10 |
+| 3512 | [Ahmnesia](https://osu.ppy.sh/u/2715937) | 1894.68 | 6 |
+| 3513 | [Dab](https://osu.ppy.sh/u/5329471) | 1893.09 | 9 |
+| 3514 | [xXCondemnItXx](https://osu.ppy.sh/u/7459530) | 1893.04 | 10 |
+| 3515 | [Neel-](https://osu.ppy.sh/u/3923207) | 1892.91 | 6 |
+| 3516 | [_demo](https://osu.ppy.sh/u/3556891) | 1891.41 | 9 |
+| 3517 | [Minty Fresh](https://osu.ppy.sh/u/6694225) | 1890.56 | 9 |
+| 3518 | [Tofas](https://osu.ppy.sh/u/2755584) | 1890.28 | 8 |
+| 3519 | [Electovoid](https://osu.ppy.sh/u/6648263) | 1889.09 | 7 |
+| 3520 | [AndreasHD](https://osu.ppy.sh/u/369956) | 1888.14 | 9 |
+| 3521 | [Cornfield](https://osu.ppy.sh/u/4087422) | 1884.17 | 7 |
+| 3522 | [UrbanJackJr](https://osu.ppy.sh/u/7639832) | 1882.92 | 10 |
+| 3523 | [Bae-](https://osu.ppy.sh/u/6576972) | 1881.94 | 8 |
+| 3524 | [Shiftease](https://osu.ppy.sh/u/2470887) | 1881.84 | 9 |
+| 3525 | [MeiMei](https://osu.ppy.sh/u/1597068) | 1880.61 | 6 |
+| 3526 | [imakeebbq](https://osu.ppy.sh/u/6611611) | 1879.31 | 10 |
+| 3527 | [erone26](https://osu.ppy.sh/u/7094447) | 1878.93 | 11 |
+| 3528 | [listless](https://osu.ppy.sh/u/1106527) | 1878.40 | 7 |
+| 3529 | [samsam2233](https://osu.ppy.sh/u/1285128) | 1877.20 | 10 |
+| 3530 | [[ Ryri ]](https://osu.ppy.sh/u/2383021) | 1877.05 | 10 |
+| 3531 | [hanari](https://osu.ppy.sh/u/443377) | 1876.30 | 9 |
+| 3532 | [LWMF](https://osu.ppy.sh/u/3632402) | 1874.34 | 9 |
+| 3533 | [Lindaine](https://osu.ppy.sh/u/4572717) | 1874.26 | 10 |
+| 3534 | [Dip](https://osu.ppy.sh/u/7141372) | 1874.17 | 8 |
+| 3535 | [Exp0nent](https://osu.ppy.sh/u/3053755) | 1870.78 | 8 |
+| 3536 | [novaaa](https://osu.ppy.sh/u/953405) | 1870.21 | 8 |
+| 3537 | [M8gazine](https://osu.ppy.sh/u/5039710) | 1870.09 | 9 |
+| 3538 | [Liquifien](https://osu.ppy.sh/u/7467327) | 1870.06 | 8 |
+| 3539 | [HueFlakes](https://osu.ppy.sh/u/4339086) | 1869.66 | 7 |
+| 3540 | [Oise](https://osu.ppy.sh/u/7465916) | 1869.66 | 11 |
+| 3541 | [TheMoutaind](https://osu.ppy.sh/u/4115936) | 1867.67 | 10 |
+| 3542 | [bandofponies](https://osu.ppy.sh/u/2823272) | 1867.22 | 7 |
+| 3543 | [FuNta90](https://osu.ppy.sh/u/7394565) | 1866.79 | 11 |
+| 3544 | [owatan](https://osu.ppy.sh/u/2539431) | 1864.59 | 8 |
+| 3545 | [ElektroFire](https://osu.ppy.sh/u/2467220) | 1864.16 | 7 |
+| 3546 | [Kramg0](https://osu.ppy.sh/u/6283841) | 1864.12 | 9 |
+| 3547 | [KuyaKoala](https://osu.ppy.sh/u/2494575) | 1862.32 | 9 |
+| 3548 | [-s h i n o-](https://osu.ppy.sh/u/2097082) | 1861.86 | 10 |
+| 3549 | [minozourruz](https://osu.ppy.sh/u/1474935) | 1861.61 | 9 |
+| 3550 | [xRaigekix](https://osu.ppy.sh/u/2129816) | 1861.31 | 7 |
+| 3551 | [Garden](https://osu.ppy.sh/u/2849992) | 1859.62 | 6 |
+| 3552 | [Werbnojoke](https://osu.ppy.sh/u/7624293) | 1859.27 | 10 |
+| 3553 | [Xeamith](https://osu.ppy.sh/u/4044601) | 1858.82 | 8 |
+| 3554 | [jteN](https://osu.ppy.sh/u/5440546) | 1858.59 | 10 |
+| 3555 | [ginrou0803](https://osu.ppy.sh/u/2379533) | 1857.79 | 8 |
+| 3556 | [Aldrouch](https://osu.ppy.sh/u/5575135) | 1856.60 | 7 |
+| 3557 | [Saika-](https://osu.ppy.sh/u/4316633) | 1855.89 | 9 |
+| 3558 | [ExpertBOT](https://osu.ppy.sh/u/2378346) | 1855.88 | 6 |
+| 3559 | [Devocub](https://osu.ppy.sh/u/5506589) | 1855.11 | 11 |
+| 3560 | [iaace](https://osu.ppy.sh/u/4374286) | 1854.73 | 8 |
+| 3561 | [PieFlavourss](https://osu.ppy.sh/u/3494615) | 1854.70 | 7 |
+| 3562 | [Aiven](https://osu.ppy.sh/u/6614359) | 1854.42 | 12 |
+| 3563 | [Enomoto kotaro](https://osu.ppy.sh/u/5065549) | 1853.61 | 10 |
+| 3564 | [-Touka-](https://osu.ppy.sh/u/5550949) | 1853.30 | 9 |
+| 3565 | [siewior](https://osu.ppy.sh/u/2966500) | 1853.11 | 9 |
+| 3566 | [bjbmw](https://osu.ppy.sh/u/4294741) | 1852.38 | 7 |
+| 3567 | [Zeref](https://osu.ppy.sh/u/3822313) | 1851.64 | 11 |
+| 3568 | [Ryubi](https://osu.ppy.sh/u/5934283) | 1850.57 | 8 |
+| 3569 | [Kaine](https://osu.ppy.sh/u/1786945) | 1849.97 | 7 |
+| 3570 | [Titan W](https://osu.ppy.sh/u/5080462) | 1844.85 | 9 |
+| 3571 | [Blueness](https://osu.ppy.sh/u/670338) | 1844.20 | 9 |
+| 3572 | [Failmasing](https://osu.ppy.sh/u/2444962) | 1843.20 | 10 |
+| 3573 | [raw0123](https://osu.ppy.sh/u/4681947) | 1839.83 | 10 |
+| 3574 | [SyNeX](https://osu.ppy.sh/u/3618513) | 1838.30 | 9 |
+| 3575 | [Y4ong](https://osu.ppy.sh/u/5412451) | 1837.99 | 6 |
+| 3576 | [Tomas1208](https://osu.ppy.sh/u/3198446) | 1837.30 | 9 |
+| 3577 | [Futaba aoi](https://osu.ppy.sh/u/472545) | 1837.02 | 10 |
+| 3578 | [Brokenn](https://osu.ppy.sh/u/4333397) | 1836.95 | 9 |
+| 3579 | [Starger](https://osu.ppy.sh/u/3398715) | 1836.45 | 8 |
+| 3580 | [pyrowar56](https://osu.ppy.sh/u/5330236) | 1836.09 | 6 |
+| 3581 | [panqile24](https://osu.ppy.sh/u/410168) | 1836.01 | 10 |
+| 3582 | [Aira](https://osu.ppy.sh/u/3705239) | 1835.91 | 8 |
+| 3583 | [yubid](https://osu.ppy.sh/u/5048830) | 1835.08 | 11 |
+| 3584 | [Snoo0w](https://osu.ppy.sh/u/3750926) | 1830.85 | 10 |
+| 3585 | [Shiro Loli](https://osu.ppy.sh/u/7696512) | 1828.68 | 8 |
+| 3586 | [Cafetelia](https://osu.ppy.sh/u/1176860) | 1827.64 | 10 |
+| 3587 | [Cylni](https://osu.ppy.sh/u/5510597) | 1826.70 | 10 |
+| 3588 | [Zephyr IND](https://osu.ppy.sh/u/6482392) | 1824.71 | 8 |
+| 3589 | [Rinko](https://osu.ppy.sh/u/347661) | 1824.62 | 10 |
+| 3590 | [Rax](https://osu.ppy.sh/u/4475158) | 1821.24 | 10 |
+| 3591 | [[Xenon]](https://osu.ppy.sh/u/3638099) | 1821.08 | 8 |
+| 3592 | [Yurii](https://osu.ppy.sh/u/2023601) | 1820.40 | 9 |
+| 3593 | [My Not](https://osu.ppy.sh/u/1572405) | 1819.93 | 6 |
+| 3594 | [-Trigger](https://osu.ppy.sh/u/1890143) | 1819.25 | 7 |
+| 3595 | [goma](https://osu.ppy.sh/u/1150349) | 1819.21 | 9 |
+| 3596 | [Ainyannnnn](https://osu.ppy.sh/u/2250475) | 1819.07 | 7 |
+| 3597 | [Ben](https://osu.ppy.sh/u/1816891) | 1818.66 | 10 |
+| 3598 | [Bolachazi](https://osu.ppy.sh/u/3660954) | 1816.74 | 9 |
+| 3599 | [pluribs](https://osu.ppy.sh/u/5475103) | 1816.19 | 9 |
+| 3600 | [Rivastyx](https://osu.ppy.sh/u/2719307) | 1815.68 | 8 |
+| 3601 | [Zenoha](https://osu.ppy.sh/u/4430186) | 1814.79 | 6 |
+| 3602 | [eddiedude](https://osu.ppy.sh/u/4232694) | 1814.76 | 10 |
+| 3603 | [Icinose Rika](https://osu.ppy.sh/u/1144105) | 1813.25 | 8 |
+| 3604 | [PotatoeSalad](https://osu.ppy.sh/u/3852076) | 1812.71 | 8 |
+| 3605 | [ksg](https://osu.ppy.sh/u/1234448) | 1810.10 | 10 |
+| 3606 | [Meowijuana](https://osu.ppy.sh/u/3135638) | 1809.51 | 8 |
+| 3607 | [Mightydragon](https://osu.ppy.sh/u/4272971) | 1809.05 | 8 |
+| 3608 | [-AxL](https://osu.ppy.sh/u/8516412) | 1805.98 | 9 |
+| 3609 | [mitei33](https://osu.ppy.sh/u/1727578) | 1805.46 | 8 |
+| 3610 | [Icsia](https://osu.ppy.sh/u/548250) | 1805.07 | 7 |
+| 3611 | [Kalal331](https://osu.ppy.sh/u/8433636) | 1804.65 | 11 |
+| 3612 | [GameBear](https://osu.ppy.sh/u/3277091) | 1803.84 | 8 |
+| 3613 | [Arutsuki](https://osu.ppy.sh/u/7566849) | 1803.36 | 10 |
+| 3614 | [Kliu](https://osu.ppy.sh/u/7409391) | 1802.55 | 8 |
+| 3615 | [Hassylan](https://osu.ppy.sh/u/7248755) | 1801.20 | 10 |
+| 3616 | [Megapcmx](https://osu.ppy.sh/u/4442138) | 1801.13 | 8 |
+| 3617 | [takeki3gou](https://osu.ppy.sh/u/447472) | 1800.86 | 8 |
+| 3618 | [[ EvilePat ]](https://osu.ppy.sh/u/2789063) | 1800.10 | 10 |
+| 3619 | [Kosaka](https://osu.ppy.sh/u/3106249) | 1798.93 | 10 |
+| 3620 | [Kaziyan](https://osu.ppy.sh/u/8545446) | 1798.27 | 9 |
+| 3621 | [Mints](https://osu.ppy.sh/u/2007236) | 1795.92 | 9 |
+| 3622 | [eliolias](https://osu.ppy.sh/u/4228408) | 1795.43 | 8 |
+| 3623 | [bartekran456](https://osu.ppy.sh/u/4981809) | 1795.39 | 9 |
+| 3624 | [Ikewolf](https://osu.ppy.sh/u/2190642) | 1795.16 | 9 |
+| 3625 | [Metafase](https://osu.ppy.sh/u/4389419) | 1794.55 | 8 |
+| 3626 | [[ Fade ]](https://osu.ppy.sh/u/4833541) | 1794.52 | 8 |
+| 3627 | [Sportai](https://osu.ppy.sh/u/4168651) | 1793.76 | 7 |
+| 3628 | [ylevanSnavely](https://osu.ppy.sh/u/6596846) | 1793.55 | 9 |
+| 3629 | [AntoN](https://osu.ppy.sh/u/2538562) | 1793.36 | 6 |
+| 3630 | [darken1](https://osu.ppy.sh/u/2940158) | 1793.33 | 10 |
+| 3631 | [Poteha](https://osu.ppy.sh/u/4596400) | 1793.03 | 7 |
+| 3632 | [MuffubZ](https://osu.ppy.sh/u/2327103) | 1792.00 | 7 |
+| 3633 | [Kyln19ma](https://osu.ppy.sh/u/502885) | 1791.82 | 7 |
+| 3634 | [RoboTripSenpai](https://osu.ppy.sh/u/7541133) | 1791.19 | 8 |
+| 3635 | [zonelouise](https://osu.ppy.sh/u/1492995) | 1790.58 | 8 |
+| 3636 | [Shiny Gliscor](https://osu.ppy.sh/u/2065098) | 1790.35 | 9 |
+| 3637 | [nr_pm](https://osu.ppy.sh/u/6690651) | 1790.16 | 6 |
+| 3638 | [TyrantsEye2014](https://osu.ppy.sh/u/4530738) | 1786.15 | 8 |
+| 3639 | [OcraM8](https://osu.ppy.sh/u/8295296) | 1785.72 | 10 |
+| 3640 | [Zuffa](https://osu.ppy.sh/u/1800060) | 1784.74 | 7 |
+| 3641 | [Stig](https://osu.ppy.sh/u/7162350) | 1783.77 | 8 |
+| 3642 | [Dekarian](https://osu.ppy.sh/u/3573973) | 1781.07 | 10 |
+| 3643 | [spark_sk](https://osu.ppy.sh/u/615088) | 1780.61 | 10 |
+| 3644 | [freedomdiver](https://osu.ppy.sh/u/8482062) | 1780.48 | 6 |
+| 3645 | [Zoel](https://osu.ppy.sh/u/7289244) | 1779.82 | 8 |
+| 3646 | [Cossco](https://osu.ppy.sh/u/5177877) | 1777.63 | 9 |
+| 3647 | [Seelder](https://osu.ppy.sh/u/5263422) | 1776.94 | 6 |
+| 3648 | [[-Blaze99-]](https://osu.ppy.sh/u/3344687) | 1776.63 | 10 |
+| 3649 | [salgo74](https://osu.ppy.sh/u/2819728) | 1776.16 | 9 |
+| 3650 | [Electrify](https://osu.ppy.sh/u/6921874) | 1773.55 | 9 |
+| 3651 | [ranses666](https://osu.ppy.sh/u/5221639) | 1772.11 | 8 |
+| 3652 | [Chuquebecois](https://osu.ppy.sh/u/4528078) | 1770.94 | 7 |
+| 3653 | [Hakaliano](https://osu.ppy.sh/u/7205359) | 1770.31 | 9 |
+| 3654 | [ktoswazny](https://osu.ppy.sh/u/5530503) | 1769.14 | 8 |
+| 3655 | [BLooDBuRSTiNG](https://osu.ppy.sh/u/3925167) | 1768.77 | 6 |
+| 3656 | [e1Four15f](https://osu.ppy.sh/u/6925948) | 1768.16 | 7 |
+| 3657 | [Eileyn](https://osu.ppy.sh/u/4607327) | 1767.79 | 6 |
+| 3658 | [Sasha Romalen](https://osu.ppy.sh/u/7022949) | 1767.77 | 10 |
+| 3659 | [Tom94](https://osu.ppy.sh/u/1857058) | 1767.47 | 8 |
+| 3660 | [Garde Rade](https://osu.ppy.sh/u/5098104) | 1766.69 | 9 |
+| 3661 | [pamiro](https://osu.ppy.sh/u/2095634) | 1766.53 | 8 |
+| 3662 | [mostwk](https://osu.ppy.sh/u/7647502) | 1766.41 | 9 |
+| 3663 | [Kuzuryu Kyoma](https://osu.ppy.sh/u/1980539) | 1766.26 | 11 |
+| 3664 | [Wrys](https://osu.ppy.sh/u/3093139) | 1765.95 | 9 |
+| 3665 | [talala](https://osu.ppy.sh/u/1389663) | 1765.79 | 4 |
+| 3666 | [Guliak](https://osu.ppy.sh/u/3922750) | 1765.48 | 10 |
+| 3667 | [misom150](https://osu.ppy.sh/u/5083666) | 1764.95 | 9 |
+| 3668 | [quickiez](https://osu.ppy.sh/u/2789037) | 1764.57 | 9 |
+| 3669 | [Haiyu](https://osu.ppy.sh/u/6873178) | 1764.37 | 7 |
+| 3670 | [muza](https://osu.ppy.sh/u/944305) | 1763.17 | 9 |
+| 3671 | [Cerkie](https://osu.ppy.sh/u/2533400) | 1762.37 | 5 |
+| 3672 | [HaHaNa](https://osu.ppy.sh/u/6951543) | 1762.24 | 9 |
+| 3673 | [Illya love](https://osu.ppy.sh/u/3366708) | 1761.32 | 8 |
+| 3674 | [TsakoZ](https://osu.ppy.sh/u/6360283) | 1760.86 | 10 |
+| 3675 | [-Megumin](https://osu.ppy.sh/u/7104176) | 1760.32 | 8 |
+| 3676 | [BerzE](https://osu.ppy.sh/u/1175152) | 1759.77 | 8 |
+| 3677 | [Quinnos](https://osu.ppy.sh/u/8090514) | 1759.39 | 9 |
+| 3678 | [Flurr](https://osu.ppy.sh/u/4618376) | 1758.75 | 9 |
+| 3679 | [ewfwefgwg](https://osu.ppy.sh/u/4585661) | 1758.25 | 9 |
+| 3680 | [Senseofloss](https://osu.ppy.sh/u/4560330) | 1757.95 | 7 |
+| 3681 | [Tae](https://osu.ppy.sh/u/6563295) | 1757.57 | 9 |
+| 3682 | [M a t t y](https://osu.ppy.sh/u/3737136) | 1757.28 | 9 |
+| 3683 | [TimmehOsu](https://osu.ppy.sh/u/2761253) | 1756.77 | 10 |
+| 3684 | [Fancyguy](https://osu.ppy.sh/u/4186648) | 1756.63 | 8 |
+| 3685 | [seirone](https://osu.ppy.sh/u/6284353) | 1755.92 | 11 |
+| 3686 | [MeinDan](https://osu.ppy.sh/u/6248722) | 1755.74 | 10 |
+| 3687 | [OneMissMan](https://osu.ppy.sh/u/7606060) | 1755.44 | 8 |
+| 3688 | [Bubba TK](https://osu.ppy.sh/u/5156564) | 1754.92 | 8 |
+| 3689 | [ZunK](https://osu.ppy.sh/u/1070783) | 1754.49 | 7 |
+| 3690 | [tedlet](https://osu.ppy.sh/u/2954909) | 1754.47 | 10 |
+| 3691 | [arrtyui](https://osu.ppy.sh/u/2896396) | 1753.79 | 9 |
+| 3692 | [Prurtz](https://osu.ppy.sh/u/6861676) | 1753.14 | 9 |
+| 3693 | [Kotori-Chan](https://osu.ppy.sh/u/4060979) | 1751.59 | 10 |
+| 3694 | [Spide-](https://osu.ppy.sh/u/6142472) | 1751.00 | 8 |
+| 3695 | [Plaudible](https://osu.ppy.sh/u/7149815) | 1750.67 | 9 |
+| 3696 | [Ravenclaw1](https://osu.ppy.sh/u/6493232) | 1749.93 | 8 |
+| 3697 | [Splinter572](https://osu.ppy.sh/u/846038) | 1749.90 | 5 |
+| 3698 | [Hny](https://osu.ppy.sh/u/4691580) | 1749.22 | 8 |
+| 3699 | [wojciooo](https://osu.ppy.sh/u/2924415) | 1747.66 | 7 |
+| 3700 | [[RanYakumo]](https://osu.ppy.sh/u/1234432) | 1747.31 | 5 |
+| 3701 | [BlackyBerg](https://osu.ppy.sh/u/4707989) | 1746.54 | 9 |
+| 3702 | [Sepe](https://osu.ppy.sh/u/4824370) | 1744.73 | 7 |
+| 3703 | [Magnath](https://osu.ppy.sh/u/5345462) | 1744.01 | 8 |
+| 3704 | [KEsHa_cHoKE](https://osu.ppy.sh/u/7478167) | 1743.42 | 9 |
+| 3705 | [D A N G O N](https://osu.ppy.sh/u/1845375) | 1743.04 | 9 |
+| 3706 | [Xanoxe](https://osu.ppy.sh/u/7060592) | 1738.89 | 8 |
+| 3707 | [Ezipie](https://osu.ppy.sh/u/5978907) | 1738.11 | 6 |
+| 3708 | [gaston_2199](https://osu.ppy.sh/u/5938161) | 1737.58 | 8 |
+| 3709 | [Kuon](https://osu.ppy.sh/u/4325822) | 1737.48 | 8 |
+| 3710 | [HPK](https://osu.ppy.sh/u/979471) | 1737.37 | 8 |
+| 3711 | [Okatsu_k](https://osu.ppy.sh/u/4862580) | 1736.88 | 9 |
+| 3712 | [GranDSenpai](https://osu.ppy.sh/u/3997580) | 1736.80 | 6 |
+| 3713 | [Mancis](https://osu.ppy.sh/u/4839300) | 1734.41 | 8 |
+| 3714 | [Darkness3436](https://osu.ppy.sh/u/2962708) | 1733.68 | 9 |
+| 3715 | [Pittigbaasje](https://osu.ppy.sh/u/2167433) | 1733.64 | 5 |
+| 3716 | [John Drey](https://osu.ppy.sh/u/5222943) | 1733.17 | 10 |
+| 3717 | [Yukitemi](https://osu.ppy.sh/u/7202513) | 1733.01 | 9 |
+| 3718 | [Sanctus](https://osu.ppy.sh/u/5033017) | 1732.09 | 7 |
+| 3719 | [Makawais](https://osu.ppy.sh/u/4059571) | 1730.84 | 8 |
+| 3720 | [Meowth](https://osu.ppy.sh/u/7905786) | 1730.65 | 10 |
+| 3721 | [Kania](https://osu.ppy.sh/u/6156928) | 1727.33 | 10 |
+| 3722 | [heetami](https://osu.ppy.sh/u/1039001) | 1726.29 | 9 |
+| 3723 | [uzzi](https://osu.ppy.sh/u/1928230) | 1726.24 | 7 |
+| 3724 | [EIGER](https://osu.ppy.sh/u/1504556) | 1726.04 | 10 |
+| 3725 | [foodfruit](https://osu.ppy.sh/u/1408142) | 1724.21 | 8 |
+| 3726 | [gh0st-](https://osu.ppy.sh/u/3805581) | 1723.05 | 7 |
+| 3727 | [Pijokash](https://osu.ppy.sh/u/1103342) | 1721.24 | 7 |
+| 3728 | [BDDav](https://osu.ppy.sh/u/1164526) | 1719.96 | 5 |
+| 3729 | [Mysticcc](https://osu.ppy.sh/u/3560703) | 1719.48 | 9 |
+| 3730 | [DVDthe1st](https://osu.ppy.sh/u/2138989) | 1718.40 | 8 |
+| 3731 | [NatsuHara](https://osu.ppy.sh/u/7822797) | 1717.80 | 7 |
+| 3732 | [pnrr](https://osu.ppy.sh/u/6480627) | 1715.45 | 8 |
+| 3733 | [henerididdles](https://osu.ppy.sh/u/3819065) | 1712.88 | 7 |
+| 3734 | [Zweib](https://osu.ppy.sh/u/1211737) | 1712.86 | 7 |
+| 3735 | [Miko-chan](https://osu.ppy.sh/u/3723798) | 1712.67 | 10 |
+| 3736 | [Schize](https://osu.ppy.sh/u/5811887) | 1711.80 | 9 |
+| 3737 | [quarnite](https://osu.ppy.sh/u/5006582) | 1711.66 | 8 |
+| 3738 | [ElDantePro](https://osu.ppy.sh/u/7752498) | 1711.46 | 8 |
+| 3739 | [zaverk](https://osu.ppy.sh/u/4566107) | 1711.40 | 9 |
+| 3740 | [dabanlong](https://osu.ppy.sh/u/624254) | 1710.41 | 8 |
+| 3741 | [RiLiD](https://osu.ppy.sh/u/7251661) | 1709.40 | 7 |
+| 3742 | [Kawatta](https://osu.ppy.sh/u/3731880) | 1709.11 | 8 |
+| 3743 | [-Katana](https://osu.ppy.sh/u/7755450) | 1709.01 | 7 |
+| 3744 | [Zuness](https://osu.ppy.sh/u/3993236) | 1708.68 | 6 |
+| 3745 | [SliderBreak-](https://osu.ppy.sh/u/1577554) | 1708.66 | 10 |
+| 3746 | [Lucent Dragon](https://osu.ppy.sh/u/2934211) | 1706.66 | 8 |
+| 3747 | [lolimelon](https://osu.ppy.sh/u/1399180) | 1706.41 | 8 |
+| 3748 | [lolimastah](https://osu.ppy.sh/u/3207112) | 1705.85 | 7 |
+| 3749 | [DrunKAnGeL](https://osu.ppy.sh/u/6533032) | 1705.11 | 9 |
+| 3750 | [Asoreand](https://osu.ppy.sh/u/6374167) | 1705.02 | 9 |
+| 3751 | [Sofiae](https://osu.ppy.sh/u/7569945) | 1704.46 | 8 |
+| 3752 | [NeVMiku](https://osu.ppy.sh/u/1874669) | 1703.25 | 7 |
+| 3753 | [Summer](https://osu.ppy.sh/u/3301656) | 1703.16 | 6 |
+| 3754 | [ChronoNig](https://osu.ppy.sh/u/3545323) | 1702.53 | 6 |
+| 3755 | [yuugeki1234](https://osu.ppy.sh/u/99457) | 1702.10 | 9 |
+| 3756 | [alecjumps](https://osu.ppy.sh/u/4432884) | 1702.00 | 9 |
+| 3757 | [Mikako](https://osu.ppy.sh/u/2676427) | 1700.93 | 9 |
+| 3758 | [BrownedSugar](https://osu.ppy.sh/u/4991273) | 1699.84 | 8 |
+| 3759 | [Zapalon](https://osu.ppy.sh/u/6937198) | 1698.22 | 8 |
+| 3760 | [Nachoo711](https://osu.ppy.sh/u/4738338) | 1698.09 | 8 |
+| 3761 | [AR10](https://osu.ppy.sh/u/4483245) | 1696.77 | 7 |
+| 3762 | [Saping](https://osu.ppy.sh/u/877131) | 1695.89 | 8 |
+| 3763 | [Martinch](https://osu.ppy.sh/u/4659495) | 1695.61 | 8 |
+| 3764 | [My Angel isla](https://osu.ppy.sh/u/7827259) | 1694.39 | 9 |
+| 3765 | [EJIL](https://osu.ppy.sh/u/4224693) | 1694.36 | 8 |
+| 3766 | [IGLaDoSI](https://osu.ppy.sh/u/7308520) | 1694.27 | 8 |
+| 3767 | [Palivion](https://osu.ppy.sh/u/2491743) | 1694.05 | 6 |
+| 3768 | [lanbokarn](https://osu.ppy.sh/u/2223073) | 1693.77 | 8 |
+| 3769 | [-Twist](https://osu.ppy.sh/u/5172942) | 1693.06 | 7 |
+| 3770 | [Descaii](https://osu.ppy.sh/u/4860496) | 1692.13 | 8 |
+| 3771 | [Barracudaa](https://osu.ppy.sh/u/2392720) | 1690.86 | 9 |
+| 3772 | [Shiawase](https://osu.ppy.sh/u/989489) | 1690.15 | 5 |
+| 3773 | [w8212887](https://osu.ppy.sh/u/2253195) | 1689.00 | 8 |
+| 3774 | [psychedelic-](https://osu.ppy.sh/u/3747440) | 1688.88 | 8 |
+| 3775 | [rinrinB](https://osu.ppy.sh/u/1653277) | 1688.73 | 7 |
+| 3776 | [Iliekwaffles](https://osu.ppy.sh/u/4644354) | 1687.99 | 6 |
+| 3777 | [SlatoSucks](https://osu.ppy.sh/u/6275784) | 1687.29 | 8 |
+| 3778 | [cho1998](https://osu.ppy.sh/u/930625) | 1686.97 | 7 |
+| 3779 | [Voyen](https://osu.ppy.sh/u/2920725) | 1685.21 | 9 |
+| 3780 | [Noiraku](https://osu.ppy.sh/u/1151469) | 1684.74 | 6 |
+| 3781 | [Yoongi](https://osu.ppy.sh/u/5367862) | 1684.66 | 7 |
+| 3782 | [KrysiaRules](https://osu.ppy.sh/u/5466081) | 1684.59 | 7 |
+| 3783 | [fixedbyglue](https://osu.ppy.sh/u/8296269) | 1683.68 | 7 |
+| 3784 | [Rxz](https://osu.ppy.sh/u/2273036) | 1683.66 | 9 |
+| 3785 | [Yoghurt](https://osu.ppy.sh/u/3489646) | 1681.65 | 9 |
+| 3786 | [chak](https://osu.ppy.sh/u/1401004) | 1680.92 | 7 |
+| 3787 | [Taihe](https://osu.ppy.sh/u/4985379) | 1679.01 | 8 |
+| 3788 | [ChokeNoise](https://osu.ppy.sh/u/3418166) | 1678.01 | 8 |
+| 3789 | [FuryDream](https://osu.ppy.sh/u/6627436) | 1677.14 | 9 |
+| 3790 | [B n g e l](https://osu.ppy.sh/u/8699021) | 1676.98 | 9 |
+| 3791 | [Twwisted](https://osu.ppy.sh/u/6916554) | 1676.24 | 8 |
+| 3792 | [BigHake](https://osu.ppy.sh/u/2510320) | 1675.98 | 8 |
+| 3793 | [E N J U](https://osu.ppy.sh/u/932127) | 1674.06 | 10 |
+| 3794 | [Mun Nyun](https://osu.ppy.sh/u/1708628) | 1673.28 | 8 |
+| 3795 | [Anticristo](https://osu.ppy.sh/u/5592595) | 1671.45 | 7 |
+| 3796 | [Lyra](https://osu.ppy.sh/u/978707) | 1670.92 | 7 |
+| 3797 | [Danil194522](https://osu.ppy.sh/u/6438321) | 1670.48 | 7 |
+| 3798 | [Sapphie](https://osu.ppy.sh/u/4702953) | 1669.82 | 7 |
+| 3799 | [Noec](https://osu.ppy.sh/u/1026762) | 1668.47 | 8 |
+| 3800 | [Pizzarro](https://osu.ppy.sh/u/4971596) | 1667.87 | 6 |
+| 3801 | [patch](https://osu.ppy.sh/u/1834131) | 1667.03 | 6 |
+| 3802 | [pimeklatu](https://osu.ppy.sh/u/4073875) | 1666.52 | 8 |
+| 3803 | [bVETY](https://osu.ppy.sh/u/6255613) | 1664.88 | 8 |
+| 3804 | [NatChan](https://osu.ppy.sh/u/4538370) | 1664.28 | 7 |
+| 3805 | [Zrktr85](https://osu.ppy.sh/u/5592011) | 1664.25 | 9 |
+| 3806 | [skylewl](https://osu.ppy.sh/u/3373422) | 1663.92 | 7 |
+| 3807 | [Vita](https://osu.ppy.sh/u/567434) | 1662.41 | 9 |
+| 3808 | [ALtist](https://osu.ppy.sh/u/7673764) | 1662.15 | 6 |
+| 3809 | [Kyuri](https://osu.ppy.sh/u/4219058) | 1661.95 | 8 |
+| 3810 | [Van3x](https://osu.ppy.sh/u/1105135) | 1661.91 | 7 |
+| 3811 | [DieterOurSavior](https://osu.ppy.sh/u/5851587) | 1660.86 | 8 |
+| 3812 | [Slinslin](https://osu.ppy.sh/u/4116425) | 1660.21 | 8 |
+| 3813 | [Zenmaistermolla](https://osu.ppy.sh/u/6994837) | 1658.82 | 8 |
+| 3814 | [yOlO-Nature](https://osu.ppy.sh/u/5286218) | 1657.78 | 7 |
+| 3815 | [PandaCattle](https://osu.ppy.sh/u/6703655) | 1656.88 | 6 |
+| 3816 | [Alphabet](https://osu.ppy.sh/u/4879380) | 1656.32 | 9 |
+| 3817 | [AizenBubble](https://osu.ppy.sh/u/8133607) | 1656.13 | 8 |
+| 3818 | [INF3R](https://osu.ppy.sh/u/2447987) | 1655.14 | 8 |
+| 3819 | [Nucoin](https://osu.ppy.sh/u/1089803) | 1654.02 | 9 |
+| 3820 | [Wexaazys](https://osu.ppy.sh/u/6259946) | 1653.27 | 7 |
+| 3821 | [Jona7117](https://osu.ppy.sh/u/6699829) | 1651.73 | 9 |
+| 3822 | [TheLead](https://osu.ppy.sh/u/6628559) | 1651.01 | 10 |
+| 3823 | [[ Haruka-Chan ]](https://osu.ppy.sh/u/2445727) | 1650.20 | 6 |
+| 3824 | [-LoliCore-](https://osu.ppy.sh/u/640575) | 1649.79 | 7 |
+| 3825 | [Dinkles](https://osu.ppy.sh/u/4706588) | 1649.79 | 6 |
+| 3826 | [Sugi_JP](https://osu.ppy.sh/u/2497197) | 1649.61 | 8 |
+| 3827 | [Kafziel](https://osu.ppy.sh/u/1742218) | 1649.14 | 7 |
+| 3828 | [Arenth](https://osu.ppy.sh/u/3852530) | 1648.83 | 9 |
+| 3829 | [Kyozakii](https://osu.ppy.sh/u/7908994) | 1648.59 | 7 |
+| 3830 | [Okinotori](https://osu.ppy.sh/u/4346274) | 1646.54 | 5 |
+| 3831 | [d777b](https://osu.ppy.sh/u/1371800) | 1646.36 | 8 |
+| 3832 | [Snoop Dogg](https://osu.ppy.sh/u/2200661) | 1646.31 | 8 |
+| 3833 | [Extenz](https://osu.ppy.sh/u/5532045) | 1645.85 | 9 |
+| 3834 | [Okino may](https://osu.ppy.sh/u/7730603) | 1645.01 | 8 |
+| 3835 | [Kaguya_1096](https://osu.ppy.sh/u/4531953) | 1643.46 | 7 |
+| 3836 | [Eiikon](https://osu.ppy.sh/u/2553519) | 1643.39 | 7 |
+| 3837 | [Arte](https://osu.ppy.sh/u/6787910) | 1641.66 | 7 |
+| 3838 | [Axulll](https://osu.ppy.sh/u/7824679) | 1641.35 | 8 |
+| 3839 | [Gogolo](https://osu.ppy.sh/u/2636833) | 1640.29 | 7 |
+| 3840 | [BonanzaBlast](https://osu.ppy.sh/u/6228656) | 1639.93 | 7 |
+| 3841 | [eley](https://osu.ppy.sh/u/2439937) | 1638.44 | 7 |
+| 3842 | [Litebox](https://osu.ppy.sh/u/7214597) | 1637.95 | 8 |
+| 3843 | [Lolisim](https://osu.ppy.sh/u/5623417) | 1637.91 | 5 |
+| 3844 | [Pata2](https://osu.ppy.sh/u/5558939) | 1637.47 | 7 |
+| 3845 | [Route_2](https://osu.ppy.sh/u/6638412) | 1636.18 | 8 |
+| 3846 | [Rafis](https://osu.ppy.sh/u/2558286) | 1634.29 | 3 |
+| 3847 | [Zap](https://osu.ppy.sh/u/4034149) | 1632.33 | 7 |
+| 3848 | [Zymolysis](https://osu.ppy.sh/u/4443981) | 1632.00 | 7 |
+| 3849 | [BannedForever](https://osu.ppy.sh/u/3127339) | 1631.93 | 6 |
+| 3850 | [SnowNiNo_](https://osu.ppy.sh/u/2506267) | 1630.89 | 8 |
+| 3851 | [Yoshiwara](https://osu.ppy.sh/u/6864965) | 1630.20 | 9 |
+| 3852 | [Rezlyy](https://osu.ppy.sh/u/4946619) | 1629.61 | 8 |
+| 3853 | [Cactuar](https://osu.ppy.sh/u/3434885) | 1629.43 | 8 |
+| 3854 | [[Ekero]](https://osu.ppy.sh/u/7114239) | 1628.45 | 9 |
+| 3855 | [max9147](https://osu.ppy.sh/u/7236907) | 1626.98 | 9 |
+| 3856 | [[HDHR]](https://osu.ppy.sh/u/3547567) | 1626.63 | 9 |
+| 3857 | [Sanatra](https://osu.ppy.sh/u/2958830) | 1625.81 | 7 |
+| 3858 | [Aknama](https://osu.ppy.sh/u/4322869) | 1624.42 | 6 |
+| 3859 | [[D a f o n z]](https://osu.ppy.sh/u/6667041) | 1624.13 | 7 |
+| 3860 | [SweetCukes_](https://osu.ppy.sh/u/7209223) | 1621.65 | 7 |
+| 3861 | [Prosal](https://osu.ppy.sh/u/6654455) | 1618.36 | 9 |
+| 3862 | [White_sou](https://osu.ppy.sh/u/1687932) | 1618.13 | 9 |
+| 3863 | [Greeney](https://osu.ppy.sh/u/6880168) | 1616.97 | 6 |
+| 3864 | [Jaybladezz](https://osu.ppy.sh/u/3725492) | 1616.04 | 6 |
+| 3865 | [-Mirk-](https://osu.ppy.sh/u/6368905) | 1612.96 | 9 |
+| 3866 | [[ Robert ]](https://osu.ppy.sh/u/3880690) | 1612.19 | 6 |
+| 3867 | [Cynosure](https://osu.ppy.sh/u/4219530) | 1611.00 | 7 |
+| 3868 | [elosiktv](https://osu.ppy.sh/u/4742465) | 1610.98 | 8 |
+| 3869 | [shinxL](https://osu.ppy.sh/u/7975452) | 1610.03 | 9 |
+| 3870 | [dnobeatz](https://osu.ppy.sh/u/4845065) | 1609.24 | 7 |
+| 3871 | [xSaiyajin](https://osu.ppy.sh/u/3199855) | 1609.20 | 7 |
+| 3872 | [Ririi](https://osu.ppy.sh/u/1860752) | 1608.39 | 8 |
+| 3873 | [TheFoxz](https://osu.ppy.sh/u/6822573) | 1608.36 | 7 |
+| 3874 | [Avenito](https://osu.ppy.sh/u/7415910) | 1607.23 | 6 |
+| 3875 | [japronHD](https://osu.ppy.sh/u/7658011) | 1606.19 | 8 |
+| 3876 | [caKuma](https://osu.ppy.sh/u/2571971) | 1605.75 | 7 |
+| 3877 | [jieusieu](https://osu.ppy.sh/u/759439) | 1605.19 | 10 |
+| 3878 | [Szczur](https://osu.ppy.sh/u/2326970) | 1603.39 | 8 |
+| 3879 | [Parfait](https://osu.ppy.sh/u/6644392) | 1603.16 | 7 |
+| 3880 | [Aquantum](https://osu.ppy.sh/u/1607800) | 1602.61 | 8 |
+| 3881 | [Seoulsim](https://osu.ppy.sh/u/5323280) | 1601.84 | 7 |
+| 3882 | [assimb](https://osu.ppy.sh/u/6023784) | 1600.80 | 8 |
+| 3883 | [dlawlgns](https://osu.ppy.sh/u/5018659) | 1600.59 | 7 |
+| 3884 | [Bob Ross](https://osu.ppy.sh/u/4042903) | 1598.00 | 6 |
+| 3885 | [DrichAldrich](https://osu.ppy.sh/u/3701237) | 1596.65 | 7 |
+| 3886 | [IstackNeko](https://osu.ppy.sh/u/5713209) | 1595.07 | 6 |
+| 3887 | [Kami[Yama]san](https://osu.ppy.sh/u/2209714) | 1593.99 | 8 |
+| 3888 | [-akiz-](https://osu.ppy.sh/u/3683323) | 1593.32 | 5 |
+| 3889 | [Mabby](https://osu.ppy.sh/u/6434974) | 1593.23 | 8 |
+| 3890 | [xQuAle](https://osu.ppy.sh/u/4955893) | 1592.15 | 7 |
+| 3891 | [TayGames](https://osu.ppy.sh/u/5667763) | 1591.56 | 7 |
+| 3892 | [idestinymc](https://osu.ppy.sh/u/7433875) | 1591.53 | 8 |
+| 3893 | [Kirisakionelove](https://osu.ppy.sh/u/6549455) | 1591.01 | 7 |
+| 3894 | [Crystal-](https://osu.ppy.sh/u/2006663) | 1590.88 | 5 |
+| 3895 | [GRiZ-](https://osu.ppy.sh/u/3234149) | 1590.87 | 8 |
+| 3896 | [Toumei](https://osu.ppy.sh/u/5810441) | 1589.71 | 8 |
+| 3897 | [FraancoZBM](https://osu.ppy.sh/u/6150708) | 1589.12 | 7 |
+| 3898 | [iZacs98](https://osu.ppy.sh/u/8015482) | 1587.76 | 8 |
+| 3899 | [Seguri](https://osu.ppy.sh/u/6621540) | 1587.34 | 7 |
+| 3900 | [Nicholasvtn](https://osu.ppy.sh/u/6647401) | 1584.71 | 9 |
+| 3901 | [Zaqqy](https://osu.ppy.sh/u/3498155) | 1584.02 | 7 |
+| 3902 | [Lume](https://osu.ppy.sh/u/4691991) | 1584.01 | 8 |
+| 3903 | [eternum](https://osu.ppy.sh/u/4581069) | 1582.43 | 6 |
+| 3904 | [Daeuk](https://osu.ppy.sh/u/5863949) | 1581.54 | 6 |
+| 3905 | [Pettanko](https://osu.ppy.sh/u/1934154) | 1580.45 | 8 |
+| 3906 | [JoshuaCoppo](https://osu.ppy.sh/u/7106425) | 1580.15 | 7 |
+| 3907 | [Pr3dator-kun](https://osu.ppy.sh/u/8690114) | 1579.33 | 8 |
+| 3908 | [epocsodielaK](https://osu.ppy.sh/u/1480755) | 1577.82 | 8 |
+| 3909 | [[-Koke-]](https://osu.ppy.sh/u/8284569) | 1577.22 | 7 |
+| 3910 | [Neo](https://osu.ppy.sh/u/3368568) | 1576.69 | 6 |
+| 3911 | [Red_Pixel](https://osu.ppy.sh/u/4170932) | 1574.76 | 4 |
+| 3912 | [Xunan1337](https://osu.ppy.sh/u/4672650) | 1573.30 | 8 |
+| 3913 | [lazyboy007](https://osu.ppy.sh/u/7882675) | 1573.28 | 10 |
+| 3914 | [iDevilous](https://osu.ppy.sh/u/6362553) | 1572.12 | 6 |
+| 3915 | [Jatie](https://osu.ppy.sh/u/4628965) | 1572.11 | 7 |
+| 3916 | [DEAD END](https://osu.ppy.sh/u/5590013) | 1572.01 | 8 |
+| 3917 | [MomoiRoZ](https://osu.ppy.sh/u/2248564) | 1571.78 | 9 |
+| 3918 | [TaNaBaTa](https://osu.ppy.sh/u/756273) | 1569.96 | 5 |
+| 3919 | [Xyf](https://osu.ppy.sh/u/3201823) | 1568.74 | 7 |
+| 3920 | [samlove1994](https://osu.ppy.sh/u/2367690) | 1568.18 | 8 |
+| 3921 | [Lexiiii](https://osu.ppy.sh/u/3845031) | 1567.06 | 8 |
+| 3922 | [Popo[Mikoto]](https://osu.ppy.sh/u/445236) | 1566.94 | 8 |
+| 3923 | [Damage](https://osu.ppy.sh/u/5212441) | 1566.48 | 7 |
+| 3924 | [B0ss](https://osu.ppy.sh/u/4037292) | 1566.00 | 7 |
+| 3925 | [Maot](https://osu.ppy.sh/u/3914271) | 1565.68 | 8 |
+| 3926 | [Houtarou Oreki](https://osu.ppy.sh/u/4185566) | 1565.61 | 8 |
+| 3927 | [El Stormy](https://osu.ppy.sh/u/6221172) | 1564.67 | 8 |
+| 3928 | [tetsuya77_sk](https://osu.ppy.sh/u/305828) | 1564.38 | 7 |
+| 3929 | [Shika](https://osu.ppy.sh/u/5295283) | 1564.14 | 6 |
+| 3930 | [namewithnumber9](https://osu.ppy.sh/u/5867839) | 1563.76 | 6 |
+| 3931 | [_Remi](https://osu.ppy.sh/u/2477473) | 1563.74 | 8 |
+| 3932 | [[ Wikii ]](https://osu.ppy.sh/u/4281035) | 1563.50 | 8 |
+| 3933 | [SatoReika](https://osu.ppy.sh/u/5187671) | 1563.37 | 6 |
+| 3934 | [jinketsu](https://osu.ppy.sh/u/264078) | 1562.25 | 8 |
+| 3935 | [Arellio](https://osu.ppy.sh/u/6268413) | 1561.65 | 6 |
+| 3936 | [Aizen](https://osu.ppy.sh/u/7789239) | 1560.44 | 6 |
+| 3937 | [Kyuurei](https://osu.ppy.sh/u/3508003) | 1560.41 | 8 |
+| 3938 | [bldoggy51](https://osu.ppy.sh/u/2192611) | 1560.00 | 8 |
+| 3939 | [Fangslash](https://osu.ppy.sh/u/3236372) | 1559.69 | 8 |
+| 3940 | [dinopwn](https://osu.ppy.sh/u/2838003) | 1557.41 | 6 |
+| 3941 | [frndl](https://osu.ppy.sh/u/3974292) | 1556.19 | 7 |
+| 3942 | [NotTroll](https://osu.ppy.sh/u/2421785) | 1556.02 | 7 |
+| 3943 | [HonzaUrbis](https://osu.ppy.sh/u/6797223) | 1555.14 | 7 |
+| 3944 | [Flathel](https://osu.ppy.sh/u/2368932) | 1553.51 | 6 |
+| 3945 | [Nujaabes](https://osu.ppy.sh/u/5373624) | 1553.42 | 7 |
+| 3946 | [Nylangel](https://osu.ppy.sh/u/4852136) | 1551.23 | 7 |
+| 3947 | [StanR](https://osu.ppy.sh/u/7217455) | 1548.24 | 7 |
+| 3948 | [Nalae](https://osu.ppy.sh/u/6056637) | 1547.53 | 8 |
+| 3949 | [Seiryu](https://osu.ppy.sh/u/5081910) | 1547.47 | 6 |
+| 3950 | [M Il T H O S](https://osu.ppy.sh/u/3980645) | 1547.23 | 7 |
+| 3951 | [Verniy](https://osu.ppy.sh/u/2498807) | 1546.37 | 8 |
+| 3952 | [Floockde](https://osu.ppy.sh/u/5015529) | 1545.86 | 7 |
+| 3953 | [gDragonW](https://osu.ppy.sh/u/4282555) | 1545.64 | 7 |
+| 3954 | [My Angel Kajcio](https://osu.ppy.sh/u/4400938) | 1544.43 | 7 |
+| 3955 | [Curse](https://osu.ppy.sh/u/4596906) | 1544.43 | 6 |
+| 3956 | [DiJix](https://osu.ppy.sh/u/4559871) | 1544.33 | 8 |
+| 3957 | [Materix](https://osu.ppy.sh/u/2065416) | 1543.13 | 6 |
+| 3958 | [Stoof](https://osu.ppy.sh/u/4916057) | 1542.92 | 4 |
+| 3959 | [Wolfy](https://osu.ppy.sh/u/6436692) | 1541.91 | 6 |
+| 3960 | [I A](https://osu.ppy.sh/u/1996126) | 1540.22 | 7 |
+| 3961 | [Chiu](https://osu.ppy.sh/u/3148900) | 1540.01 | 6 |
+| 3962 | [UnReAlLeg3nD](https://osu.ppy.sh/u/6319855) | 1539.31 | 8 |
+| 3963 | [MrCrowley](https://osu.ppy.sh/u/5720463) | 1539.25 | 7 |
+| 3964 | [Gyro Zeppeli](https://osu.ppy.sh/u/3824882) | 1536.18 | 6 |
+| 3965 | [Ohrami](https://osu.ppy.sh/u/285711) | 1534.06 | 6 |
+| 3966 | [BigBadWolf](https://osu.ppy.sh/u/2316176) | 1532.68 | 8 |
+| 3967 | [twenty](https://osu.ppy.sh/u/2485920) | 1532.57 | 6 |
+| 3968 | [Tem](https://osu.ppy.sh/u/5393042) | 1531.44 | 5 |
+| 3969 | [Loca the hooman](https://osu.ppy.sh/u/2642015) | 1530.61 | 7 |
+| 3970 | [-Red Dragon-](https://osu.ppy.sh/u/6989609) | 1530.33 | 7 |
+| 3971 | [N0vy](https://osu.ppy.sh/u/4003726) | 1530.30 | 7 |
+| 3972 | [3DDie39](https://osu.ppy.sh/u/6834365) | 1529.89 | 8 |
+| 3973 | [Yuzucat](https://osu.ppy.sh/u/6119385) | 1529.33 | 8 |
+| 3974 | [ElChindi](https://osu.ppy.sh/u/5121597) | 1528.62 | 8 |
+| 3975 | [Sway](https://osu.ppy.sh/u/2412218) | 1528.02 | 7 |
+| 3976 | [Fidelis](https://osu.ppy.sh/u/7881635) | 1527.71 | 7 |
+| 3977 | [M o M i Z i](https://osu.ppy.sh/u/153770) | 1526.78 | 7 |
+| 3978 | [Woffel](https://osu.ppy.sh/u/3915122) | 1526.16 | 4 |
+| 3979 | [Saix](https://osu.ppy.sh/u/1713861) | 1524.58 | 5 |
+| 3980 | [MySliderBreak](https://osu.ppy.sh/u/5312461) | 1524.30 | 8 |
+| 3981 | [Terces](https://osu.ppy.sh/u/3148418) | 1523.76 | 8 |
+| 3982 | [BurNing](https://osu.ppy.sh/u/342558) | 1523.63 | 7 |
+| 3983 | [J4nh](https://osu.ppy.sh/u/4528888) | 1522.53 | 6 |
+| 3984 | [hamyer](https://osu.ppy.sh/u/3764578) | 1521.04 | 7 |
+| 3985 | [Newjack009](https://osu.ppy.sh/u/8105648) | 1520.57 | 7 |
+| 3986 | [SpellZZZ](https://osu.ppy.sh/u/8246365) | 1519.51 | 8 |
+| 3987 | [Snowslide](https://osu.ppy.sh/u/4198283) | 1518.53 | 5 |
+| 3988 | [MetomBr](https://osu.ppy.sh/u/8856073) | 1517.66 | 7 |
+| 3989 | [Licorne](https://osu.ppy.sh/u/3858242) | 1516.76 | 7 |
+| 3990 | [uzoyR](https://osu.ppy.sh/u/4095868) | 1515.59 | 7 |
+| 3991 | [Bedrock](https://osu.ppy.sh/u/4095978) | 1514.87 | 6 |
+| 3992 | [liminality](https://osu.ppy.sh/u/4638684) | 1513.92 | 7 |
+| 3993 | [SweetWarrior](https://osu.ppy.sh/u/8512043) | 1513.53 | 7 |
+| 3994 | [Yauxo](https://osu.ppy.sh/u/898306) | 1512.38 | 8 |
+| 3995 | [qaryx](https://osu.ppy.sh/u/2678464) | 1511.58 | 8 |
+| 3996 | [My Angel Ayya](https://osu.ppy.sh/u/7370918) | 1511.21 | 6 |
+| 3997 | [wochhi](https://osu.ppy.sh/u/2150561) | 1510.91 | 9 |
+| 3998 | [_flyaway](https://osu.ppy.sh/u/6579694) | 1509.52 | 7 |
+| 3999 | [rooodi](https://osu.ppy.sh/u/2363401) | 1509.29 | 6 |
+| 4000 | [a_Blue](https://osu.ppy.sh/u/5645667) | 1507.87 | 6 |
+| 4001 | [--Shizuru--](https://osu.ppy.sh/u/6008727) | 1507.43 | 8 |
+| 4002 | [Littleboy40](https://osu.ppy.sh/u/4396915) | 1507.33 | 7 |
+| 4003 | [012555](https://osu.ppy.sh/u/5170497) | 1507.28 | 8 |
+| 4004 | [Fyre](https://osu.ppy.sh/u/5273488) | 1506.58 | 6 |
+| 4005 | [reyki](https://osu.ppy.sh/u/6614679) | 1505.25 | 9 |
+| 4006 | [TheWildTree](https://osu.ppy.sh/u/4667632) | 1504.52 | 6 |
+| 4007 | [pcl5x2008](https://osu.ppy.sh/u/809832) | 1501.28 | 7 |
+| 4008 | [Tedd](https://osu.ppy.sh/u/3587330) | 1501.28 | 7 |
+| 4009 | [Queno](https://osu.ppy.sh/u/5170703) | 1501.12 | 8 |
+| 4010 | [Atomosphere](https://osu.ppy.sh/u/5254363) | 1499.67 | 8 |
+| 4011 | [disonnected](https://osu.ppy.sh/u/4177600) | 1498.57 | 8 |
+| 4012 | [Zprait](https://osu.ppy.sh/u/8170186) | 1498.33 | 6 |
+| 4013 | [Ryker-](https://osu.ppy.sh/u/8533847) | 1496.75 | 6 |
+| 4014 | [Chocola](https://osu.ppy.sh/u/2493825) | 1496.07 | 7 |
+| 4015 | [Yogurtt](https://osu.ppy.sh/u/2649717) | 1496.04 | 7 |
+| 4016 | [DuckMaster3000](https://osu.ppy.sh/u/6779915) | 1495.61 | 6 |
+| 4017 | [High End](https://osu.ppy.sh/u/1867760) | 1495.60 | 6 |
+| 4018 | [AleksandrsCaks](https://osu.ppy.sh/u/6156091) | 1495.27 | 8 |
+| 4019 | [The_Herobrine](https://osu.ppy.sh/u/3628837) | 1495.13 | 6 |
+| 4020 | [Aika S](https://osu.ppy.sh/u/851659) | 1494.40 | 8 |
+| 4021 | [handsome](https://osu.ppy.sh/u/2123087) | 1494.15 | 8 |
+| 4022 | [KAKALOTE](https://osu.ppy.sh/u/1840225) | 1493.76 | 6 |
+| 4023 | [My Rabbit Chino](https://osu.ppy.sh/u/4193171) | 1491.46 | 5 |
+| 4024 | [Kamykazi](https://osu.ppy.sh/u/3621226) | 1490.64 | 5 |
+| 4025 | [- Auto -](https://osu.ppy.sh/u/4891293) | 1489.93 | 6 |
+| 4026 | [chenwu](https://osu.ppy.sh/u/466736) | 1488.96 | 6 |
+| 4027 | [[Kirima Sharo]](https://osu.ppy.sh/u/4911870) | 1488.96 | 7 |
+| 4028 | [lokillo_999](https://osu.ppy.sh/u/5317898) | 1488.84 | 8 |
+| 4029 | [Barto](https://osu.ppy.sh/u/5280914) | 1488.51 | 7 |
+| 4030 | [Nap4d](https://osu.ppy.sh/u/3590279) | 1488.25 | 6 |
+| 4031 | [Ahresty](https://osu.ppy.sh/u/1069451) | 1487.51 | 7 |
+| 4032 | [Blezzing](https://osu.ppy.sh/u/4695713) | 1487.29 | 6 |
+| 4033 | [Papijo](https://osu.ppy.sh/u/7782050) | 1486.61 | 8 |
+| 4034 | [Luziferx1337](https://osu.ppy.sh/u/3463749) | 1486.58 | 5 |
+| 4035 | [Coult909](https://osu.ppy.sh/u/1431051) | 1486.46 | 8 |
+| 4036 | [Phoibos](https://osu.ppy.sh/u/5354000) | 1485.06 | 6 |
+| 4037 | [Tavi](https://osu.ppy.sh/u/2675372) | 1483.07 | 6 |
+| 4038 | [evgx](https://osu.ppy.sh/u/6773401) | 1482.10 | 7 |
+| 4039 | [Extract](https://osu.ppy.sh/u/7138529) | 1481.05 | 6 |
+| 4040 | [Miro](https://osu.ppy.sh/u/4291512) | 1480.87 | 7 |
+| 4041 | [Fervore](https://osu.ppy.sh/u/3171800) | 1480.51 | 5 |
+| 4042 | [im a fancy lad](https://osu.ppy.sh/u/4908650) | 1480.30 | 6 |
+| 4043 | [Kroko95](https://osu.ppy.sh/u/1581661) | 1479.68 | 8 |
+| 4044 | [iamthecman](https://osu.ppy.sh/u/2237934) | 1479.08 | 7 |
+| 4045 | [MartialArtsGod](https://osu.ppy.sh/u/4866376) | 1476.48 | 7 |
+| 4046 | [AfricanMonk](https://osu.ppy.sh/u/3944966) | 1476.45 | 6 |
+| 4047 | [hi im Aaron](https://osu.ppy.sh/u/4067158) | 1476.09 | 7 |
+| 4048 | [SoloTek](https://osu.ppy.sh/u/4289798) | 1474.30 | 7 |
+| 4049 | [WayLand](https://osu.ppy.sh/u/8178552) | 1474.27 | 7 |
+| 4050 | [[Tut]](https://osu.ppy.sh/u/4300947) | 1473.76 | 7 |
+| 4051 | [Game](https://osu.ppy.sh/u/1872675) | 1473.00 | 5 |
+| 4052 | [MeckDonalds](https://osu.ppy.sh/u/4696708) | 1471.87 | 6 |
+| 4053 | [[Sebastian]](https://osu.ppy.sh/u/7920434) | 1471.53 | 5 |
+| 4054 | [Multi169](https://osu.ppy.sh/u/7635560) | 1470.74 | 9 |
+| 4055 | [TheWaterBottle](https://osu.ppy.sh/u/4382588) | 1470.71 | 7 |
+| 4056 | [Jpeypey](https://osu.ppy.sh/u/5836555) | 1470.08 | 7 |
+| 4057 | [lpz](https://osu.ppy.sh/u/3306558) | 1469.74 | 7 |
+| 4058 | [MichaelLeo](https://osu.ppy.sh/u/4321069) | 1469.10 | 8 |
+| 4059 | [Epixia](https://osu.ppy.sh/u/3773956) | 1466.35 | 6 |
+| 4060 | [White Lolita](https://osu.ppy.sh/u/999832) | 1465.66 | 7 |
+| 4061 | [Shiv](https://osu.ppy.sh/u/5718575) | 1465.14 | 7 |
+| 4062 | [Leljuu](https://osu.ppy.sh/u/5338125) | 1464.95 | 7 |
+| 4063 | [EB3K](https://osu.ppy.sh/u/6418398) | 1464.62 | 7 |
+| 4064 | [Aknano](https://osu.ppy.sh/u/2832092) | 1464.09 | 7 |
+| 4065 | [Kazumiru](https://osu.ppy.sh/u/6376141) | 1464.07 | 7 |
+| 4066 | [Vuru](https://osu.ppy.sh/u/7432712) | 1462.74 | 7 |
+| 4067 | [Shigenara](https://osu.ppy.sh/u/5394916) | 1462.51 | 7 |
+| 4068 | [Five](https://osu.ppy.sh/u/2931928) | 1459.56 | 6 |
+| 4069 | [Jaysuss](https://osu.ppy.sh/u/3359378) | 1457.74 | 7 |
+| 4070 | [Birdbeak](https://osu.ppy.sh/u/718742) | 1456.71 | 7 |
+| 4071 | [femmy](https://osu.ppy.sh/u/5438510) | 1455.27 | 7 |
+| 4072 | [kkk](https://osu.ppy.sh/u/4735736) | 1454.87 | 6 |
+| 4073 | [WD_Woepies](https://osu.ppy.sh/u/6920104) | 1454.69 | 7 |
+| 4074 | [YutoStorm](https://osu.ppy.sh/u/6618999) | 1454.60 | 6 |
+| 4075 | [remirya](https://osu.ppy.sh/u/3205523) | 1454.45 | 7 |
+| 4076 | [Arsene](https://osu.ppy.sh/u/4427983) | 1453.46 | 6 |
+| 4077 | [StaHursky223](https://osu.ppy.sh/u/8529128) | 1452.92 | 7 |
+| 4078 | [MasterfulNote5](https://osu.ppy.sh/u/7247988) | 1451.88 | 6 |
+| 4079 | [daredevillj](https://osu.ppy.sh/u/7169098) | 1451.27 | 7 |
+| 4080 | [YoshikoTsushima](https://osu.ppy.sh/u/2631094) | 1450.64 | 6 |
+| 4081 | [Deduwa](https://osu.ppy.sh/u/6884369) | 1449.02 | 8 |
+| 4082 | [-cr1mmy-](https://osu.ppy.sh/u/803766) | 1448.87 | 5 |
+| 4083 | [Low Low](https://osu.ppy.sh/u/4333630) | 1448.15 | 6 |
+| 4084 | [My Angel Tiger](https://osu.ppy.sh/u/6217165) | 1447.47 | 7 |
+| 4085 | [HaNa-](https://osu.ppy.sh/u/2938458) | 1447.33 | 8 |
+| 4086 | [Numbers](https://osu.ppy.sh/u/3702014) | 1446.84 | 5 |
+| 4087 | [Lunah](https://osu.ppy.sh/u/1227377) | 1445.05 | 8 |
+| 4088 | [MyAngelKintrai](https://osu.ppy.sh/u/6638044) | 1444.60 | 8 |
+| 4089 | [Capu](https://osu.ppy.sh/u/2474015) | 1444.35 | 5 |
+| 4090 | [Wuffles](https://osu.ppy.sh/u/2971858) | 1442.82 | 6 |
+| 4091 | [Myylk](https://osu.ppy.sh/u/2145505) | 1442.28 | 6 |
+| 4092 | [Kup92](https://osu.ppy.sh/u/1606295) | 1442.18 | 5 |
+| 4093 | [Brigitte](https://osu.ppy.sh/u/5177479) | 1441.56 | 6 |
+| 4094 | [Kerie](https://osu.ppy.sh/u/3599809) | 1441.54 | 5 |
+| 4095 | [zelda101](https://osu.ppy.sh/u/4502238) | 1439.56 | 5 |
+| 4096 | [TrueKoalaLove](https://osu.ppy.sh/u/3455592) | 1437.18 | 6 |
+| 4097 | [Omniterran](https://osu.ppy.sh/u/1805475) | 1437.06 | 7 |
+| 4098 | [Luigilock](https://osu.ppy.sh/u/7667846) | 1436.00 | 7 |
+| 4099 | [Fon](https://osu.ppy.sh/u/2824988) | 1435.40 | 7 |
+| 4100 | [dancol00](https://osu.ppy.sh/u/3799186) | 1435.08 | 7 |
+| 4101 | [W33DPLAYS](https://osu.ppy.sh/u/7855652) | 1434.61 | 8 |
+| 4102 | [Kwstv0515](https://osu.ppy.sh/u/9629457) | 1433.07 | 7 |
+| 4103 | [uvrv](https://osu.ppy.sh/u/2933416) | 1433.02 | 4 |
+| 4104 | [Perseus](https://osu.ppy.sh/u/6377897) | 1432.98 | 6 |
+| 4105 | [Brain[PS]](https://osu.ppy.sh/u/3567037) | 1431.85 | 8 |
+| 4106 | [Vortecs](https://osu.ppy.sh/u/2715375) | 1431.55 | 7 |
+| 4107 | [kirk3207](https://osu.ppy.sh/u/1660970) | 1430.86 | 6 |
+| 4108 | [[-Shana-]](https://osu.ppy.sh/u/2776029) | 1430.27 | 7 |
+| 4109 | [Highslider](https://osu.ppy.sh/u/169423) | 1428.59 | 7 |
+| 4110 | [T z U](https://osu.ppy.sh/u/1352179) | 1427.86 | 7 |
+| 4111 | [Aikalisa](https://osu.ppy.sh/u/2424684) | 1427.24 | 7 |
+| 4112 | [Einja](https://osu.ppy.sh/u/6065432) | 1426.84 | 6 |
+| 4113 | [Gcc_Chitoge](https://osu.ppy.sh/u/229400) | 1424.94 | 7 |
+| 4114 | [fufu-](https://osu.ppy.sh/u/5532771) | 1422.33 | 6 |
+| 4115 | [Tehron](https://osu.ppy.sh/u/4544907) | 1420.44 | 6 |
+| 4116 | [OK_oreGENKI](https://osu.ppy.sh/u/2444995) | 1419.20 | 6 |
+| 4117 | [a5950147](https://osu.ppy.sh/u/528881) | 1418.40 | 6 |
+| 4118 | [ehutyan](https://osu.ppy.sh/u/929492) | 1417.96 | 6 |
+| 4119 | [Irishy](https://osu.ppy.sh/u/7306698) | 1417.45 | 7 |
+| 4120 | [NymphSan05](https://osu.ppy.sh/u/5340700) | 1417.04 | 8 |
+| 4121 | [Tynamoguy](https://osu.ppy.sh/u/3638962) | 1416.30 | 6 |
+| 4122 | [XbeastXbx](https://osu.ppy.sh/u/4333732) | 1415.70 | 7 |
+| 4123 | [Shimemem](https://osu.ppy.sh/u/7083420) | 1413.43 | 7 |
+| 4124 | [Fighteeur](https://osu.ppy.sh/u/5197941) | 1411.57 | 7 |
+| 4125 | [[ Renekton ]](https://osu.ppy.sh/u/6818003) | 1411.00 | 7 |
+| 4126 | [Akei](https://osu.ppy.sh/u/3002823) | 1410.96 | 7 |
+| 4127 | [_Tyler](https://osu.ppy.sh/u/3521203) | 1410.58 | 6 |
+| 4128 | [balpo](https://osu.ppy.sh/u/4609026) | 1410.26 | 7 |
+| 4129 | [juni3732](https://osu.ppy.sh/u/3755007) | 1409.70 | 7 |
+| 4130 | [XincSoldier](https://osu.ppy.sh/u/4459442) | 1409.65 | 6 |
+| 4131 | [spookali](https://osu.ppy.sh/u/5587075) | 1409.43 | 6 |
+| 4132 | [TehDragonGuy](https://osu.ppy.sh/u/6177661) | 1409.33 | 6 |
+| 4133 | [odenrod_mkw](https://osu.ppy.sh/u/3216445) | 1408.19 | 6 |
+| 4134 | [Uncle](https://osu.ppy.sh/u/4576385) | 1408.05 | 6 |
+| 4135 | [TehJulppu](https://osu.ppy.sh/u/3912982) | 1407.43 | 6 |
+| 4136 | [My Angel Borja](https://osu.ppy.sh/u/5239385) | 1407.40 | 5 |
+| 4137 | [My Angel Apocal](https://osu.ppy.sh/u/6266494) | 1407.17 | 7 |
+| 4138 | [-Shiro Yuki-](https://osu.ppy.sh/u/7048091) | 1406.91 | 6 |
+| 4139 | [hqwizard](https://osu.ppy.sh/u/5955471) | 1406.44 | 8 |
+| 4140 | [cbcraft](https://osu.ppy.sh/u/5185569) | 1406.30 | 6 |
+| 4141 | [DOCE](https://osu.ppy.sh/u/6948703) | 1406.23 | 6 |
+| 4142 | [Lgnd](https://osu.ppy.sh/u/6052329) | 1405.01 | 5 |
+| 4143 | [Heavn_Ly](https://osu.ppy.sh/u/7642720) | 1404.85 | 7 |
+| 4144 | [Olofmeister](https://osu.ppy.sh/u/2900292) | 1403.76 | 6 |
+| 4145 | [xobox](https://osu.ppy.sh/u/6132133) | 1401.29 | 6 |
+| 4146 | [martunio](https://osu.ppy.sh/u/6632924) | 1401.29 | 7 |
+| 4147 | [R E M](https://osu.ppy.sh/u/1643276) | 1399.53 | 7 |
+| 4148 | [MFW PP](https://osu.ppy.sh/u/3229378) | 1398.43 | 7 |
+| 4149 | [Tsubodai](https://osu.ppy.sh/u/2697634) | 1398.22 | 7 |
+| 4150 | [PemiX](https://osu.ppy.sh/u/6974470) | 1397.78 | 6 |
+| 4151 | [Wykui](https://osu.ppy.sh/u/7129894) | 1397.66 | 6 |
+| 4152 | [[ Hollow ]](https://osu.ppy.sh/u/7152107) | 1397.11 | 6 |
+| 4153 | [Gift](https://osu.ppy.sh/u/5194404) | 1396.90 | 7 |
+| 4154 | [Fyan](https://osu.ppy.sh/u/2841570) | 1396.35 | 7 |
+| 4155 | [My Angel MrBooM](https://osu.ppy.sh/u/4163860) | 1396.27 | 3 |
+| 4156 | [Shiratu](https://osu.ppy.sh/u/1731277) | 1395.48 | 5 |
+| 4157 | [Mont](https://osu.ppy.sh/u/5108094) | 1394.22 | 5 |
+| 4158 | [[Hi Im Pro]](https://osu.ppy.sh/u/5209140) | 1393.32 | 6 |
+| 4159 | [Knicklicht-kun](https://osu.ppy.sh/u/5040894) | 1392.50 | 6 |
+| 4160 | [muyachan](https://osu.ppy.sh/u/4410916) | 1392.29 | 6 |
+| 4161 | [rylanledgley](https://osu.ppy.sh/u/5426640) | 1392.08 | 6 |
+| 4162 | [LewdSkoll](https://osu.ppy.sh/u/4802397) | 1391.38 | 7 |
+| 4163 | [Mizuno](https://osu.ppy.sh/u/7261065) | 1389.91 | 6 |
+| 4164 | [-Wellysoff-](https://osu.ppy.sh/u/4713079) | 1387.79 | 6 |
+| 4165 | [Rampax](https://osu.ppy.sh/u/3995630) | 1387.25 | 4 |
+| 4166 | [r3dkid747](https://osu.ppy.sh/u/3665653) | 1386.99 | 7 |
+| 4167 | [Wuab](https://osu.ppy.sh/u/7725544) | 1386.99 | 6 |
+| 4168 | [Saku-](https://osu.ppy.sh/u/4720411) | 1386.82 | 6 |
+| 4169 | [Magicmanx](https://osu.ppy.sh/u/2183182) | 1385.73 | 5 |
+| 4170 | [Henry-](https://osu.ppy.sh/u/793536) | 1385.52 | 5 |
+| 4171 | [Beav](https://osu.ppy.sh/u/3429952) | 1384.77 | 6 |
+| 4172 | [Fkk](https://osu.ppy.sh/u/1162583) | 1383.80 | 6 |
+| 4173 | [Obese](https://osu.ppy.sh/u/3937808) | 1383.61 | 6 |
+| 4174 | [BakaPotato](https://osu.ppy.sh/u/5008006) | 1383.22 | 7 |
+| 4175 | [mby](https://osu.ppy.sh/u/4844909) | 1381.63 | 5 |
+| 4176 | [I Cannot Tablet](https://osu.ppy.sh/u/3900635) | 1380.87 | 6 |
+| 4177 | [Fumax](https://osu.ppy.sh/u/6344590) | 1380.58 | 5 |
+| 4178 | [Elysion](https://osu.ppy.sh/u/106269) | 1380.38 | 4 |
+| 4179 | [Hi Im Dluxx](https://osu.ppy.sh/u/6546301) | 1379.28 | 7 |
+| 4180 | [Sylveon](https://osu.ppy.sh/u/4321256) | 1377.19 | 7 |
+| 4181 | [Fratziii](https://osu.ppy.sh/u/3736075) | 1376.97 | 6 |
+| 4182 | [Anata yori umai](https://osu.ppy.sh/u/4803415) | 1376.92 | 7 |
+| 4183 | [Achiayen](https://osu.ppy.sh/u/5328322) | 1375.66 | 7 |
+| 4184 | [hle](https://osu.ppy.sh/u/2213076) | 1374.97 | 7 |
+| 4185 | [Roxorac6](https://osu.ppy.sh/u/2911342) | 1374.26 | 6 |
+| 4186 | [C-Yuyuko](https://osu.ppy.sh/u/6881726) | 1374.02 | 7 |
+| 4187 | [Hunsaker](https://osu.ppy.sh/u/3322364) | 1373.13 | 6 |
+| 4188 | [AnzewVix](https://osu.ppy.sh/u/8621203) | 1372.09 | 6 |
+| 4189 | [Aisaka Taigaa](https://osu.ppy.sh/u/6635919) | 1372.07 | 7 |
+| 4190 | [Yushi](https://osu.ppy.sh/u/1301770) | 1371.00 | 6 |
+| 4191 | [holyjesus](https://osu.ppy.sh/u/7785655) | 1370.15 | 7 |
+| 4192 | [dreamless_](https://osu.ppy.sh/u/3687275) | 1368.91 | 6 |
+| 4193 | [Salazarino](https://osu.ppy.sh/u/5289722) | 1368.62 | 5 |
+| 4194 | [epowertheif](https://osu.ppy.sh/u/4551319) | 1366.89 | 7 |
+| 4195 | [Saya-Eternal](https://osu.ppy.sh/u/2865291) | 1366.70 | 5 |
+| 4196 | [chydal](https://osu.ppy.sh/u/6409320) | 1366.44 | 6 |
+| 4197 | [Flamie](https://osu.ppy.sh/u/3789802) | 1365.81 | 7 |
+| 4198 | [apprin](https://osu.ppy.sh/u/6582775) | 1365.67 | 5 |
+| 4199 | [MeschejrePL](https://osu.ppy.sh/u/2494889) | 1364.32 | 7 |
+| 4200 | [vindit](https://osu.ppy.sh/u/6258472) | 1363.71 | 7 |
+| 4201 | [Zod](https://osu.ppy.sh/u/646643) | 1363.56 | 5 |
+| 4202 | [Ulti](https://osu.ppy.sh/u/1839540) | 1362.86 | 7 |
+| 4203 | [VGmaster](https://osu.ppy.sh/u/5670635) | 1361.46 | 6 |
+| 4204 | [Ued](https://osu.ppy.sh/u/4831807) | 1361.42 | 6 |
+| 4205 | [Paint-Tool](https://osu.ppy.sh/u/4637208) | 1361.31 | 6 |
+| 4206 | [Naidaaka](https://osu.ppy.sh/u/6988856) | 1361.07 | 6 |
+| 4207 | [aaa840905](https://osu.ppy.sh/u/372413) | 1360.63 | 6 |
+| 4208 | [_GamiGami](https://osu.ppy.sh/u/6045588) | 1360.61 | 6 |
+| 4209 | [dark4rrow](https://osu.ppy.sh/u/1637718) | 1359.55 | 7 |
+| 4210 | [Idylla](https://osu.ppy.sh/u/6851793) | 1359.46 | 6 |
+| 4211 | [- Mizure -](https://osu.ppy.sh/u/2807233) | 1357.54 | 6 |
+| 4212 | [DnCrMn](https://osu.ppy.sh/u/6705613) | 1357.48 | 6 |
+| 4213 | [Lysine-](https://osu.ppy.sh/u/3794345) | 1356.84 | 5 |
+| 4214 | [Chamosiala](https://osu.ppy.sh/u/1469892) | 1355.98 | 4 |
+| 4215 | [Elexy [AR]](https://osu.ppy.sh/u/4738585) | 1355.81 | 6 |
+| 4216 | [Linz9r](https://osu.ppy.sh/u/2613743) | 1355.37 | 6 |
+| 4217 | [Serg](https://osu.ppy.sh/u/7025890) | 1354.49 | 6 |
+| 4218 | [SteffoST](https://osu.ppy.sh/u/6566765) | 1354.25 | 5 |
+| 4219 | [amesutoro](https://osu.ppy.sh/u/1762437) | 1354.24 | 7 |
+| 4220 | [SiIvia](https://osu.ppy.sh/u/2297456) | 1353.99 | 7 |
+| 4221 | [- Voice -](https://osu.ppy.sh/u/7341129) | 1353.86 | 6 |
+| 4222 | [CptSqBany](https://osu.ppy.sh/u/3687666) | 1349.84 | 6 |
+| 4223 | [-rocket](https://osu.ppy.sh/u/5277344) | 1348.75 | 6 |
+| 4224 | [Nagata-](https://osu.ppy.sh/u/4437068) | 1348.58 | 6 |
+| 4225 | [koki6](https://osu.ppy.sh/u/1149010) | 1348.54 | 5 |
+| 4226 | [jcw](https://osu.ppy.sh/u/4068611) | 1348.21 | 7 |
+| 4227 | [sangii99](https://osu.ppy.sh/u/5044969) | 1348.01 | 7 |
+| 4228 | [Aki Misato](https://osu.ppy.sh/u/2617563) | 1347.48 | 6 |
+| 4229 | [stanley021039](https://osu.ppy.sh/u/2066374) | 1346.81 | 5 |
+| 4230 | [Ruubartti](https://osu.ppy.sh/u/3315351) | 1346.51 | 7 |
+| 4231 | [hello hoonzi](https://osu.ppy.sh/u/8896931) | 1345.73 | 7 |
+| 4232 | [Cinderella-](https://osu.ppy.sh/u/5020386) | 1345.27 | 7 |
+| 4233 | [TNGStorM](https://osu.ppy.sh/u/3163495) | 1344.75 | 5 |
+| 4234 | [Sperkano](https://osu.ppy.sh/u/4815202) | 1344.02 | 7 |
+| 4235 | [Kiriel](https://osu.ppy.sh/u/4606224) | 1343.93 | 6 |
+| 4236 | [lsx](https://osu.ppy.sh/u/8263360) | 1342.99 | 7 |
+| 4237 | [Ais](https://osu.ppy.sh/u/3750506) | 1342.24 | 6 |
+| 4238 | [shrimp](https://osu.ppy.sh/u/7189175) | 1341.31 | 6 |
+| 4239 | [sjw5809](https://osu.ppy.sh/u/939560) | 1340.82 | 6 |
+| 4240 | [Mijn Acc Zuigt](https://osu.ppy.sh/u/6722848) | 1340.47 | 6 |
+| 4241 | [Xiniox](https://osu.ppy.sh/u/5233691) | 1340.28 | 5 |
+| 4242 | [Nayu](https://osu.ppy.sh/u/7374769) | 1340.07 | 6 |
+| 4243 | [nycto](https://osu.ppy.sh/u/2867764) | 1339.59 | 4 |
+| 4244 | [Quane](https://osu.ppy.sh/u/382095) | 1339.47 | 5 |
+| 4245 | [NIcky_JL](https://osu.ppy.sh/u/4586107) | 1338.27 | 7 |
+| 4246 | [AstroFP](https://osu.ppy.sh/u/6661913) | 1338.06 | 5 |
+| 4247 | [anosekaie](https://osu.ppy.sh/u/694480) | 1336.42 | 7 |
+| 4248 | [-Kaos](https://osu.ppy.sh/u/2511295) | 1336.10 | 5 |
+| 4249 | [Ulquiorra](https://osu.ppy.sh/u/4783153) | 1336.07 | 6 |
+| 4250 | [Honkia](https://osu.ppy.sh/u/5310902) | 1335.94 | 6 |
+| 4251 | [Joeyekid](https://osu.ppy.sh/u/6585305) | 1335.62 | 6 |
+| 4252 | [skaytan](https://osu.ppy.sh/u/6480903) | 1335.20 | 7 |
+| 4253 | [Matle](https://osu.ppy.sh/u/8206601) | 1334.93 | 7 |
+| 4254 | [kookoo11](https://osu.ppy.sh/u/4714696) | 1334.81 | 6 |
+| 4255 | [Hey dododo](https://osu.ppy.sh/u/6732432) | 1334.53 | 8 |
+| 4256 | [Badcat](https://osu.ppy.sh/u/4198100) | 1333.47 | 5 |
+| 4257 | [ExLeaF](https://osu.ppy.sh/u/4115408) | 1333.11 | 4 |
+| 4258 | [Zain Sugieres](https://osu.ppy.sh/u/2316667) | 1333.05 | 4 |
+| 4259 | [Kaiden Mikami](https://osu.ppy.sh/u/4305359) | 1332.73 | 7 |
+| 4260 | [ZheVulture](https://osu.ppy.sh/u/6570008) | 1332.32 | 7 |
+| 4261 | [Phenomz](https://osu.ppy.sh/u/924354) | 1331.88 | 5 |
+| 4262 | [mr tribble](https://osu.ppy.sh/u/4770967) | 1331.42 | 7 |
+| 4263 | [HaruTachi-](https://osu.ppy.sh/u/6244066) | 1330.98 | 4 |
+| 4264 | [Claus](https://osu.ppy.sh/u/4966424) | 1330.23 | 5 |
+| 4265 | [Shiimara](https://osu.ppy.sh/u/4672061) | 1326.46 | 6 |
+| 4266 | [Yuri Desu](https://osu.ppy.sh/u/6122794) | 1326.22 | 6 |
+| 4267 | [LoLerzzz](https://osu.ppy.sh/u/3460968) | 1326.07 | 6 |
+| 4268 | [-Abdul](https://osu.ppy.sh/u/6673284) | 1325.69 | 6 |
+| 4269 | [White Tiger](https://osu.ppy.sh/u/1695989) | 1325.44 | 4 |
+| 4270 | [Lias](https://osu.ppy.sh/u/1470974) | 1325.23 | 6 |
+| 4271 | [Pomroz](https://osu.ppy.sh/u/6410878) | 1324.10 | 6 |
+| 4272 | [HiIamEdward](https://osu.ppy.sh/u/4792543) | 1322.70 | 6 |
+| 4273 | [Rugakot](https://osu.ppy.sh/u/4160699) | 1322.33 | 5 |
+| 4274 | [Aranaya](https://osu.ppy.sh/u/817904) | 1320.98 | 6 |
+| 4275 | [Jimstar](https://osu.ppy.sh/u/4305602) | 1320.62 | 6 |
+| 4276 | [Blegie](https://osu.ppy.sh/u/6063132) | 1320.59 | 7 |
+| 4277 | [AnyXiate](https://osu.ppy.sh/u/2828006) | 1318.72 | 5 |
+| 4278 | [Adorable Loli](https://osu.ppy.sh/u/7622460) | 1318.68 | 6 |
+| 4279 | [AmericanPenguin](https://osu.ppy.sh/u/6373382) | 1318.61 | 7 |
+| 4280 | [OsuStarDragon](https://osu.ppy.sh/u/6073492) | 1317.22 | 6 |
+| 4281 | [Segregate](https://osu.ppy.sh/u/4627467) | 1316.33 | 6 |
+| 4282 | [_Fami](https://osu.ppy.sh/u/4805435) | 1315.17 | 6 |
+| 4283 | [ice1241](https://osu.ppy.sh/u/5162291) | 1315.13 | 6 |
+| 4284 | [Haru -](https://osu.ppy.sh/u/5115311) | 1313.94 | 6 |
+| 4285 | [Cerulis](https://osu.ppy.sh/u/7013424) | 1313.81 | 7 |
+| 4286 | [Ice Angel](https://osu.ppy.sh/u/1036441) | 1313.38 | 4 |
+| 4287 | [- Spicy Wolf -](https://osu.ppy.sh/u/3197720) | 1313.28 | 5 |
+| 4288 | [ToucheDeVelour](https://osu.ppy.sh/u/2008753) | 1313.07 | 5 |
+| 4289 | [awesomemacD](https://osu.ppy.sh/u/5589933) | 1311.97 | 5 |
+| 4290 | [Woody11](https://osu.ppy.sh/u/5731507) | 1311.32 | 5 |
+| 4291 | [Ginestg](https://osu.ppy.sh/u/3556012) | 1311.12 | 6 |
+| 4292 | [Cyllinus](https://osu.ppy.sh/u/2413420) | 1310.52 | 6 |
+| 4293 | [HowlWater](https://osu.ppy.sh/u/6412746) | 1306.36 | 4 |
+| 4294 | [DrMengele](https://osu.ppy.sh/u/4168138) | 1305.88 | 6 |
+| 4295 | [Darish](https://osu.ppy.sh/u/7512580) | 1304.86 | 6 |
+| 4296 | [Yopinsaurio](https://osu.ppy.sh/u/6831221) | 1304.44 | 6 |
+| 4297 | [plaatinum](https://osu.ppy.sh/u/3385566) | 1303.50 | 6 |
+| 4298 | [Bockara](https://osu.ppy.sh/u/3392405) | 1303.34 | 6 |
+| 4299 | [Tiny Hippo](https://osu.ppy.sh/u/5233686) | 1301.76 | 6 |
+| 4300 | [minsang999](https://osu.ppy.sh/u/5401779) | 1300.17 | 6 |
+| 4301 | [Bruh](https://osu.ppy.sh/u/3461705) | 1299.31 | 7 |
+| 4302 | [Dumi](https://osu.ppy.sh/u/2271615) | 1299.06 | 5 |
+| 4303 | [Youhei Sunohara](https://osu.ppy.sh/u/3453830) | 1298.79 | 6 |
+| 4304 | [iOniigiri](https://osu.ppy.sh/u/3806706) | 1297.37 | 5 |
+| 4305 | [CallMeWeeaboo](https://osu.ppy.sh/u/5553523) | 1297.23 | 6 |
+| 4306 | [chinmeitou](https://osu.ppy.sh/u/2788605) | 1297.23 | 5 |
+| 4307 | [Touhou](https://osu.ppy.sh/u/3832959) | 1296.83 | 6 |
+| 4308 | [Teppichreini](https://osu.ppy.sh/u/1371974) | 1296.26 | 5 |
+| 4309 | [Butterfly](https://osu.ppy.sh/u/540373) | 1295.60 | 6 |
+| 4310 | [Ultimate-Igniz](https://osu.ppy.sh/u/3222191) | 1292.99 | 5 |
+| 4311 | [Dark PHOENIX](https://osu.ppy.sh/u/1275758) | 1292.54 | 4 |
+| 4312 | [Npo3151](https://osu.ppy.sh/u/7761503) | 1292.48 | 6 |
+| 4313 | [Turbo_BBA](https://osu.ppy.sh/u/6415964) | 1292.22 | 5 |
+| 4314 | [LosingCrayon](https://osu.ppy.sh/u/4710974) | 1291.97 | 5 |
+| 4315 | [xRC](https://osu.ppy.sh/u/6074086) | 1291.88 | 6 |
+| 4316 | [Tarix](https://osu.ppy.sh/u/2610433) | 1291.84 | 5 |
+| 4317 | [Shinjite](https://osu.ppy.sh/u/3720547) | 1291.20 | 7 |
+| 4318 | [zSlyr](https://osu.ppy.sh/u/6355505) | 1291.13 | 5 |
+| 4319 | [furyczech](https://osu.ppy.sh/u/5164895) | 1289.57 | 7 |
+| 4320 | [Sakke](https://osu.ppy.sh/u/4982095) | 1287.66 | 4 |
+| 4321 | [Andythebest](https://osu.ppy.sh/u/4138197) | 1286.58 | 6 |
+| 4322 | [Duoquote](https://osu.ppy.sh/u/4920617) | 1286.25 | 5 |
+| 4323 | [dartwall](https://osu.ppy.sh/u/2915403) | 1286.17 | 7 |
+| 4324 | [Keysama](https://osu.ppy.sh/u/3376034) | 1285.53 | 5 |
+| 4325 | [Jumbo](https://osu.ppy.sh/u/5509809) | 1285.27 | 5 |
+| 4326 | [T-lex](https://osu.ppy.sh/u/1008703) | 1285.09 | 5 |
+| 4327 | [-Kokura Asahi-](https://osu.ppy.sh/u/4792164) | 1284.94 | 6 |
+| 4328 | [Sagu](https://osu.ppy.sh/u/4556542) | 1284.72 | 5 |
+| 4329 | [noctisv_v](https://osu.ppy.sh/u/6775083) | 1281.96 | 6 |
+| 4330 | [Kumano](https://osu.ppy.sh/u/3802286) | 1281.84 | 5 |
+| 4331 | [MF Twinky](https://osu.ppy.sh/u/4655448) | 1281.63 | 6 |
+| 4332 | [TensaiRhythm](https://osu.ppy.sh/u/3024454) | 1281.39 | 5 |
+| 4333 | [Ristu](https://osu.ppy.sh/u/4694090) | 1281.28 | 7 |
+| 4334 | [Razekon](https://osu.ppy.sh/u/4700864) | 1280.24 | 7 |
+| 4335 | [IRise](https://osu.ppy.sh/u/3881275) | 1280.23 | 6 |
+| 4336 | [[ Seagulls ]](https://osu.ppy.sh/u/4948536) | 1279.77 | 5 |
+| 4337 | [JapWhite](https://osu.ppy.sh/u/7068158) | 1279.13 | 6 |
+| 4338 | [Aya yo](https://osu.ppy.sh/u/4879024) | 1274.90 | 5 |
+| 4339 | [Hyndzia](https://osu.ppy.sh/u/4127691) | 1274.14 | 5 |
+| 4340 | [Hecs](https://osu.ppy.sh/u/7138565) | 1273.98 | 5 |
+| 4341 | [_Freedom](https://osu.ppy.sh/u/6526231) | 1271.09 | 5 |
+| 4342 | [LINKI](https://osu.ppy.sh/u/8068903) | 1271.07 | 5 |
+| 4343 | [NOOB1200](https://osu.ppy.sh/u/6932501) | 1268.82 | 6 |
+| 4344 | [-Inyafaze-](https://osu.ppy.sh/u/2242883) | 1267.42 | 5 |
+| 4345 | [Remco](https://osu.ppy.sh/u/2080000) | 1266.64 | 5 |
+| 4346 | [ReusoL](https://osu.ppy.sh/u/2539010) | 1265.28 | 4 |
+| 4347 | [Armaggedun](https://osu.ppy.sh/u/3790776) | 1263.03 | 6 |
+| 4348 | [XZ19](https://osu.ppy.sh/u/1656340) | 1262.57 | 5 |
+| 4349 | [Mackey](https://osu.ppy.sh/u/4036139) | 1262.09 | 6 |
+| 4350 | [ebc123](https://osu.ppy.sh/u/2132093) | 1260.52 | 4 |
+| 4351 | [zasq112](https://osu.ppy.sh/u/4786393) | 1260.05 | 7 |
+| 4352 | [SadnessWillSear](https://osu.ppy.sh/u/6591496) | 1258.97 | 4 |
+| 4353 | [-Secrett](https://osu.ppy.sh/u/5486421) | 1258.67 | 6 |
+| 4354 | [Nicekenny](https://osu.ppy.sh/u/2405669) | 1257.08 | 5 |
+| 4355 | [Himegami](https://osu.ppy.sh/u/6056224) | 1256.71 | 6 |
+| 4356 | [engie15](https://osu.ppy.sh/u/5160629) | 1256.05 | 6 |
+| 4357 | [Usami Renko](https://osu.ppy.sh/u/1793551) | 1255.18 | 6 |
+| 4358 | [[ Take ]](https://osu.ppy.sh/u/3628613) | 1254.32 | 6 |
+| 4359 | [Mithyra](https://osu.ppy.sh/u/5226219) | 1253.67 | 5 |
+| 4360 | [Maxium](https://osu.ppy.sh/u/3147619) | 1251.81 | 5 |
+| 4361 | [-Miky-](https://osu.ppy.sh/u/5229124) | 1251.76 | 5 |
+| 4362 | [Jiquee](https://osu.ppy.sh/u/6796545) | 1250.89 | 6 |
+| 4363 | [[Kamiya]](https://osu.ppy.sh/u/2139130) | 1250.44 | 6 |
+| 4364 | [Souko](https://osu.ppy.sh/u/417431) | 1250.36 | 5 |
+| 4365 | [putojajexd](https://osu.ppy.sh/u/4312521) | 1250.33 | 5 |
+| 4366 | [sonic_gamer96](https://osu.ppy.sh/u/4704608) | 1250.19 | 4 |
+| 4367 | [Foeni](https://osu.ppy.sh/u/2747503) | 1250.14 | 6 |
+| 4368 | [Nicholas](https://osu.ppy.sh/u/2214351) | 1249.60 | 7 |
+| 4369 | [Chaoslitz](https://osu.ppy.sh/u/3621552) | 1248.78 | 4 |
+| 4370 | [Lita](https://osu.ppy.sh/u/1468578) | 1248.50 | 5 |
+| 4371 | [FatalMusic](https://osu.ppy.sh/u/4952564) | 1248.40 | 6 |
+| 4372 | [Finishek](https://osu.ppy.sh/u/4563224) | 1247.31 | 6 |
+| 4373 | [LeeSinOrAfk](https://osu.ppy.sh/u/3381370) | 1247.30 | 5 |
+| 4374 | [Counter](https://osu.ppy.sh/u/2989145) | 1247.12 | 5 |
+| 4375 | [BoshyMan741](https://osu.ppy.sh/u/4830687) | 1247.02 | 6 |
+| 4376 | [Silentium](https://osu.ppy.sh/u/7715507) | 1246.36 | 5 |
+| 4377 | [Onestay](https://osu.ppy.sh/u/2097755) | 1246.17 | 6 |
+| 4378 | [beatmasher69](https://osu.ppy.sh/u/1634675) | 1245.90 | 6 |
+| 4379 | [Like_Rin](https://osu.ppy.sh/u/7472104) | 1245.06 | 6 |
+| 4380 | [Savag3blow](https://osu.ppy.sh/u/2934864) | 1244.22 | 5 |
+| 4381 | [Koryuko](https://osu.ppy.sh/u/6549616) | 1244.06 | 6 |
+| 4382 | [Gandalf](https://osu.ppy.sh/u/3371901) | 1243.54 | 6 |
+| 4383 | [SWAT](https://osu.ppy.sh/u/6554821) | 1243.53 | 6 |
+| 4384 | [Soby](https://osu.ppy.sh/u/3479190) | 1242.35 | 6 |
+| 4385 | [mikocon](https://osu.ppy.sh/u/4926661) | 1242.01 | 6 |
+| 4386 | [- AisakaTaiga -](https://osu.ppy.sh/u/3273856) | 1241.02 | 4 |
+| 4387 | [pielak213](https://osu.ppy.sh/u/310455) | 1240.77 | 5 |
+| 4388 | [Usak Kak](https://osu.ppy.sh/u/6206809) | 1239.29 | 6 |
+| 4389 | [wobeinimacao](https://osu.ppy.sh/u/350723) | 1239.19 | 4 |
+| 4390 | [Corcheedos](https://osu.ppy.sh/u/3759474) | 1238.09 | 6 |
+| 4391 | [rxbass1337](https://osu.ppy.sh/u/6046092) | 1237.89 | 6 |
+| 4392 | [EnEMy](https://osu.ppy.sh/u/476757) | 1236.37 | 5 |
+| 4393 | [Kyozoru](https://osu.ppy.sh/u/6926818) | 1236.26 | 5 |
+| 4394 | [Down](https://osu.ppy.sh/u/4694602) | 1234.83 | 6 |
+| 4395 | [[-Destroyer-]](https://osu.ppy.sh/u/6457569) | 1233.10 | 7 |
+| 4396 | [erictran0](https://osu.ppy.sh/u/2846454) | 1231.30 | 4 |
+| 4397 | [- Yoshimaro -](https://osu.ppy.sh/u/3823413) | 1230.73 | 6 |
+| 4398 | [Pilplup](https://osu.ppy.sh/u/7107472) | 1230.71 | 5 |
+| 4399 | [Siilver](https://osu.ppy.sh/u/6702778) | 1230.22 | 6 |
+| 4400 | [[Doumon]](https://osu.ppy.sh/u/1951300) | 1230.20 | 5 |
+| 4401 | [IsaiasFavera](https://osu.ppy.sh/u/7329960) | 1229.32 | 5 |
+| 4402 | [xsTiLt](https://osu.ppy.sh/u/4091717) | 1228.40 | 6 |
+| 4403 | [Minorsonek](https://osu.ppy.sh/u/5377178) | 1228.16 | 5 |
+| 4404 | [Lolis4Lyfe](https://osu.ppy.sh/u/7252425) | 1228.14 | 5 |
+| 4405 | [Goobiz](https://osu.ppy.sh/u/3560573) | 1227.81 | 5 |
+| 4406 | [TKoo](https://osu.ppy.sh/u/7159618) | 1226.53 | 5 |
+| 4407 | [Kepap](https://osu.ppy.sh/u/7933039) | 1225.20 | 6 |
+| 4408 | [lHeimer-](https://osu.ppy.sh/u/1762634) | 1224.67 | 6 |
+| 4409 | [Barack Obama](https://osu.ppy.sh/u/4631362) | 1223.89 | 6 |
+| 4410 | [Pituophis](https://osu.ppy.sh/u/5805249) | 1223.44 | 6 |
+| 4411 | [LimyY](https://osu.ppy.sh/u/7855006) | 1223.31 | 6 |
+| 4412 | [SinonTopWaifu](https://osu.ppy.sh/u/8161613) | 1222.67 | 5 |
+| 4413 | [Vamignon](https://osu.ppy.sh/u/4041242) | 1222.24 | 6 |
+| 4414 | [Seeker](https://osu.ppy.sh/u/3152005) | 1221.06 | 6 |
+| 4415 | [Sadotaku](https://osu.ppy.sh/u/8374130) | 1218.60 | 6 |
+| 4416 | [StrikersZeD](https://osu.ppy.sh/u/5087039) | 1218.57 | 5 |
+| 4417 | [Corefish](https://osu.ppy.sh/u/4673998) | 1217.53 | 6 |
+| 4418 | [Hwky](https://osu.ppy.sh/u/8200217) | 1213.86 | 6 |
+| 4419 | [[Jelly]](https://osu.ppy.sh/u/7127468) | 1213.66 | 5 |
+| 4420 | [Player5560](https://osu.ppy.sh/u/7451805) | 1212.73 | 6 |
+| 4421 | [SergeHand](https://osu.ppy.sh/u/6097058) | 1212.62 | 6 |
+| 4422 | [- M o D e -](https://osu.ppy.sh/u/4580287) | 1212.21 | 6 |
+| 4423 | [nizhi](https://osu.ppy.sh/u/6171792) | 1211.25 | 6 |
+| 4424 | [-Youko](https://osu.ppy.sh/u/2639147) | 1211.15 | 5 |
+| 4425 | [dpisdaniel](https://osu.ppy.sh/u/7911098) | 1210.87 | 6 |
+| 4426 | [-Katsuo-](https://osu.ppy.sh/u/3460798) | 1210.72 | 6 |
+| 4427 | [Weertypoi](https://osu.ppy.sh/u/3502504) | 1210.47 | 4 |
+| 4428 | [Keyreaper](https://osu.ppy.sh/u/2067420) | 1209.75 | 6 |
+| 4429 | [toMKazaNSky](https://osu.ppy.sh/u/1602727) | 1208.40 | 5 |
+| 4430 | [1L174](https://osu.ppy.sh/u/4756308) | 1207.75 | 6 |
+| 4431 | [Vio](https://osu.ppy.sh/u/5661237) | 1207.49 | 6 |
+| 4432 | [Mizukisaya](https://osu.ppy.sh/u/3722074) | 1206.97 | 5 |
+| 4433 | [Diulenomo](https://osu.ppy.sh/u/2468119) | 1206.61 | 4 |
+| 4434 | [Auge](https://osu.ppy.sh/u/7115794) | 1206.22 | 5 |
+| 4435 | [[ZN]](https://osu.ppy.sh/u/1030696) | 1205.67 | 4 |
+| 4436 | [[Diego]](https://osu.ppy.sh/u/2456443) | 1205.57 | 5 |
+| 4437 | [TheRedMati](https://osu.ppy.sh/u/7160379) | 1205.55 | 5 |
+| 4438 | [NeTsune](https://osu.ppy.sh/u/8268124) | 1205.34 | 5 |
+| 4439 | [Asmodeusa](https://osu.ppy.sh/u/3043440) | 1205.17 | 5 |
+| 4440 | [Miaouw](https://osu.ppy.sh/u/3896382) | 1205.07 | 5 |
+| 4441 | [Noe](https://osu.ppy.sh/u/1834667) | 1204.17 | 6 |
+| 4442 | [Neliel](https://osu.ppy.sh/u/1500305) | 1204.00 | 3 |
+| 4443 | [MyAngelSaitama](https://osu.ppy.sh/u/3699053) | 1203.85 | 6 |
+| 4444 | [Mikols3](https://osu.ppy.sh/u/6150191) | 1202.79 | 5 |
+| 4445 | [O AzusaCat O](https://osu.ppy.sh/u/3026833) | 1202.32 | 6 |
+| 4446 | [Yuzusoft](https://osu.ppy.sh/u/3925670) | 1202.17 | 5 |
+| 4447 | [Siegrein](https://osu.ppy.sh/u/1725067) | 1201.86 | 6 |
+| 4448 | [DanyL](https://osu.ppy.sh/u/3069354) | 1201.69 | 3 |
+| 4449 | [demou](https://osu.ppy.sh/u/2749202) | 1201.51 | 6 |
+| 4450 | [brother](https://osu.ppy.sh/u/6236248) | 1199.76 | 5 |
+| 4451 | [uyghti](https://osu.ppy.sh/u/3641404) | 1199.58 | 3 |
+| 4452 | [Sharfik](https://osu.ppy.sh/u/5533261) | 1199.30 | 5 |
+| 4453 | [worst dt player](https://osu.ppy.sh/u/1155110) | 1198.78 | 4 |
+| 4454 | [Verdade](https://osu.ppy.sh/u/6147171) | 1197.91 | 6 |
+| 4455 | [Intex](https://osu.ppy.sh/u/7451956) | 1197.52 | 6 |
+| 4456 | [RobotTermite](https://osu.ppy.sh/u/2713287) | 1197.08 | 6 |
+| 4457 | [xCancer](https://osu.ppy.sh/u/2423648) | 1196.84 | 5 |
+| 4458 | [Pana](https://osu.ppy.sh/u/2655062) | 1196.34 | 6 |
+| 4459 | [LittleWicked](https://osu.ppy.sh/u/4091338) | 1195.94 | 5 |
+| 4460 | [r0beRT](https://osu.ppy.sh/u/1503557) | 1194.51 | 4 |
+| 4461 | [[ Yukinon ]](https://osu.ppy.sh/u/4551750) | 1194.04 | 5 |
+| 4462 | [Yorozu Hikaru](https://osu.ppy.sh/u/4384749) | 1193.92 | 6 |
+| 4463 | [gjf12](https://osu.ppy.sh/u/4568146) | 1193.48 | 6 |
+| 4464 | [KRAIZGER](https://osu.ppy.sh/u/2795612) | 1192.87 | 6 |
+| 4465 | [Touhou Project](https://osu.ppy.sh/u/1595370) | 1192.47 | 5 |
+| 4466 | [winber1](https://osu.ppy.sh/u/270328) | 1192.39 | 6 |
+| 4467 | [DrakRainbow](https://osu.ppy.sh/u/1320231) | 1191.30 | 5 |
+| 4468 | [seentez](https://osu.ppy.sh/u/2240687) | 1190.58 | 6 |
+| 4469 | [Eyr](https://osu.ppy.sh/u/4354977) | 1190.35 | 5 |
+| 4470 | [Anto](https://osu.ppy.sh/u/276444) | 1189.75 | 5 |
+| 4471 | [instax](https://osu.ppy.sh/u/3407754) | 1189.56 | 5 |
+| 4472 | [Gerodar](https://osu.ppy.sh/u/1328300) | 1189.25 | 6 |
+| 4473 | [roo](https://osu.ppy.sh/u/6845521) | 1188.74 | 5 |
+| 4474 | [Aibou](https://osu.ppy.sh/u/5851791) | 1188.46 | 5 |
+| 4475 | [Mun](https://osu.ppy.sh/u/6699165) | 1188.21 | 6 |
+| 4476 | [Elinia](https://osu.ppy.sh/u/1406196) | 1187.05 | 5 |
+| 4477 | [CheEZ](https://osu.ppy.sh/u/272117) | 1186.88 | 6 |
+| 4478 | [eok9988](https://osu.ppy.sh/u/5203627) | 1186.34 | 5 |
+| 4479 | [Ambitions](https://osu.ppy.sh/u/1366863) | 1186.22 | 4 |
+| 4480 | [ayauchida](https://osu.ppy.sh/u/4801915) | 1184.82 | 6 |
+| 4481 | [Spark-desu](https://osu.ppy.sh/u/4601608) | 1184.76 | 3 |
+| 4482 | [xGerYy](https://osu.ppy.sh/u/5518369) | 1184.47 | 5 |
+| 4483 | [Birskey](https://osu.ppy.sh/u/6831598) | 1183.40 | 6 |
+| 4484 | [wiam103](https://osu.ppy.sh/u/4109839) | 1182.35 | 7 |
+| 4485 | [thinking](https://osu.ppy.sh/u/7642841) | 1181.65 | 5 |
+| 4486 | [Ricardo93](https://osu.ppy.sh/u/8745248) | 1181.11 | 6 |
+| 4487 | [Salopenidas](https://osu.ppy.sh/u/6133101) | 1180.67 | 4 |
+| 4488 | [Kirgirik](https://osu.ppy.sh/u/3329188) | 1179.47 | 6 |
+| 4489 | [-Dead-](https://osu.ppy.sh/u/4121149) | 1179.10 | 5 |
+| 4490 | [Skyzo](https://osu.ppy.sh/u/2271722) | 1179.06 | 5 |
+| 4491 | [Shatter](https://osu.ppy.sh/u/4345815) | 1179.01 | 6 |
+| 4492 | [Duboon](https://osu.ppy.sh/u/3574235) | 1178.18 | 5 |
+| 4493 | [lingonberra](https://osu.ppy.sh/u/1659008) | 1177.98 | 6 |
+| 4494 | [pixeliq](https://osu.ppy.sh/u/3275817) | 1177.32 | 5 |
+| 4495 | [fieryrage](https://osu.ppy.sh/u/3533958) | 1176.97 | 3 |
+| 4496 | [Mogiter](https://osu.ppy.sh/u/5573571) | 1176.61 | 6 |
+| 4497 | [Valtronas](https://osu.ppy.sh/u/6631948) | 1176.56 | 5 |
+| 4498 | [Zeltcon](https://osu.ppy.sh/u/3630130) | 1176.22 | 6 |
+| 4499 | [ErikSu](https://osu.ppy.sh/u/4478491) | 1175.79 | 4 |
+| 4500 | [rkde970](https://osu.ppy.sh/u/1395616) | 1175.72 | 5 |
+| 4501 | [sasakure](https://osu.ppy.sh/u/1816631) | 1172.93 | 4 |
+| 4502 | [BO MAY NUKO](https://osu.ppy.sh/u/6407326) | 1171.77 | 5 |
+| 4503 | [- Zirael -](https://osu.ppy.sh/u/7233153) | 1170.51 | 6 |
+| 4504 | [Qrisp](https://osu.ppy.sh/u/5506275) | 1170.39 | 5 |
+| 4505 | [-Alice Nakiri-](https://osu.ppy.sh/u/5448785) | 1170.18 | 6 |
+| 4506 | [rihis123](https://osu.ppy.sh/u/4499926) | 1169.93 | 5 |
+| 4507 | [AYellowPerson](https://osu.ppy.sh/u/4657414) | 1169.23 | 6 |
+| 4508 | [Pobu](https://osu.ppy.sh/u/7738212) | 1169.23 | 4 |
+| 4509 | [Pepe69](https://osu.ppy.sh/u/7011389) | 1168.86 | 6 |
+| 4510 | [nuutie](https://osu.ppy.sh/u/5540625) | 1168.18 | 6 |
+| 4511 | [Suo](https://osu.ppy.sh/u/1314251) | 1167.86 | 6 |
+| 4512 | [Krokou](https://osu.ppy.sh/u/2078770) | 1167.80 | 4 |
+| 4513 | [BkrilL](https://osu.ppy.sh/u/3919482) | 1167.46 | 4 |
+| 4514 | [benbenn](https://osu.ppy.sh/u/6809714) | 1167.01 | 6 |
+| 4515 | [Zettus](https://osu.ppy.sh/u/2305984) | 1167.00 | 4 |
+| 4516 | [groovy](https://osu.ppy.sh/u/4042277) | 1166.61 | 6 |
+| 4517 | [Castiel](https://osu.ppy.sh/u/1986262) | 1166.24 | 3 |
+| 4518 | [Seraxis](https://osu.ppy.sh/u/5068922) | 1166.06 | 6 |
+| 4519 | [Drox-](https://osu.ppy.sh/u/4309566) | 1164.83 | 6 |
+| 4520 | [Dcyte](https://osu.ppy.sh/u/2659707) | 1164.57 | 6 |
+| 4521 | [RedLeaf](https://osu.ppy.sh/u/2703742) | 1164.21 | 4 |
+| 4522 | [-Emi](https://osu.ppy.sh/u/7889292) | 1163.83 | 6 |
+| 4523 | [K47](https://osu.ppy.sh/u/1730835) | 1163.10 | 5 |
+| 4524 | [E a g l e](https://osu.ppy.sh/u/2383961) | 1162.32 | 4 |
+| 4525 | [Final Dice](https://osu.ppy.sh/u/3450454) | 1161.71 | 5 |
+| 4526 | [Kuro Fuyusaki](https://osu.ppy.sh/u/2667496) | 1161.69 | 6 |
+| 4527 | [Seinaru](https://osu.ppy.sh/u/5654127) | 1159.57 | 5 |
+| 4528 | [Symco](https://osu.ppy.sh/u/6537974) | 1159.32 | 5 |
+| 4529 | [_Shironeko_](https://osu.ppy.sh/u/4607960) | 1159.28 | 4 |
+| 4530 | [FinnHallqvist](https://osu.ppy.sh/u/5380748) | 1159.12 | 5 |
+| 4531 | [[ Kuro Usagi ]](https://osu.ppy.sh/u/997489) | 1158.61 | 4 |
+| 4532 | [VanillaSandvich](https://osu.ppy.sh/u/2782093) | 1158.46 | 6 |
+| 4533 | [higurush](https://osu.ppy.sh/u/602159) | 1158.15 | 6 |
+| 4534 | [SixGod water](https://osu.ppy.sh/u/4805052) | 1157.24 | 5 |
+| 4535 | [Dukaaz](https://osu.ppy.sh/u/6753555) | 1157.01 | 6 |
+| 4536 | [TitanOuranus](https://osu.ppy.sh/u/3976115) | 1156.87 | 6 |
+| 4537 | [pepebope](https://osu.ppy.sh/u/2211718) | 1155.98 | 6 |
+| 4538 | [Brenn52](https://osu.ppy.sh/u/5319414) | 1155.30 | 6 |
+| 4539 | [DeviousPanda](https://osu.ppy.sh/u/4966334) | 1155.19 | 5 |
+| 4540 | [Asephaya](https://osu.ppy.sh/u/6419256) | 1155.06 | 6 |
+| 4541 | [FlashLight](https://osu.ppy.sh/u/2055807) | 1154.97 | 7 |
+| 4542 | [Trishma](https://osu.ppy.sh/u/3502135) | 1154.90 | 5 |
+| 4543 | [-Bitard-](https://osu.ppy.sh/u/7206286) | 1154.47 | 7 |
+| 4544 | [Supy](https://osu.ppy.sh/u/441249) | 1154.20 | 6 |
+| 4545 | [Dramilion](https://osu.ppy.sh/u/3058773) | 1154.18 | 5 |
+| 4546 | [LutwixTudra](https://osu.ppy.sh/u/7629956) | 1153.70 | 6 |
+| 4547 | [SunEater](https://osu.ppy.sh/u/4631842) | 1153.43 | 5 |
+| 4548 | [[-FlyingRUPig-]](https://osu.ppy.sh/u/4297325) | 1153.41 | 5 |
+| 4549 | [subgenius](https://osu.ppy.sh/u/3772587) | 1152.98 | 5 |
+| 4550 | [Haxvo](https://osu.ppy.sh/u/4629091) | 1152.88 | 5 |
+| 4551 | [KyoAni](https://osu.ppy.sh/u/6837619) | 1151.77 | 4 |
+| 4552 | [-Shizuru-](https://osu.ppy.sh/u/3208890) | 1150.27 | 6 |
+| 4553 | [ZephyrProxy](https://osu.ppy.sh/u/4734651) | 1150.12 | 4 |
+| 4554 | [TheCraftyshock](https://osu.ppy.sh/u/4063341) | 1149.74 | 5 |
+| 4555 | [_yu68](https://osu.ppy.sh/u/6170507) | 1149.17 | 5 |
+| 4556 | [skalman1231](https://osu.ppy.sh/u/7372879) | 1148.36 | 6 |
+| 4557 | [DaBigWan](https://osu.ppy.sh/u/5369012) | 1147.96 | 5 |
+| 4558 | [Bozu](https://osu.ppy.sh/u/5189002) | 1147.57 | 5 |
+| 4559 | [Disappear](https://osu.ppy.sh/u/5981363) | 1147.26 | 5 |
+| 4560 | [Okaeri](https://osu.ppy.sh/u/3508876) | 1147.12 | 6 |
+| 4561 | [MarvelWizardKH](https://osu.ppy.sh/u/5356586) | 1146.99 | 5 |
+| 4562 | [lndex](https://osu.ppy.sh/u/2038320) | 1146.96 | 4 |
+| 4563 | [zlEvolution](https://osu.ppy.sh/u/6826405) | 1146.83 | 6 |
+| 4564 | [Dawt](https://osu.ppy.sh/u/2747704) | 1145.34 | 5 |
+| 4565 | [Silicon-Based](https://osu.ppy.sh/u/3986741) | 1145.27 | 4 |
+| 4566 | [Krovesia](https://osu.ppy.sh/u/6197261) | 1145.25 | 5 |
+| 4567 | [-[Civetz]-](https://osu.ppy.sh/u/4374700) | 1145.07 | 5 |
+| 4568 | [Refreshed](https://osu.ppy.sh/u/2186830) | 1144.80 | 5 |
+| 4569 | [Rhythm-](https://osu.ppy.sh/u/5355761) | 1142.15 | 6 |
+| 4570 | [Mikoto](https://osu.ppy.sh/u/621553) | 1141.85 | 4 |
+| 4571 | [Alumetorz](https://osu.ppy.sh/u/1145984) | 1140.95 | 3 |
+| 4572 | [BabyAlan](https://osu.ppy.sh/u/3230412) | 1140.71 | 5 |
+| 4573 | [Mystogan pal](https://osu.ppy.sh/u/3378996) | 1140.42 | 6 |
+| 4574 | [Spadedog](https://osu.ppy.sh/u/4700778) | 1139.30 | 5 |
+| 4575 | [Husk](https://osu.ppy.sh/u/3578707) | 1137.43 | 4 |
+| 4576 | [Davuka](https://osu.ppy.sh/u/6810352) | 1137.01 | 5 |
+| 4577 | [Slaashed](https://osu.ppy.sh/u/5237025) | 1136.86 | 5 |
+| 4578 | [xierbaliti](https://osu.ppy.sh/u/34044) | 1136.65 | 6 |
+| 4579 | [Perando](https://osu.ppy.sh/u/7655120) | 1135.14 | 6 |
+| 4580 | [Divity](https://osu.ppy.sh/u/4784737) | 1135.08 | 5 |
+| 4581 | [kyu-vox](https://osu.ppy.sh/u/2646777) | 1134.96 | 6 |
+| 4582 | [Gshp_Szk](https://osu.ppy.sh/u/1461481) | 1133.52 | 4 |
+| 4583 | [_Akio](https://osu.ppy.sh/u/8676866) | 1133.35 | 5 |
+| 4584 | [gimly32](https://osu.ppy.sh/u/3448993) | 1132.80 | 5 |
+| 4585 | [Maruyu](https://osu.ppy.sh/u/3003978) | 1130.54 | 6 |
+| 4586 | [CanIQuitNow](https://osu.ppy.sh/u/1331455) | 1130.05 | 4 |
+| 4587 | [Konoe-Subaru](https://osu.ppy.sh/u/3637229) | 1129.96 | 5 |
+| 4588 | [isopaharuntikka](https://osu.ppy.sh/u/4667337) | 1128.48 | 6 |
+| 4589 | [Profile](https://osu.ppy.sh/u/4555697) | 1128.11 | 6 |
+| 4590 | [[ Kue ]](https://osu.ppy.sh/u/4472944) | 1127.80 | 5 |
+| 4591 | [Ryuukai](https://osu.ppy.sh/u/6636960) | 1127.12 | 5 |
+| 4592 | [7-40](https://osu.ppy.sh/u/3668462) | 1126.61 | 6 |
+| 4593 | [Akemi Yume](https://osu.ppy.sh/u/5814737) | 1126.22 | 4 |
+| 4594 | [yumi910218](https://osu.ppy.sh/u/3206030) | 1125.64 | 5 |
+| 4595 | [Chazt](https://osu.ppy.sh/u/4402088) | 1125.58 | 5 |
+| 4596 | [Prometheus](https://osu.ppy.sh/u/2249929) | 1124.83 | 5 |
+| 4597 | [ProAtBeingAKid](https://osu.ppy.sh/u/6421116) | 1124.23 | 5 |
+| 4598 | [-Shana-](https://osu.ppy.sh/u/5214879) | 1124.22 | 5 |
+| 4599 | [noahvoasen](https://osu.ppy.sh/u/4320116) | 1124.11 | 5 |
+| 4600 | [Myke](https://osu.ppy.sh/u/3052323) | 1123.63 | 5 |
+| 4601 | [-SonGoku-](https://osu.ppy.sh/u/4604877) | 1122.48 | 5 |
+| 4602 | [Nope](https://osu.ppy.sh/u/827274) | 1122.03 | 5 |
+| 4603 | [Anzu Takakura](https://osu.ppy.sh/u/6466331) | 1120.62 | 3 |
+| 4604 | [KinglingCS](https://osu.ppy.sh/u/7010761) | 1119.99 | 5 |
+| 4605 | [schicksl](https://osu.ppy.sh/u/2786054) | 1119.98 | 4 |
+| 4606 | [Elisss](https://osu.ppy.sh/u/4750087) | 1119.94 | 4 |
+| 4607 | [Senuy](https://osu.ppy.sh/u/5790503) | 1119.34 | 5 |
+| 4608 | [Overboked](https://osu.ppy.sh/u/6818453) | 1119.11 | 5 |
+| 4609 | [demasterofme](https://osu.ppy.sh/u/3840088) | 1119.11 | 6 |
+| 4610 | [Zectro](https://osu.ppy.sh/u/2594097) | 1118.83 | 5 |
+| 4611 | [Shiraishi-chan](https://osu.ppy.sh/u/6044584) | 1118.79 | 5 |
+| 4612 | [my angel pelzio](https://osu.ppy.sh/u/4912999) | 1118.62 | 5 |
+| 4613 | [Uxnij](https://osu.ppy.sh/u/3212155) | 1117.87 | 5 |
+| 4614 | [Zyph](https://osu.ppy.sh/u/1600432) | 1117.87 | 5 |
+| 4615 | [SpiderKing9](https://osu.ppy.sh/u/6848002) | 1117.09 | 5 |
+| 4616 | [Turiko](https://osu.ppy.sh/u/8564142) | 1117.08 | 5 |
+| 4617 | [Stiv3n](https://osu.ppy.sh/u/4467230) | 1116.65 | 5 |
+| 4618 | [vide](https://osu.ppy.sh/u/3448332) | 1116.06 | 6 |
+| 4619 | [MyAngelMiku](https://osu.ppy.sh/u/7025429) | 1115.23 | 5 |
+| 4620 | [-Slashy](https://osu.ppy.sh/u/1725223) | 1114.52 | 5 |
+| 4621 | [Emub](https://osu.ppy.sh/u/4337359) | 1112.39 | 4 |
+| 4622 | [Kinashy](https://osu.ppy.sh/u/7201133) | 1111.77 | 5 |
+| 4623 | [1miss](https://osu.ppy.sh/u/2228995) | 1111.13 | 4 |
+| 4624 | [Nam](https://osu.ppy.sh/u/3887345) | 1110.91 | 6 |
+| 4625 | [DUD](https://osu.ppy.sh/u/6565737) | 1110.47 | 6 |
+| 4626 | [I Saber I](https://osu.ppy.sh/u/6360467) | 1109.13 | 5 |
+| 4627 | [Tarelka Borscha](https://osu.ppy.sh/u/6723877) | 1109.06 | 5 |
+| 4628 | [TTTL](https://osu.ppy.sh/u/164583) | 1108.46 | 5 |
+| 4629 | [obtio](https://osu.ppy.sh/u/4007897) | 1107.98 | 3 |
+| 4630 | [Trigg](https://osu.ppy.sh/u/7157951) | 1107.90 | 4 |
+| 4631 | [sushimi](https://osu.ppy.sh/u/2450945) | 1107.23 | 4 |
+| 4632 | [iStrzalka](https://osu.ppy.sh/u/7161691) | 1106.81 | 5 |
+| 4633 | [DraguinZZ](https://osu.ppy.sh/u/3976650) | 1105.41 | 4 |
+| 4634 | [Nakaa](https://osu.ppy.sh/u/6260806) | 1105.26 | 5 |
+| 4635 | [Link4452](https://osu.ppy.sh/u/5262345) | 1104.91 | 5 |
+| 4636 | [mattpk](https://osu.ppy.sh/u/55761) | 1104.31 | 5 |
+| 4637 | [Fenan](https://osu.ppy.sh/u/3087727) | 1103.99 | 4 |
+| 4638 | [Jambon Beurre](https://osu.ppy.sh/u/3758279) | 1101.90 | 5 |
+| 4639 | [Dzui](https://osu.ppy.sh/u/2706417) | 1101.40 | 4 |
+| 4640 | [noxiousxdd](https://osu.ppy.sh/u/7089318) | 1101.05 | 5 |
+| 4641 | [RaFFe](https://osu.ppy.sh/u/6553433) | 1100.97 | 5 |
+| 4642 | [n0ah](https://osu.ppy.sh/u/3086393) | 1100.83 | 4 |
+| 4643 | [JoJoe](https://osu.ppy.sh/u/2749481) | 1100.50 | 4 |
+| 4644 | [NeIBIE](https://osu.ppy.sh/u/882640) | 1099.86 | 4 |
+| 4645 | [polkiujhy](https://osu.ppy.sh/u/2420804) | 1097.05 | 5 |
+| 4646 | [Asahi](https://osu.ppy.sh/u/1634116) | 1097.04 | 4 |
+| 4647 | [[Micoz]](https://osu.ppy.sh/u/1805350) | 1096.85 | 5 |
+| 4648 | [Arduck](https://osu.ppy.sh/u/7554118) | 1096.83 | 4 |
+| 4649 | [Suminoze](https://osu.ppy.sh/u/5308780) | 1096.30 | 5 |
+| 4650 | [My Angel Lako](https://osu.ppy.sh/u/2317990) | 1096.15 | 4 |
+| 4651 | [[InoriYuzuriha]](https://osu.ppy.sh/u/3117823) | 1095.89 | 5 |
+| 4652 | [W A R I](https://osu.ppy.sh/u/2263723) | 1095.40 | 5 |
+| 4653 | [StreaminDemon](https://osu.ppy.sh/u/6245906) | 1093.38 | 4 |
+| 4654 | [Iridium](https://osu.ppy.sh/u/9289070) | 1092.65 | 6 |
+| 4655 | [Chintam](https://osu.ppy.sh/u/4930837) | 1091.27 | 5 |
+| 4656 | [My Angel Renumi](https://osu.ppy.sh/u/2102911) | 1090.86 | 4 |
+| 4657 | [Minoriko](https://osu.ppy.sh/u/4641959) | 1090.78 | 5 |
+| 4658 | [GabyPichu](https://osu.ppy.sh/u/5286409) | 1090.34 | 4 |
+| 4659 | [Ancereal](https://osu.ppy.sh/u/5226477) | 1089.97 | 4 |
+| 4660 | [Vacation](https://osu.ppy.sh/u/4616681) | 1088.72 | 4 |
+| 4661 | [Shelooh](https://osu.ppy.sh/u/6625807) | 1087.02 | 5 |
+| 4662 | [roromi-](https://osu.ppy.sh/u/1749607) | 1086.89 | 4 |
+| 4663 | [Hitoyomi](https://osu.ppy.sh/u/2582898) | 1086.81 | 5 |
+| 4664 | [DONKEHH](https://osu.ppy.sh/u/6864809) | 1086.47 | 5 |
+| 4665 | [Binfy](https://osu.ppy.sh/u/4523735) | 1086.31 | 5 |
+| 4666 | [killlertim](https://osu.ppy.sh/u/2957546) | 1086.09 | 5 |
+| 4667 | [The_badin](https://osu.ppy.sh/u/1567646) | 1085.33 | 5 |
+| 4668 | [Swatty](https://osu.ppy.sh/u/1028683) | 1084.20 | 5 |
+| 4669 | [Fizim](https://osu.ppy.sh/u/2749019) | 1082.96 | 5 |
+| 4670 | [Ch1ckenW1ng](https://osu.ppy.sh/u/2519095) | 1082.24 | 5 |
+| 4671 | [Umberto46](https://osu.ppy.sh/u/1533987) | 1082.02 | 6 |
+| 4672 | [Izayoi Sakuya](https://osu.ppy.sh/u/2009488) | 1080.89 | 6 |
+| 4673 | [quan](https://osu.ppy.sh/u/8169115) | 1080.13 | 5 |
+| 4674 | [Ingushew](https://osu.ppy.sh/u/5069873) | 1079.97 | 5 |
+| 4675 | [Celentia](https://osu.ppy.sh/u/4756761) | 1079.83 | 5 |
+| 4676 | [Ragezeus](https://osu.ppy.sh/u/8252592) | 1078.28 | 5 |
+| 4677 | [Jamker](https://osu.ppy.sh/u/1942184) | 1078.16 | 4 |
+| 4678 | [jackisgone](https://osu.ppy.sh/u/2412561) | 1078.07 | 5 |
+| 4679 | [Matsuyo](https://osu.ppy.sh/u/7435670) | 1077.88 | 5 |
+| 4680 | [Yuichi](https://osu.ppy.sh/u/5120591) | 1076.67 | 6 |
+| 4681 | [Harju](https://osu.ppy.sh/u/6071154) | 1075.69 | 5 |
+| 4682 | [Keno](https://osu.ppy.sh/u/6430956) | 1074.75 | 5 |
+| 4683 | [D1011x10](https://osu.ppy.sh/u/6465923) | 1074.52 | 5 |
+| 4684 | [omgpewpewx](https://osu.ppy.sh/u/6213643) | 1073.25 | 5 |
+| 4685 | [MaxLuk](https://osu.ppy.sh/u/6517414) | 1071.74 | 5 |
+| 4686 | [Auggy](https://osu.ppy.sh/u/5388645) | 1070.81 | 5 |
+| 4687 | [marty45](https://osu.ppy.sh/u/2712791) | 1070.13 | 5 |
+| 4688 | [SoundsOfDeath](https://osu.ppy.sh/u/4234451) | 1069.79 | 5 |
+| 4689 | [DarkGodZereff](https://osu.ppy.sh/u/2554708) | 1069.15 | 4 |
+| 4690 | [jorgeong10](https://osu.ppy.sh/u/2176830) | 1068.74 | 5 |
+| 4691 | [[XV]](https://osu.ppy.sh/u/2996670) | 1067.46 | 5 |
+| 4692 | [eijikong](https://osu.ppy.sh/u/4425070) | 1067.45 | 5 |
+| 4693 | [_HaTe_](https://osu.ppy.sh/u/2964919) | 1067.25 | 6 |
+| 4694 | [[ Kratos ]](https://osu.ppy.sh/u/4557339) | 1066.98 | 4 |
+| 4695 | [[ ZhengS ]](https://osu.ppy.sh/u/2671317) | 1066.72 | 3 |
+| 4696 | [Num](https://osu.ppy.sh/u/5198060) | 1064.96 | 3 |
+| 4697 | [Hotaruduka Yuno](https://osu.ppy.sh/u/6590318) | 1064.35 | 4 |
+| 4698 | [moyashiPA](https://osu.ppy.sh/u/4578609) | 1063.94 | 5 |
+| 4699 | [Just_A_M0nk](https://osu.ppy.sh/u/2174403) | 1062.84 | 4 |
+| 4700 | [Tekikatokana](https://osu.ppy.sh/u/3598396) | 1062.29 | 5 |
+| 4701 | [Setsein](https://osu.ppy.sh/u/4273451) | 1062.12 | 5 |
+| 4702 | [Duskyui](https://osu.ppy.sh/u/4422457) | 1061.91 | 4 |
+| 4703 | [Galiel](https://osu.ppy.sh/u/1158068) | 1060.90 | 4 |
+| 4704 | [bules2](https://osu.ppy.sh/u/3512687) | 1060.07 | 4 |
+| 4705 | [Absolutelumi](https://osu.ppy.sh/u/7186367) | 1059.78 | 4 |
+| 4706 | [Ringer](https://osu.ppy.sh/u/1956652) | 1059.21 | 5 |
+| 4707 | [Enimate](https://osu.ppy.sh/u/2089506) | 1059.04 | 5 |
+| 4708 | [DarkSharky](https://osu.ppy.sh/u/7723344) | 1058.91 | 5 |
+| 4709 | [ryyushi](https://osu.ppy.sh/u/6014327) | 1057.71 | 5 |
+| 4710 | [-Miyuki-](https://osu.ppy.sh/u/4207576) | 1057.69 | 5 |
+| 4711 | [Hydro7](https://osu.ppy.sh/u/3018516) | 1057.46 | 4 |
+| 4712 | [Chokiis](https://osu.ppy.sh/u/4052169) | 1057.26 | 5 |
+| 4713 | [--w--](https://osu.ppy.sh/u/4386042) | 1056.64 | 4 |
+| 4714 | [AbrahamHD7](https://osu.ppy.sh/u/4797389) | 1056.59 | 4 |
+| 4715 | [Zankaizen](https://osu.ppy.sh/u/6236945) | 1056.13 | 6 |
+| 4716 | [claryiaa](https://osu.ppy.sh/u/5208898) | 1056.11 | 5 |
+| 4717 | [Pyon Pyon Uzuki](https://osu.ppy.sh/u/2400280) | 1054.81 | 5 |
+| 4718 | [vbnobu1105](https://osu.ppy.sh/u/4355380) | 1053.31 | 4 |
+| 4719 | [Runa](https://osu.ppy.sh/u/4643294) | 1053.12 | 3 |
+| 4720 | [[ScarletFang]](https://osu.ppy.sh/u/7341396) | 1053.03 | 4 |
+| 4721 | [Eusoul Mizu](https://osu.ppy.sh/u/5386854) | 1052.76 | 5 |
+| 4722 | [Aeri](https://osu.ppy.sh/u/6947672) | 1049.31 | 5 |
+| 4723 | [sakurayl](https://osu.ppy.sh/u/1962156) | 1049.15 | 5 |
+| 4724 | [SnowTsuki](https://osu.ppy.sh/u/2992688) | 1049.11 | 4 |
+| 4725 | [_Thaum](https://osu.ppy.sh/u/4364768) | 1047.45 | 5 |
+| 4726 | [sullzer](https://osu.ppy.sh/u/3648947) | 1046.92 | 5 |
+| 4727 | [Cianeas](https://osu.ppy.sh/u/4430889) | 1046.58 | 5 |
+| 4728 | [Oysto](https://osu.ppy.sh/u/2069444) | 1045.96 | 5 |
+| 4729 | [D1nack](https://osu.ppy.sh/u/6420335) | 1045.94 | 4 |
+| 4730 | [Penguo](https://osu.ppy.sh/u/4389490) | 1045.83 | 4 |
+| 4731 | [SherlockST](https://osu.ppy.sh/u/4168613) | 1045.02 | 4 |
+| 4732 | [toon1988](https://osu.ppy.sh/u/4165985) | 1044.94 | 6 |
+| 4733 | [huono_tuuri](https://osu.ppy.sh/u/1432954) | 1043.07 | 4 |
+| 4734 | [RMEfan](https://osu.ppy.sh/u/8204345) | 1042.98 | 4 |
+| 4735 | [Fudy](https://osu.ppy.sh/u/4576295) | 1042.52 | 5 |
+| 4736 | [Pronounta](https://osu.ppy.sh/u/4734475) | 1041.68 | 5 |
+| 4737 | [Nanitoxx](https://osu.ppy.sh/u/4653583) | 1041.17 | 4 |
+| 4738 | [Ayo](https://osu.ppy.sh/u/8404158) | 1040.93 | 5 |
+| 4739 | [Droke](https://osu.ppy.sh/u/6097765) | 1040.73 | 5 |
+| 4740 | [Fowear](https://osu.ppy.sh/u/8282268) | 1040.33 | 5 |
+| 4741 | [John Cena](https://osu.ppy.sh/u/2958963) | 1039.52 | 5 |
+| 4742 | [Circular](https://osu.ppy.sh/u/4514908) | 1039.02 | 5 |
+| 4743 | [YadanG](https://osu.ppy.sh/u/3307585) | 1038.47 | 5 |
+| 4744 | [Ambre](https://osu.ppy.sh/u/3494003) | 1037.36 | 4 |
+| 4745 | [Roro Rosset](https://osu.ppy.sh/u/673214) | 1036.83 | 4 |
+| 4746 | [BombaLuigi](https://osu.ppy.sh/u/5284105) | 1036.82 | 5 |
+| 4747 | [Asunasike](https://osu.ppy.sh/u/6992160) | 1036.77 | 5 |
+| 4748 | [Nicechoice](https://osu.ppy.sh/u/3714447) | 1036.64 | 5 |
+| 4749 | [Serito](https://osu.ppy.sh/u/7163765) | 1036.60 | 5 |
+| 4750 | [Genjitsu](https://osu.ppy.sh/u/3531490) | 1035.70 | 4 |
+| 4751 | [Q-Q](https://osu.ppy.sh/u/4066046) | 1035.67 | 4 |
+| 4752 | [p k](https://osu.ppy.sh/u/8327166) | 1035.49 | 5 |
+| 4753 | [Big Booty-Chan](https://osu.ppy.sh/u/4563008) | 1034.93 | 5 |
+| 4754 | [UnRealFigure](https://osu.ppy.sh/u/4383980) | 1034.33 | 5 |
+| 4755 | [Syph](https://osu.ppy.sh/u/4858573) | 1033.94 | 3 |
+| 4756 | [Tutterise](https://osu.ppy.sh/u/2962559) | 1033.83 | 4 |
+| 4757 | [[ Wen Xuang ]](https://osu.ppy.sh/u/3539384) | 1032.88 | 4 |
+| 4758 | [Picoroco](https://osu.ppy.sh/u/5678403) | 1032.86 | 5 |
+| 4759 | [Astolfo](https://osu.ppy.sh/u/4799788) | 1032.70 | 5 |
+| 4760 | [Deramok](https://osu.ppy.sh/u/1428455) | 1032.53 | 5 |
+| 4761 | [Ranzel](https://osu.ppy.sh/u/6159717) | 1032.50 | 5 |
+| 4762 | [Dorper](https://osu.ppy.sh/u/6213903) | 1031.91 | 5 |
+| 4763 | [NamuiDesu](https://osu.ppy.sh/u/9266182) | 1031.35 | 6 |
+| 4764 | [Dopamine](https://osu.ppy.sh/u/2834983) | 1031.34 | 5 |
+| 4765 | [OnySloth](https://osu.ppy.sh/u/4715749) | 1031.09 | 5 |
+| 4766 | [Sykronik](https://osu.ppy.sh/u/4462460) | 1031.09 | 4 |
+| 4767 | [Emnesty](https://osu.ppy.sh/u/3238869) | 1030.41 | 4 |
+| 4768 | [AngeLGraph](https://osu.ppy.sh/u/5122542) | 1030.37 | 6 |
+| 4769 | [ghosty98](https://osu.ppy.sh/u/4681038) | 1029.38 | 5 |
+| 4770 | [SadNinja](https://osu.ppy.sh/u/3124026) | 1028.95 | 5 |
+| 4771 | [julesga](https://osu.ppy.sh/u/3415752) | 1028.44 | 5 |
+| 4772 | [Byron](https://osu.ppy.sh/u/4693200) | 1028.04 | 5 |
+| 4773 | [Glaceon](https://osu.ppy.sh/u/5545437) | 1027.87 | 4 |
+| 4774 | [snowfelis](https://osu.ppy.sh/u/6251725) | 1027.53 | 5 |
+| 4775 | [Reo](https://osu.ppy.sh/u/2249297) | 1027.26 | 5 |
+| 4776 | [J4SMiNe](https://osu.ppy.sh/u/2568276) | 1026.02 | 4 |
+| 4777 | [Azxrni](https://osu.ppy.sh/u/6141826) | 1024.18 | 4 |
+| 4778 | [-n4](https://osu.ppy.sh/u/6320855) | 1024.16 | 4 |
+| 4779 | [Xinjection](https://osu.ppy.sh/u/1986135) | 1023.73 | 5 |
+| 4780 | [[ Satania ]](https://osu.ppy.sh/u/7915201) | 1023.71 | 6 |
+| 4781 | [Vopek](https://osu.ppy.sh/u/423688) | 1023.49 | 4 |
+| 4782 | [Touchette](https://osu.ppy.sh/u/2370889) | 1022.28 | 3 |
+| 4783 | [Ambient](https://osu.ppy.sh/u/3172714) | 1019.97 | 4 |
+| 4784 | [SylvieLism](https://osu.ppy.sh/u/2484984) | 1019.62 | 3 |
+| 4785 | [traps](https://osu.ppy.sh/u/7434175) | 1019.01 | 3 |
+| 4786 | [Preston](https://osu.ppy.sh/u/6753003) | 1018.97 | 5 |
+| 4787 | [MagickSunDragon](https://osu.ppy.sh/u/4568516) | 1018.62 | 5 |
+| 4788 | [Ren-chon](https://osu.ppy.sh/u/3187796) | 1018.14 | 5 |
+| 4789 | [dbok1234](https://osu.ppy.sh/u/1937697) | 1017.16 | 4 |
+| 4790 | [LukitahMushasho](https://osu.ppy.sh/u/5329779) | 1017.09 | 5 |
+| 4791 | [JoeJev](https://osu.ppy.sh/u/735119) | 1017.07 | 5 |
+| 4792 | [[chaS]](https://osu.ppy.sh/u/3943151) | 1016.53 | 4 |
+| 4793 | [InhumanTadpole](https://osu.ppy.sh/u/2739070) | 1015.91 | 4 |
+| 4794 | [AbuseYourDNA](https://osu.ppy.sh/u/3547310) | 1015.74 | 5 |
+| 4795 | [SoulBitard](https://osu.ppy.sh/u/4851835) | 1014.18 | 5 |
+| 4796 | [xLuka](https://osu.ppy.sh/u/6117525) | 1013.66 | 4 |
+| 4797 | [val0108](https://osu.ppy.sh/u/243917) | 1013.60 | 4 |
+| 4798 | [erodra](https://osu.ppy.sh/u/5059739) | 1013.31 | 4 |
+| 4799 | [HD Hero](https://osu.ppy.sh/u/2608720) | 1012.76 | 5 |
+| 4800 | [Shinobu Oshino](https://osu.ppy.sh/u/2985815) | 1012.25 | 5 |
+| 4801 | [LoidKun](https://osu.ppy.sh/u/6437601) | 1011.42 | 3 |
+| 4802 | [INachtara](https://osu.ppy.sh/u/1957557) | 1010.77 | 4 |
+| 4803 | [SBAngel](https://osu.ppy.sh/u/1622217) | 1010.73 | 5 |
+| 4804 | [MelwesT](https://osu.ppy.sh/u/2974417) | 1008.67 | 4 |
+| 4805 | [Nimfagryuf](https://osu.ppy.sh/u/3629043) | 1008.60 | 5 |
+| 4806 | [Randomly132](https://osu.ppy.sh/u/6037085) | 1008.18 | 5 |
+| 4807 | [skashiro](https://osu.ppy.sh/u/2913127) | 1007.32 | 3 |
+| 4808 | [Ikalgo](https://osu.ppy.sh/u/3059623) | 1007.01 | 5 |
+| 4809 | [Osu Pls](https://osu.ppy.sh/u/3446958) | 1006.95 | 5 |
+| 4810 | [Fouriose](https://osu.ppy.sh/u/5256495) | 1006.59 | 4 |
+| 4811 | [Elegant Loli](https://osu.ppy.sh/u/3010281) | 1006.38 | 3 |
+| 4812 | [Shii](https://osu.ppy.sh/u/2911062) | 1006.36 | 3 |
+| 4813 | [mushipi](https://osu.ppy.sh/u/4652940) | 1006.28 | 4 |
+| 4814 | [Josh14](https://osu.ppy.sh/u/5312333) | 1005.63 | 4 |
+| 4815 | [san-lotso](https://osu.ppy.sh/u/5296112) | 1004.56 | 5 |
+| 4816 | [PabloPlx](https://osu.ppy.sh/u/5544265) | 1004.43 | 5 |
+| 4817 | [Luke Lack Luck](https://osu.ppy.sh/u/2604803) | 1002.70 | 5 |
+| 4818 | [- Kyuji -](https://osu.ppy.sh/u/4308499) | 1002.53 | 4 |
+| 4819 | [Thomas here](https://osu.ppy.sh/u/4452573) | 1002.46 | 4 |
+| 4820 | [Note](https://osu.ppy.sh/u/2331128) | 1002.35 | 4 |
+| 4821 | [Miucs](https://osu.ppy.sh/u/2364169) | 1000.00 | 4 |
+| 4822 | [gfdsa15987777](https://osu.ppy.sh/u/1256357) | 999.58 | 4 |
+| 4823 | [ZefyrKun](https://osu.ppy.sh/u/3425317) | 999.34 | 5 |
+| 4824 | [Licht-](https://osu.ppy.sh/u/882636) | 999.17 | 5 |
+| 4825 | [Kon4m](https://osu.ppy.sh/u/4357340) | 998.95 | 4 |
+| 4826 | [MadeInChina](https://osu.ppy.sh/u/2808267) | 998.58 | 4 |
+| 4827 | [Ficry14](https://osu.ppy.sh/u/7428170) | 997.23 | 5 |
+| 4828 | [kth180591](https://osu.ppy.sh/u/4949405) | 997.13 | 4 |
+| 4829 | [SkeletonK](https://osu.ppy.sh/u/7345140) | 996.45 | 4 |
+| 4830 | [Hiatus](https://osu.ppy.sh/u/2624341) | 996.01 | 4 |
+| 4831 | [Ambrew](https://osu.ppy.sh/u/7803396) | 994.05 | 5 |
+| 4832 | [qwr](https://osu.ppy.sh/u/3139598) | 993.60 | 4 |
+| 4833 | [gimmeusernamee](https://osu.ppy.sh/u/8650264) | 993.49 | 5 |
+| 4834 | [Vultix](https://osu.ppy.sh/u/634151) | 993.04 | 5 |
+| 4835 | [Zexxahify](https://osu.ppy.sh/u/7036344) | 991.15 | 5 |
+| 4836 | [NoSeAzul](https://osu.ppy.sh/u/8692030) | 989.25 | 5 |
+| 4837 | [Papa Panya](https://osu.ppy.sh/u/3587033) | 989.06 | 4 |
+| 4838 | [wrzud](https://osu.ppy.sh/u/3761452) | 988.68 | 4 |
+| 4839 | [Voltaeyx](https://osu.ppy.sh/u/2715118) | 988.16 | 4 |
+| 4840 | [DarthSmith](https://osu.ppy.sh/u/3198071) | 987.73 | 4 |
+| 4841 | [Co0ola](https://osu.ppy.sh/u/3570611) | 987.05 | 4 |
+| 4842 | [Yuxzu](https://osu.ppy.sh/u/2711174) | 986.86 | 5 |
+| 4843 | [-Taisaka-](https://osu.ppy.sh/u/6293270) | 986.55 | 4 |
+| 4844 | [Lou1e](https://osu.ppy.sh/u/4871182) | 986.04 | 4 |
+| 4845 | [Lidan](https://osu.ppy.sh/u/673060) | 985.96 | 4 |
+| 4846 | [n3ktO](https://osu.ppy.sh/u/2633933) | 985.65 | 5 |
+| 4847 | [Zombltche](https://osu.ppy.sh/u/6884723) | 985.61 | 4 |
+| 4848 | [Micaso](https://osu.ppy.sh/u/244291) | 985.28 | 5 |
+| 4849 | [Yelloworange](https://osu.ppy.sh/u/809793) | 985.09 | 4 |
+| 4850 | [Ver1zon](https://osu.ppy.sh/u/6440816) | 984.48 | 5 |
+| 4851 | [Arouet](https://osu.ppy.sh/u/6067498) | 984.37 | 5 |
+| 4852 | [Serena](https://osu.ppy.sh/u/756068) | 983.09 | 3 |
+| 4853 | [PresSure](https://osu.ppy.sh/u/4209379) | 982.16 | 4 |
+| 4854 | [[KubeR]](https://osu.ppy.sh/u/7938897) | 981.95 | 5 |
+| 4855 | [Arvi](https://osu.ppy.sh/u/5127961) | 981.62 | 5 |
+| 4856 | [saremesucks](https://osu.ppy.sh/u/2266072) | 981.44 | 4 |
+| 4857 | [nicotti0722](https://osu.ppy.sh/u/1573926) | 980.91 | 5 |
+| 4858 | [Yuichanx](https://osu.ppy.sh/u/2171964) | 980.40 | 5 |
+| 4859 | [Velstadt](https://osu.ppy.sh/u/6209095) | 979.71 | 4 |
+| 4860 | [ruby1254](https://osu.ppy.sh/u/2730027) | 979.62 | 4 |
+| 4861 | [Huna](https://osu.ppy.sh/u/7714873) | 979.43 | 4 |
+| 4862 | [RaneFire](https://osu.ppy.sh/u/867939) | 979.02 | 5 |
+| 4863 | [Electrovoid](https://osu.ppy.sh/u/3853840) | 978.88 | 3 |
+| 4864 | [Tarkher](https://osu.ppy.sh/u/3423811) | 978.36 | 4 |
+| 4865 | [torasdf](https://osu.ppy.sh/u/4552597) | 978.13 | 5 |
+| 4866 | [PDF](https://osu.ppy.sh/u/5326467) | 978.03 | 4 |
+| 4867 | [Moonlit](https://osu.ppy.sh/u/3142881) | 977.54 | 4 |
+| 4868 | [Kixs Student](https://osu.ppy.sh/u/6761714) | 977.39 | 3 |
+| 4869 | [Dragonbut](https://osu.ppy.sh/u/3868381) | 977.08 | 4 |
+| 4870 | [Raynel](https://osu.ppy.sh/u/6318119) | 976.70 | 4 |
+| 4871 | [Ecliptus](https://osu.ppy.sh/u/3820504) | 976.49 | 4 |
+| 4872 | [-kRs](https://osu.ppy.sh/u/6995868) | 975.83 | 4 |
+| 4873 | [melloe](https://osu.ppy.sh/u/2367616) | 975.74 | 3 |
+| 4874 | [Dudsunz](https://osu.ppy.sh/u/5245584) | 975.64 | 4 |
+| 4875 | [Brietinha](https://osu.ppy.sh/u/6883495) | 974.13 | 5 |
+| 4876 | [Ayzer](https://osu.ppy.sh/u/6123512) | 973.52 | 4 |
+| 4877 | [Xolerox](https://osu.ppy.sh/u/3091773) | 973.42 | 5 |
+| 4878 | [Tabearus](https://osu.ppy.sh/u/6047347) | 972.42 | 5 |
+| 4879 | [Roosia](https://osu.ppy.sh/u/4149666) | 971.60 | 5 |
+| 4880 | [TenaPotato](https://osu.ppy.sh/u/528066) | 971.41 | 4 |
+| 4881 | [pablonr](https://osu.ppy.sh/u/4744943) | 971.38 | 3 |
+| 4882 | [Atax1a](https://osu.ppy.sh/u/6571865) | 970.56 | 4 |
+| 4883 | [BennyBread](https://osu.ppy.sh/u/5723623) | 970.02 | 5 |
+| 4884 | [Megumin-](https://osu.ppy.sh/u/4658388) | 969.61 | 4 |
+| 4885 | [Somay 287](https://osu.ppy.sh/u/4314559) | 969.03 | 4 |
+| 4886 | [PunkyBoy](https://osu.ppy.sh/u/67326) | 968.81 | 3 |
+| 4887 | [cZ_](https://osu.ppy.sh/u/4260127) | 968.79 | 5 |
+| 4888 | [Hiranaka](https://osu.ppy.sh/u/4207811) | 967.82 | 4 |
+| 4889 | [-Eriri-](https://osu.ppy.sh/u/2922196) | 967.37 | 5 |
+| 4890 | [Gao](https://osu.ppy.sh/u/3088505) | 966.54 | 3 |
+| 4891 | [07thExpansion](https://osu.ppy.sh/u/919709) | 966.10 | 4 |
+| 4892 | [turb03lm](https://osu.ppy.sh/u/3295781) | 965.49 | 4 |
+| 4893 | [Reedkatt](https://osu.ppy.sh/u/8335950) | 965.22 | 5 |
+| 4894 | [KortezR](https://osu.ppy.sh/u/6433474) | 965.13 | 5 |
+| 4895 | [Gumi Rin](https://osu.ppy.sh/u/2574658) | 964.59 | 3 |
+| 4896 | [khcdub](https://osu.ppy.sh/u/7987048) | 964.20 | 5 |
+| 4897 | [[ -Silver- ]](https://osu.ppy.sh/u/2784757) | 963.97 | 4 |
+| 4898 | [hubkon223](https://osu.ppy.sh/u/8251381) | 963.87 | 4 |
+| 4899 | [- Sylone -](https://osu.ppy.sh/u/4846598) | 963.63 | 4 |
+| 4900 | [Kaan](https://osu.ppy.sh/u/8618532) | 963.53 | 5 |
+| 4901 | [Szewcu](https://osu.ppy.sh/u/8019599) | 963.26 | 4 |
+| 4902 | [Jollumi](https://osu.ppy.sh/u/3059625) | 962.27 | 4 |
+| 4903 | [Pandaz](https://osu.ppy.sh/u/4328126) | 961.29 | 4 |
+| 4904 | [Enhu](https://osu.ppy.sh/u/2840499) | 960.92 | 3 |
+| 4905 | [Kittera](https://osu.ppy.sh/u/3960130) | 960.01 | 4 |
+| 4906 | [-BlackBurn](https://osu.ppy.sh/u/7123109) | 959.76 | 4 |
+| 4907 | [-Yato-](https://osu.ppy.sh/u/4299402) | 959.68 | 3 |
+| 4908 | [EliteSlushie](https://osu.ppy.sh/u/3447497) | 959.18 | 5 |
+| 4909 | [ShinozakiKagami](https://osu.ppy.sh/u/5429934) | 959.17 | 5 |
+| 4910 | [Papika](https://osu.ppy.sh/u/6048741) | 956.15 | 5 |
+| 4911 | [MrPiingu](https://osu.ppy.sh/u/3221219) | 956.15 | 4 |
+| 4912 | [Galedrifter](https://osu.ppy.sh/u/7183739) | 955.28 | 4 |
+| 4913 | [Tank A13](https://osu.ppy.sh/u/1712195) | 954.81 | 3 |
+| 4914 | [-Krait](https://osu.ppy.sh/u/4165194) | 954.17 | 5 |
+| 4915 | [MysteriousMelon](https://osu.ppy.sh/u/4177539) | 953.30 | 4 |
+| 4916 | [Slonlk25](https://osu.ppy.sh/u/7745755) | 953.17 | 4 |
+| 4917 | [R3F13X](https://osu.ppy.sh/u/5260387) | 953.07 | 4 |
+| 4918 | [- Kamek-](https://osu.ppy.sh/u/3316126) | 952.94 | 4 |
+| 4919 | [Dkpitator](https://osu.ppy.sh/u/3495018) | 952.62 | 5 |
+| 4920 | [YukiZura-](https://osu.ppy.sh/u/7272036) | 952.29 | 4 |
+| 4921 | [Gordab](https://osu.ppy.sh/u/3301237) | 951.89 | 5 |
+| 4922 | [okami-x](https://osu.ppy.sh/u/7611269) | 950.99 | 4 |
+| 4923 | [Yellow Opera](https://osu.ppy.sh/u/2699330) | 950.60 | 4 |
+| 4924 | [Dokhan](https://osu.ppy.sh/u/4639462) | 950.51 | 4 |
+| 4925 | [n2mu](https://osu.ppy.sh/u/8399915) | 949.85 | 4 |
+| 4926 | [Lugaimba](https://osu.ppy.sh/u/6545779) | 949.60 | 5 |
+| 4927 | [Azun](https://osu.ppy.sh/u/7461619) | 949.21 | 4 |
+| 4928 | [versacekfc](https://osu.ppy.sh/u/3922405) | 949.17 | 4 |
+| 4929 | [KOMANDNY](https://osu.ppy.sh/u/2701252) | 949.16 | 5 |
+| 4930 | [ffury](https://osu.ppy.sh/u/2056071) | 949.09 | 3 |
+| 4931 | [AndronicoLuksic](https://osu.ppy.sh/u/5717231) | 948.62 | 4 |
+| 4932 | [koki](https://osu.ppy.sh/u/846235) | 947.94 | 3 |
+| 4933 | [jvjhfhg](https://osu.ppy.sh/u/4014850) | 944.99 | 4 |
+| 4934 | [Vararaup](https://osu.ppy.sh/u/8257675) | 944.87 | 5 |
+| 4935 | [Cycuni](https://osu.ppy.sh/u/3966298) | 944.84 | 5 |
+| 4936 | [Enoughbobcats](https://osu.ppy.sh/u/6837501) | 944.64 | 4 |
+| 4937 | [SuperContact](https://osu.ppy.sh/u/526787) | 944.42 | 4 |
+| 4938 | [BadAssBook](https://osu.ppy.sh/u/4062387) | 944.15 | 4 |
+| 4939 | [Shazil](https://osu.ppy.sh/u/6930219) | 943.37 | 5 |
+| 4940 | [Kochab](https://osu.ppy.sh/u/6341679) | 942.61 | 5 |
+| 4941 | [Starry-](https://osu.ppy.sh/u/2166199) | 941.75 | 5 |
+| 4942 | [Willy](https://osu.ppy.sh/u/3521482) | 940.95 | 3 |
+| 4943 | [Oceanyan](https://osu.ppy.sh/u/7357916) | 940.44 | 4 |
+| 4944 | [litz](https://osu.ppy.sh/u/2978603) | 940.18 | 4 |
+| 4945 | [kymotsujason](https://osu.ppy.sh/u/2541804) | 940.15 | 4 |
+| 4946 | [Hyokolu](https://osu.ppy.sh/u/2098964) | 939.84 | 4 |
+| 4947 | [EbonSol](https://osu.ppy.sh/u/3205678) | 939.44 | 4 |
+| 4948 | [Cocoa Hoto](https://osu.ppy.sh/u/6672998) | 938.42 | 4 |
+| 4949 | [Zrky](https://osu.ppy.sh/u/2381438) | 937.96 | 3 |
+| 4950 | [Julisho](https://osu.ppy.sh/u/6289441) | 937.96 | 4 |
+| 4951 | [sahuang](https://osu.ppy.sh/u/5318910) | 937.65 | 4 |
+| 4952 | [[ Nabuu ]](https://osu.ppy.sh/u/6395155) | 937.39 | 4 |
+| 4953 | [ARUMOH](https://osu.ppy.sh/u/645073) | 936.53 | 5 |
+| 4954 | [rys](https://osu.ppy.sh/u/2922853) | 935.82 | 4 |
+| 4955 | [Reyvateil](https://osu.ppy.sh/u/2838550) | 935.80 | 4 |
+| 4956 | [Could This Be](https://osu.ppy.sh/u/2313772) | 935.20 | 4 |
+| 4957 | [mepbee](https://osu.ppy.sh/u/4514569) | 934.87 | 4 |
+| 4958 | [sardine0221](https://osu.ppy.sh/u/16622) | 934.49 | 3 |
+| 4959 | [Ipas](https://osu.ppy.sh/u/3262377) | 934.04 | 5 |
+| 4960 | [Radroch](https://osu.ppy.sh/u/7034970) | 933.21 | 4 |
+| 4961 | [eBlossom](https://osu.ppy.sh/u/3211064) | 932.48 | 4 |
+| 4962 | [jordab](https://osu.ppy.sh/u/7398177) | 931.34 | 4 |
+| 4963 | [Moting](https://osu.ppy.sh/u/4902208) | 931.33 | 4 |
+| 4964 | [turbedi](https://osu.ppy.sh/u/2841850) | 930.67 | 4 |
+| 4965 | [My Angel Chippy](https://osu.ppy.sh/u/3859506) | 929.68 | 3 |
+| 4966 | [Chemistry](https://osu.ppy.sh/u/6069540) | 928.82 | 5 |
+| 4967 | [muratania](https://osu.ppy.sh/u/1968056) | 928.81 | 4 |
+| 4968 | [Mozu](https://osu.ppy.sh/u/4414373) | 928.60 | 4 |
+| 4969 | [DQRT](https://osu.ppy.sh/u/7638701) | 928.33 | 5 |
+| 4970 | [-Avation-](https://osu.ppy.sh/u/7058020) | 927.60 | 4 |
+| 4971 | [I Emma I](https://osu.ppy.sh/u/4986310) | 927.17 | 4 |
+| 4972 | [Deemota](https://osu.ppy.sh/u/4109837) | 926.79 | 4 |
+| 4973 | [-Patapon8-](https://osu.ppy.sh/u/4962579) | 926.43 | 4 |
+| 4974 | [Gnuu](https://osu.ppy.sh/u/914004) | 925.94 | 3 |
+| 4975 | [Mismagius](https://osu.ppy.sh/u/19048) | 925.77 | 3 |
+| 4976 | [ZcortezZ](https://osu.ppy.sh/u/2228245) | 924.99 | 4 |
+| 4977 | [Dios Dong](https://osu.ppy.sh/u/3958619) | 924.40 | 4 |
+| 4978 | [HaLyu](https://osu.ppy.sh/u/4769406) | 924.11 | 4 |
+| 4979 | [Sancient](https://osu.ppy.sh/u/6064612) | 923.95 | 3 |
+| 4980 | [ruexia](https://osu.ppy.sh/u/385069) | 923.73 | 3 |
+| 4981 | [Majoreh](https://osu.ppy.sh/u/7959222) | 922.51 | 4 |
+| 4982 | [chigo1337](https://osu.ppy.sh/u/6150593) | 922.45 | 4 |
+| 4983 | [Enkidu](https://osu.ppy.sh/u/4350751) | 922.42 | 3 |
+| 4984 | [suwako moriya-](https://osu.ppy.sh/u/9397144) | 922.13 | 3 |
+| 4985 | [Rethor](https://osu.ppy.sh/u/3160970) | 921.35 | 3 |
+| 4986 | [Kooper](https://osu.ppy.sh/u/3733481) | 921.19 | 4 |
+| 4987 | [132ads](https://osu.ppy.sh/u/3329679) | 920.19 | 4 |
+| 4988 | [Correlate](https://osu.ppy.sh/u/1971702) | 919.72 | 4 |
+| 4989 | [Serial Dreemurr](https://osu.ppy.sh/u/1235444) | 919.09 | 4 |
+| 4990 | [Bakuenjin](https://osu.ppy.sh/u/3750365) | 918.66 | 4 |
+| 4991 | [shauney132](https://osu.ppy.sh/u/7944451) | 917.27 | 4 |
+| 4992 | [keeyan](https://osu.ppy.sh/u/7140968) | 917.19 | 4 |
+| 4993 | [TimeWarping](https://osu.ppy.sh/u/6390426) | 915.20 | 5 |
+| 4994 | [-Levi-](https://osu.ppy.sh/u/3343488) | 914.96 | 4 |
+| 4995 | [Hql_](https://osu.ppy.sh/u/5304720) | 913.84 | 5 |
+| 4996 | [[ Destroid ]](https://osu.ppy.sh/u/4698488) | 913.22 | 3 |
+| 4997 | [The Yatagarasu](https://osu.ppy.sh/u/3087793) | 912.82 | 5 |
+| 4998 | [pati156](https://osu.ppy.sh/u/2108922) | 912.38 | 4 |
+| 4999 | [Snowyiu](https://osu.ppy.sh/u/1801134) | 912.22 | 4 |
+| 5000 | [cristi2708](https://osu.ppy.sh/u/7552300) | 912.17 | 4 |
+| 5001 | [Braixen](https://osu.ppy.sh/u/4871378) | 911.66 | 3 |
+| 5002 | [Tomatonium](https://osu.ppy.sh/u/6230509) | 911.47 | 3 |
+| 5003 | [Its Crazy](https://osu.ppy.sh/u/2757957) | 911.39 | 4 |
+| 5004 | [Barakiel](https://osu.ppy.sh/u/1769582) | 911.19 | 4 |
+| 5005 | [BlazeItChinky](https://osu.ppy.sh/u/4626182) | 911.07 | 3 |
+| 5006 | [[Trafis]](https://osu.ppy.sh/u/2828809) | 909.73 | 4 |
+| 5007 | [Shmeeblez](https://osu.ppy.sh/u/3106643) | 909.21 | 4 |
+| 5008 | [funkzord](https://osu.ppy.sh/u/3198355) | 908.85 | 4 |
+| 5009 | [5higetora](https://osu.ppy.sh/u/6388516) | 908.68 | 4 |
+| 5010 | [Scoopes](https://osu.ppy.sh/u/1232016) | 908.25 | 4 |
+| 5011 | [Xoulium](https://osu.ppy.sh/u/3617984) | 907.82 | 3 |
+| 5012 | [Morax](https://osu.ppy.sh/u/4204902) | 907.80 | 4 |
+| 5013 | [kyokyo](https://osu.ppy.sh/u/7856299) | 907.19 | 4 |
+| 5014 | [ShySinPie](https://osu.ppy.sh/u/4756429) | 906.59 | 4 |
+| 5015 | [Arthi](https://osu.ppy.sh/u/2033514) | 905.77 | 4 |
+| 5016 | [OtakuFlame](https://osu.ppy.sh/u/7068638) | 905.38 | 4 |
+| 5017 | [lulu melon](https://osu.ppy.sh/u/6703171) | 905.00 | 4 |
+| 5018 | [Wela](https://osu.ppy.sh/u/6901005) | 904.64 | 4 |
+| 5019 | [playa](https://osu.ppy.sh/u/1436340) | 903.74 | 4 |
+| 5020 | [D4rkr4i](https://osu.ppy.sh/u/7711307) | 901.50 | 4 |
+| 5021 | [Science](https://osu.ppy.sh/u/5535233) | 901.50 | 4 |
+| 5022 | [Paka](https://osu.ppy.sh/u/6646204) | 901.29 | 4 |
+| 5023 | [Xytox](https://osu.ppy.sh/u/2229274) | 900.17 | 3 |
+| 5024 | [cmyui](https://osu.ppy.sh/u/7198643) | 899.22 | 4 |
+| 5025 | [Saezury](https://osu.ppy.sh/u/1941126) | 899.18 | 3 |
+| 5026 | [Verocor](https://osu.ppy.sh/u/2812023) | 898.87 | 4 |
+| 5027 | [raikiri311](https://osu.ppy.sh/u/4996528) | 898.70 | 4 |
+| 5028 | [atrelix](https://osu.ppy.sh/u/2068485) | 898.50 | 4 |
+| 5029 | [sebek64](https://osu.ppy.sh/u/2998346) | 898.22 | 3 |
+| 5030 | [BlueEyesWolf](https://osu.ppy.sh/u/1559668) | 897.96 | 4 |
+| 5031 | [Katsumi](https://osu.ppy.sh/u/513834) | 897.85 | 4 |
+| 5032 | [Pokentos](https://osu.ppy.sh/u/6296290) | 897.64 | 4 |
+| 5033 | [Rasa1337Elita](https://osu.ppy.sh/u/6509750) | 897.43 | 4 |
+| 5034 | [Sweet Dreams 1](https://osu.ppy.sh/u/6321956) | 897.21 | 4 |
+| 5035 | [Shelbis](https://osu.ppy.sh/u/2639159) | 895.82 | 3 |
+| 5036 | [N i T o R i](https://osu.ppy.sh/u/1303131) | 894.99 | 4 |
+| 5037 | [Nezol](https://osu.ppy.sh/u/7509103) | 894.19 | 4 |
+| 5038 | [Jennya](https://osu.ppy.sh/u/4177476) | 894.16 | 4 |
+| 5039 | [4quatic](https://osu.ppy.sh/u/2134117) | 892.62 | 4 |
+| 5040 | [ParePlays](https://osu.ppy.sh/u/8275006) | 891.56 | 4 |
+| 5041 | [Sergos](https://osu.ppy.sh/u/1679946) | 889.76 | 4 |
+| 5042 | [xRevz](https://osu.ppy.sh/u/6030938) | 888.68 | 4 |
+| 5043 | [SenpaiDT](https://osu.ppy.sh/u/4553474) | 888.27 | 4 |
+| 5044 | [Shelter](https://osu.ppy.sh/u/6571674) | 886.66 | 3 |
+| 5045 | [Lafarius](https://osu.ppy.sh/u/2658847) | 886.61 | 3 |
+| 5046 | [Kuramu](https://osu.ppy.sh/u/4159167) | 886.28 | 3 |
+| 5047 | [pocket-](https://osu.ppy.sh/u/6808091) | 886.12 | 4 |
+| 5048 | [The100500](https://osu.ppy.sh/u/4491034) | 886.11 | 3 |
+| 5049 | [[Vincent]](https://osu.ppy.sh/u/1807125) | 885.22 | 4 |
+| 5050 | [fallenstarxz](https://osu.ppy.sh/u/2446050) | 884.45 | 4 |
+| 5051 | [Kizmah](https://osu.ppy.sh/u/8325847) | 884.18 | 4 |
+| 5052 | [PunyFlash](https://osu.ppy.sh/u/4928461) | 884.15 | 4 |
+| 5053 | [Hullahopp](https://osu.ppy.sh/u/4271205) | 883.75 | 4 |
+| 5054 | [rarebostonian](https://osu.ppy.sh/u/8097065) | 883.06 | 4 |
+| 5055 | [Astercus](https://osu.ppy.sh/u/5083148) | 882.70 | 4 |
+| 5056 | [Fumiko-](https://osu.ppy.sh/u/4360439) | 881.67 | 3 |
+| 5057 | [Nyxas](https://osu.ppy.sh/u/2514744) | 881.56 | 4 |
+| 5058 | [Masala](https://osu.ppy.sh/u/4846749) | 880.97 | 4 |
+| 5059 | [Ichinyan](https://osu.ppy.sh/u/5306757) | 880.82 | 4 |
+| 5060 | [Rumby](https://osu.ppy.sh/u/3458042) | 880.76 | 4 |
+| 5061 | [WacoTaco](https://osu.ppy.sh/u/4862848) | 879.90 | 4 |
+| 5062 | [NekoFunfo](https://osu.ppy.sh/u/1646427) | 879.81 | 3 |
+| 5063 | [Swiipyyy](https://osu.ppy.sh/u/3211843) | 879.75 | 4 |
+| 5064 | [-KitEKat-](https://osu.ppy.sh/u/5102545) | 879.59 | 4 |
+| 5065 | [Bariton](https://osu.ppy.sh/u/2026274) | 879.39 | 5 |
+| 5066 | [Kelhoy](https://osu.ppy.sh/u/5176406) | 878.61 | 4 |
+| 5067 | [meR maR](https://osu.ppy.sh/u/5459029) | 878.54 | 3 |
+| 5068 | [seegii](https://osu.ppy.sh/u/4659319) | 878.01 | 3 |
+| 5069 | [[Sayui]](https://osu.ppy.sh/u/2579962) | 877.09 | 4 |
+| 5070 | [Reficul918](https://osu.ppy.sh/u/6710984) | 876.06 | 3 |
+| 5071 | [Nefarium](https://osu.ppy.sh/u/2484251) | 875.53 | 4 |
+| 5072 | [TytnD](https://osu.ppy.sh/u/7960551) | 874.97 | 4 |
+| 5073 | [_WinTer](https://osu.ppy.sh/u/4899019) | 874.89 | 4 |
+| 5074 | [Gungsu](https://osu.ppy.sh/u/5919553) | 874.78 | 4 |
+| 5075 | [jakoblikegames](https://osu.ppy.sh/u/5653151) | 874.02 | 4 |
+| 5076 | [Jaffulee](https://osu.ppy.sh/u/7506280) | 873.32 | 4 |
+| 5077 | [Lagel](https://osu.ppy.sh/u/5053393) | 871.93 | 3 |
+| 5078 | [Kaplan](https://osu.ppy.sh/u/1376983) | 871.54 | 4 |
+| 5079 | [Horocchi](https://osu.ppy.sh/u/4033874) | 871.15 | 3 |
+| 5080 | [Contaminate](https://osu.ppy.sh/u/4694589) | 870.55 | 4 |
+| 5081 | [Muffim](https://osu.ppy.sh/u/4816725) | 869.94 | 4 |
+| 5082 | [Harley Rizumu](https://osu.ppy.sh/u/5159855) | 869.83 | 4 |
+| 5083 | [Hyoon](https://osu.ppy.sh/u/3336068) | 869.30 | 4 |
+| 5084 | [0198](https://osu.ppy.sh/u/1734925) | 868.67 | 4 |
+| 5085 | [GalaxyFox](https://osu.ppy.sh/u/6592512) | 867.71 | 4 |
+| 5086 | [ivan8](https://osu.ppy.sh/u/6209315) | 867.38 | 4 |
+| 5087 | [Pokoulie](https://osu.ppy.sh/u/6168679) | 867.20 | 4 |
+| 5088 | [EvilMrPeanut](https://osu.ppy.sh/u/3796963) | 867.16 | 4 |
+| 5089 | [Chastise](https://osu.ppy.sh/u/2846224) | 866.49 | 4 |
+| 5090 | [Irieln](https://osu.ppy.sh/u/5577897) | 866.46 | 4 |
+| 5091 | [Setsuna](https://osu.ppy.sh/u/3741333) | 865.99 | 3 |
+| 5092 | [FERRETu](https://osu.ppy.sh/u/2266129) | 865.80 | 4 |
+| 5093 | [-Hiro-](https://osu.ppy.sh/u/7657184) | 864.85 | 4 |
+| 5094 | [Jugment](https://osu.ppy.sh/u/3727686) | 863.02 | 3 |
+| 5095 | [niemi](https://osu.ppy.sh/u/2449721) | 863.00 | 4 |
+| 5096 | [[HR-D3]](https://osu.ppy.sh/u/6866504) | 862.10 | 4 |
+| 5097 | [otibikinoko](https://osu.ppy.sh/u/3787252) | 861.66 | 4 |
+| 5098 | [Skrubadip](https://osu.ppy.sh/u/6123354) | 861.56 | 4 |
+| 5099 | [Julio](https://osu.ppy.sh/u/4384319) | 861.08 | 4 |
+| 5100 | [iok144](https://osu.ppy.sh/u/2171652) | 860.94 | 3 |
+| 5101 | [Ultimatum](https://osu.ppy.sh/u/3411877) | 859.97 | 3 |
+| 5102 | [Dumii](https://osu.ppy.sh/u/3068044) | 859.72 | 2 |
+| 5103 | [Doyak](https://osu.ppy.sh/u/2046893) | 859.66 | 4 |
+| 5104 | [Asde26](https://osu.ppy.sh/u/7629285) | 859.14 | 4 |
+| 5105 | [[Frost]](https://osu.ppy.sh/u/2473265) | 858.70 | 4 |
+| 5106 | [Shandro](https://osu.ppy.sh/u/175411) | 857.24 | 4 |
+| 5107 | [Ranked](https://osu.ppy.sh/u/5039340) | 856.10 | 3 |
+| 5108 | [Mistage](https://osu.ppy.sh/u/8192270) | 855.89 | 4 |
+| 5109 | [Alvin-](https://osu.ppy.sh/u/3579669) | 855.40 | 4 |
+| 5110 | [yuuchao](https://osu.ppy.sh/u/859049) | 855.03 | 3 |
+| 5111 | [Hakurei-Reimu](https://osu.ppy.sh/u/10067517) | 854.60 | 4 |
+| 5112 | [Kiyoflame](https://osu.ppy.sh/u/7777886) | 854.58 | 4 |
+| 5113 | [Ene Chan](https://osu.ppy.sh/u/6502040) | 854.30 | 3 |
+| 5114 | [Polyethyl](https://osu.ppy.sh/u/6139400) | 854.22 | 4 |
+| 5115 | [moe homa](https://osu.ppy.sh/u/4531709) | 854.17 | 3 |
+| 5116 | [ScepticalPoem](https://osu.ppy.sh/u/7696461) | 854.03 | 4 |
+| 5117 | [Raze-](https://osu.ppy.sh/u/9390208) | 853.67 | 4 |
+| 5118 | [_kotachi_](https://osu.ppy.sh/u/4698485) | 852.69 | 3 |
+| 5119 | [Rundle67](https://osu.ppy.sh/u/1542979) | 852.35 | 4 |
+| 5120 | [Tsubajashi](https://osu.ppy.sh/u/4513500) | 851.67 | 3 |
+| 5121 | [Clover2k](https://osu.ppy.sh/u/9063718) | 849.10 | 5 |
+| 5122 | [SayloR](https://osu.ppy.sh/u/4263795) | 848.42 | 4 |
+| 5123 | [Ackane-](https://osu.ppy.sh/u/2003677) | 848.15 | 3 |
+| 5124 | [blizzardice](https://osu.ppy.sh/u/1756690) | 847.57 | 4 |
+| 5125 | [Koishi](https://osu.ppy.sh/u/6032169) | 847.47 | 3 |
+| 5126 | [Reversed_Nipple](https://osu.ppy.sh/u/4975477) | 847.41 | 4 |
+| 5127 | [IronSolid1595](https://osu.ppy.sh/u/4929339) | 846.70 | 4 |
+| 5128 | [Juanfeis](https://osu.ppy.sh/u/4008779) | 846.11 | 4 |
+| 5129 | [Mytlex](https://osu.ppy.sh/u/7045024) | 846.05 | 4 |
+| 5130 | [maybeAghost](https://osu.ppy.sh/u/4101254) | 845.59 | 4 |
+| 5131 | [Minos with qsc](https://osu.ppy.sh/u/2292186) | 845.48 | 3 |
+| 5132 | [charizard](https://osu.ppy.sh/u/443513) | 845.22 | 4 |
+| 5133 | [imyoosk](https://osu.ppy.sh/u/3402962) | 843.76 | 3 |
+| 5134 | [monaca](https://osu.ppy.sh/u/1905179) | 843.68 | 3 |
+| 5135 | [regulatorBPM](https://osu.ppy.sh/u/6603714) | 843.46 | 4 |
+| 5136 | [Asti](https://osu.ppy.sh/u/3898126) | 843.23 | 4 |
+| 5137 | [cheiru](https://osu.ppy.sh/u/4775087) | 842.95 | 4 |
+| 5138 | [samux93](https://osu.ppy.sh/u/3003214) | 842.18 | 4 |
+| 5139 | [Nyari](https://osu.ppy.sh/u/1337145) | 841.55 | 3 |
+| 5140 | [xxWeedWizardxx](https://osu.ppy.sh/u/4501004) | 840.85 | 3 |
+| 5141 | [Quelka](https://osu.ppy.sh/u/2519279) | 840.81 | 4 |
+| 5142 | [-Reko-](https://osu.ppy.sh/u/6396817) | 840.32 | 3 |
+| 5143 | [herba](https://osu.ppy.sh/u/1728296) | 839.83 | 4 |
+| 5144 | [LeeEn](https://osu.ppy.sh/u/1996060) | 839.50 | 4 |
+| 5145 | [Karl-Johan](https://osu.ppy.sh/u/6686840) | 839.46 | 4 |
+| 5146 | [Jimminy](https://osu.ppy.sh/u/2252524) | 839.46 | 4 |
+| 5147 | [Devilsknife](https://osu.ppy.sh/u/4943576) | 839.30 | 4 |
+| 5148 | [tsunamayo](https://osu.ppy.sh/u/580243) | 838.72 | 4 |
+| 5149 | [Hellotomlol225](https://osu.ppy.sh/u/1906975) | 838.71 | 3 |
+| 5150 | [-iNiSiE-](https://osu.ppy.sh/u/5367090) | 838.54 | 4 |
+| 5151 | [Moosic_](https://osu.ppy.sh/u/4125128) | 837.75 | 4 |
+| 5152 | [Dragonmob](https://osu.ppy.sh/u/4990193) | 837.16 | 3 |
+| 5153 | [[ Tirpitz ]](https://osu.ppy.sh/u/10289930) | 837.13 | 5 |
+| 5154 | [AdveNt](https://osu.ppy.sh/u/592971) | 836.61 | 3 |
+| 5155 | [AwakenD2](https://osu.ppy.sh/u/7789573) | 835.57 | 4 |
+| 5156 | [-NaRin-](https://osu.ppy.sh/u/5360773) | 835.40 | 4 |
+| 5157 | [Cyrame](https://osu.ppy.sh/u/6489078) | 835.03 | 3 |
+| 5158 | [Togawa Mayu](https://osu.ppy.sh/u/1226709) | 835.00 | 4 |
+| 5159 | [Rookie](https://osu.ppy.sh/u/4292592) | 834.69 | 3 |
+| 5160 | [Deepesh](https://osu.ppy.sh/u/7271747) | 834.52 | 4 |
+| 5161 | [rinuko](https://osu.ppy.sh/u/2117197) | 834.15 | 3 |
+| 5162 | [SpitsLife](https://osu.ppy.sh/u/3822930) | 833.06 | 3 |
+| 5163 | [spiderupsb](https://osu.ppy.sh/u/6345395) | 832.47 | 4 |
+| 5164 | [Syfou](https://osu.ppy.sh/u/1572956) | 831.24 | 3 |
+| 5165 | [frs](https://osu.ppy.sh/u/5376829) | 831.19 | 3 |
+| 5166 | [Fureeish](https://osu.ppy.sh/u/7616667) | 831.02 | 4 |
+| 5167 | [Adan](https://osu.ppy.sh/u/8130565) | 830.23 | 4 |
+| 5168 | [Krallee](https://osu.ppy.sh/u/3848711) | 829.81 | 4 |
+| 5169 | [Kariyu](https://osu.ppy.sh/u/4733121) | 829.59 | 4 |
+| 5170 | [- Nikliu -](https://osu.ppy.sh/u/3542416) | 828.87 | 2 |
+| 5171 | [Tobirama Senju](https://osu.ppy.sh/u/3188127) | 827.46 | 3 |
+| 5172 | [Jung Eun-ji](https://osu.ppy.sh/u/8750756) | 827.38 | 4 |
+| 5173 | [BeastDog](https://osu.ppy.sh/u/2857575) | 826.26 | 4 |
+| 5174 | [tomiya0](https://osu.ppy.sh/u/2899379) | 826.23 | 4 |
+| 5175 | [Imakuri](https://osu.ppy.sh/u/6100837) | 826.22 | 4 |
+| 5176 | [Ucy](https://osu.ppy.sh/u/5892671) | 826.14 | 4 |
+| 5177 | [meatslab](https://osu.ppy.sh/u/3776682) | 825.90 | 3 |
+| 5178 | [kzt](https://osu.ppy.sh/u/966890) | 825.88 | 4 |
+| 5179 | [Leupoi](https://osu.ppy.sh/u/2959973) | 825.71 | 3 |
+| 5180 | [Shama](https://osu.ppy.sh/u/7521991) | 825.57 | 4 |
+| 5181 | [- Z e o n -](https://osu.ppy.sh/u/539876) | 825.36 | 4 |
+| 5182 | [My Angel Kitteh](https://osu.ppy.sh/u/1069783) | 824.41 | 4 |
+| 5183 | [JonQuy](https://osu.ppy.sh/u/4213075) | 824.41 | 4 |
+| 5184 | [Moefist](https://osu.ppy.sh/u/1083833) | 824.01 | 4 |
+| 5185 | [tsun loli](https://osu.ppy.sh/u/5147794) | 823.43 | 4 |
+| 5186 | [salsicha](https://osu.ppy.sh/u/6097699) | 822.58 | 4 |
+| 5187 | [lee82088](https://osu.ppy.sh/u/757038) | 821.99 | 3 |
+| 5188 | [Flufflee](https://osu.ppy.sh/u/2245411) | 821.93 | 3 |
+| 5189 | [TheKingNoob](https://osu.ppy.sh/u/6937487) | 821.70 | 3 |
+| 5190 | [felys](https://osu.ppy.sh/u/1759427) | 821.60 | 3 |
+| 5191 | [Nightshiftt](https://osu.ppy.sh/u/4662596) | 821.21 | 4 |
+| 5192 | [- Kokoi -](https://osu.ppy.sh/u/2332204) | 821.07 | 4 |
+| 5193 | [Xenbo](https://osu.ppy.sh/u/1895489) | 821.04 | 3 |
+| 5194 | [Danbal_Sarang](https://osu.ppy.sh/u/2659965) | 820.51 | 3 |
+| 5195 | [BloodyDucks](https://osu.ppy.sh/u/6569665) | 820.35 | 4 |
+| 5196 | [red3yz](https://osu.ppy.sh/u/4809002) | 820.33 | 4 |
+| 5197 | [rekhichem](https://osu.ppy.sh/u/6187394) | 820.29 | 3 |
+| 5198 | [Toodls](https://osu.ppy.sh/u/6531923) | 820.16 | 4 |
+| 5199 | [NBS](https://osu.ppy.sh/u/5844725) | 819.85 | 4 |
+| 5200 | [Zekethebroda](https://osu.ppy.sh/u/8260044) | 819.84 | 4 |
+| 5201 | [Legal Loli](https://osu.ppy.sh/u/6402072) | 819.84 | 4 |
+| 5202 | [[-Kaiyno-]](https://osu.ppy.sh/u/4303161) | 818.87 | 4 |
+| 5203 | [CrispPOP](https://osu.ppy.sh/u/3729207) | 818.38 | 3 |
+| 5204 | [Roromiya Karuta](https://osu.ppy.sh/u/5901093) | 817.92 | 3 |
+| 5205 | [Lodomir2](https://osu.ppy.sh/u/2516971) | 817.24 | 3 |
+| 5206 | [-kite-](https://osu.ppy.sh/u/6920076) | 816.47 | 4 |
+| 5207 | [Xarr](https://osu.ppy.sh/u/7262065) | 816.07 | 5 |
+| 5208 | [DarkBisu](https://osu.ppy.sh/u/2496412) | 813.72 | 3 |
+| 5209 | [Okazys](https://osu.ppy.sh/u/4671253) | 813.62 | 3 |
+| 5210 | [Seizu](https://osu.ppy.sh/u/2991265) | 813.55 | 4 |
+| 5211 | [Mira](https://osu.ppy.sh/u/4606234) | 813.38 | 4 |
+| 5212 | [[-KuleK-]](https://osu.ppy.sh/u/4055987) | 812.92 | 4 |
+| 5213 | [Mu5b1](https://osu.ppy.sh/u/3133080) | 812.54 | 4 |
+| 5214 | [Akcyza](https://osu.ppy.sh/u/2510953) | 812.30 | 4 |
+| 5215 | [Evox](https://osu.ppy.sh/u/4316820) | 812.18 | 4 |
+| 5216 | [Kiri-Chan](https://osu.ppy.sh/u/3300104) | 811.72 | 3 |
+| 5217 | [Hundur](https://osu.ppy.sh/u/3145033) | 811.60 | 2 |
+| 5218 | [[ ATChunG ]](https://osu.ppy.sh/u/1654799) | 811.33 | 3 |
+| 5219 | [Doter 228](https://osu.ppy.sh/u/6050952) | 811.08 | 4 |
+| 5220 | [Juris](https://osu.ppy.sh/u/5434159) | 810.77 | 4 |
+| 5221 | [AustinR5](https://osu.ppy.sh/u/4535852) | 810.13 | 4 |
+| 5222 | [Touch-Pad](https://osu.ppy.sh/u/3608846) | 809.55 | 3 |
+| 5223 | [downturned](https://osu.ppy.sh/u/4324054) | 807.91 | 3 |
+| 5224 | [Polopolou](https://osu.ppy.sh/u/3644274) | 807.13 | 4 |
+| 5225 | [Myschu](https://osu.ppy.sh/u/2387275) | 806.84 | 4 |
+| 5226 | [suni](https://osu.ppy.sh/u/4126437) | 806.60 | 4 |
+| 5227 | [MillhioreF](https://osu.ppy.sh/u/941094) | 805.79 | 4 |
+| 5228 | [[ -Shimizu- ]](https://osu.ppy.sh/u/6099841) | 805.70 | 4 |
+| 5229 | [Standout](https://osu.ppy.sh/u/8188064) | 805.62 | 4 |
+| 5230 | [Nuggel](https://osu.ppy.sh/u/3076325) | 804.89 | 3 |
+| 5231 | [Szyszek](https://osu.ppy.sh/u/4622456) | 804.85 | 4 |
+| 5232 | [phtry](https://osu.ppy.sh/u/3394580) | 804.57 | 3 |
+| 5233 | [MiCream](https://osu.ppy.sh/u/4124484) | 804.51 | 4 |
+| 5234 | [Clem](https://osu.ppy.sh/u/6385807) | 804.50 | 3 |
+| 5235 | [LuxNova](https://osu.ppy.sh/u/2461671) | 803.36 | 4 |
+| 5236 | [Last Remote](https://osu.ppy.sh/u/61540) | 803.04 | 4 |
+| 5237 | [Dizvo](https://osu.ppy.sh/u/5513495) | 801.89 | 3 |
+| 5238 | [Raixor](https://osu.ppy.sh/u/4574675) | 801.57 | 4 |
+| 5239 | [RyeoCha](https://osu.ppy.sh/u/4479921) | 801.56 | 3 |
+| 5240 | [- Akiyama Mio -](https://osu.ppy.sh/u/2710169) | 800.88 | 3 |
+| 5241 | [rockleejkooo](https://osu.ppy.sh/u/384003) | 800.76 | 4 |
+| 5242 | [SuperPoxie](https://osu.ppy.sh/u/6611222) | 800.14 | 3 |
+| 5243 | [Chikashi01](https://osu.ppy.sh/u/3996548) | 800.10 | 3 |
+| 5244 | [Falling Snow](https://osu.ppy.sh/u/4268722) | 799.82 | 3 |
+| 5245 | [-Element-](https://osu.ppy.sh/u/6113284) | 799.50 | 4 |
+| 5246 | [Khalid](https://osu.ppy.sh/u/691229) | 799.34 | 3 |
+| 5247 | [-Hidemichi-](https://osu.ppy.sh/u/4158075) | 798.82 | 3 |
+| 5248 | [ShinysArc](https://osu.ppy.sh/u/3996331) | 798.39 | 4 |
+| 5249 | [Lilily](https://osu.ppy.sh/u/6502403) | 797.91 | 3 |
+| 5250 | [samplefish](https://osu.ppy.sh/u/573722) | 797.18 | 3 |
+| 5251 | [Kaoura](https://osu.ppy.sh/u/5831631) | 797.05 | 3 |
+| 5252 | [- Hatsu Koi -](https://osu.ppy.sh/u/1272642) | 796.86 | 3 |
+| 5253 | [reflexbeast](https://osu.ppy.sh/u/4550722) | 796.64 | 4 |
+| 5254 | [Freedom dive 4](https://osu.ppy.sh/u/7172994) | 796.53 | 4 |
+| 5255 | [Eero](https://osu.ppy.sh/u/4704721) | 796.16 | 3 |
+| 5256 | [Jrryy](https://osu.ppy.sh/u/3765412) | 794.84 | 4 |
+| 5257 | [Gadmont](https://osu.ppy.sh/u/4203585) | 793.23 | 3 |
+| 5258 | [wck](https://osu.ppy.sh/u/413321) | 792.93 | 4 |
+| 5259 | [MrFuture](https://osu.ppy.sh/u/5724445) | 792.29 | 3 |
+| 5260 | [upupa](https://osu.ppy.sh/u/6723024) | 791.33 | 4 |
+| 5261 | [ThatwasDirty](https://osu.ppy.sh/u/6309717) | 790.16 | 3 |
+| 5262 | [Id_Beat](https://osu.ppy.sh/u/3431380) | 789.97 | 3 |
+| 5263 | [Skilless](https://osu.ppy.sh/u/6335779) | 789.77 | 4 |
+| 5264 | [Remyria](https://osu.ppy.sh/u/1699875) | 789.60 | 3 |
+| 5265 | [- Fivo -](https://osu.ppy.sh/u/6978835) | 789.57 | 3 |
+| 5266 | [Myst1k](https://osu.ppy.sh/u/5302223) | 789.11 | 2 |
+| 5267 | [Taiitoo](https://osu.ppy.sh/u/1144822) | 788.92 | 3 |
+| 5268 | [columna1](https://osu.ppy.sh/u/2541708) | 788.49 | 4 |
+| 5269 | [avenue](https://osu.ppy.sh/u/3612462) | 788.44 | 3 |
+| 5270 | [-Truth-](https://osu.ppy.sh/u/6329640) | 788.07 | 3 |
+| 5271 | [er1cch3n](https://osu.ppy.sh/u/5919819) | 786.78 | 3 |
+| 5272 | [escpoar](https://osu.ppy.sh/u/2002917) | 786.13 | 3 |
+| 5273 | [Ubedzio](https://osu.ppy.sh/u/5867803) | 785.89 | 4 |
+| 5274 | [TheJuicer](https://osu.ppy.sh/u/3872487) | 785.34 | 4 |
+| 5275 | [DarkKarate](https://osu.ppy.sh/u/8666950) | 784.98 | 4 |
+| 5276 | [RoseBatty](https://osu.ppy.sh/u/4909588) | 782.56 | 3 |
+| 5277 | [FokC](https://osu.ppy.sh/u/3742734) | 782.51 | 4 |
+| 5278 | [ievi](https://osu.ppy.sh/u/6030956) | 781.76 | 3 |
+| 5279 | [ILuKy](https://osu.ppy.sh/u/5105840) | 781.72 | 3 |
+| 5280 | [Emell](https://osu.ppy.sh/u/1036630) | 781.17 | 3 |
+| 5281 | [CronixYT](https://osu.ppy.sh/u/4577290) | 780.60 | 4 |
+| 5282 | [Kazutakee](https://osu.ppy.sh/u/2637514) | 779.14 | 3 |
+| 5283 | [Storm_Panda](https://osu.ppy.sh/u/4766107) | 779.11 | 4 |
+| 5284 | [Haruna Kumo](https://osu.ppy.sh/u/3737820) | 778.66 | 3 |
+| 5285 | [Varsagus](https://osu.ppy.sh/u/3885723) | 778.31 | 3 |
+| 5286 | [Keiren](https://osu.ppy.sh/u/889474) | 778.14 | 3 |
+| 5287 | [Acanthum](https://osu.ppy.sh/u/759895) | 778.06 | 3 |
+| 5288 | [parunasu](https://osu.ppy.sh/u/1295886) | 777.82 | 3 |
+| 5289 | [FarLauren](https://osu.ppy.sh/u/4911217) | 776.42 | 4 |
+| 5290 | [Sgt Sardine](https://osu.ppy.sh/u/7769709) | 776.30 | 3 |
+| 5291 | [SuperTesto](https://osu.ppy.sh/u/6782243) | 776.21 | 4 |
+| 5292 | [Keats](https://osu.ppy.sh/u/2071930) | 776.08 | 4 |
+| 5293 | [d0gefish](https://osu.ppy.sh/u/2797371) | 775.89 | 3 |
+| 5294 | [Jaitonat](https://osu.ppy.sh/u/649733) | 775.78 | 3 |
+| 5295 | [wailord2700](https://osu.ppy.sh/u/189091) | 775.20 | 3 |
+| 5296 | [Roscoe](https://osu.ppy.sh/u/4595416) | 774.86 | 3 |
+| 5297 | [JasDevi](https://osu.ppy.sh/u/3549605) | 774.32 | 3 |
+| 5298 | [- Kirisaki -](https://osu.ppy.sh/u/2557435) | 773.87 | 3 |
+| 5299 | [Bredzeus](https://osu.ppy.sh/u/6314059) | 773.01 | 3 |
+| 5300 | [-Angra Mainyu-](https://osu.ppy.sh/u/4913631) | 772.43 | 4 |
+| 5301 | [Yurie](https://osu.ppy.sh/u/4586118) | 772.09 | 3 |
+| 5302 | [NaiSu](https://osu.ppy.sh/u/1674447) | 771.96 | 4 |
+| 5303 | [Boogiezi](https://osu.ppy.sh/u/4347610) | 771.13 | 3 |
+| 5304 | [MHJJIV001](https://osu.ppy.sh/u/7511264) | 770.71 | 4 |
+| 5305 | [Ajo Joestar](https://osu.ppy.sh/u/2714188) | 770.53 | 3 |
+| 5306 | [Fina](https://osu.ppy.sh/u/3612494) | 770.49 | 4 |
+| 5307 | [yuilemo](https://osu.ppy.sh/u/707242) | 770.25 | 2 |
+| 5308 | [Destino](https://osu.ppy.sh/u/4586416) | 770.21 | 3 |
+| 5309 | [Axyeder](https://osu.ppy.sh/u/6753610) | 770.08 | 3 |
+| 5310 | [Megumi Kato](https://osu.ppy.sh/u/5063503) | 769.29 | 3 |
+| 5311 | [Thundur](https://osu.ppy.sh/u/4141918) | 768.98 | 3 |
+| 5312 | [DHRHD12](https://osu.ppy.sh/u/1816439) | 768.60 | 4 |
+| 5313 | [Reisea](https://osu.ppy.sh/u/870242) | 768.24 | 3 |
+| 5314 | [Amuamn](https://osu.ppy.sh/u/9009969) | 767.84 | 3 |
+| 5315 | [smiljko](https://osu.ppy.sh/u/3537949) | 767.81 | 2 |
+| 5316 | [Peruna](https://osu.ppy.sh/u/7103897) | 767.00 | 3 |
+| 5317 | [Degma](https://osu.ppy.sh/u/1569690) | 766.96 | 4 |
+| 5318 | [Stoneledge](https://osu.ppy.sh/u/2796433) | 766.55 | 3 |
+| 5319 | [Kynan](https://osu.ppy.sh/u/1093361) | 765.96 | 2 |
+| 5320 | [Syperek](https://osu.ppy.sh/u/2767021) | 765.82 | 3 |
+| 5321 | [danielPro](https://osu.ppy.sh/u/5008386) | 765.23 | 3 |
+| 5322 | [dldnsrl321](https://osu.ppy.sh/u/734250) | 764.82 | 4 |
+| 5323 | [notWHALE](https://osu.ppy.sh/u/3889448) | 764.36 | 4 |
+| 5324 | [[ Jewel EnJu ]](https://osu.ppy.sh/u/2756030) | 764.00 | 3 |
+| 5325 | [jackylam5](https://osu.ppy.sh/u/1540807) | 763.66 | 2 |
+| 5326 | [[ Ventus ]](https://osu.ppy.sh/u/5636611) | 763.47 | 3 |
+| 5327 | [Konoe](https://osu.ppy.sh/u/2859201) | 763.32 | 4 |
+| 5328 | [Storegrisen](https://osu.ppy.sh/u/2332647) | 763.28 | 3 |
+| 5329 | [Revia](https://osu.ppy.sh/u/1079625) | 762.95 | 4 |
+| 5330 | [Jimm](https://osu.ppy.sh/u/3792039) | 762.43 | 4 |
+| 5331 | [Kasen](https://osu.ppy.sh/u/98030) | 762.17 | 3 |
+| 5332 | [Thefroakie](https://osu.ppy.sh/u/6194830) | 762.16 | 3 |
+| 5333 | [Katsumito](https://osu.ppy.sh/u/4422232) | 762.00 | 3 |
+| 5334 | [Espaas](https://osu.ppy.sh/u/3277704) | 761.80 | 3 |
+| 5335 | [ichinose-san](https://osu.ppy.sh/u/6602563) | 760.34 | 3 |
+| 5336 | [Megasaatana](https://osu.ppy.sh/u/3623161) | 760.33 | 3 |
+| 5337 | [leto](https://osu.ppy.sh/u/4476950) | 757.14 | 3 |
+| 5338 | [Jokermafia](https://osu.ppy.sh/u/5213370) | 756.50 | 3 |
+| 5339 | [tuyanaruga](https://osu.ppy.sh/u/3969390) | 756.10 | 3 |
+| 5340 | [ElMick33](https://osu.ppy.sh/u/5458323) | 754.91 | 4 |
+| 5341 | [dong](https://osu.ppy.sh/u/4422446) | 754.47 | 3 |
+| 5342 | [Yuki Elison](https://osu.ppy.sh/u/3232699) | 754.02 | 3 |
+| 5343 | [fran1g](https://osu.ppy.sh/u/3587961) | 752.43 | 3 |
+| 5344 | [erk](https://osu.ppy.sh/u/1107099) | 752.34 | 3 |
+| 5345 | [Kyaa](https://osu.ppy.sh/u/6863726) | 751.74 | 3 |
+| 5346 | [Aigh](https://osu.ppy.sh/u/4025217) | 751.60 | 4 |
+| 5347 | [y o y i n g](https://osu.ppy.sh/u/2958065) | 750.84 | 3 |
+| 5348 | [monsternyu](https://osu.ppy.sh/u/2094433) | 750.11 | 3 |
+| 5349 | [Secret-](https://osu.ppy.sh/u/4615182) | 749.97 | 3 |
+| 5350 | [Mr_VolKun](https://osu.ppy.sh/u/5516817) | 749.47 | 3 |
+| 5351 | [swtk](https://osu.ppy.sh/u/3775259) | 749.24 | 3 |
+| 5352 | [uNable](https://osu.ppy.sh/u/1958549) | 749.23 | 3 |
+| 5353 | [BertGryyy](https://osu.ppy.sh/u/6547790) | 748.77 | 3 |
+| 5354 | [Vibrall](https://osu.ppy.sh/u/2882221) | 748.39 | 3 |
+| 5355 | [heyronii](https://osu.ppy.sh/u/5642779) | 748.10 | 3 |
+| 5356 | [Totoki](https://osu.ppy.sh/u/557197) | 747.13 | 2 |
+| 5357 | [Delanzz](https://osu.ppy.sh/u/6918985) | 746.95 | 3 |
+| 5358 | [kYorineN](https://osu.ppy.sh/u/4131515) | 746.42 | 3 |
+| 5359 | [-Rasta-](https://osu.ppy.sh/u/6318433) | 744.56 | 4 |
+| 5360 | [hapihapi](https://osu.ppy.sh/u/3415316) | 744.18 | 3 |
+| 5361 | [Oddyse](https://osu.ppy.sh/u/6516507) | 744.18 | 3 |
+| 5362 | [Scars](https://osu.ppy.sh/u/6459284) | 743.81 | 4 |
+| 5363 | [EnuHQ](https://osu.ppy.sh/u/5281072) | 743.09 | 3 |
+| 5364 | [Yukkii](https://osu.ppy.sh/u/4733602) | 742.57 | 3 |
+| 5365 | [PalmZz](https://osu.ppy.sh/u/4503253) | 742.43 | 3 |
+| 5366 | [Adis](https://osu.ppy.sh/u/6608177) | 741.44 | 3 |
+| 5367 | [captin1](https://osu.ppy.sh/u/689997) | 741.03 | 3 |
+| 5368 | [DaniGts](https://osu.ppy.sh/u/6676400) | 740.98 | 3 |
+| 5369 | [nenohi](https://osu.ppy.sh/u/4346689) | 740.93 | 3 |
+| 5370 | [Smoothie World](https://osu.ppy.sh/u/1855540) | 740.48 | 2 |
+| 5371 | [Aaron P](https://osu.ppy.sh/u/4394868) | 739.68 | 3 |
+| 5372 | [Silueta](https://osu.ppy.sh/u/2913678) | 739.46 | 4 |
+| 5373 | [vietnam13231](https://osu.ppy.sh/u/1882587) | 739.44 | 3 |
+| 5374 | [Beqq](https://osu.ppy.sh/u/8934618) | 739.02 | 3 |
+| 5375 | [NotOmega](https://osu.ppy.sh/u/6345764) | 738.88 | 3 |
+| 5376 | [Velari](https://osu.ppy.sh/u/5221513) | 737.54 | 3 |
+| 5377 | [Naisuu](https://osu.ppy.sh/u/4266404) | 737.54 | 3 |
+| 5378 | [Moleshiroi](https://osu.ppy.sh/u/1731194) | 737.20 | 3 |
+| 5379 | [VodkaApproved](https://osu.ppy.sh/u/3204153) | 736.17 | 3 |
+| 5380 | [Empowers](https://osu.ppy.sh/u/2186471) | 735.25 | 3 |
+| 5381 | [facu2708](https://osu.ppy.sh/u/2788579) | 734.93 | 3 |
+| 5382 | [NekoMiax](https://osu.ppy.sh/u/3826030) | 734.47 | 3 |
+| 5383 | [Attack](https://osu.ppy.sh/u/943521) | 734.16 | 3 |
+| 5384 | [-Matt-](https://osu.ppy.sh/u/1847568) | 733.54 | 3 |
+| 5385 | [afteRlight](https://osu.ppy.sh/u/6211780) | 733.19 | 4 |
+| 5386 | [Kiorah](https://osu.ppy.sh/u/5223334) | 733.19 | 3 |
+| 5387 | [DenierNezzar](https://osu.ppy.sh/u/126144) | 732.16 | 2 |
+| 5388 | [Zeforro](https://osu.ppy.sh/u/8115301) | 731.42 | 3 |
+| 5389 | [Urp](https://osu.ppy.sh/u/1534396) | 731.01 | 3 |
+| 5390 | [haga1115](https://osu.ppy.sh/u/6574823) | 730.98 | 3 |
+| 5391 | [Killbasa](https://osu.ppy.sh/u/3649725) | 729.94 | 3 |
+| 5392 | [awandy](https://osu.ppy.sh/u/4504905) | 729.87 | 3 |
+| 5393 | [R a h a r u](https://osu.ppy.sh/u/785193) | 729.51 | 3 |
+| 5394 | [zzzbored](https://osu.ppy.sh/u/3222676) | 729.38 | 3 |
+| 5395 | [KaraDaxx](https://osu.ppy.sh/u/4575139) | 729.01 | 3 |
+| 5396 | [Great_Nyker](https://osu.ppy.sh/u/7229853) | 728.82 | 3 |
+| 5397 | [Fr0th](https://osu.ppy.sh/u/3458870) | 727.90 | 2 |
+| 5398 | [TakkimotoHifumi](https://osu.ppy.sh/u/6222880) | 727.67 | 3 |
+| 5399 | [TarutoZi](https://osu.ppy.sh/u/2634168) | 727.50 | 3 |
+| 5400 | [Ewen](https://osu.ppy.sh/u/5037522) | 727.22 | 3 |
+| 5401 | [Raikozen](https://osu.ppy.sh/u/3827077) | 727.13 | 3 |
+| 5402 | [nuc](https://osu.ppy.sh/u/4938405) | 726.47 | 3 |
+| 5403 | [Macky019](https://osu.ppy.sh/u/7965168) | 726.30 | 3 |
+| 5404 | [ExModify](https://osu.ppy.sh/u/7211861) | 726.13 | 3 |
+| 5405 | [Gaxel](https://osu.ppy.sh/u/2117122) | 724.68 | 3 |
+| 5406 | [_Jking](https://osu.ppy.sh/u/6567297) | 724.11 | 3 |
+| 5407 | [TwT](https://osu.ppy.sh/u/606231) | 724.00 | 3 |
+| 5408 | [LoginLeg](https://osu.ppy.sh/u/5139547) | 723.99 | 3 |
+| 5409 | [BaconyBacon](https://osu.ppy.sh/u/7444093) | 723.33 | 3 |
+| 5410 | [KingOfPie](https://osu.ppy.sh/u/2405060) | 723.12 | 3 |
+| 5411 | [Katsuperuu](https://osu.ppy.sh/u/7702767) | 723.00 | 3 |
+| 5412 | [Paz](https://osu.ppy.sh/u/3386059) | 722.67 | 3 |
+| 5413 | [iDanny](https://osu.ppy.sh/u/448248) | 721.96 | 3 |
+| 5414 | [Arsaii](https://osu.ppy.sh/u/4396005) | 721.88 | 3 |
+| 5415 | [I Have OBCD](https://osu.ppy.sh/u/7004822) | 721.38 | 3 |
+| 5416 | [[-Avalon-]](https://osu.ppy.sh/u/7481937) | 719.95 | 3 |
+| 5417 | [_Arsesha](https://osu.ppy.sh/u/5846121) | 718.97 | 3 |
+| 5418 | [emisa2](https://osu.ppy.sh/u/2409373) | 718.90 | 3 |
+| 5419 | [[Riot]](https://osu.ppy.sh/u/4256461) | 718.85 | 3 |
+| 5420 | [AJIekceu](https://osu.ppy.sh/u/940656) | 718.08 | 4 |
+| 5421 | [MarisaKirisame](https://osu.ppy.sh/u/3870644) | 717.07 | 3 |
+| 5422 | [ThePooN](https://osu.ppy.sh/u/718454) | 716.57 | 2 |
+| 5423 | [KolegaKlikacy](https://osu.ppy.sh/u/6628380) | 716.27 | 3 |
+| 5424 | [Dorovon](https://osu.ppy.sh/u/1433076) | 715.20 | 3 |
+| 5425 | [Aka12](https://osu.ppy.sh/u/6186338) | 714.93 | 3 |
+| 5426 | [Incorage](https://osu.ppy.sh/u/2952230) | 714.15 | 3 |
+| 5427 | [Appilesh](https://osu.ppy.sh/u/6467933) | 714.05 | 3 |
+| 5428 | [[biri-biri]](https://osu.ppy.sh/u/3656441) | 713.90 | 4 |
+| 5429 | [MoonkO](https://osu.ppy.sh/u/4310984) | 712.99 | 3 |
+| 5430 | [redozem](https://osu.ppy.sh/u/2071307) | 712.78 | 3 |
+| 5431 | [Avolition](https://osu.ppy.sh/u/4168144) | 712.17 | 3 |
+| 5432 | [TheLonePiggy](https://osu.ppy.sh/u/6591825) | 710.18 | 3 |
+| 5433 | [Spritecy](https://osu.ppy.sh/u/3321847) | 709.93 | 3 |
+| 5434 | [Zaiyda](https://osu.ppy.sh/u/7470549) | 709.75 | 3 |
+| 5435 | [Chaotic Ataraxy](https://osu.ppy.sh/u/972447) | 709.17 | 3 |
+| 5436 | [Fujin](https://osu.ppy.sh/u/4715248) | 709.08 | 3 |
+| 5437 | [little Agile](https://osu.ppy.sh/u/1843469) | 708.79 | 2 |
+| 5438 | [Infectonator](https://osu.ppy.sh/u/537919) | 708.72 | 3 |
+| 5439 | [[Lunatic Bell]](https://osu.ppy.sh/u/4098646) | 708.63 | 2 |
+| 5440 | [MrAntagonizer](https://osu.ppy.sh/u/6789453) | 708.59 | 3 |
+| 5441 | [Akigeor](https://osu.ppy.sh/u/5093525) | 708.50 | 3 |
+| 5442 | [_Gieniek](https://osu.ppy.sh/u/2448399) | 708.11 | 3 |
+| 5443 | [ImNoob](https://osu.ppy.sh/u/5818705) | 707.58 | 3 |
+| 5444 | [Komeiji Koishi](https://osu.ppy.sh/u/2759457) | 707.42 | 3 |
+| 5445 | [Naappy](https://osu.ppy.sh/u/7599934) | 707.04 | 3 |
+| 5446 | [eat my shorts](https://osu.ppy.sh/u/2965920) | 706.39 | 3 |
+| 5447 | [Krai](https://osu.ppy.sh/u/2226495) | 705.79 | 3 |
+| 5448 | [Ravoh](https://osu.ppy.sh/u/6617978) | 705.38 | 3 |
+| 5449 | [Scarioth](https://osu.ppy.sh/u/2619750) | 703.77 | 3 |
+| 5450 | [idk](https://osu.ppy.sh/u/1295234) | 703.73 | 3 |
+| 5451 | [New Username](https://osu.ppy.sh/u/4745206) | 703.71 | 3 |
+| 5452 | [Garian](https://osu.ppy.sh/u/4569737) | 703.11 | 3 |
+| 5453 | [Kimidori](https://osu.ppy.sh/u/5073441) | 702.94 | 3 |
+| 5454 | [EazyBash](https://osu.ppy.sh/u/2860353) | 702.53 | 3 |
+| 5455 | [Daevanion](https://osu.ppy.sh/u/2955620) | 702.41 | 3 |
+| 5456 | [Corompus](https://osu.ppy.sh/u/2467018) | 701.52 | 3 |
+| 5457 | [Kurobane Sayuki](https://osu.ppy.sh/u/3650391) | 701.46 | 3 |
+| 5458 | [Ain111](https://osu.ppy.sh/u/4083033) | 700.65 | 3 |
+| 5459 | [black1207](https://osu.ppy.sh/u/983149) | 700.52 | 2 |
+| 5460 | [-ScrappY](https://osu.ppy.sh/u/5325278) | 700.31 | 3 |
+| 5461 | [UDQN](https://osu.ppy.sh/u/2547953) | 700.17 | 2 |
+| 5462 | [Swiflez](https://osu.ppy.sh/u/5334171) | 700.17 | 3 |
+| 5463 | [Hikaru](https://osu.ppy.sh/u/880686) | 700.08 | 4 |
+| 5464 | [4ndr3w18](https://osu.ppy.sh/u/3075738) | 699.78 | 3 |
+| 5465 | [[FireDemte]](https://osu.ppy.sh/u/5759059) | 699.04 | 3 |
+| 5466 | [[ D_L ]](https://osu.ppy.sh/u/3293915) | 698.94 | 3 |
+| 5467 | [- Nue](https://osu.ppy.sh/u/2011185) | 698.86 | 3 |
+| 5468 | [roudie](https://osu.ppy.sh/u/6063745) | 698.65 | 3 |
+| 5469 | [[ Ephoenix ]](https://osu.ppy.sh/u/2908598) | 697.25 | 3 |
+| 5470 | [Arcanis](https://osu.ppy.sh/u/3230153) | 696.89 | 3 |
+| 5471 | [Girakzei](https://osu.ppy.sh/u/4249040) | 696.33 | 3 |
+| 5472 | [TinyLoliGirl](https://osu.ppy.sh/u/4868749) | 696.07 | 2 |
+| 5473 | [abhi43](https://osu.ppy.sh/u/8155052) | 695.68 | 3 |
+| 5474 | [[Kudryavka]](https://osu.ppy.sh/u/2509174) | 695.29 | 3 |
+| 5475 | [NaxHPL](https://osu.ppy.sh/u/3418853) | 694.99 | 3 |
+| 5476 | [Crylizhy](https://osu.ppy.sh/u/3023138) | 694.89 | 3 |
+| 5477 | [walter85](https://osu.ppy.sh/u/5016431) | 694.83 | 3 |
+| 5478 | [Stylez521](https://osu.ppy.sh/u/5137051) | 694.73 | 3 |
+| 5479 | [Rowlinson](https://osu.ppy.sh/u/5340951) | 694.66 | 3 |
+| 5480 | [_Shield](https://osu.ppy.sh/u/1860489) | 693.98 | 2 |
+| 5481 | [Fanker](https://osu.ppy.sh/u/1554430) | 693.87 | 3 |
+| 5482 | [kutafix](https://osu.ppy.sh/u/4030832) | 693.43 | 2 |
+| 5483 | [WildOctopus](https://osu.ppy.sh/u/2833526) | 692.56 | 3 |
+| 5484 | [Veroxx](https://osu.ppy.sh/u/4508774) | 692.13 | 3 |
+| 5485 | [Satera](https://osu.ppy.sh/u/8375874) | 692.05 | 3 |
+| 5486 | [Felt](https://osu.ppy.sh/u/3481633) | 691.94 | 3 |
+| 5487 | [Devil_crazy](https://osu.ppy.sh/u/5108425) | 691.80 | 3 |
+| 5488 | [- Konpaku -](https://osu.ppy.sh/u/6440611) | 691.44 | 3 |
+| 5489 | [Theseanbei](https://osu.ppy.sh/u/2044859) | 690.47 | 3 |
+| 5490 | [DuckWingBOT](https://osu.ppy.sh/u/573374) | 690.16 | 3 |
+| 5491 | [aaaa](https://osu.ppy.sh/u/6206048) | 689.99 | 3 |
+| 5492 | [Frghal Faker](https://osu.ppy.sh/u/3497562) | 689.91 | 3 |
+| 5493 | [Levi Taichou](https://osu.ppy.sh/u/3864422) | 689.58 | 2 |
+| 5494 | [Ryun Hwa](https://osu.ppy.sh/u/5079031) | 689.15 | 3 |
+| 5495 | [moweh](https://osu.ppy.sh/u/3777247) | 689.06 | 3 |
+| 5496 | [-Hyeri](https://osu.ppy.sh/u/6758269) | 688.94 | 3 |
+| 5497 | [Uncle Druidus](https://osu.ppy.sh/u/3043095) | 688.86 | 3 |
+| 5498 | [[Nii-san]](https://osu.ppy.sh/u/4352977) | 688.71 | 3 |
+| 5499 | [BerryP](https://osu.ppy.sh/u/2884255) | 688.46 | 3 |
+| 5500 | [BRAH](https://osu.ppy.sh/u/2348056) | 687.68 | 3 |
+| 5501 | [Grimsever](https://osu.ppy.sh/u/2322102) | 687.06 | 3 |
+| 5502 | [Al dente](https://osu.ppy.sh/u/1989656) | 686.54 | 3 |
+| 5503 | [Vietz](https://osu.ppy.sh/u/2319935) | 686.48 | 2 |
+| 5504 | [Miyurissan](https://osu.ppy.sh/u/6188468) | 685.71 | 3 |
+| 5505 | [Andyyy](https://osu.ppy.sh/u/6651947) | 684.82 | 3 |
+| 5506 | [_Kazumi_](https://osu.ppy.sh/u/6592983) | 684.43 | 3 |
+| 5507 | [[ Pustules ]](https://osu.ppy.sh/u/2419478) | 683.45 | 2 |
+| 5508 | [Hearth](https://osu.ppy.sh/u/6217599) | 683.44 | 3 |
+| 5509 | [Laurel](https://osu.ppy.sh/u/3919417) | 683.15 | 3 |
+| 5510 | [Aoci](https://osu.ppy.sh/u/2713168) | 683.13 | 3 |
+| 5511 | [- Felix Argyle](https://osu.ppy.sh/u/6568637) | 682.88 | 3 |
+| 5512 | [rtyui](https://osu.ppy.sh/u/5222714) | 682.31 | 3 |
+| 5513 | [My Angel Lina](https://osu.ppy.sh/u/6410154) | 682.24 | 2 |
+| 5514 | [-Heartless-](https://osu.ppy.sh/u/2717309) | 682.22 | 3 |
+| 5515 | [Neo Exdeath](https://osu.ppy.sh/u/1025618) | 681.49 | 3 |
+| 5516 | [Xezzex](https://osu.ppy.sh/u/3069678) | 681.26 | 3 |
+| 5517 | [Gloss](https://osu.ppy.sh/u/7578569) | 680.54 | 3 |
+| 5518 | [Fhy-](https://osu.ppy.sh/u/3309640) | 680.42 | 3 |
+| 5519 | [LittleBird-](https://osu.ppy.sh/u/6668671) | 680.37 | 3 |
+| 5520 | [Snaqz](https://osu.ppy.sh/u/5875129) | 680.12 | 3 |
+| 5521 | [- Castaway -](https://osu.ppy.sh/u/4273613) | 680.08 | 3 |
+| 5522 | [Regnall](https://osu.ppy.sh/u/926370) | 680.01 | 2 |
+| 5523 | [Rexastral](https://osu.ppy.sh/u/4404162) | 679.74 | 3 |
+| 5524 | [Yukizakura](https://osu.ppy.sh/u/839216) | 679.31 | 3 |
+| 5525 | [Maiaz](https://osu.ppy.sh/u/6916642) | 679.22 | 2 |
+| 5526 | [yotm](https://osu.ppy.sh/u/5045434) | 679.08 | 3 |
+| 5527 | [BulBE](https://osu.ppy.sh/u/1727917) | 678.35 | 3 |
+| 5528 | [PureLoyalty](https://osu.ppy.sh/u/8336018) | 677.76 | 3 |
+| 5529 | [Puffydaddy](https://osu.ppy.sh/u/3877775) | 677.61 | 2 |
+| 5530 | [Twilazs](https://osu.ppy.sh/u/3752329) | 677.54 | 3 |
+| 5531 | [_kyky_](https://osu.ppy.sh/u/4519400) | 676.60 | 2 |
+| 5532 | [Bakaa](https://osu.ppy.sh/u/5047460) | 676.60 | 3 |
+| 5533 | [SKT KUKIZ RNG](https://osu.ppy.sh/u/6433913) | 676.28 | 3 |
+| 5534 | [drunk daughter](https://osu.ppy.sh/u/2100107) | 676.24 | 3 |
+| 5535 | [kasdeya](https://osu.ppy.sh/u/3786773) | 676.23 | 2 |
+| 5536 | [kangang](https://osu.ppy.sh/u/4685602) | 675.62 | 3 |
+| 5537 | [TW_Fighting](https://osu.ppy.sh/u/2698730) | 675.12 | 3 |
+| 5538 | [Hasten](https://osu.ppy.sh/u/1545601) | 675.07 | 3 |
+| 5539 | [Black Wolf 0](https://osu.ppy.sh/u/3676663) | 674.46 | 3 |
+| 5540 | [Rai](https://osu.ppy.sh/u/7258362) | 674.38 | 3 |
+| 5541 | [Pearly](https://osu.ppy.sh/u/2846592) | 674.22 | 3 |
+| 5542 | [utaite](https://osu.ppy.sh/u/2459981) | 674.21 | 3 |
+| 5543 | [BAldoTridentE](https://osu.ppy.sh/u/3535339) | 674.10 | 3 |
+| 5544 | [Tothe moon](https://osu.ppy.sh/u/4866865) | 674.01 | 3 |
+| 5545 | [ckbruin13](https://osu.ppy.sh/u/1264647) | 673.91 | 3 |
+| 5546 | [PRlSMA](https://osu.ppy.sh/u/4347098) | 673.87 | 3 |
+| 5547 | [artem2007](https://osu.ppy.sh/u/5209873) | 673.73 | 3 |
+| 5548 | [KoopA](https://osu.ppy.sh/u/4099713) | 673.44 | 3 |
+| 5549 | [S-Yuyuko](https://osu.ppy.sh/u/1756739) | 673.30 | 3 |
+| 5550 | [Viggma](https://osu.ppy.sh/u/8299854) | 673.05 | 3 |
+| 5551 | [Rion-](https://osu.ppy.sh/u/1451544) | 672.25 | 2 |
+| 5552 | [Notrinnh661](https://osu.ppy.sh/u/5236291) | 672.23 | 3 |
+| 5553 | [ar2rdevil](https://osu.ppy.sh/u/7062642) | 672.16 | 3 |
+| 5554 | [Djambalaz](https://osu.ppy.sh/u/6889020) | 671.83 | 3 |
+| 5555 | [- RaczeT -](https://osu.ppy.sh/u/7729312) | 671.50 | 3 |
+| 5556 | [BeyOnd_GGD](https://osu.ppy.sh/u/2274694) | 671.36 | 3 |
+| 5557 | [Omena](https://osu.ppy.sh/u/4637768) | 670.67 | 3 |
+| 5558 | [Pls Enjoy Game](https://osu.ppy.sh/u/4169947) | 670.60 | 3 |
+| 5559 | [Glocked](https://osu.ppy.sh/u/7240471) | 669.94 | 3 |
+| 5560 | [Ponytail](https://osu.ppy.sh/u/1516650) | 669.20 | 2 |
+| 5561 | [MC_Ice](https://osu.ppy.sh/u/4018753) | 667.78 | 3 |
+| 5562 | [WisperUchiha](https://osu.ppy.sh/u/6361002) | 667.51 | 3 |
+| 5563 | [AngeLMoogumin](https://osu.ppy.sh/u/3933997) | 667.18 | 3 |
+| 5564 | [-Ohana-](https://osu.ppy.sh/u/7059547) | 666.96 | 3 |
+| 5565 | [sasan_daichi](https://osu.ppy.sh/u/1416121) | 666.81 | 3 |
+| 5566 | [HtataHD](https://osu.ppy.sh/u/3816052) | 666.70 | 3 |
+| 5567 | [Luris](https://osu.ppy.sh/u/4989519) | 666.54 | 3 |
+| 5568 | [Terrible](https://osu.ppy.sh/u/5171112) | 666.40 | 3 |
+| 5569 | [Evil_HoNoKa](https://osu.ppy.sh/u/3807682) | 665.80 | 3 |
+| 5570 | [-Spiroww](https://osu.ppy.sh/u/9099814) | 664.89 | 3 |
+| 5571 | [Zoriik](https://osu.ppy.sh/u/4003315) | 663.59 | 3 |
+| 5572 | [qazw9530](https://osu.ppy.sh/u/4225246) | 663.36 | 3 |
+| 5573 | [Keada](https://osu.ppy.sh/u/2785549) | 663.03 | 3 |
+| 5574 | [Ugi](https://osu.ppy.sh/u/4126696) | 662.94 | 3 |
+| 5575 | [Ven0m](https://osu.ppy.sh/u/3230773) | 662.76 | 3 |
+| 5576 | [Wolfielele](https://osu.ppy.sh/u/5063505) | 662.44 | 3 |
+| 5577 | [Yamato Hotel](https://osu.ppy.sh/u/6400779) | 661.41 | 3 |
+| 5578 | [QQ More](https://osu.ppy.sh/u/7671076) | 661.13 | 3 |
+| 5579 | [xyxxyxxy](https://osu.ppy.sh/u/1408026) | 660.55 | 3 |
+| 5580 | [BMP](https://osu.ppy.sh/u/3211406) | 660.40 | 3 |
+| 5581 | [rohil](https://osu.ppy.sh/u/3612394) | 660.39 | 3 |
+| 5582 | [SpinZee](https://osu.ppy.sh/u/5712475) | 660.29 | 3 |
+| 5583 | [Hupie](https://osu.ppy.sh/u/2698640) | 660.28 | 3 |
+| 5584 | [Skyar](https://osu.ppy.sh/u/424129) | 660.24 | 3 |
+| 5585 | [nihapy](https://osu.ppy.sh/u/3298889) | 659.78 | 3 |
+| 5586 | [Ne-Lo](https://osu.ppy.sh/u/2253266) | 659.76 | 3 |
+| 5587 | [Freebones](https://osu.ppy.sh/u/4218281) | 659.51 | 3 |
+| 5588 | [Arvee-](https://osu.ppy.sh/u/3177689) | 659.33 | 3 |
+| 5589 | [xCHiCkz](https://osu.ppy.sh/u/3843016) | 659.09 | 3 |
+| 5590 | [Mdel](https://osu.ppy.sh/u/7871421) | 658.82 | 3 |
+| 5591 | [-Kuro](https://osu.ppy.sh/u/1678176) | 658.48 | 3 |
+| 5592 | [be-bu](https://osu.ppy.sh/u/4274142) | 658.47 | 3 |
+| 5593 | [Wolfyy](https://osu.ppy.sh/u/2549273) | 658.17 | 3 |
+| 5594 | [krabbypatty](https://osu.ppy.sh/u/2898695) | 658.04 | 3 |
+| 5595 | [xico00](https://osu.ppy.sh/u/2070870) | 657.72 | 3 |
+| 5596 | [zSymphonyz](https://osu.ppy.sh/u/3356259) | 657.24 | 3 |
+| 5597 | [RenardC](https://osu.ppy.sh/u/5182431) | 656.66 | 3 |
+| 5598 | [2333](https://osu.ppy.sh/u/863544) | 656.41 | 3 |
+| 5599 | [caprielo101](https://osu.ppy.sh/u/5935857) | 656.41 | 3 |
+| 5600 | [Veggie](https://osu.ppy.sh/u/4574700) | 656.34 | 3 |
+| 5601 | [Kuuma](https://osu.ppy.sh/u/5259480) | 655.57 | 3 |
+| 5602 | [Zypix](https://osu.ppy.sh/u/3673464) | 655.17 | 3 |
+| 5603 | [AlneCraft](https://osu.ppy.sh/u/3886548) | 654.46 | 3 |
+| 5604 | [Kumiko](https://osu.ppy.sh/u/4811278) | 653.41 | 3 |
+| 5605 | [Veky](https://osu.ppy.sh/u/4365081) | 652.81 | 3 |
+| 5606 | [123123123](https://osu.ppy.sh/u/2281520) | 652.39 | 3 |
+| 5607 | [Wyll](https://osu.ppy.sh/u/2932855) | 651.41 | 3 |
+| 5608 | [blimmo](https://osu.ppy.sh/u/5723125) | 650.69 | 3 |
+| 5609 | [Vectenial](https://osu.ppy.sh/u/4195581) | 650.66 | 2 |
+| 5610 | [itsamemarioo](https://osu.ppy.sh/u/1920049) | 649.52 | 2 |
+| 5611 | [AIDIA](https://osu.ppy.sh/u/878138) | 649.51 | 3 |
+| 5612 | [Starburst](https://osu.ppy.sh/u/2348356) | 649.42 | 3 |
+| 5613 | [Osu FLagstar](https://osu.ppy.sh/u/3556722) | 649.41 | 3 |
+| 5614 | [cooker](https://osu.ppy.sh/u/6464207) | 648.90 | 3 |
+| 5615 | [ZekGS](https://osu.ppy.sh/u/3314158) | 647.76 | 3 |
+| 5616 | [Nefoxh](https://osu.ppy.sh/u/5139459) | 647.61 | 3 |
+| 5617 | [LeaveMeAlone-](https://osu.ppy.sh/u/5699541) | 647.50 | 3 |
+| 5618 | [ehdrb5206](https://osu.ppy.sh/u/6112529) | 647.30 | 3 |
+| 5619 | [vvnb](https://osu.ppy.sh/u/4711593) | 647.28 | 3 |
+| 5620 | [NeedBackup](https://osu.ppy.sh/u/1162534) | 646.00 | 3 |
+| 5621 | [Dashie](https://osu.ppy.sh/u/1847419) | 644.79 | 3 |
+| 5622 | [Fser](https://osu.ppy.sh/u/6313643) | 644.66 | 2 |
+| 5623 | [_Nyxie_](https://osu.ppy.sh/u/6748152) | 644.49 | 3 |
+| 5624 | [Itsue](https://osu.ppy.sh/u/4942660) | 644.05 | 3 |
+| 5625 | [IRIyno](https://osu.ppy.sh/u/3550299) | 643.93 | 3 |
+| 5626 | [Kajiin](https://osu.ppy.sh/u/4940293) | 643.91 | 3 |
+| 5627 | [[S]iXx](https://osu.ppy.sh/u/4761693) | 643.74 | 3 |
+| 5628 | [Kadran](https://osu.ppy.sh/u/1647597) | 643.48 | 3 |
+| 5629 | [hhttp547tw](https://osu.ppy.sh/u/4257042) | 643.27 | 3 |
+| 5630 | [AkemiHomura](https://osu.ppy.sh/u/6337361) | 643.08 | 3 |
+| 5631 | [Kotayo](https://osu.ppy.sh/u/1730025) | 643.02 | 3 |
+| 5632 | [ShadowBanned](https://osu.ppy.sh/u/4742411) | 642.73 | 3 |
+| 5633 | [Pai Sensei](https://osu.ppy.sh/u/1429101) | 641.96 | 3 |
+| 5634 | [Coree](https://osu.ppy.sh/u/2494383) | 641.64 | 3 |
+| 5635 | [bakabaka](https://osu.ppy.sh/u/298471) | 641.58 | 3 |
+| 5636 | [Burito](https://osu.ppy.sh/u/4724914) | 641.37 | 3 |
+| 5637 | [illumina1337](https://osu.ppy.sh/u/5078117) | 640.99 | 3 |
+| 5638 | [[-mii-chan-]](https://osu.ppy.sh/u/1469122) | 640.32 | 3 |
+| 5639 | [Luck3r](https://osu.ppy.sh/u/8806469) | 640.02 | 3 |
+| 5640 | [Zakuan](https://osu.ppy.sh/u/3664313) | 639.45 | 3 |
+| 5641 | [FAHTOM](https://osu.ppy.sh/u/7250899) | 639.27 | 3 |
+| 5642 | [KoreanBeef](https://osu.ppy.sh/u/1334746) | 638.87 | 3 |
+| 5643 | [-Cento](https://osu.ppy.sh/u/2565831) | 638.75 | 3 |
+| 5644 | [vekt0r](https://osu.ppy.sh/u/8484892) | 638.21 | 3 |
+| 5645 | [- iZenon -](https://osu.ppy.sh/u/6122540) | 638.01 | 3 |
+| 5646 | [Fresh Icecream](https://osu.ppy.sh/u/3800754) | 637.49 | 3 |
+| 5647 | [HuNted](https://osu.ppy.sh/u/273450) | 637.12 | 3 |
+| 5648 | [James-](https://osu.ppy.sh/u/7417094) | 637.07 | 3 |
+| 5649 | [Mythology](https://osu.ppy.sh/u/1397777) | 636.35 | 3 |
+| 5650 | [Benvy](https://osu.ppy.sh/u/5849207) | 636.11 | 3 |
+| 5651 | [SymhX](https://osu.ppy.sh/u/4988309) | 635.01 | 3 |
+| 5652 | [Kae](https://osu.ppy.sh/u/3125584) | 634.57 | 3 |
+| 5653 | [Temprrr](https://osu.ppy.sh/u/6818428) | 634.11 | 3 |
+| 5654 | [flippo731](https://osu.ppy.sh/u/6608305) | 633.69 | 3 |
+| 5655 | [Fortitude](https://osu.ppy.sh/u/2242935) | 633.18 | 3 |
+| 5656 | [Incubus](https://osu.ppy.sh/u/4697323) | 633.11 | 3 |
+| 5657 | [Bangom](https://osu.ppy.sh/u/1218895) | 632.98 | 2 |
+| 5658 | [M3ddly](https://osu.ppy.sh/u/9154962) | 632.82 | 3 |
+| 5659 | [Riley](https://osu.ppy.sh/u/3007925) | 632.22 | 2 |
+| 5660 | [Qu1z](https://osu.ppy.sh/u/526851) | 631.93 | 2 |
+| 5661 | [davkech](https://osu.ppy.sh/u/2578067) | 631.82 | 3 |
+| 5662 | [MizA](https://osu.ppy.sh/u/7690609) | 631.76 | 3 |
+| 5663 | [Shabui](https://osu.ppy.sh/u/4190190) | 631.44 | 3 |
+| 5664 | [Nisakiru](https://osu.ppy.sh/u/4113423) | 630.97 | 3 |
+| 5665 | [Remilia o9](https://osu.ppy.sh/u/1074171) | 630.32 | 3 |
+| 5666 | [ZyphuMaishi](https://osu.ppy.sh/u/5043888) | 629.05 | 3 |
+| 5667 | [Blairzey](https://osu.ppy.sh/u/3274346) | 629.03 | 2 |
+| 5668 | [[ Sakura_Ame ]](https://osu.ppy.sh/u/6577176) | 629.02 | 3 |
+| 5669 | [taiquachle](https://osu.ppy.sh/u/3847409) | 628.57 | 3 |
+| 5670 | [Hau](https://osu.ppy.sh/u/7018565) | 628.48 | 3 |
+| 5671 | [ExaSol](https://osu.ppy.sh/u/9109636) | 627.91 | 3 |
+| 5672 | [VoVoXperTz](https://osu.ppy.sh/u/7706935) | 627.72 | 3 |
+| 5673 | [Poruteri](https://osu.ppy.sh/u/1379576) | 627.58 | 2 |
+| 5674 | [L1NKED](https://osu.ppy.sh/u/3087205) | 627.48 | 2 |
+| 5675 | [-Crimson-](https://osu.ppy.sh/u/4518660) | 627.22 | 3 |
+| 5676 | [bleq](https://osu.ppy.sh/u/6297629) | 627.21 | 3 |
+| 5677 | [Seregon](https://osu.ppy.sh/u/6886572) | 625.94 | 3 |
+| 5678 | [-Genesis](https://osu.ppy.sh/u/2174178) | 624.70 | 3 |
+| 5679 | [Kaorii](https://osu.ppy.sh/u/6260526) | 624.53 | 2 |
+| 5680 | [Mituki](https://osu.ppy.sh/u/1095071) | 624.45 | 3 |
+| 5681 | [ZaveZ](https://osu.ppy.sh/u/8702650) | 623.26 | 3 |
+| 5682 | [p4ulcc](https://osu.ppy.sh/u/7200684) | 623.20 | 3 |
+| 5683 | [linion99](https://osu.ppy.sh/u/4773227) | 623.00 | 3 |
+| 5684 | [[ S H I I N O ]](https://osu.ppy.sh/u/5135331) | 622.32 | 3 |
+| 5685 | [ESQ69](https://osu.ppy.sh/u/5987573) | 621.92 | 3 |
+| 5686 | [BlackSarana](https://osu.ppy.sh/u/2859463) | 621.74 | 3 |
+| 5687 | [Arin](https://osu.ppy.sh/u/3107942) | 620.67 | 3 |
+| 5688 | [Megalovania](https://osu.ppy.sh/u/4354854) | 620.10 | 3 |
+| 5689 | [- Decadence -](https://osu.ppy.sh/u/8812922) | 619.43 | 3 |
+| 5690 | [Raflea](https://osu.ppy.sh/u/1611584) | 619.17 | 3 |
+| 5691 | [agente x](https://osu.ppy.sh/u/657495) | 618.62 | 3 |
+| 5692 | [pupil zone](https://osu.ppy.sh/u/4122153) | 618.45 | 3 |
+| 5693 | [loliJoe](https://osu.ppy.sh/u/5302812) | 617.59 | 3 |
+| 5694 | [uzuran](https://osu.ppy.sh/u/867846) | 617.51 | 2 |
+| 5695 | [Mewks](https://osu.ppy.sh/u/5143042) | 615.25 | 3 |
+| 5696 | [jon_chan](https://osu.ppy.sh/u/2327021) | 614.35 | 2 |
+| 5697 | [Vynus](https://osu.ppy.sh/u/4536864) | 613.89 | 3 |
+| 5698 | [JuanDiaz](https://osu.ppy.sh/u/5258759) | 612.91 | 3 |
+| 5699 | [YAN](https://osu.ppy.sh/u/1827583) | 611.52 | 3 |
+| 5700 | [maciek0421](https://osu.ppy.sh/u/1773661) | 611.17 | 3 |
+| 5701 | [Serence](https://osu.ppy.sh/u/4552575) | 610.63 | 3 |
+| 5702 | [ecdonald](https://osu.ppy.sh/u/1309717) | 609.74 | 3 |
+| 5703 | [Impassionate](https://osu.ppy.sh/u/9224987) | 609.06 | 3 |
+| 5704 | [zzqWilliam](https://osu.ppy.sh/u/2533157) | 606.87 | 3 |
+| 5705 | [bobsta14](https://osu.ppy.sh/u/4542327) | 606.54 | 3 |
+| 5706 | [Yaya-chan](https://osu.ppy.sh/u/6172842) | 605.15 | 3 |
+| 5707 | [MRT](https://osu.ppy.sh/u/726836) | 605.11 | 2 |
+| 5708 | [HoriTatsuka](https://osu.ppy.sh/u/6037475) | 604.42 | 2 |
+| 5709 | [PriPalaala](https://osu.ppy.sh/u/3890585) | 604.17 | 2 |
+| 5710 | [NailBeast](https://osu.ppy.sh/u/1870084) | 603.80 | 3 |
+| 5711 | [moguosu](https://osu.ppy.sh/u/4220317) | 603.31 | 2 |
+| 5712 | [Hello-](https://osu.ppy.sh/u/2565819) | 602.50 | 3 |
+| 5713 | [frostwich](https://osu.ppy.sh/u/5129592) | 602.43 | 3 |
+| 5714 | [BlessMe](https://osu.ppy.sh/u/5216537) | 602.37 | 3 |
+| 5715 | [Tatsua](https://osu.ppy.sh/u/7626092) | 601.45 | 2 |
+| 5716 | [lubery](https://osu.ppy.sh/u/1568567) | 601.43 | 3 |
+| 5717 | [xLvL100Nate](https://osu.ppy.sh/u/7341183) | 601.06 | 3 |
+| 5718 | [MichaVB](https://osu.ppy.sh/u/7680092) | 600.49 | 3 |
+| 5719 | [5mokie](https://osu.ppy.sh/u/3118388) | 600.16 | 3 |
+| 5720 | [HoanS](https://osu.ppy.sh/u/7724148) | 599.93 | 3 |
+| 5721 | [Catoliel](https://osu.ppy.sh/u/1533041) | 599.08 | 2 |
+| 5722 | [Mami Tomoe Magi](https://osu.ppy.sh/u/6594309) | 598.97 | 3 |
+| 5723 | [Mulse](https://osu.ppy.sh/u/1974813) | 598.77 | 3 |
+| 5724 | [DarkenedShad](https://osu.ppy.sh/u/7246165) | 598.38 | 2 |
+| 5725 | [SnNow](https://osu.ppy.sh/u/6819667) | 598.07 | 2 |
+| 5726 | [JRSiwiecki](https://osu.ppy.sh/u/6124459) | 597.79 | 3 |
+| 5727 | [Bacon](https://osu.ppy.sh/u/4378484) | 597.46 | 3 |
+| 5728 | [koreru](https://osu.ppy.sh/u/9347706) | 597.01 | 3 |
+| 5729 | [Kancloud](https://osu.ppy.sh/u/7718734) | 596.94 | 3 |
+| 5730 | [- kakku-](https://osu.ppy.sh/u/4086741) | 596.48 | 2 |
+| 5731 | [caleb123456](https://osu.ppy.sh/u/2205376) | 596.38 | 2 |
+| 5732 | [ytw](https://osu.ppy.sh/u/6181654) | 596.04 | 3 |
+| 5733 | [Srayne](https://osu.ppy.sh/u/2543963) | 595.61 | 2 |
+| 5734 | [Ako-](https://osu.ppy.sh/u/850981) | 595.46 | 3 |
+| 5735 | [Barhunga](https://osu.ppy.sh/u/2546403) | 593.85 | 3 |
+| 5736 | [Arbane](https://osu.ppy.sh/u/4150829) | 593.83 | 3 |
+| 5737 | [Desire](https://osu.ppy.sh/u/284977) | 593.28 | 3 |
+| 5738 | [Tendhix](https://osu.ppy.sh/u/7078488) | 593.16 | 3 |
+| 5739 | [_verto_](https://osu.ppy.sh/u/2015300) | 593.08 | 2 |
+| 5740 | [[ iShin ]](https://osu.ppy.sh/u/4214662) | 592.99 | 3 |
+| 5741 | [nhk1337](https://osu.ppy.sh/u/4002594) | 592.91 | 3 |
+| 5742 | [EternalShadi](https://osu.ppy.sh/u/4411297) | 592.67 | 2 |
+| 5743 | [Iceloki](https://osu.ppy.sh/u/3655476) | 592.58 | 3 |
+| 5744 | [Explosion007](https://osu.ppy.sh/u/7001293) | 592.49 | 2 |
+| 5745 | [Max Schradin](https://osu.ppy.sh/u/3268096) | 591.70 | 3 |
+| 5746 | [Hi Im Sasi](https://osu.ppy.sh/u/4699226) | 591.44 | 3 |
+| 5747 | [[ Chayanon ]](https://osu.ppy.sh/u/7103865) | 591.24 | 3 |
+| 5748 | [Duskuser](https://osu.ppy.sh/u/2680530) | 590.03 | 2 |
+| 5749 | [SupremeChaoss](https://osu.ppy.sh/u/7506646) | 589.38 | 2 |
+| 5750 | [TitoBandito](https://osu.ppy.sh/u/5364967) | 588.97 | 3 |
+| 5751 | [momura](https://osu.ppy.sh/u/5390182) | 588.91 | 2 |
+| 5752 | [somejewguy](https://osu.ppy.sh/u/4261571) | 588.78 | 3 |
+| 5753 | [TCBlank](https://osu.ppy.sh/u/754792) | 588.51 | 3 |
+| 5754 | [Fuwzie](https://osu.ppy.sh/u/4887814) | 588.22 | 2 |
+| 5755 | [Pilou](https://osu.ppy.sh/u/4312044) | 587.26 | 3 |
+| 5756 | [-Neko](https://osu.ppy.sh/u/4096472) | 586.11 | 2 |
+| 5757 | [MeanOfDarkness](https://osu.ppy.sh/u/7408484) | 586.04 | 3 |
+| 5758 | [BossPlays_02](https://osu.ppy.sh/u/7341471) | 585.74 | 3 |
+| 5759 | [Jing Yue](https://osu.ppy.sh/u/6034599) | 584.87 | 3 |
+| 5760 | [aefrogdog](https://osu.ppy.sh/u/4178672) | 584.56 | 3 |
+| 5761 | [KappaFrost](https://osu.ppy.sh/u/7112454) | 583.99 | 2 |
+| 5762 | [Hide On Note](https://osu.ppy.sh/u/3621608) | 583.61 | 2 |
+| 5763 | [Ciastekzi](https://osu.ppy.sh/u/4212196) | 583.60 | 2 |
+| 5764 | [Kenny](https://osu.ppy.sh/u/1225459) | 582.77 | 2 |
+| 5765 | [Lolzep](https://osu.ppy.sh/u/2593280) | 580.68 | 2 |
+| 5766 | [_lai](https://osu.ppy.sh/u/3045895) | 579.76 | 2 |
+| 5767 | [Reinarudo0115](https://osu.ppy.sh/u/7353307) | 579.62 | 3 |
+| 5768 | [Tatch](https://osu.ppy.sh/u/2390650) | 577.48 | 2 |
+| 5769 | [Psychadelica-](https://osu.ppy.sh/u/7712676) | 577.37 | 3 |
+| 5770 | [My Waifu Kotori](https://osu.ppy.sh/u/3636726) | 577.05 | 3 |
+| 5771 | [Aniveon](https://osu.ppy.sh/u/9001063) | 576.71 | 3 |
+| 5772 | [Soorshi](https://osu.ppy.sh/u/3086260) | 576.34 | 3 |
+| 5773 | [Ruruchi Senpai](https://osu.ppy.sh/u/4690774) | 576.33 | 3 |
+| 5774 | [_Yiiiii](https://osu.ppy.sh/u/6066359) | 575.95 | 2 |
+| 5775 | [Support](https://osu.ppy.sh/u/3521961) | 575.64 | 2 |
+| 5776 | [Krom1](https://osu.ppy.sh/u/4643145) | 574.10 | 2 |
+| 5777 | [Totor](https://osu.ppy.sh/u/4243657) | 573.11 | 2 |
+| 5778 | [Ninjaadrian009](https://osu.ppy.sh/u/7017724) | 572.04 | 3 |
+| 5779 | [MacSenpai](https://osu.ppy.sh/u/7970205) | 571.78 | 3 |
+| 5780 | [Clevercav](https://osu.ppy.sh/u/2800856) | 571.51 | 3 |
+| 5781 | [grimmjoww32](https://osu.ppy.sh/u/2670724) | 570.87 | 3 |
+| 5782 | [SuperSpirl](https://osu.ppy.sh/u/8912001) | 570.78 | 3 |
+| 5783 | [brock](https://osu.ppy.sh/u/5647241) | 570.73 | 3 |
+| 5784 | [SpiralSD](https://osu.ppy.sh/u/4687374) | 570.61 | 2 |
+| 5785 | [VoProSSoFF](https://osu.ppy.sh/u/6524092) | 570.50 | 2 |
+| 5786 | [Inlann](https://osu.ppy.sh/u/1892152) | 569.08 | 3 |
+| 5787 | [Applause](https://osu.ppy.sh/u/1832711) | 568.83 | 2 |
+| 5788 | [Kisalagi](https://osu.ppy.sh/u/3422123) | 568.70 | 3 |
+| 5789 | [YoloMofo](https://osu.ppy.sh/u/8118655) | 568.44 | 3 |
+| 5790 | [Swiftah](https://osu.ppy.sh/u/3759453) | 568.20 | 2 |
+| 5791 | [PwnagePotato](https://osu.ppy.sh/u/2757863) | 566.68 | 2 |
+| 5792 | [Parctikl](https://osu.ppy.sh/u/7046925) | 566.27 | 2 |
+| 5793 | [Shakillo](https://osu.ppy.sh/u/2824071) | 565.95 | 2 |
+| 5794 | [AndreDubs](https://osu.ppy.sh/u/4589183) | 565.39 | 3 |
+| 5795 | [[AleXi]](https://osu.ppy.sh/u/2689768) | 564.99 | 3 |
+| 5796 | [Holorin](https://osu.ppy.sh/u/4442589) | 564.72 | 3 |
+| 5797 | [[ MILK_Jiang]](https://osu.ppy.sh/u/3066316) | 564.25 | 2 |
+| 5798 | [Sick](https://osu.ppy.sh/u/6599882) | 563.47 | 2 |
+| 5799 | [Jagester](https://osu.ppy.sh/u/6284683) | 561.25 | 2 |
+| 5800 | [nigbone](https://osu.ppy.sh/u/5843573) | 560.81 | 3 |
+| 5801 | [Qsir Dragon](https://osu.ppy.sh/u/1922343) | 560.78 | 2 |
+| 5802 | [Floks](https://osu.ppy.sh/u/1146469) | 560.37 | 2 |
+| 5803 | [Mikaela Hyakuya](https://osu.ppy.sh/u/3032916) | 558.42 | 3 |
+| 5804 | [TheSomething](https://osu.ppy.sh/u/4025232) | 557.78 | 2 |
+| 5805 | [khunglongxanh](https://osu.ppy.sh/u/7988870) | 557.48 | 3 |
+| 5806 | [Toonmasta](https://osu.ppy.sh/u/6643007) | 557.45 | 2 |
+| 5807 | [Entime](https://osu.ppy.sh/u/9147085) | 557.43 | 2 |
+| 5808 | [Meowcenaries](https://osu.ppy.sh/u/597516) | 556.49 | 2 |
+| 5809 | [Hydrogen](https://osu.ppy.sh/u/1807447) | 555.79 | 2 |
+| 5810 | [honey](https://osu.ppy.sh/u/3356256) | 555.06 | 2 |
+| 5811 | [KagaR](https://osu.ppy.sh/u/2500230) | 552.40 | 2 |
+| 5812 | [Sakata_Gintoki](https://osu.ppy.sh/u/3172078) | 551.84 | 2 |
+| 5813 | [-kazuma-](https://osu.ppy.sh/u/2712884) | 550.88 | 2 |
+| 5814 | [- Aj -](https://osu.ppy.sh/u/9058384) | 550.40 | 2 |
+| 5815 | [Swim Swim](https://osu.ppy.sh/u/2938964) | 549.59 | 2 |
+| 5816 | [Akela](https://osu.ppy.sh/u/3475579) | 549.26 | 2 |
+| 5817 | [Rumia-](https://osu.ppy.sh/u/1787171) | 548.13 | 2 |
+| 5818 | [Deadpool](https://osu.ppy.sh/u/4399623) | 547.15 | 2 |
+| 5819 | [[ - Kitsune - ]](https://osu.ppy.sh/u/1711078) | 546.89 | 2 |
+| 5820 | [Daanit](https://osu.ppy.sh/u/6159669) | 546.74 | 2 |
+| 5821 | [Kosmonaut](https://osu.ppy.sh/u/3241280) | 546.37 | 2 |
+| 5822 | [Physalis](https://osu.ppy.sh/u/2188481) | 544.61 | 2 |
+| 5823 | [yumesaki-hikari](https://osu.ppy.sh/u/3871121) | 544.57 | 2 |
+| 5824 | [WindowLife](https://osu.ppy.sh/u/4108547) | 544.29 | 2 |
+| 5825 | [islatc](https://osu.ppy.sh/u/4524081) | 544.26 | 3 |
+| 5826 | [Rot](https://osu.ppy.sh/u/4992447) | 543.57 | 2 |
+| 5827 | [brdzxh](https://osu.ppy.sh/u/2796055) | 543.44 | 2 |
+| 5828 | [issacCLAKE124](https://osu.ppy.sh/u/3301871) | 542.52 | 2 |
+| 5829 | [Skidayo](https://osu.ppy.sh/u/3611401) | 542.40 | 2 |
+| 5830 | [Neqoo](https://osu.ppy.sh/u/5035932) | 541.73 | 2 |
+| 5831 | [Elle](https://osu.ppy.sh/u/2972301) | 541.54 | 2 |
+| 5832 | [VanillaYuki](https://osu.ppy.sh/u/5332553) | 541.30 | 2 |
+| 5833 | [Sparkleice](https://osu.ppy.sh/u/5573313) | 541.29 | 2 |
+| 5834 | [MINEMINE](https://osu.ppy.sh/u/5349967) | 540.60 | 2 |
+| 5835 | [Jean-Michel Jr](https://osu.ppy.sh/u/4430948) | 540.56 | 2 |
+| 5836 | [baoti](https://osu.ppy.sh/u/828442) | 540.26 | 2 |
+| 5837 | [My Angel Tyron](https://osu.ppy.sh/u/5444914) | 539.94 | 2 |
+| 5838 | [MyStamina Sucks](https://osu.ppy.sh/u/6387149) | 539.87 | 2 |
+| 5839 | [Lemmen](https://osu.ppy.sh/u/6090254) | 539.84 | 2 |
+| 5840 | [DiscoTheBudgie](https://osu.ppy.sh/u/4745917) | 539.77 | 2 |
+| 5841 | [[ kuma ]](https://osu.ppy.sh/u/2759340) | 539.58 | 2 |
+| 5842 | [Anpan dayo](https://osu.ppy.sh/u/2468971) | 539.10 | 2 |
+| 5843 | [bnu](https://osu.ppy.sh/u/1082977) | 538.97 | 2 |
+| 5844 | [TheRiceHeist](https://osu.ppy.sh/u/3581020) | 538.68 | 3 |
+| 5845 | [Nagicho-](https://osu.ppy.sh/u/2157750) | 537.35 | 2 |
+| 5846 | [MeKu](https://osu.ppy.sh/u/3963991) | 536.47 | 2 |
+| 5847 | [flipshock8](https://osu.ppy.sh/u/8221504) | 535.84 | 2 |
+| 5848 | [Andrej123](https://osu.ppy.sh/u/6272698) | 535.40 | 2 |
+| 5849 | [Screamin Seamen](https://osu.ppy.sh/u/5901601) | 534.76 | 2 |
+| 5850 | [Funk the drunk](https://osu.ppy.sh/u/4055226) | 534.31 | 2 |
+| 5851 | [SOLOPLAYER](https://osu.ppy.sh/u/8419974) | 533.83 | 2 |
+| 5852 | [roma4ka](https://osu.ppy.sh/u/5675579) | 533.63 | 2 |
+| 5853 | [Cappyrappy](https://osu.ppy.sh/u/6668666) | 531.99 | 2 |
+| 5854 | [Goldknightx](https://osu.ppy.sh/u/4416938) | 531.98 | 2 |
+| 5855 | [My Name Jeff](https://osu.ppy.sh/u/3493592) | 531.12 | 2 |
+| 5856 | [thzz](https://osu.ppy.sh/u/1614839) | 530.11 | 2 |
+| 5857 | [[-Ascended-]](https://osu.ppy.sh/u/5167225) | 529.94 | 2 |
+| 5858 | [HaloMaster96](https://osu.ppy.sh/u/4564333) | 529.81 | 2 |
+| 5859 | [MatheuZiz](https://osu.ppy.sh/u/6574939) | 529.73 | 3 |
+| 5860 | [NiuCriu](https://osu.ppy.sh/u/6137723) | 529.49 | 2 |
+| 5861 | [duhdarkhole](https://osu.ppy.sh/u/2867664) | 528.92 | 2 |
+| 5862 | [Ruby](https://osu.ppy.sh/u/1799781) | 528.81 | 2 |
+| 5863 | [Trung_Rinto](https://osu.ppy.sh/u/6159305) | 528.24 | 2 |
+| 5864 | [IDAN](https://osu.ppy.sh/u/4259603) | 526.30 | 2 |
+| 5865 | [Orton](https://osu.ppy.sh/u/5765507) | 526.06 | 2 |
+| 5866 | [Penoreri-](https://osu.ppy.sh/u/2425779) | 525.63 | 2 |
+| 5867 | [Stephen](https://osu.ppy.sh/u/2860135) | 525.53 | 3 |
+| 5868 | [filsdelama](https://osu.ppy.sh/u/2831793) | 525.49 | 1 |
+| 5869 | [C O I N](https://osu.ppy.sh/u/698085) | 525.28 | 2 |
+| 5870 | [mupmip](https://osu.ppy.sh/u/4909536) | 525.19 | 2 |
+| 5871 | [-Unlimit-](https://osu.ppy.sh/u/2032353) | 524.27 | 2 |
+| 5872 | [Sillintor](https://osu.ppy.sh/u/504336) | 523.89 | 2 |
+| 5873 | [vincaslt](https://osu.ppy.sh/u/3820339) | 523.72 | 2 |
+| 5874 | [Zeptaxis](https://osu.ppy.sh/u/3256001) | 522.66 | 2 |
+| 5875 | [Risteel](https://osu.ppy.sh/u/690454) | 521.73 | 2 |
+| 5876 | [Kenshin](https://osu.ppy.sh/u/4452066) | 521.49 | 2 |
+| 5877 | [doujin](https://osu.ppy.sh/u/2243237) | 521.27 | 2 |
+| 5878 | [Rolada z Miesem](https://osu.ppy.sh/u/2409230) | 521.21 | 2 |
+| 5879 | [Chabirosa](https://osu.ppy.sh/u/5107230) | 521.20 | 2 |
+| 5880 | [ishtar](https://osu.ppy.sh/u/732519) | 521.12 | 2 |
+| 5881 | [TheZorcs](https://osu.ppy.sh/u/3566851) | 520.38 | 3 |
+| 5882 | [proFiCiENT](https://osu.ppy.sh/u/2948976) | 520.28 | 2 |
+| 5883 | [Pinguim](https://osu.ppy.sh/u/5101461) | 519.39 | 2 |
+| 5884 | [ReZero_Emilia](https://osu.ppy.sh/u/6934191) | 519.13 | 2 |
+| 5885 | [Flamouye](https://osu.ppy.sh/u/4954813) | 518.96 | 3 |
+| 5886 | [HoboEater](https://osu.ppy.sh/u/1626345) | 518.47 | 2 |
+| 5887 | [Suika_0510](https://osu.ppy.sh/u/8415978) | 518.43 | 2 |
+| 5888 | [Zerikei](https://osu.ppy.sh/u/6461337) | 517.74 | 2 |
+| 5889 | [Badewanne3](https://osu.ppy.sh/u/2211396) | 517.58 | 2 |
+| 5890 | [Jerome](https://osu.ppy.sh/u/3391379) | 517.56 | 2 |
+| 5891 | [Yumesaki Hikari](https://osu.ppy.sh/u/1977417) | 517.18 | 2 |
+| 5892 | [crippletoytl](https://osu.ppy.sh/u/3256645) | 516.45 | 2 |
+| 5893 | [Aya-ki](https://osu.ppy.sh/u/2831144) | 516.28 | 2 |
+| 5894 | [- Gyaku Koi-](https://osu.ppy.sh/u/3764670) | 516.21 | 2 |
+| 5895 | [rryuebi](https://osu.ppy.sh/u/6907006) | 515.86 | 2 |
+| 5896 | [Miseracy](https://osu.ppy.sh/u/3080024) | 515.68 | 2 |
+| 5897 | [[ Shizuru ]](https://osu.ppy.sh/u/4661991) | 514.98 | 2 |
+| 5898 | [snoopeh](https://osu.ppy.sh/u/5597947) | 514.88 | 2 |
+| 5899 | [Arelei](https://osu.ppy.sh/u/4673297) | 514.59 | 2 |
+| 5900 | [Aria Stardust](https://osu.ppy.sh/u/2242669) | 514.55 | 2 |
+| 5901 | [mintyan](https://osu.ppy.sh/u/6566515) | 514.53 | 2 |
+| 5902 | [Haruko-](https://osu.ppy.sh/u/521841) | 513.42 | 2 |
+| 5903 | [Incursiio](https://osu.ppy.sh/u/3436608) | 513.35 | 2 |
+| 5904 | [Loneliness](https://osu.ppy.sh/u/3391346) | 513.08 | 2 |
+| 5905 | [Akaza Akari](https://osu.ppy.sh/u/5305628) | 513.04 | 2 |
+| 5906 | [Carebare](https://osu.ppy.sh/u/4736311) | 512.78 | 2 |
+| 5907 | [David-](https://osu.ppy.sh/u/4436687) | 512.30 | 2 |
+| 5908 | [_TheSniper17_](https://osu.ppy.sh/u/4393376) | 512.23 | 2 |
+| 5909 | [Myano](https://osu.ppy.sh/u/6732455) | 512.14 | 2 |
+| 5910 | [x_Nyu_x](https://osu.ppy.sh/u/1684413) | 512.10 | 2 |
+| 5911 | [amdras](https://osu.ppy.sh/u/4600508) | 512.10 | 2 |
+| 5912 | [JapaneseGuy](https://osu.ppy.sh/u/7136847) | 511.99 | 2 |
+| 5913 | [w33ha](https://osu.ppy.sh/u/5692533) | 511.63 | 2 |
+| 5914 | [Pidgey](https://osu.ppy.sh/u/4115328) | 511.39 | 2 |
+| 5915 | [Fiireburner](https://osu.ppy.sh/u/7015008) | 511.25 | 2 |
+| 5916 | [MomoHD](https://osu.ppy.sh/u/2927048) | 511.17 | 2 |
+| 5917 | [Purettsu Eru](https://osu.ppy.sh/u/1542565) | 510.96 | 2 |
+| 5918 | [Yang Xiao Long](https://osu.ppy.sh/u/8140645) | 510.89 | 2 |
+| 5919 | [Ubernarwhal](https://osu.ppy.sh/u/6932217) | 510.70 | 2 |
+| 5920 | [Blazy](https://osu.ppy.sh/u/3962086) | 510.54 | 2 |
+| 5921 | [Choireo](https://osu.ppy.sh/u/6426310) | 509.65 | 2 |
+| 5922 | [toggld](https://osu.ppy.sh/u/6490007) | 508.95 | 2 |
+| 5923 | [awmslayer](https://osu.ppy.sh/u/4133147) | 508.50 | 2 |
+| 5924 | [Lillynette](https://osu.ppy.sh/u/2908121) | 508.34 | 2 |
+| 5925 | [People c](https://osu.ppy.sh/u/4337184) | 508.32 | 2 |
+| 5926 | [Zemqu](https://osu.ppy.sh/u/3446506) | 508.25 | 2 |
+| 5927 | [iRotuK](https://osu.ppy.sh/u/4922476) | 508.16 | 2 |
+| 5928 | [rein_reign](https://osu.ppy.sh/u/1308695) | 508.04 | 2 |
+| 5929 | [Kooleyy](https://osu.ppy.sh/u/6066897) | 507.85 | 2 |
+| 5930 | [What](https://osu.ppy.sh/u/601752) | 507.80 | 2 |
+| 5931 | [KWY](https://osu.ppy.sh/u/5964707) | 507.72 | 2 |
+| 5932 | [wow_zone](https://osu.ppy.sh/u/2021083) | 507.67 | 2 |
+| 5933 | [Prendar](https://osu.ppy.sh/u/5787735) | 507.60 | 2 |
+| 5934 | [Insanity](https://osu.ppy.sh/u/2176966) | 507.33 | 2 |
+| 5935 | [Bastia](https://osu.ppy.sh/u/3355362) | 507.21 | 2 |
+| 5936 | [TomyAA](https://osu.ppy.sh/u/3812753) | 506.75 | 2 |
+| 5937 | [boterham](https://osu.ppy.sh/u/2844779) | 506.43 | 2 |
+| 5938 | [AtheNaa](https://osu.ppy.sh/u/7440185) | 505.96 | 2 |
+| 5939 | [Qu4ng](https://osu.ppy.sh/u/1108947) | 505.91 | 2 |
+| 5940 | [hazereimu](https://osu.ppy.sh/u/4999518) | 505.38 | 2 |
+| 5941 | [RiceGrain](https://osu.ppy.sh/u/6476383) | 505.37 | 2 |
+| 5942 | [[ BeepBoop ]](https://osu.ppy.sh/u/4599282) | 504.86 | 2 |
+| 5943 | [nehejmperforto](https://osu.ppy.sh/u/1548188) | 504.75 | 2 |
+| 5944 | [-Soba-](https://osu.ppy.sh/u/663657) | 504.40 | 2 |
+| 5945 | [_MiaoFUuU_](https://osu.ppy.sh/u/4299356) | 504.20 | 2 |
+| 5946 | [Nut777](https://osu.ppy.sh/u/1323100) | 504.16 | 2 |
+| 5947 | [Egoist-ryo1998](https://osu.ppy.sh/u/5097622) | 503.75 | 2 |
+| 5948 | [Kataki](https://osu.ppy.sh/u/4605166) | 503.05 | 2 |
+| 5949 | [FknRhythmGames](https://osu.ppy.sh/u/3531636) | 502.99 | 2 |
+| 5950 | [Albairn](https://osu.ppy.sh/u/7594955) | 502.85 | 2 |
+| 5951 | [CherryBeryl](https://osu.ppy.sh/u/4937790) | 502.12 | 2 |
+| 5952 | [SmoothMovesBro](https://osu.ppy.sh/u/3620139) | 501.43 | 2 |
+| 5953 | [Fookiz](https://osu.ppy.sh/u/4593732) | 501.34 | 2 |
+| 5954 | [Cetius](https://osu.ppy.sh/u/5217223) | 500.50 | 2 |
+| 5955 | [pro boxer-MATSU](https://osu.ppy.sh/u/1811176) | 499.19 | 2 |
+| 5956 | [cezgru](https://osu.ppy.sh/u/2629617) | 499.08 | 2 |
+| 5957 | [toir](https://osu.ppy.sh/u/5014516) | 498.86 | 2 |
+| 5958 | [Kajcio](https://osu.ppy.sh/u/4578726) | 497.92 | 2 |
+| 5959 | [Akimotokun](https://osu.ppy.sh/u/3901894) | 497.50 | 2 |
+| 5960 | [namaenanka](https://osu.ppy.sh/u/3291572) | 497.43 | 2 |
+| 5961 | [Mogamimoga](https://osu.ppy.sh/u/4237056) | 496.91 | 2 |
+| 5962 | [Enigma-](https://osu.ppy.sh/u/7762113) | 496.70 | 2 |
+| 5963 | [Dearoom](https://osu.ppy.sh/u/3357296) | 496.68 | 2 |
+| 5964 | [badeatudorpetre](https://osu.ppy.sh/u/1473890) | 496.59 | 2 |
+| 5965 | [R3laX3R](https://osu.ppy.sh/u/819689) | 496.16 | 2 |
+| 5966 | [LeftHand](https://osu.ppy.sh/u/3565932) | 495.66 | 2 |
+| 5967 | [Xurnub](https://osu.ppy.sh/u/3511774) | 495.15 | 2 |
+| 5968 | [Lyesooo](https://osu.ppy.sh/u/4575344) | 495.12 | 2 |
+| 5969 | [nameMy](https://osu.ppy.sh/u/8016231) | 495.05 | 2 |
+| 5970 | [Yahoo](https://osu.ppy.sh/u/5271397) | 494.95 | 2 |
+| 5971 | [Duriana](https://osu.ppy.sh/u/5767851) | 494.83 | 2 |
+| 5972 | [LyanPayj](https://osu.ppy.sh/u/2488728) | 494.20 | 2 |
+| 5973 | [Nussegge](https://osu.ppy.sh/u/6317514) | 494.12 | 2 |
+| 5974 | [Maple17](https://osu.ppy.sh/u/6726713) | 494.00 | 2 |
+| 5975 | [Dinothix](https://osu.ppy.sh/u/3846576) | 493.85 | 2 |
+| 5976 | [Climbay](https://osu.ppy.sh/u/7965844) | 493.50 | 2 |
+| 5977 | [RandomGamePlayO](https://osu.ppy.sh/u/3170543) | 493.35 | 2 |
+| 5978 | [Kusei](https://osu.ppy.sh/u/4091515) | 493.13 | 2 |
+| 5979 | [Darkluigi](https://osu.ppy.sh/u/2077490) | 493.01 | 2 |
+| 5980 | [RusherPGPL](https://osu.ppy.sh/u/6782302) | 492.90 | 2 |
+| 5981 | [Yiul](https://osu.ppy.sh/u/4793715) | 492.84 | 2 |
+| 5982 | [-Kanon-](https://osu.ppy.sh/u/2576168) | 491.77 | 2 |
+| 5983 | [Question Mark](https://osu.ppy.sh/u/7459901) | 491.51 | 2 |
+| 5984 | [l850127](https://osu.ppy.sh/u/568740) | 491.51 | 2 |
+| 5985 | [MURROX](https://osu.ppy.sh/u/771635) | 491.38 | 2 |
+| 5986 | [Mewe](https://osu.ppy.sh/u/8834203) | 490.93 | 3 |
+| 5987 | [gnarwhals](https://osu.ppy.sh/u/2873373) | 490.69 | 2 |
+| 5988 | [ivanpotato](https://osu.ppy.sh/u/3805625) | 490.47 | 2 |
+| 5989 | [tommyufo88](https://osu.ppy.sh/u/107084) | 490.12 | 2 |
+| 5990 | [Mizu](https://osu.ppy.sh/u/4700926) | 489.72 | 2 |
+| 5991 | [Reya](https://osu.ppy.sh/u/5960077) | 489.61 | 2 |
+| 5992 | [Hakkun](https://osu.ppy.sh/u/2179438) | 489.14 | 2 |
+| 5993 | [Sh0kku](https://osu.ppy.sh/u/4521213) | 489.05 | 2 |
+| 5994 | [PaperHeart](https://osu.ppy.sh/u/7558393) | 488.93 | 2 |
+| 5995 | [jong9712](https://osu.ppy.sh/u/1987920) | 486.98 | 2 |
+| 5996 | [shadow_neko](https://osu.ppy.sh/u/4945284) | 486.72 | 2 |
+| 5997 | [Aventas](https://osu.ppy.sh/u/2265597) | 486.71 | 2 |
+| 5998 | [LoliFlanboy](https://osu.ppy.sh/u/5571525) | 486.45 | 2 |
+| 5999 | [-Dreamless](https://osu.ppy.sh/u/4426728) | 486.27 | 2 |
+| 6000 | [JuanMartin241](https://osu.ppy.sh/u/4054429) | 485.72 | 2 |
+| 6001 | [Saper](https://osu.ppy.sh/u/6752238) | 485.71 | 2 |
+| 6002 | [Xexxar](https://osu.ppy.sh/u/2773526) | 485.45 | 2 |
+| 6003 | [Gianluky38](https://osu.ppy.sh/u/7604555) | 485.33 | 2 |
+| 6004 | [Weredeer](https://osu.ppy.sh/u/7661117) | 485.20 | 2 |
+| 6005 | [ZRush](https://osu.ppy.sh/u/398097) | 485.10 | 2 |
+| 6006 | [Tetsuyo](https://osu.ppy.sh/u/4793115) | 485.04 | 2 |
+| 6007 | [Broxce](https://osu.ppy.sh/u/3688909) | 484.82 | 2 |
+| 6008 | [Eroge](https://osu.ppy.sh/u/2422005) | 484.61 | 2 |
+| 6009 | [3y3s](https://osu.ppy.sh/u/1870129) | 484.28 | 2 |
+| 6010 | [srb](https://osu.ppy.sh/u/2047748) | 484.06 | 2 |
+| 6011 | [dahkjdas](https://osu.ppy.sh/u/5062396) | 483.38 | 2 |
+| 6012 | [TheNippleFish](https://osu.ppy.sh/u/3667982) | 483.38 | 2 |
+| 6013 | [_crumbling](https://osu.ppy.sh/u/895393) | 482.87 | 2 |
+| 6014 | [Touko White](https://osu.ppy.sh/u/3175019) | 482.84 | 2 |
+| 6015 | [Toyosaki](https://osu.ppy.sh/u/2724461) | 482.58 | 2 |
+| 6016 | [Pumby](https://osu.ppy.sh/u/5009903) | 482.47 | 2 |
+| 6017 | [Csted](https://osu.ppy.sh/u/7588303) | 481.91 | 2 |
+| 6018 | [Martinplior](https://osu.ppy.sh/u/8840177) | 481.81 | 2 |
+| 6019 | [CRZU](https://osu.ppy.sh/u/2427069) | 481.10 | 2 |
+| 6020 | [CARRERS](https://osu.ppy.sh/u/5091074) | 481.08 | 2 |
+| 6021 | [Rurichi](https://osu.ppy.sh/u/9003365) | 480.87 | 2 |
+| 6022 | [iEpicFreak](https://osu.ppy.sh/u/7189859) | 480.86 | 2 |
+| 6023 | [KeeNkee](https://osu.ppy.sh/u/4500075) | 480.74 | 2 |
+| 6024 | [Turu](https://osu.ppy.sh/u/1855493) | 480.47 | 2 |
+| 6025 | [wfcaqja](https://osu.ppy.sh/u/1765868) | 480.08 | 2 |
+| 6026 | [JerryLi](https://osu.ppy.sh/u/3956305) | 480.01 | 2 |
+| 6027 | [marbL-](https://osu.ppy.sh/u/3932266) | 479.66 | 2 |
+| 6028 | [BoberPizdatiy](https://osu.ppy.sh/u/6195217) | 479.52 | 2 |
+| 6029 | [HeroicSteak](https://osu.ppy.sh/u/3869829) | 479.27 | 2 |
+| 6030 | [Toenail](https://osu.ppy.sh/u/2169963) | 479.11 | 2 |
+| 6031 | [BurgerFlipper](https://osu.ppy.sh/u/3960351) | 478.85 | 2 |
+| 6032 | [Arue](https://osu.ppy.sh/u/7432074) | 478.73 | 2 |
+| 6033 | [pvtHenk](https://osu.ppy.sh/u/5627005) | 478.45 | 2 |
+| 6034 | [Pikachu7822osu](https://osu.ppy.sh/u/9276293) | 478.24 | 2 |
+| 6035 | [Dustiness](https://osu.ppy.sh/u/7354199) | 478.03 | 2 |
+| 6036 | [Kac007](https://osu.ppy.sh/u/2182027) | 478.00 | 2 |
+| 6037 | [Inaccurate](https://osu.ppy.sh/u/4496389) | 477.98 | 2 |
+| 6038 | [Flyed](https://osu.ppy.sh/u/6504906) | 477.83 | 2 |
+| 6039 | [Cydros](https://osu.ppy.sh/u/2308571) | 477.81 | 2 |
+| 6040 | [Rapty](https://osu.ppy.sh/u/5100298) | 477.54 | 2 |
+| 6041 | [_Twent](https://osu.ppy.sh/u/8370755) | 477.27 | 2 |
+| 6042 | [osquii_](https://osu.ppy.sh/u/6233211) | 477.15 | 2 |
+| 6043 | [Semifour](https://osu.ppy.sh/u/4968158) | 477.08 | 2 |
+| 6044 | [CamoKiller86](https://osu.ppy.sh/u/4062761) | 476.81 | 2 |
+| 6045 | [RLU](https://osu.ppy.sh/u/2008617) | 476.75 | 2 |
+| 6046 | [Sapphire Eden](https://osu.ppy.sh/u/1144391) | 476.65 | 2 |
+| 6047 | [BlockShock](https://osu.ppy.sh/u/4450117) | 475.94 | 2 |
+| 6048 | [DoubiTime](https://osu.ppy.sh/u/3291976) | 475.73 | 2 |
+| 6049 | [Sc06_](https://osu.ppy.sh/u/3634841) | 475.69 | 2 |
+| 6050 | [zundamochi](https://osu.ppy.sh/u/4802147) | 475.63 | 2 |
+| 6051 | [Katut](https://osu.ppy.sh/u/4298579) | 475.58 | 2 |
+| 6052 | [hummingbird](https://osu.ppy.sh/u/3232447) | 475.35 | 2 |
+| 6053 | [[ Skylak3 ]](https://osu.ppy.sh/u/8567485) | 475.27 | 2 |
+| 6054 | [- XVZ -](https://osu.ppy.sh/u/2722664) | 475.22 | 2 |
+| 6055 | [djjsixpack](https://osu.ppy.sh/u/1087888) | 474.62 | 2 |
+| 6056 | [Eragon](https://osu.ppy.sh/u/6864195) | 474.38 | 2 |
+| 6057 | [Seethe](https://osu.ppy.sh/u/3586511) | 474.24 | 2 |
+| 6058 | [azurofox](https://osu.ppy.sh/u/7357753) | 473.96 | 2 |
+| 6059 | [pmriva](https://osu.ppy.sh/u/2180885) | 473.92 | 2 |
+| 6060 | [hagoromo26](https://osu.ppy.sh/u/1128989) | 473.44 | 2 |
+| 6061 | [a08171119](https://osu.ppy.sh/u/872969) | 473.15 | 2 |
+| 6062 | [Xalph](https://osu.ppy.sh/u/2167041) | 472.44 | 2 |
+| 6063 | [DyingNzU](https://osu.ppy.sh/u/3589059) | 472.43 | 2 |
+| 6064 | [qwwert](https://osu.ppy.sh/u/3204896) | 472.36 | 2 |
+| 6065 | [WRATH_x](https://osu.ppy.sh/u/6306549) | 472.33 | 2 |
+| 6066 | [[ Spirit ]](https://osu.ppy.sh/u/1899022) | 472.19 | 2 |
+| 6067 | [TakuMii](https://osu.ppy.sh/u/174545) | 471.65 | 2 |
+| 6068 | [ichibannobaka](https://osu.ppy.sh/u/1766764) | 471.52 | 2 |
+| 6069 | [zAzQ](https://osu.ppy.sh/u/7390504) | 471.45 | 2 |
+| 6070 | [Emrsss](https://osu.ppy.sh/u/4914681) | 471.43 | 2 |
+| 6071 | [MrNiceness](https://osu.ppy.sh/u/4644917) | 471.26 | 2 |
+| 6072 | [ThisIsGod](https://osu.ppy.sh/u/6736936) | 471.11 | 2 |
+| 6073 | [yurala](https://osu.ppy.sh/u/4596685) | 470.91 | 2 |
+| 6074 | [Captainkek](https://osu.ppy.sh/u/8147626) | 470.85 | 2 |
+| 6075 | [Ausuri](https://osu.ppy.sh/u/2293541) | 470.75 | 2 |
+| 6076 | [g77gg](https://osu.ppy.sh/u/6034685) | 470.48 | 2 |
+| 6077 | [wakatoshi](https://osu.ppy.sh/u/5300778) | 470.04 | 2 |
+| 6078 | [Luminuso](https://osu.ppy.sh/u/3875866) | 469.17 | 2 |
+| 6079 | [Maverad](https://osu.ppy.sh/u/5720067) | 468.84 | 2 |
+| 6080 | [LoliBento](https://osu.ppy.sh/u/3252826) | 468.78 | 2 |
+| 6081 | [qqfffff7](https://osu.ppy.sh/u/1666018) | 468.32 | 2 |
+| 6082 | [egorqqqaaa](https://osu.ppy.sh/u/6533692) | 468.09 | 2 |
+| 6083 | [Naranja Sagged](https://osu.ppy.sh/u/3071659) | 467.73 | 2 |
+| 6084 | [Thumaax](https://osu.ppy.sh/u/4007888) | 467.61 | 2 |
+| 6085 | [Rafacar](https://osu.ppy.sh/u/2950870) | 467.00 | 2 |
+| 6086 | [HotaruMiraiRin](https://osu.ppy.sh/u/1433808) | 466.92 | 2 |
+| 6087 | [AMasochism](https://osu.ppy.sh/u/431594) | 466.40 | 2 |
+| 6088 | [Jeffrey](https://osu.ppy.sh/u/4777134) | 466.35 | 2 |
+| 6089 | [metul zwek](https://osu.ppy.sh/u/6674408) | 466.05 | 2 |
+| 6090 | [Silent Siren](https://osu.ppy.sh/u/1562433) | 465.77 | 2 |
+| 6091 | [Vexy](https://osu.ppy.sh/u/3940919) | 465.37 | 2 |
+| 6092 | [Arakene](https://osu.ppy.sh/u/1557459) | 465.29 | 2 |
+| 6093 | [alal22](https://osu.ppy.sh/u/2632240) | 464.67 | 2 |
+| 6094 | [aitsuk](https://osu.ppy.sh/u/1012195) | 464.31 | 2 |
+| 6095 | [SynchroHD](https://osu.ppy.sh/u/6584220) | 464.16 | 2 |
+| 6096 | [Spartano](https://osu.ppy.sh/u/5746091) | 463.95 | 2 |
+| 6097 | [Adamisgr8](https://osu.ppy.sh/u/2988370) | 463.56 | 3 |
+| 6098 | [Rush Chen](https://osu.ppy.sh/u/4647975) | 463.03 | 2 |
+| 6099 | [Olleu](https://osu.ppy.sh/u/5363486) | 461.94 | 2 |
+| 6100 | [Wu Zhu](https://osu.ppy.sh/u/3910693) | 461.80 | 2 |
+| 6101 | [Kardshark](https://osu.ppy.sh/u/4724315) | 461.48 | 2 |
+| 6102 | [Left](https://osu.ppy.sh/u/5062061) | 461.41 | 2 |
+| 6103 | [Stance_2](https://osu.ppy.sh/u/6029055) | 461.23 | 2 |
+| 6104 | [Fumino](https://osu.ppy.sh/u/1842742) | 460.99 | 2 |
+| 6105 | [Jura](https://osu.ppy.sh/u/2061789) | 460.91 | 2 |
+| 6106 | [andreseins](https://osu.ppy.sh/u/2336222) | 460.75 | 2 |
+| 6107 | [Kazamooo](https://osu.ppy.sh/u/2289037) | 460.32 | 2 |
+| 6108 | [xXOrdinaryXx](https://osu.ppy.sh/u/1984859) | 460.26 | 2 |
+| 6109 | [Toaster Chan](https://osu.ppy.sh/u/4269175) | 460.23 | 2 |
+| 6110 | [Spider](https://osu.ppy.sh/u/4392815) | 460.20 | 2 |
+| 6111 | [1234](https://osu.ppy.sh/u/2901732) | 460.18 | 2 |
+| 6112 | [Darkconnec](https://osu.ppy.sh/u/3860409) | 460.17 | 2 |
+| 6113 | [D3LTA](https://osu.ppy.sh/u/3099197) | 460.14 | 2 |
+| 6114 | [Astellis](https://osu.ppy.sh/u/8369780) | 459.82 | 2 |
+| 6115 | [dydhardy](https://osu.ppy.sh/u/4685133) | 459.79 | 2 |
+| 6116 | [HaHaBear](https://osu.ppy.sh/u/4869280) | 459.49 | 2 |
+| 6117 | [xNitroPT](https://osu.ppy.sh/u/6272905) | 459.37 | 2 |
+| 6118 | [get0WN3D](https://osu.ppy.sh/u/2678615) | 459.22 | 2 |
+| 6119 | [hiro4saki](https://osu.ppy.sh/u/6607682) | 459.12 | 2 |
+| 6120 | [petitekpl](https://osu.ppy.sh/u/2894654) | 458.99 | 2 |
+| 6121 | [Dammie](https://osu.ppy.sh/u/4240529) | 458.83 | 2 |
+| 6122 | [Seal](https://osu.ppy.sh/u/6195331) | 458.38 | 2 |
+| 6123 | [Sonozaki-](https://osu.ppy.sh/u/2697040) | 458.38 | 2 |
+| 6124 | [Cinder](https://osu.ppy.sh/u/3364776) | 458.16 | 2 |
+| 6125 | [Uni-Desu](https://osu.ppy.sh/u/6594866) | 457.95 | 2 |
+| 6126 | [AHL](https://osu.ppy.sh/u/3350666) | 457.80 | 2 |
+| 6127 | [Reicer](https://osu.ppy.sh/u/8045919) | 457.70 | 2 |
+| 6128 | [Ros3sDark](https://osu.ppy.sh/u/6048907) | 457.55 | 2 |
+| 6129 | [small fish](https://osu.ppy.sh/u/3289730) | 457.18 | 2 |
+| 6130 | [FoundCape](https://osu.ppy.sh/u/3859256) | 457.03 | 2 |
+| 6131 | [LemondarkO](https://osu.ppy.sh/u/7822432) | 457.01 | 2 |
+| 6132 | [Tissueman](https://osu.ppy.sh/u/5092221) | 456.96 | 2 |
+| 6133 | [Faaa97](https://osu.ppy.sh/u/6795174) | 456.64 | 2 |
+| 6134 | [Husikam](https://osu.ppy.sh/u/398662) | 456.61 | 2 |
+| 6135 | [Pouki](https://osu.ppy.sh/u/7243224) | 455.93 | 2 |
+| 6136 | [Shappey](https://osu.ppy.sh/u/5256494) | 455.74 | 2 |
+| 6137 | [Lari20752](https://osu.ppy.sh/u/2463942) | 455.48 | 2 |
+| 6138 | [Neko Byakko](https://osu.ppy.sh/u/4383554) | 455.35 | 2 |
+| 6139 | [Megumii](https://osu.ppy.sh/u/6040382) | 454.61 | 2 |
+| 6140 | [ponaar](https://osu.ppy.sh/u/4495099) | 454.57 | 2 |
+| 6141 | [Choilicious](https://osu.ppy.sh/u/2129634) | 453.94 | 2 |
+| 6142 | [alpha-centauri](https://osu.ppy.sh/u/2343881) | 453.60 | 2 |
+| 6143 | [Isuca](https://osu.ppy.sh/u/3442658) | 453.57 | 2 |
+| 6144 | [restricted mode](https://osu.ppy.sh/u/3776797) | 453.47 | 2 |
+| 6145 | [HOLYWINNER](https://osu.ppy.sh/u/784800) | 453.43 | 2 |
+| 6146 | [redcrosssix](https://osu.ppy.sh/u/2554965) | 453.41 | 2 |
+| 6147 | [H1ko](https://osu.ppy.sh/u/58710) | 453.20 | 2 |
+| 6148 | [Brimroth](https://osu.ppy.sh/u/3129374) | 453.18 | 2 |
+| 6149 | [Hype](https://osu.ppy.sh/u/3683845) | 453.00 | 2 |
+| 6150 | [Mahouxa](https://osu.ppy.sh/u/1510213) | 452.98 | 2 |
+| 6151 | [Xybi](https://osu.ppy.sh/u/2295621) | 452.76 | 2 |
+| 6152 | [tomoko](https://osu.ppy.sh/u/2436582) | 452.73 | 2 |
+| 6153 | [Italoo](https://osu.ppy.sh/u/7507998) | 452.65 | 2 |
+| 6154 | [Gomatofu](https://osu.ppy.sh/u/6170910) | 452.50 | 2 |
+| 6155 | [momimann](https://osu.ppy.sh/u/878904) | 452.46 | 2 |
+| 6156 | [ZyzzelDESU](https://osu.ppy.sh/u/7515976) | 452.43 | 2 |
+| 6157 | [FunGame](https://osu.ppy.sh/u/5989721) | 452.27 | 2 |
+| 6158 | [Gunpuku Hime](https://osu.ppy.sh/u/5271616) | 452.14 | 2 |
+| 6159 | [Kancolle](https://osu.ppy.sh/u/3644452) | 452.12 | 3 |
+| 6160 | [My Angel Sim](https://osu.ppy.sh/u/8739487) | 451.99 | 2 |
+| 6161 | [splashos](https://osu.ppy.sh/u/2525951) | 451.91 | 2 |
+| 6162 | [TrackpadEasy](https://osu.ppy.sh/u/5817631) | 451.85 | 2 |
+| 6163 | [SirSvoty](https://osu.ppy.sh/u/7009821) | 451.84 | 2 |
+| 6164 | [Syga](https://osu.ppy.sh/u/2260613) | 451.59 | 2 |
+| 6165 | [NeoKillerxX](https://osu.ppy.sh/u/4635461) | 451.38 | 2 |
+| 6166 | [Withat](https://osu.ppy.sh/u/4597952) | 451.22 | 2 |
+| 6167 | [Chai Bot](https://osu.ppy.sh/u/2412529) | 450.74 | 2 |
+| 6168 | [Mel](https://osu.ppy.sh/u/1696312) | 450.66 | 2 |
+| 6169 | [kiddly](https://osu.ppy.sh/u/74937) | 450.63 | 2 |
+| 6170 | [JonL21](https://osu.ppy.sh/u/1662409) | 450.52 | 2 |
+| 6171 | [troubix](https://osu.ppy.sh/u/3288672) | 450.26 | 2 |
+| 6172 | [DT Overlord](https://osu.ppy.sh/u/7350230) | 449.93 | 2 |
+| 6173 | [Chassit](https://osu.ppy.sh/u/3799313) | 449.93 | 2 |
+| 6174 | [Fatpython](https://osu.ppy.sh/u/3505377) | 449.84 | 2 |
+| 6175 | [yf_bmp](https://osu.ppy.sh/u/1243669) | 449.84 | 2 |
+| 6176 | [Ruwi](https://osu.ppy.sh/u/2842612) | 449.77 | 2 |
+| 6177 | [czhang](https://osu.ppy.sh/u/3082506) | 449.36 | 2 |
+| 6178 | [MineSweeper](https://osu.ppy.sh/u/4114738) | 449.19 | 2 |
+| 6179 | [goodfy](https://osu.ppy.sh/u/5055325) | 449.08 | 2 |
+| 6180 | [KR_Riki](https://osu.ppy.sh/u/589694) | 448.82 | 2 |
+| 6181 | [fumes](https://osu.ppy.sh/u/7573380) | 448.74 | 2 |
+| 6182 | [eric910802](https://osu.ppy.sh/u/6237416) | 448.63 | 2 |
+| 6183 | [[ Yeah ]](https://osu.ppy.sh/u/4508237) | 448.63 | 2 |
+| 6184 | [Poi Panda](https://osu.ppy.sh/u/4693956) | 448.61 | 2 |
+| 6185 | [mixeue](https://osu.ppy.sh/u/5651231) | 448.46 | 2 |
+| 6186 | [[-buki-]](https://osu.ppy.sh/u/2927918) | 448.29 | 2 |
+| 6187 | [[Charlie Lam]](https://osu.ppy.sh/u/3766224) | 448.21 | 2 |
+| 6188 | [Ryoko](https://osu.ppy.sh/u/2660111) | 448.14 | 2 |
+| 6189 | [ThoG11k](https://osu.ppy.sh/u/3660254) | 448.09 | 2 |
+| 6190 | [Cris_1](https://osu.ppy.sh/u/6175280) | 448.05 | 2 |
+| 6191 | [Azumie](https://osu.ppy.sh/u/5014168) | 448.02 | 2 |
+| 6192 | [Lunahri](https://osu.ppy.sh/u/4849927) | 447.99 | 2 |
+| 6193 | [verganzaj](https://osu.ppy.sh/u/5427470) | 447.92 | 2 |
+| 6194 | [Trabanto](https://osu.ppy.sh/u/2721083) | 447.73 | 2 |
+| 6195 | [Ohwow](https://osu.ppy.sh/u/3028729) | 447.65 | 2 |
+| 6196 | [Kellan](https://osu.ppy.sh/u/5002270) | 447.57 | 2 |
+| 6197 | [Coka](https://osu.ppy.sh/u/6196292) | 447.53 | 2 |
+| 6198 | [Buld123](https://osu.ppy.sh/u/5211886) | 447.33 | 2 |
+| 6199 | [Kanexy](https://osu.ppy.sh/u/3483086) | 447.03 | 2 |
+| 6200 | [RocketBlade](https://osu.ppy.sh/u/3674499) | 446.99 | 2 |
+| 6201 | [lio11234a](https://osu.ppy.sh/u/3433041) | 446.63 | 2 |
+| 6202 | [Suvakoles](https://osu.ppy.sh/u/9002264) | 446.38 | 2 |
+| 6203 | [mjozog3](https://osu.ppy.sh/u/4785993) | 446.17 | 2 |
+| 6204 | [KingOfJC](https://osu.ppy.sh/u/2733819) | 445.83 | 2 |
+| 6205 | [eLLezH](https://osu.ppy.sh/u/2143311) | 445.59 | 2 |
+| 6206 | [Graveflame](https://osu.ppy.sh/u/7652676) | 445.57 | 2 |
+| 6207 | [Skiant](https://osu.ppy.sh/u/2834570) | 445.34 | 2 |
+| 6208 | [-Sinq-](https://osu.ppy.sh/u/5190920) | 445.17 | 2 |
+| 6209 | [luyggens100](https://osu.ppy.sh/u/2473009) | 445.06 | 2 |
+| 6210 | [Nyantiaz](https://osu.ppy.sh/u/6223841) | 444.92 | 2 |
+| 6211 | [Curtain_X](https://osu.ppy.sh/u/6477247) | 444.05 | 2 |
+| 6212 | [DivineRose](https://osu.ppy.sh/u/8151359) | 444.03 | 2 |
+| 6213 | [Sure](https://osu.ppy.sh/u/70730) | 443.98 | 2 |
+| 6214 | [TutriS](https://osu.ppy.sh/u/7873602) | 443.58 | 2 |
+| 6215 | [My Angel Est](https://osu.ppy.sh/u/6499402) | 443.38 | 2 |
+| 6216 | [Ophilion](https://osu.ppy.sh/u/2599255) | 443.23 | 2 |
+| 6217 | [archun14228](https://osu.ppy.sh/u/972146) | 443.22 | 2 |
+| 6218 | [Satsuki - desu](https://osu.ppy.sh/u/6591291) | 443.20 | 2 |
+| 6219 | [Ohzero](https://osu.ppy.sh/u/646264) | 443.01 | 2 |
+| 6220 | [Skirmish](https://osu.ppy.sh/u/3663833) | 442.94 | 2 |
+| 6221 | [Kynexiz](https://osu.ppy.sh/u/6004937) | 442.84 | 2 |
+| 6222 | [Kazekage](https://osu.ppy.sh/u/3991063) | 442.83 | 2 |
+| 6223 | [Matya](https://osu.ppy.sh/u/7190603) | 442.77 | 2 |
+| 6224 | [Ruhe](https://osu.ppy.sh/u/3602157) | 442.29 | 2 |
+| 6225 | [Steamlink](https://osu.ppy.sh/u/7772582) | 442.27 | 2 |
+| 6226 | [Aw Yeh](https://osu.ppy.sh/u/5048348) | 442.09 | 2 |
+| 6227 | [VoltSquid](https://osu.ppy.sh/u/4942592) | 441.89 | 2 |
+| 6228 | [silly me](https://osu.ppy.sh/u/6433183) | 441.84 | 2 |
+| 6229 | [S o h](https://osu.ppy.sh/u/2234772) | 441.79 | 2 |
+| 6230 | [starnectar](https://osu.ppy.sh/u/912196) | 441.69 | 2 |
+| 6231 | [SweetMate](https://osu.ppy.sh/u/4122729) | 441.68 | 2 |
+| 6232 | [Matrxi999](https://osu.ppy.sh/u/2366250) | 441.42 | 2 |
+| 6233 | [Rfortes](https://osu.ppy.sh/u/3409011) | 441.34 | 2 |
+| 6234 | [Yato414](https://osu.ppy.sh/u/7578832) | 441.27 | 2 |
+| 6235 | [UberWachu](https://osu.ppy.sh/u/6985833) | 441.07 | 2 |
+| 6236 | [LGH_X](https://osu.ppy.sh/u/6443107) | 441.01 | 2 |
+| 6237 | [_index](https://osu.ppy.sh/u/652457) | 440.87 | 1 |
+| 6238 | [DiMiDROU](https://osu.ppy.sh/u/6322572) | 440.37 | 2 |
+| 6239 | [Xhotzkin](https://osu.ppy.sh/u/5368555) | 440.36 | 2 |
+| 6240 | [byteGear97](https://osu.ppy.sh/u/6322341) | 438.77 | 2 |
+| 6241 | [Read More](https://osu.ppy.sh/u/6182317) | 438.53 | 2 |
+| 6242 | [Alfonso](https://osu.ppy.sh/u/7522642) | 438.45 | 2 |
+| 6243 | [ISISBooze](https://osu.ppy.sh/u/6258717) | 438.03 | 2 |
+| 6244 | [leilei0](https://osu.ppy.sh/u/557422) | 438.01 | 2 |
+| 6245 | [aesthetician](https://osu.ppy.sh/u/7076507) | 438.01 | 2 |
+| 6246 | [Pahare](https://osu.ppy.sh/u/4129685) | 437.12 | 2 |
+| 6247 | [hitowy](https://osu.ppy.sh/u/4874174) | 436.83 | 2 |
+| 6248 | [12345678Tune](https://osu.ppy.sh/u/5417767) | 435.39 | 2 |
+| 6249 | [HKR](https://osu.ppy.sh/u/3854666) | 434.89 | 2 |
+| 6250 | [Vleaf](https://osu.ppy.sh/u/1070109) | 434.88 | 2 |
+| 6251 | [- Bicolini -](https://osu.ppy.sh/u/4717931) | 434.72 | 2 |
+| 6252 | [Rio-](https://osu.ppy.sh/u/2491211) | 434.71 | 2 |
+| 6253 | [[Darin]](https://osu.ppy.sh/u/4839876) | 434.43 | 2 |
+| 6254 | [yakidango](https://osu.ppy.sh/u/80063) | 434.27 | 2 |
+| 6255 | [YoSh](https://osu.ppy.sh/u/2499594) | 434.20 | 2 |
+| 6256 | [Bikko is legit](https://osu.ppy.sh/u/2781025) | 433.96 | 2 |
+| 6257 | [Coolenjoy](https://osu.ppy.sh/u/8858662) | 433.85 | 2 |
+| 6258 | [Bolek](https://osu.ppy.sh/u/5020017) | 433.76 | 2 |
+| 6259 | [- Kaze -](https://osu.ppy.sh/u/2520756) | 433.63 | 2 |
+| 6260 | [cow5rkool](https://osu.ppy.sh/u/4524485) | 433.39 | 2 |
+| 6261 | [FaQeu](https://osu.ppy.sh/u/6397237) | 433.24 | 2 |
+| 6262 | [LDC](https://osu.ppy.sh/u/2816809) | 433.01 | 2 |
+| 6263 | [Big](https://osu.ppy.sh/u/2306712) | 432.99 | 2 |
+| 6264 | [Gokou](https://osu.ppy.sh/u/3966277) | 432.72 | 2 |
+| 6265 | [GrilGaemr](https://osu.ppy.sh/u/7112929) | 431.53 | 2 |
+| 6266 | [lagedoP](https://osu.ppy.sh/u/3333254) | 431.48 | 2 |
+| 6267 | [Andrea](https://osu.ppy.sh/u/33599) | 431.30 | 2 |
+| 6268 | [Edrik](https://osu.ppy.sh/u/3028669) | 431.12 | 2 |
+| 6269 | [-Kiyo](https://osu.ppy.sh/u/5565413) | 430.56 | 2 |
+| 6270 | [Glueon](https://osu.ppy.sh/u/4373239) | 430.23 | 2 |
+| 6271 | [Abahachi](https://osu.ppy.sh/u/4950052) | 429.87 | 2 |
+| 6272 | [Houkago](https://osu.ppy.sh/u/6358090) | 429.60 | 2 |
+| 6273 | [cos060105](https://osu.ppy.sh/u/1435610) | 429.59 | 2 |
+| 6274 | [Fraisey](https://osu.ppy.sh/u/3154542) | 428.40 | 2 |
+| 6275 | [Telten](https://osu.ppy.sh/u/1818717) | 428.28 | 2 |
+| 6276 | [Jaeho](https://osu.ppy.sh/u/2786290) | 428.04 | 2 |
+| 6277 | [Kool-Aid](https://osu.ppy.sh/u/7660915) | 427.79 | 2 |
+| 6278 | [Djbakan](https://osu.ppy.sh/u/5680123) | 427.77 | 2 |
+| 6279 | [Woho](https://osu.ppy.sh/u/3812344) | 427.51 | 2 |
+| 6280 | [Blue](https://osu.ppy.sh/u/1812085) | 427.32 | 3 |
+| 6281 | [-Arcueid-](https://osu.ppy.sh/u/2582954) | 426.76 | 2 |
+| 6282 | [Wagarasu](https://osu.ppy.sh/u/7654932) | 426.66 | 2 |
+| 6283 | [sellyme](https://osu.ppy.sh/u/1520613) | 426.56 | 2 |
+| 6284 | [1Phone](https://osu.ppy.sh/u/6347458) | 426.45 | 2 |
+| 6285 | [BlueFlame](https://osu.ppy.sh/u/3506191) | 426.44 | 1 |
+| 6286 | [yurippelove](https://osu.ppy.sh/u/1093006) | 426.37 | 2 |
+| 6287 | [sonic8889](https://osu.ppy.sh/u/1767864) | 426.09 | 2 |
+| 6288 | [pkhg](https://osu.ppy.sh/u/343624) | 425.73 | 2 |
+| 6289 | [tubio](https://osu.ppy.sh/u/4770958) | 425.57 | 2 |
+| 6290 | [Delumo](https://osu.ppy.sh/u/2957100) | 425.44 | 2 |
+| 6291 | [RoboMarth](https://osu.ppy.sh/u/6201479) | 425.02 | 2 |
+| 6292 | [Kraminka](https://osu.ppy.sh/u/3385080) | 424.72 | 2 |
+| 6293 | [Pealcy](https://osu.ppy.sh/u/4091251) | 424.63 | 2 |
+| 6294 | [IPiPak](https://osu.ppy.sh/u/2449133) | 424.40 | 2 |
+| 6295 | [BlaZeDlol](https://osu.ppy.sh/u/6440344) | 424.06 | 2 |
+| 6296 | [-Miruru-](https://osu.ppy.sh/u/2582725) | 423.75 | 2 |
+| 6297 | [krinco](https://osu.ppy.sh/u/9395030) | 423.73 | 2 |
+| 6298 | [Yoshiko-](https://osu.ppy.sh/u/3914073) | 423.49 | 2 |
+| 6299 | [Kycb](https://osu.ppy.sh/u/5437869) | 423.24 | 2 |
+| 6300 | [MagnusTheGreat](https://osu.ppy.sh/u/7646976) | 422.99 | 2 |
+| 6301 | [kimjimin](https://osu.ppy.sh/u/4651046) | 422.96 | 2 |
+| 6302 | [Yoshi-Desu](https://osu.ppy.sh/u/5531663) | 422.83 | 2 |
+| 6303 | [iTzHaku](https://osu.ppy.sh/u/4151551) | 422.76 | 2 |
+| 6304 | [AndroidxP](https://osu.ppy.sh/u/6749564) | 422.46 | 2 |
+| 6305 | [Arthritis](https://osu.ppy.sh/u/3723745) | 422.36 | 2 |
+| 6306 | [Miska](https://osu.ppy.sh/u/3263119) | 422.32 | 2 |
+| 6307 | [store](https://osu.ppy.sh/u/5503853) | 422.31 | 2 |
+| 6308 | [La Valse](https://osu.ppy.sh/u/70863) | 421.58 | 1 |
+| 6309 | [Ghouru](https://osu.ppy.sh/u/6273855) | 421.42 | 2 |
+| 6310 | [Katsura da](https://osu.ppy.sh/u/3056050) | 421.36 | 2 |
+| 6311 | [sevilla6532](https://osu.ppy.sh/u/540605) | 421.35 | 2 |
+| 6312 | [Negatiiive](https://osu.ppy.sh/u/4088998) | 421.04 | 2 |
+| 6313 | [Szaros](https://osu.ppy.sh/u/3327595) | 420.77 | 2 |
+| 6314 | [LaZZyPenGUiN](https://osu.ppy.sh/u/6442710) | 420.74 | 2 |
+| 6315 | [utsuka1](https://osu.ppy.sh/u/2610590) | 420.72 | 2 |
+| 6316 | [Susanoko](https://osu.ppy.sh/u/1374701) | 420.56 | 2 |
+| 6317 | [Yomawaru](https://osu.ppy.sh/u/2040927) | 420.36 | 2 |
+| 6318 | [StephOsu](https://osu.ppy.sh/u/6031971) | 420.18 | 2 |
+| 6319 | [SolarFox](https://osu.ppy.sh/u/1410580) | 420.11 | 2 |
+| 6320 | [DearKano](https://osu.ppy.sh/u/7140258) | 420.04 | 2 |
+| 6321 | [js090213](https://osu.ppy.sh/u/2998248) | 419.51 | 2 |
+| 6322 | [Nekros](https://osu.ppy.sh/u/5194467) | 419.45 | 2 |
+| 6323 | [merankori](https://osu.ppy.sh/u/6584368) | 419.18 | 2 |
+| 6324 | [Rachneru](https://osu.ppy.sh/u/5134380) | 418.93 | 2 |
+| 6325 | [InSanneHS](https://osu.ppy.sh/u/7003644) | 418.91 | 2 |
+| 6326 | [Rio tiNa](https://osu.ppy.sh/u/3714233) | 418.91 | 2 |
+| 6327 | [Dve](https://osu.ppy.sh/u/1807700) | 418.88 | 2 |
+| 6328 | [M o c h a](https://osu.ppy.sh/u/3361711) | 418.88 | 2 |
+| 6329 | [Dell](https://osu.ppy.sh/u/3891036) | 418.62 | 2 |
+| 6330 | [Bepis](https://osu.ppy.sh/u/4259824) | 418.43 | 2 |
+| 6331 | [ItsWinter](https://osu.ppy.sh/u/6381153) | 418.11 | 2 |
+| 6332 | [Torres](https://osu.ppy.sh/u/2703967) | 418.09 | 2 |
+| 6333 | [Nainor](https://osu.ppy.sh/u/5281860) | 417.68 | 2 |
+| 6334 | [Hqrdest](https://osu.ppy.sh/u/5842721) | 417.52 | 2 |
+| 6335 | [-Andrea](https://osu.ppy.sh/u/5485437) | 417.03 | 2 |
+| 6336 | [Hamiero](https://osu.ppy.sh/u/2832026) | 416.82 | 2 |
+| 6337 | [Seolhyun -](https://osu.ppy.sh/u/2799769) | 416.36 | 2 |
+| 6338 | [Madgoblin](https://osu.ppy.sh/u/7741689) | 415.96 | 2 |
+| 6339 | [Boxmanwoman](https://osu.ppy.sh/u/5167006) | 415.61 | 2 |
+| 6340 | [Junarchy](https://osu.ppy.sh/u/3544285) | 415.26 | 2 |
+| 6341 | [petrchom](https://osu.ppy.sh/u/3936606) | 415.21 | 2 |
+| 6342 | [Subsonix](https://osu.ppy.sh/u/3489866) | 415.16 | 2 |
+| 6343 | [Dante8975](https://osu.ppy.sh/u/1844476) | 414.92 | 2 |
+| 6344 | [Alien](https://osu.ppy.sh/u/4743869) | 414.27 | 1 |
+| 6345 | [benki](https://osu.ppy.sh/u/1021944) | 414.09 | 1 |
+| 6346 | [Mickey Tablet](https://osu.ppy.sh/u/4578347) | 413.79 | 2 |
+| 6347 | [Maanbal](https://osu.ppy.sh/u/3745868) | 413.70 | 2 |
+| 6348 | [Plutia -](https://osu.ppy.sh/u/5428223) | 412.82 | 2 |
+| 6349 | [Lowish](https://osu.ppy.sh/u/5666163) | 412.53 | 2 |
+| 6350 | [Reina Kousaka](https://osu.ppy.sh/u/6918942) | 412.40 | 2 |
+| 6351 | [kindbanana](https://osu.ppy.sh/u/6714807) | 412.21 | 2 |
+| 6352 | [sunfestlabs](https://osu.ppy.sh/u/4930767) | 411.31 | 2 |
+| 6353 | [paulytools](https://osu.ppy.sh/u/4235536) | 411.27 | 2 |
+| 6354 | [bluekoren](https://osu.ppy.sh/u/5475785) | 411.25 | 2 |
+| 6355 | [Kogii](https://osu.ppy.sh/u/2669388) | 410.39 | 2 |
+| 6356 | [ManualBreathing](https://osu.ppy.sh/u/6735707) | 410.35 | 2 |
+| 6357 | [Karubona-ra](https://osu.ppy.sh/u/939966) | 410.20 | 2 |
+| 6358 | [bango](https://osu.ppy.sh/u/2734971) | 409.97 | 1 |
+| 6359 | [Daisy](https://osu.ppy.sh/u/6730064) | 409.37 | 2 |
+| 6360 | [Darkhowl](https://osu.ppy.sh/u/8556318) | 409.05 | 2 |
+| 6361 | [-Tristan](https://osu.ppy.sh/u/3180151) | 408.59 | 2 |
+| 6362 | [Charon](https://osu.ppy.sh/u/2636865) | 407.95 | 2 |
+| 6363 | [Dremery](https://osu.ppy.sh/u/6558838) | 407.79 | 2 |
+| 6364 | [rutchi](https://osu.ppy.sh/u/8979371) | 406.97 | 2 |
+| 6365 | [quasiverse](https://osu.ppy.sh/u/3415090) | 406.59 | 2 |
+| 6366 | [Barrtman](https://osu.ppy.sh/u/6690587) | 406.39 | 2 |
+| 6367 | [MrPadaren](https://osu.ppy.sh/u/2391952) | 405.24 | 2 |
+| 6368 | [Stevy](https://osu.ppy.sh/u/5053158) | 405.20 | 2 |
+| 6369 | [Michiru-](https://osu.ppy.sh/u/85380) | 404.85 | 2 |
+| 6370 | [Capt J Ravern](https://osu.ppy.sh/u/4331736) | 404.55 | 2 |
+| 6371 | [NecropedoSS](https://osu.ppy.sh/u/6273616) | 404.35 | 2 |
+| 6372 | [Hekishoku](https://osu.ppy.sh/u/4717408) | 404.09 | 2 |
+| 6373 | [Frostick](https://osu.ppy.sh/u/4849488) | 403.05 | 2 |
+| 6374 | [Modricagon](https://osu.ppy.sh/u/4764648) | 402.92 | 2 |
+| 6375 | [slymaster](https://osu.ppy.sh/u/165495) | 402.31 | 2 |
+| 6376 | [Aery](https://osu.ppy.sh/u/3994671) | 401.92 | 2 |
+| 6377 | [ayiku](https://osu.ppy.sh/u/710936) | 401.54 | 2 |
+| 6378 | [MagiFelix](https://osu.ppy.sh/u/4413976) | 401.32 | 2 |
+| 6379 | [TheAxuuhh](https://osu.ppy.sh/u/4100613) | 401.29 | 2 |
+| 6380 | [Asarc](https://osu.ppy.sh/u/1634748) | 401.16 | 2 |
+| 6381 | [Golrin](https://osu.ppy.sh/u/3752426) | 400.83 | 2 |
+| 6382 | [Fey](https://osu.ppy.sh/u/4328180) | 400.50 | 2 |
+| 6383 | [hpyz](https://osu.ppy.sh/u/4421072) | 400.21 | 2 |
+| 6384 | [Omaru](https://osu.ppy.sh/u/6574143) | 400.02 | 2 |
+| 6385 | [Synpoo](https://osu.ppy.sh/u/3059364) | 399.80 | 2 |
+| 6386 | [Cla](https://osu.ppy.sh/u/4748791) | 399.66 | 2 |
+| 6387 | [Koichi](https://osu.ppy.sh/u/5850571) | 399.61 | 2 |
+| 6388 | [KHRiku](https://osu.ppy.sh/u/3104514) | 399.17 | 1 |
+| 6389 | [[ Descrow ]](https://osu.ppy.sh/u/4268823) | 399.12 | 2 |
+| 6390 | [Hadess](https://osu.ppy.sh/u/8299593) | 398.20 | 2 |
+| 6391 | [Ruin Lance](https://osu.ppy.sh/u/4487619) | 397.77 | 2 |
+| 6392 | [Tenshie](https://osu.ppy.sh/u/2140711) | 396.90 | 2 |
+| 6393 | [HeiwajimaS](https://osu.ppy.sh/u/4396839) | 396.89 | 2 |
+| 6394 | [-srio](https://osu.ppy.sh/u/1289101) | 396.73 | 2 |
+| 6395 | [Felixphaeton](https://osu.ppy.sh/u/2503785) | 395.60 | 2 |
+| 6396 | [Slowth](https://osu.ppy.sh/u/6878912) | 395.47 | 2 |
+| 6397 | [bite you death](https://osu.ppy.sh/u/6398464) | 393.89 | 2 |
+| 6398 | [stud8787](https://osu.ppy.sh/u/3722924) | 393.70 | 2 |
+| 6399 | [fzhj](https://osu.ppy.sh/u/2130039) | 392.73 | 2 |
+| 6400 | [Maxlo](https://osu.ppy.sh/u/5116811) | 392.40 | 2 |
+| 6401 | [_Mayo](https://osu.ppy.sh/u/6756957) | 392.31 | 2 |
+| 6402 | [likeapetter](https://osu.ppy.sh/u/3350201) | 391.81 | 2 |
+| 6403 | [Ulquiorra_81](https://osu.ppy.sh/u/5079992) | 391.60 | 2 |
+| 6404 | [RasenXD](https://osu.ppy.sh/u/1614810) | 390.95 | 2 |
+| 6405 | [[ RNA ]](https://osu.ppy.sh/u/8796059) | 390.62 | 2 |
+| 6406 | [uhuorc](https://osu.ppy.sh/u/3053809) | 390.24 | 2 |
+| 6407 | [820150998](https://osu.ppy.sh/u/4377348) | 388.82 | 2 |
+| 6408 | [Athur](https://osu.ppy.sh/u/1643596) | 388.38 | 2 |
+| 6409 | [Iluvatars](https://osu.ppy.sh/u/2776734) | 388.11 | 2 |
+| 6410 | [MiloSx7](https://osu.ppy.sh/u/2358009) | 387.90 | 2 |
+| 6411 | [Neroh](https://osu.ppy.sh/u/2257584) | 387.73 | 2 |
+| 6412 | [howhow777](https://osu.ppy.sh/u/965360) | 387.09 | 2 |
+| 6413 | [grindiee](https://osu.ppy.sh/u/6767911) | 386.34 | 2 |
+| 6414 | [kobeblue](https://osu.ppy.sh/u/5624969) | 385.32 | 2 |
+| 6415 | [Corrupt](https://osu.ppy.sh/u/1755349) | 384.45 | 2 |
+| 6416 | [[ Adder ]](https://osu.ppy.sh/u/3385964) | 384.43 | 2 |
+| 6417 | [AzA](https://osu.ppy.sh/u/6941093) | 382.81 | 2 |
+| 6418 | [Asra](https://osu.ppy.sh/u/7410343) | 380.37 | 2 |
+| 6419 | [Akiko-](https://osu.ppy.sh/u/1226106) | 380.32 | 1 |
+| 6420 | [wayback](https://osu.ppy.sh/u/3619332) | 380.30 | 2 |
+| 6421 | [FlameThrower](https://osu.ppy.sh/u/7177409) | 379.32 | 2 |
+| 6422 | [NyaNekoMiau](https://osu.ppy.sh/u/5149397) | 378.25 | 1 |
+| 6423 | [Feppla](https://osu.ppy.sh/u/4271601) | 378.25 | 1 |
+| 6424 | [FieryLight](https://osu.ppy.sh/u/2276893) | 376.75 | 2 |
+| 6425 | [Operation Skuld](https://osu.ppy.sh/u/2230508) | 376.63 | 2 |
+| 6426 | [David-san](https://osu.ppy.sh/u/2232831) | 375.66 | 2 |
+| 6427 | [Neato Torpedo](https://osu.ppy.sh/u/391877) | 375.21 | 2 |
+| 6428 | [MlhMan](https://osu.ppy.sh/u/6886882) | 373.74 | 2 |
+| 6429 | [Zazalalka228](https://osu.ppy.sh/u/6841454) | 369.96 | 2 |
+| 6430 | [[ Beatrice ]](https://osu.ppy.sh/u/683791) | 368.92 | 1 |
+| 6431 | [gissirianko](https://osu.ppy.sh/u/7433533) | 365.42 | 1 |
+| 6432 | [Astrovia](https://osu.ppy.sh/u/5221616) | 364.94 | 1 |
+| 6433 | [Toshinou Kyouko](https://osu.ppy.sh/u/560228) | 363.08 | 1 |
+| 6434 | [PzychoOne](https://osu.ppy.sh/u/2505559) | 362.26 | 1 |
+| 6435 | [Doggo-Sama](https://osu.ppy.sh/u/5431862) | 362.03 | 2 |
+| 6436 | [Kaifin](https://osu.ppy.sh/u/2596942) | 359.19 | 1 |
+| 6437 | [Toushi](https://osu.ppy.sh/u/2367825) | 358.67 | 1 |
+| 6438 | [Lapis](https://osu.ppy.sh/u/635238) | 357.66 | 1 |
+| 6439 | [xoho](https://osu.ppy.sh/u/3647897) | 355.86 | 1 |
+| 6440 | [maii](https://osu.ppy.sh/u/3208430) | 355.12 | 2 |
+| 6441 | [Beomsan](https://osu.ppy.sh/u/3626063) | 354.19 | 1 |
+| 6442 | [Wonder](https://osu.ppy.sh/u/3687318) | 352.47 | 1 |
+| 6443 | [Latrio](https://osu.ppy.sh/u/4613551) | 349.82 | 1 |
+| 6444 | [kepel](https://osu.ppy.sh/u/410238) | 349.82 | 1 |
+| 6445 | [Freyja](https://osu.ppy.sh/u/4042982) | 349.82 | 1 |
+| 6446 | [Sheeaper](https://osu.ppy.sh/u/3299569) | 349.82 | 1 |
+| 6447 | [Rudii](https://osu.ppy.sh/u/3873522) | 349.46 | 1 |
+| 6448 | [Tomaatti](https://osu.ppy.sh/u/2767208) | 348.93 | 1 |
+| 6449 | [Klodian-](https://osu.ppy.sh/u/4728211) | 348.06 | 2 |
+| 6450 | [Nokayma](https://osu.ppy.sh/u/4354074) | 346.67 | 2 |
+| 6451 | [Heartzzz](https://osu.ppy.sh/u/6980052) | 346.19 | 2 |
+| 6452 | [Lettuce](https://osu.ppy.sh/u/5126607) | 345.44 | 1 |
+| 6453 | [Asunamaru](https://osu.ppy.sh/u/4507179) | 345.44 | 1 |
+| 6454 | [Miko](https://osu.ppy.sh/u/3989017) | 344.83 | 1 |
+| 6455 | [Hump day](https://osu.ppy.sh/u/3312401) | 343.83 | 1 |
+| 6456 | [-Kai](https://osu.ppy.sh/u/4397314) | 343.72 | 1 |
+| 6457 | [wavezz](https://osu.ppy.sh/u/676188) | 343.24 | 1 |
+| 6458 | [Jameslike](https://osu.ppy.sh/u/2415743) | 341.76 | 1 |
+| 6459 | [Fuorek](https://osu.ppy.sh/u/3053402) | 341.56 | 2 |
+| 6460 | [SKM98](https://osu.ppy.sh/u/6066557) | 340.73 | 1 |
+| 6461 | [Mysto-kun](https://osu.ppy.sh/u/1541361) | 340.63 | 1 |
+| 6462 | [G4SH4](https://osu.ppy.sh/u/7192129) | 339.49 | 1 |
+| 6463 | [Monk Gyatso](https://osu.ppy.sh/u/4012086) | 339.13 | 1 |
+| 6464 | [Reegi](https://osu.ppy.sh/u/3396496) | 339.02 | 1 |
+| 6465 | [QonQuest](https://osu.ppy.sh/u/988503) | 338.46 | 1 |
+| 6466 | [uCHARA](https://osu.ppy.sh/u/4771307) | 337.73 | 2 |
+| 6467 | [Nemis](https://osu.ppy.sh/u/1635091) | 337.13 | 1 |
+| 6468 | [Jesus[Krists]](https://osu.ppy.sh/u/2842992) | 336.79 | 1 |
+| 6469 | [DT-sama](https://osu.ppy.sh/u/3525018) | 335.50 | 1 |
+| 6470 | [ThOmAstr](https://osu.ppy.sh/u/2793537) | 335.01 | 1 |
+| 6471 | [Death](https://osu.ppy.sh/u/3242450) | 334.34 | 1 |
+| 6472 | [Sooki](https://osu.ppy.sh/u/1451811) | 333.76 | 1 |
+| 6473 | [Nocya](https://osu.ppy.sh/u/979283) | 333.00 | 1 |
+| 6474 | [Marada](https://osu.ppy.sh/u/1297042) | 332.20 | 1 |
+| 6475 | [YoonA-](https://osu.ppy.sh/u/1639250) | 330.35 | 1 |
+| 6476 | [oribe](https://osu.ppy.sh/u/1367284) | 329.86 | 1 |
+| 6477 | [[ nong422 ]](https://osu.ppy.sh/u/2572468) | 329.00 | 1 |
+| 6478 | [-minami kotori-](https://osu.ppy.sh/u/4857328) | 327.74 | 1 |
+| 6479 | [Niel](https://osu.ppy.sh/u/3868804) | 327.37 | 1 |
+| 6480 | [Cien](https://osu.ppy.sh/u/613953) | 327.07 | 1 |
+| 6481 | [Chidori](https://osu.ppy.sh/u/5258565) | 326.86 | 1 |
+| 6482 | [Xperia Z2](https://osu.ppy.sh/u/5033549) | 325.90 | 1 |
+| 6483 | [WhiteOnion](https://osu.ppy.sh/u/2700600) | 323.87 | 1 |
+| 6484 | [Cho-hyun](https://osu.ppy.sh/u/4438097) | 322.22 | 1 |
+| 6485 | [Mongoose-](https://osu.ppy.sh/u/6331918) | 321.60 | 1 |
+| 6486 | [Hanazawa Kana](https://osu.ppy.sh/u/2345298) | 320.88 | 1 |
+| 6487 | [lorelai](https://osu.ppy.sh/u/2297662) | 320.35 | 1 |
+| 6488 | [Schwartz](https://osu.ppy.sh/u/2646760) | 319.37 | 1 |
+| 6489 | [-Akky](https://osu.ppy.sh/u/2330112) | 317.33 | 1 |
+| 6490 | [0120](https://osu.ppy.sh/u/1901534) | 316.24 | 1 |
+| 6491 | [hoonaaa](https://osu.ppy.sh/u/5583301) | 316.19 | 1 |
+| 6492 | [-Saber-](https://osu.ppy.sh/u/434799) | 313.35 | 1 |
+| 6493 | [Gio](https://osu.ppy.sh/u/1795827) | 313.29 | 1 |
+| 6494 | [Vall](https://osu.ppy.sh/u/3223144) | 313.01 | 1 |
+| 6495 | [Marvelous](https://osu.ppy.sh/u/3716727) | 312.94 | 1 |
+| 6496 | [Im so mad bro](https://osu.ppy.sh/u/2664682) | 312.23 | 1 |
+| 6497 | [emilow12](https://osu.ppy.sh/u/2696838) | 311.95 | 1 |
+| 6498 | [Zeonive](https://osu.ppy.sh/u/4088772) | 311.92 | 1 |
+| 6499 | [PenEasy](https://osu.ppy.sh/u/2307484) | 311.41 | 1 |
+| 6500 | [cemie](https://osu.ppy.sh/u/2008827) | 310.40 | 1 |
+| 6501 | [[ - Horo - ]](https://osu.ppy.sh/u/3299660) | 310.36 | 1 |
+| 6502 | [Pochiko](https://osu.ppy.sh/u/2274171) | 310.25 | 1 |
+| 6503 | [[ Archer ]](https://osu.ppy.sh/u/6102195) | 309.79 | 1 |
+| 6504 | [plmnbvz](https://osu.ppy.sh/u/2574622) | 309.79 | 1 |
+| 6505 | [Ivan](https://osu.ppy.sh/u/3564437) | 309.10 | 1 |
+| 6506 | [Megatron is bad](https://osu.ppy.sh/u/2570828) | 308.82 | 1 |
+| 6507 | [Nalian](https://osu.ppy.sh/u/3909656) | 308.61 | 1 |
+| 6508 | [Vitara](https://osu.ppy.sh/u/4368441) | 308.01 | 1 |
+| 6509 | [-Shouta-Kun-](https://osu.ppy.sh/u/5312102) | 307.75 | 1 |
+| 6510 | [Mojanovic](https://osu.ppy.sh/u/2519256) | 306.87 | 1 |
+| 6511 | [- Aoi Nagisa-](https://osu.ppy.sh/u/4348262) | 306.23 | 1 |
+| 6512 | [- Small Mio-](https://osu.ppy.sh/u/4699258) | 306.10 | 1 |
+| 6513 | [_sinon_](https://osu.ppy.sh/u/5101453) | 305.27 | 1 |
+| 6514 | [Node](https://osu.ppy.sh/u/2368744) | 304.90 | 1 |
+| 6515 | [Colored](https://osu.ppy.sh/u/827563) | 304.83 | 1 |
+| 6516 | [- Wiss -](https://osu.ppy.sh/u/3832117) | 303.33 | 1 |
+| 6517 | [- Niwata -](https://osu.ppy.sh/u/3580864) | 303.02 | 1 |
+| 6518 | [DubiosSchiffer](https://osu.ppy.sh/u/2426687) | 302.27 | 1 |
+| 6519 | [koromo](https://osu.ppy.sh/u/761255) | 302.19 | 1 |
+| 6520 | [Cream](https://osu.ppy.sh/u/5933497) | 302.15 | 1 |
+| 6521 | [- Best](https://osu.ppy.sh/u/5394601) | 301.72 | 1 |
+| 6522 | [-Mephisto](https://osu.ppy.sh/u/1238524) | 301.37 | 1 |
+| 6523 | [Villdjack](https://osu.ppy.sh/u/3880134) | 301.31 | 1 |
+| 6524 | [[ CHoRI ]](https://osu.ppy.sh/u/6581818) | 301.21 | 1 |
+| 6525 | [reborn503](https://osu.ppy.sh/u/2495528) | 301.03 | 1 |
+| 6526 | [Noobsicle](https://osu.ppy.sh/u/3432672) | 300.47 | 1 |
+| 6527 | [SAD_BAKA](https://osu.ppy.sh/u/4146769) | 300.06 | 1 |
+| 6528 | [FINGERLOCK](https://osu.ppy.sh/u/4112304) | 299.56 | 1 |
+| 6529 | [[ Roman ]](https://osu.ppy.sh/u/447531) | 299.46 | 1 |
+| 6530 | [Takagaki Kaede](https://osu.ppy.sh/u/2932612) | 299.46 | 1 |
+| 6531 | [Jukkii](https://osu.ppy.sh/u/7318423) | 298.88 | 1 |
+| 6532 | [-KCat](https://osu.ppy.sh/u/1135885) | 298.14 | 1 |
+| 6533 | [Suupah](https://osu.ppy.sh/u/3268090) | 298.04 | 1 |
+| 6534 | [mithew](https://osu.ppy.sh/u/2571893) | 297.97 | 1 |
+| 6535 | [monsterwol](https://osu.ppy.sh/u/4304063) | 297.95 | 1 |
+| 6536 | [Mand](https://osu.ppy.sh/u/3969048) | 297.95 | 1 |
+| 6537 | [viionc XD](https://osu.ppy.sh/u/2131130) | 297.95 | 1 |
+| 6538 | [Abody Kashgary](https://osu.ppy.sh/u/1093034) | 297.95 | 1 |
+| 6539 | [StrawberryPocky](https://osu.ppy.sh/u/4142572) | 297.58 | 1 |
+| 6540 | [zelda102](https://osu.ppy.sh/u/3666350) | 297.34 | 1 |
+| 6541 | [Tsokoz](https://osu.ppy.sh/u/4512984) | 296.30 | 1 |
+| 6542 | [smead](https://osu.ppy.sh/u/4293459) | 295.35 | 1 |
+| 6543 | [android](https://osu.ppy.sh/u/3312548) | 295.35 | 1 |
+| 6544 | [- C l a i r e -](https://osu.ppy.sh/u/1014013) | 294.95 | 1 |
+| 6545 | [Icicle Fall](https://osu.ppy.sh/u/4148979) | 294.71 | 1 |
+| 6546 | [Mogami Aki](https://osu.ppy.sh/u/1275000) | 294.57 | 1 |
+| 6547 | [surume yotyan](https://osu.ppy.sh/u/1704801) | 294.56 | 1 |
+| 6548 | [Firef](https://osu.ppy.sh/u/2396901) | 293.93 | 1 |
+| 6549 | [blai10](https://osu.ppy.sh/u/2708049) | 293.88 | 1 |
+| 6550 | [KwentongBarbero](https://osu.ppy.sh/u/3952538) | 293.09 | 1 |
+| 6551 | [Rexeez](https://osu.ppy.sh/u/1987591) | 292.81 | 1 |
+| 6552 | [Felbynac](https://osu.ppy.sh/u/3323691) | 292.71 | 1 |
+| 6553 | [-Trinity-](https://osu.ppy.sh/u/2378394) | 292.45 | 1 |
+| 6554 | [Ayachi Meme](https://osu.ppy.sh/u/4636461) | 291.97 | 1 |
+| 6555 | [Supporter](https://osu.ppy.sh/u/2716052) | 291.82 | 1 |
+| 6556 | [SaBaKi_aZa](https://osu.ppy.sh/u/4994988) | 291.03 | 1 |
+| 6557 | [Legless](https://osu.ppy.sh/u/3224243) | 290.28 | 1 |
+| 6558 | [Improv](https://osu.ppy.sh/u/4041913) | 290.13 | 1 |
+| 6559 | [ElektroSucks](https://osu.ppy.sh/u/5104632) | 290.02 | 1 |
+| 6560 | [Gaiava](https://osu.ppy.sh/u/4874335) | 290.02 | 1 |
+| 6561 | [makise38](https://osu.ppy.sh/u/1924433) | 289.63 | 1 |
+| 6562 | [Tobu](https://osu.ppy.sh/u/1328939) | 289.42 | 1 |
+| 6563 | [BeastMelon](https://osu.ppy.sh/u/4178519) | 289.21 | 1 |
+| 6564 | [I Love DT](https://osu.ppy.sh/u/3474202) | 289.21 | 1 |
+| 6565 | [xCharles954](https://osu.ppy.sh/u/5761355) | 289.07 | 1 |
+| 6566 | [bjornkrage](https://osu.ppy.sh/u/7193213) | 289.01 | 1 |
+| 6567 | [DaringDA](https://osu.ppy.sh/u/3219485) | 288.49 | 1 |
+| 6568 | [robo50211](https://osu.ppy.sh/u/7109508) | 287.86 | 1 |
+| 6569 | [Sh1ni](https://osu.ppy.sh/u/300321) | 287.62 | 1 |
+| 6570 | [Huiro](https://osu.ppy.sh/u/4677140) | 287.49 | 1 |
+| 6571 | [Aquamarine13](https://osu.ppy.sh/u/3829617) | 287.49 | 1 |
+| 6572 | [Misti](https://osu.ppy.sh/u/3425197) | 287.49 | 1 |
+| 6573 | [AIiceXD](https://osu.ppy.sh/u/3321136) | 287.49 | 1 |
+| 6574 | [SoJ_Fled](https://osu.ppy.sh/u/3025605) | 287.49 | 1 |
+| 6575 | [MiuuChan](https://osu.ppy.sh/u/2995082) | 287.49 | 1 |
+| 6576 | [Captain](https://osu.ppy.sh/u/2563435) | 287.49 | 1 |
+| 6577 | [Shodan](https://osu.ppy.sh/u/2385768) | 287.49 | 1 |
+| 6578 | [- Lloyd -](https://osu.ppy.sh/u/1677992) | 287.49 | 1 |
+| 6579 | [Flying steps](https://osu.ppy.sh/u/2599171) | 287.37 | 1 |
+| 6580 | [Uryuwei](https://osu.ppy.sh/u/459130) | 285.23 | 1 |
+| 6581 | [hohol454](https://osu.ppy.sh/u/2063095) | 284.70 | 1 |
+| 6582 | [Decu](https://osu.ppy.sh/u/5266983) | 284.45 | 1 |
+| 6583 | [-Kryu-](https://osu.ppy.sh/u/2281719) | 284.26 | 1 |
+| 6584 | [Kysteria](https://osu.ppy.sh/u/2997708) | 284.12 | 1 |
+| 6585 | [M O O N](https://osu.ppy.sh/u/1389385) | 283.98 | 1 |
+| 6586 | [Owner](https://osu.ppy.sh/u/8867356) | 283.59 | 3 |
+| 6587 | [xAssassin](https://osu.ppy.sh/u/2761784) | 283.44 | 1 |
+| 6588 | [ZarTaen](https://osu.ppy.sh/u/3954933) | 283.35 | 1 |
+| 6589 | [Elgenzay](https://osu.ppy.sh/u/4199447) | 283.03 | 1 |
+| 6590 | [util](https://osu.ppy.sh/u/1470834) | 282.91 | 1 |
+| 6591 | [Seror](https://osu.ppy.sh/u/734878) | 282.06 | 1 |
+| 6592 | [SoniKS](https://osu.ppy.sh/u/5792351) | 281.41 | 1 |
+| 6593 | [Sky_Delta](https://osu.ppy.sh/u/4483660) | 281.41 | 1 |
+| 6594 | [3xcellency](https://osu.ppy.sh/u/3426942) | 281.41 | 1 |
+| 6595 | [FoolJack](https://osu.ppy.sh/u/5355544) | 281.35 | 1 |
+| 6596 | [Hywen](https://osu.ppy.sh/u/7601761) | 281.25 | 1 |
+| 6597 | [Remyuu](https://osu.ppy.sh/u/4752123) | 281.25 | 1 |
+| 6598 | [NextGod](https://osu.ppy.sh/u/3648051) | 281.11 | 1 |
+| 6599 | [Logless](https://osu.ppy.sh/u/4474167) | 281.10 | 1 |
+| 6600 | [Query](https://osu.ppy.sh/u/4504049) | 280.16 | 1 |
+| 6601 | [Saunamaisteri](https://osu.ppy.sh/u/7178761) | 280.05 | 1 |
+| 6602 | [osuMoran](https://osu.ppy.sh/u/5431868) | 279.73 | 1 |
+| 6603 | [taroxd](https://osu.ppy.sh/u/1300039) | 279.38 | 1 |
+| 6604 | [Loaf](https://osu.ppy.sh/u/7548565) | 279.29 | 1 |
+| 6605 | [MskPauL](https://osu.ppy.sh/u/5210958) | 278.98 | 1 |
+| 6606 | [PEPOTTI](https://osu.ppy.sh/u/358287) | 278.98 | 1 |
+| 6607 | [Damnjelly](https://osu.ppy.sh/u/1666355) | 278.56 | 1 |
+| 6608 | [[PLA]](https://osu.ppy.sh/u/2548503) | 278.00 | 1 |
+| 6609 | [Vampenji](https://osu.ppy.sh/u/951711) | 277.95 | 1 |
+| 6610 | [Exos](https://osu.ppy.sh/u/7286116) | 277.95 | 1 |
+| 6611 | [Roboat](https://osu.ppy.sh/u/6951802) | 277.95 | 1 |
+| 6612 | [Asteroid](https://osu.ppy.sh/u/5287467) | 277.95 | 1 |
+| 6613 | [Tonttuvain](https://osu.ppy.sh/u/3418087) | 277.95 | 1 |
+| 6614 | [[ Another ]](https://osu.ppy.sh/u/3416573) | 277.95 | 1 |
+| 6615 | [Xantaria](https://osu.ppy.sh/u/3012954) | 277.95 | 1 |
+| 6616 | [Genkai wo Koeru](https://osu.ppy.sh/u/7922328) | 277.59 | 1 |
+| 6617 | [joKing](https://osu.ppy.sh/u/7335841) | 276.88 | 1 |
+| 6618 | [-Illya-](https://osu.ppy.sh/u/6588782) | 276.76 | 1 |
+| 6619 | [Russy](https://osu.ppy.sh/u/1238627) | 276.54 | 1 |
+| 6620 | [- Haruka Wawa -](https://osu.ppy.sh/u/1691352) | 276.54 | 1 |
+| 6621 | [xXD4rk_Sl4y3rXx](https://osu.ppy.sh/u/3488630) | 276.44 | 1 |
+| 6622 | [My Aim Slow](https://osu.ppy.sh/u/6896883) | 276.22 | 1 |
+| 6623 | [andii](https://osu.ppy.sh/u/2239767) | 276.19 | 1 |
+| 6624 | [armediaweb](https://osu.ppy.sh/u/8402283) | 276.09 | 1 |
+| 6625 | [Minase](https://osu.ppy.sh/u/3737401) | 276.09 | 1 |
+| 6626 | [DerpyPengu](https://osu.ppy.sh/u/2215336) | 276.04 | 1 |
+| 6627 | [BlackEra](https://osu.ppy.sh/u/2847422) | 275.61 | 1 |
+| 6628 | [Total Danage](https://osu.ppy.sh/u/7603448) | 274.80 | 1 |
+| 6629 | [TAKAKO](https://osu.ppy.sh/u/259080) | 274.51 | 1 |
+| 6630 | [ShiraKai](https://osu.ppy.sh/u/487668) | 274.27 | 1 |
+| 6631 | [Tooko Amano](https://osu.ppy.sh/u/5783393) | 274.20 | 1 |
+| 6632 | [drizdu](https://osu.ppy.sh/u/5564491) | 274.06 | 1 |
+| 6633 | [suima](https://osu.ppy.sh/u/8034357) | 273.56 | 1 |
+| 6634 | [Naoko](https://osu.ppy.sh/u/5458073) | 273.56 | 1 |
+| 6635 | [JadeDT](https://osu.ppy.sh/u/4152417) | 273.56 | 1 |
+| 6636 | [Reitia](https://osu.ppy.sh/u/3570659) | 273.56 | 1 |
+| 6637 | [Drewskiii](https://osu.ppy.sh/u/3193709) | 273.56 | 1 |
+| 6638 | [skooleek](https://osu.ppy.sh/u/2613716) | 273.56 | 1 |
+| 6639 | [PamplomE](https://osu.ppy.sh/u/2066776) | 273.56 | 1 |
+| 6640 | [Edvio](https://osu.ppy.sh/u/6603121) | 273.26 | 1 |
+| 6641 | [Noshii](https://osu.ppy.sh/u/3293712) | 273.12 | 1 |
+| 6642 | [Tell](https://osu.ppy.sh/u/2125109) | 273.04 | 1 |
+| 6643 | [Asredon](https://osu.ppy.sh/u/778090) | 272.78 | 1 |
+| 6644 | [timemon](https://osu.ppy.sh/u/2072005) | 272.19 | 1 |
+| 6645 | [Tohsaka Rin](https://osu.ppy.sh/u/2437869) | 271.61 | 1 |
+| 6646 | [Tyls Boyfriend](https://osu.ppy.sh/u/4509030) | 271.61 | 1 |
+| 6647 | [Zkliaden](https://osu.ppy.sh/u/3312064) | 271.44 | 1 |
+| 6648 | [NickTheCat](https://osu.ppy.sh/u/4787163) | 271.18 | 1 |
+| 6649 | [Lumin](https://osu.ppy.sh/u/4696242) | 271.08 | 1 |
+| 6650 | [TsushiYoshiko-](https://osu.ppy.sh/u/2541514) | 270.76 | 1 |
+| 6651 | [Alpinum](https://osu.ppy.sh/u/1263171) | 270.66 | 1 |
+| 6652 | [Tyl](https://osu.ppy.sh/u/3469942) | 270.62 | 1 |
+| 6653 | [iKillRocks](https://osu.ppy.sh/u/3406720) | 270.62 | 1 |
+| 6654 | [selavy](https://osu.ppy.sh/u/2856512) | 270.59 | 1 |
+| 6655 | [-Plate-](https://osu.ppy.sh/u/5936357) | 270.49 | 1 |
+| 6656 | [Anq](https://osu.ppy.sh/u/2336656) | 270.30 | 1 |
+| 6657 | [D u c k y](https://osu.ppy.sh/u/2479300) | 270.26 | 1 |
+| 6658 | [Moen-](https://osu.ppy.sh/u/3565218) | 270.18 | 1 |
+| 6659 | [Muguet](https://osu.ppy.sh/u/4999565) | 269.74 | 1 |
+| 6660 | [Desired](https://osu.ppy.sh/u/2752380) | 269.64 | 1 |
+| 6661 | [Experitex](https://osu.ppy.sh/u/7560266) | 269.50 | 1 |
+| 6662 | [CSGA-DarkArchon](https://osu.ppy.sh/u/2933963) | 269.46 | 1 |
+| 6663 | [Cologne](https://osu.ppy.sh/u/6801264) | 269.26 | 1 |
+| 6664 | [chiv](https://osu.ppy.sh/u/6701656) | 269.26 | 1 |
+| 6665 | [Kuzune](https://osu.ppy.sh/u/6496480) | 269.26 | 1 |
+| 6666 | [CutieDemon](https://osu.ppy.sh/u/6440158) | 269.26 | 1 |
+| 6667 | [Javieritiens](https://osu.ppy.sh/u/5871345) | 269.26 | 1 |
+| 6668 | [Kato Emiri](https://osu.ppy.sh/u/4473015) | 269.26 | 1 |
+| 6669 | [Skyo](https://osu.ppy.sh/u/3946607) | 269.26 | 1 |
+| 6670 | [nagato555](https://osu.ppy.sh/u/3897320) | 269.26 | 1 |
+| 6671 | [easonho4](https://osu.ppy.sh/u/2968245) | 269.26 | 1 |
+| 6672 | [Dendimonn](https://osu.ppy.sh/u/3275495) | 269.15 | 1 |
+| 6673 | [Flosake](https://osu.ppy.sh/u/3555492) | 268.93 | 1 |
+| 6674 | [Prism](https://osu.ppy.sh/u/1188125) | 268.52 | 1 |
+| 6675 | [Koi Fish](https://osu.ppy.sh/u/4539930) | 267.99 | 1 |
+| 6676 | [-Kisaki](https://osu.ppy.sh/u/7305067) | 267.98 | 1 |
+| 6677 | [Maariianoo](https://osu.ppy.sh/u/6371395) | 267.98 | 1 |
+| 6678 | [Nitroz](https://osu.ppy.sh/u/5256529) | 267.98 | 1 |
+| 6679 | [AllieBork](https://osu.ppy.sh/u/451552) | 267.98 | 1 |
+| 6680 | [Reshuu](https://osu.ppy.sh/u/3817503) | 267.98 | 1 |
+| 6681 | [Snow Ripple](https://osu.ppy.sh/u/2900169) | 267.98 | 1 |
+| 6682 | [HaQu](https://osu.ppy.sh/u/1160268) | 267.97 | 1 |
+| 6683 | [Knots](https://osu.ppy.sh/u/6047333) | 267.40 | 1 |
+| 6684 | [KIRITO N ASUNA](https://osu.ppy.sh/u/3342363) | 267.39 | 1 |
+| 6685 | [lfqvytevthtnm](https://osu.ppy.sh/u/5209617) | 267.10 | 1 |
+| 6686 | [Remisabae](https://osu.ppy.sh/u/8647610) | 267.02 | 1 |
+| 6687 | [BlackZero](https://osu.ppy.sh/u/5383496) | 267.00 | 1 |
+| 6688 | [wohaopaaa](https://osu.ppy.sh/u/6379065) | 266.74 | 1 |
+| 6689 | [Euclithy](https://osu.ppy.sh/u/2817061) | 266.70 | 1 |
+| 6690 | [plmmk](https://osu.ppy.sh/u/1806343) | 266.70 | 1 |
+| 6691 | [Chaso](https://osu.ppy.sh/u/2233539) | 266.65 | 1 |
+| 6692 | [Yukky](https://osu.ppy.sh/u/7855242) | 266.41 | 1 |
+| 6693 | [SunoKelly](https://osu.ppy.sh/u/3835266) | 266.41 | 1 |
+| 6694 | [Gjenferd](https://osu.ppy.sh/u/2831765) | 266.41 | 1 |
+| 6695 | [Bugvoun CZ](https://osu.ppy.sh/u/4049348) | 264.86 | 1 |
+| 6696 | [XisGamer](https://osu.ppy.sh/u/3400068) | 264.58 | 1 |
+| 6697 | [Xenon-](https://osu.ppy.sh/u/4026817) | 264.37 | 1 |
+| 6698 | [-Dragunov-](https://osu.ppy.sh/u/2940777) | 263.90 | 1 |
+| 6699 | [Emperium](https://osu.ppy.sh/u/6670974) | 263.29 | 1 |
+| 6700 | [kamuu](https://osu.ppy.sh/u/7689631) | 263.18 | 1 |
+| 6701 | [Kyotora](https://osu.ppy.sh/u/2540461) | 263.01 | 1 |
+| 6702 | [Decen](https://osu.ppy.sh/u/3586373) | 262.97 | 1 |
+| 6703 | [Marawishka](https://osu.ppy.sh/u/4181562) | 262.92 | 1 |
+| 6704 | [Forgetest](https://osu.ppy.sh/u/3515152) | 262.76 | 1 |
+| 6705 | [McFarron](https://osu.ppy.sh/u/4255966) | 262.73 | 1 |
+| 6706 | [[ Radon ]](https://osu.ppy.sh/u/3863347) | 262.61 | 1 |
+| 6707 | [Chokebo](https://osu.ppy.sh/u/4173263) | 262.43 | 1 |
+| 6708 | [Yukiin0](https://osu.ppy.sh/u/3475647) | 262.43 | 1 |
+| 6709 | [ricter](https://osu.ppy.sh/u/6775398) | 262.21 | 1 |
+| 6710 | [Tillster](https://osu.ppy.sh/u/2596458) | 262.17 | 1 |
+| 6711 | [Misure](https://osu.ppy.sh/u/1949710) | 261.91 | 1 |
+| 6712 | [gco](https://osu.ppy.sh/u/5215955) | 261.43 | 1 |
+| 6713 | [Wave](https://osu.ppy.sh/u/940528) | 261.33 | 1 |
+| 6714 | [FinalArcane](https://osu.ppy.sh/u/6537649) | 261.33 | 1 |
+| 6715 | [PcGam3r102](https://osu.ppy.sh/u/6305384) | 261.33 | 1 |
+| 6716 | [Vinsent](https://osu.ppy.sh/u/2930903) | 261.33 | 1 |
+| 6717 | [aladdinlol](https://osu.ppy.sh/u/2851208) | 261.33 | 1 |
+| 6718 | [Dear](https://osu.ppy.sh/u/1458261) | 260.87 | 1 |
+| 6719 | [IsonamiPL](https://osu.ppy.sh/u/1753234) | 260.56 | 1 |
+| 6720 | [Shia LaBeouf](https://osu.ppy.sh/u/2629402) | 260.27 | 1 |
+| 6721 | [7 K e n a n a 7](https://osu.ppy.sh/u/1769338) | 260.25 | 1 |
+| 6722 | [Demmon](https://osu.ppy.sh/u/1710334) | 260.22 | 1 |
+| 6723 | [Bored](https://osu.ppy.sh/u/5664127) | 260.09 | 1 |
+| 6724 | [Sogari](https://osu.ppy.sh/u/4418644) | 260.00 | 1 |
+| 6725 | [DrSensei-Hugo](https://osu.ppy.sh/u/6958131) | 259.89 | 1 |
+| 6726 | [_Kosaki_](https://osu.ppy.sh/u/4975832) | 259.89 | 1 |
+| 6727 | [dembundun](https://osu.ppy.sh/u/5346547) | 259.67 | 1 |
+| 6728 | [Mokry](https://osu.ppy.sh/u/2231086) | 259.67 | 1 |
+| 6729 | [Stancen](https://osu.ppy.sh/u/4986758) | 259.58 | 1 |
+| 6730 | [phvce_](https://osu.ppy.sh/u/7217735) | 259.28 | 1 |
+| 6731 | [- ScandinaviA -](https://osu.ppy.sh/u/2642824) | 259.25 | 1 |
+| 6732 | [Ergosphere-](https://osu.ppy.sh/u/4579352) | 259.00 | 1 |
+| 6733 | [AliceThirdMacy](https://osu.ppy.sh/u/803788) | 258.71 | 1 |
+| 6734 | [MasterKotori](https://osu.ppy.sh/u/2351439) | 258.70 | 1 |
+| 6735 | [HenryBFG](https://osu.ppy.sh/u/4444619) | 258.45 | 1 |
+| 6736 | [S Y E R D](https://osu.ppy.sh/u/4531760) | 258.08 | 1 |
+| 6737 | [Khunee](https://osu.ppy.sh/u/3831440) | 258.03 | 1 |
+| 6738 | [-Tatsuya-](https://osu.ppy.sh/u/2950593) | 258.03 | 1 |
+| 6739 | [KebinTea](https://osu.ppy.sh/u/2257308) | 258.03 | 1 |
+| 6740 | [las5452](https://osu.ppy.sh/u/1394427) | 257.44 | 1 |
+| 6741 | [Aka](https://osu.ppy.sh/u/1307553) | 257.30 | 1 |
+| 6742 | [dragonazen](https://osu.ppy.sh/u/2644853) | 257.00 | 1 |
+| 6743 | [Balexi](https://osu.ppy.sh/u/3083539) | 256.86 | 1 |
+| 6744 | [Fuma Mishandra](https://osu.ppy.sh/u/2235055) | 256.73 | 1 |
+| 6745 | [XgenSlayer](https://osu.ppy.sh/u/4510179) | 256.43 | 1 |
+| 6746 | [Jaood7246](https://osu.ppy.sh/u/6666883) | 256.30 | 1 |
+| 6747 | [Backuu](https://osu.ppy.sh/u/5130069) | 256.30 | 1 |
+| 6748 | [Genji18](https://osu.ppy.sh/u/1853942) | 256.30 | 1 |
+| 6749 | [Kyuubi](https://osu.ppy.sh/u/2690042) | 255.99 | 1 |
+| 6750 | [homu-homu-tan](https://osu.ppy.sh/u/1052037) | 255.67 | 1 |
+| 6751 | [Matrix](https://osu.ppy.sh/u/5052899) | 255.59 | 1 |
+| 6752 | [Jason_WANG0826](https://osu.ppy.sh/u/5203963) | 255.59 | 1 |
+| 6753 | [Smarty](https://osu.ppy.sh/u/4498145) | 255.46 | 1 |
+| 6754 | [FireMelter](https://osu.ppy.sh/u/1063387) | 255.42 | 1 |
+| 6755 | [BenjaminLee00](https://osu.ppy.sh/u/6827817) | 255.15 | 1 |
+| 6756 | [Resmint](https://osu.ppy.sh/u/2398382) | 255.15 | 1 |
+| 6757 | [Klosew Senpai](https://osu.ppy.sh/u/2355014) | 255.15 | 1 |
+| 6758 | [[ Skycript ]](https://osu.ppy.sh/u/6932675) | 255.05 | 1 |
+| 6759 | [Flamation](https://osu.ppy.sh/u/3624920) | 254.74 | 1 |
+| 6760 | [Naloch](https://osu.ppy.sh/u/7705409) | 254.61 | 1 |
+| 6761 | [dsco](https://osu.ppy.sh/u/4330511) | 254.39 | 1 |
+| 6762 | [DogeTooOP](https://osu.ppy.sh/u/6505702) | 254.39 | 1 |
+| 6763 | [Windyshock](https://osu.ppy.sh/u/1328565) | 254.31 | 1 |
+| 6764 | [Cyberia950](https://osu.ppy.sh/u/9143539) | 254.12 | 1 |
+| 6765 | [Noobito](https://osu.ppy.sh/u/4368812) | 254.12 | 1 |
+| 6766 | [G-Tenko-R](https://osu.ppy.sh/u/3698190) | 254.12 | 1 |
+| 6767 | [CheonMa](https://osu.ppy.sh/u/2543294) | 254.12 | 1 |
+| 6768 | [HardcoreLoli](https://osu.ppy.sh/u/249090) | 254.12 | 1 |
+| 6769 | [HahaGeorg](https://osu.ppy.sh/u/2458293) | 254.12 | 1 |
+| 6770 | [DeasuPL](https://osu.ppy.sh/u/2193932) | 254.03 | 1 |
+| 6771 | [Feina](https://osu.ppy.sh/u/4442876) | 253.94 | 1 |
+| 6772 | [[ XSpec ]](https://osu.ppy.sh/u/3785157) | 253.94 | 1 |
+| 6773 | [Episock](https://osu.ppy.sh/u/3426197) | 253.94 | 1 |
+| 6774 | [-Hibiki -](https://osu.ppy.sh/u/2950207) | 253.94 | 1 |
+| 6775 | [Lavax303](https://osu.ppy.sh/u/1231182) | 253.94 | 1 |
+| 6776 | [BlauMeow](https://osu.ppy.sh/u/6935156) | 253.78 | 1 |
+| 6777 | [Tiyop](https://osu.ppy.sh/u/2461385) | 253.34 | 1 |
+| 6778 | [Yasaija 714](https://osu.ppy.sh/u/423548) | 253.10 | 1 |
+| 6779 | [Klentil](https://osu.ppy.sh/u/2078719) | 253.04 | 1 |
+| 6780 | [Kyshiro](https://osu.ppy.sh/u/640611) | 252.88 | 1 |
+| 6781 | [HoonTa](https://osu.ppy.sh/u/253750) | 252.70 | 1 |
+| 6782 | [Ringo](https://osu.ppy.sh/u/815706) | 252.46 | 1 |
+| 6783 | [Rtyzen](https://osu.ppy.sh/u/2439822) | 252.42 | 1 |
+| 6784 | [[DarkKirito]](https://osu.ppy.sh/u/1191576) | 252.27 | 1 |
+| 6785 | [R J](https://osu.ppy.sh/u/6490509) | 252.26 | 1 |
+| 6786 | [Kracy](https://osu.ppy.sh/u/6292315) | 252.03 | 1 |
+| 6787 | [MippoEr](https://osu.ppy.sh/u/1475111) | 251.60 | 1 |
+| 6788 | [Fyrecia](https://osu.ppy.sh/u/6548142) | 251.52 | 1 |
+| 6789 | [m0mo](https://osu.ppy.sh/u/20535) | 251.43 | 1 |
+| 6790 | [Luda007](https://osu.ppy.sh/u/3160025) | 251.36 | 1 |
+| 6791 | [EndlessWaltz](https://osu.ppy.sh/u/1795127) | 251.16 | 1 |
+| 6792 | [Sirokuma-](https://osu.ppy.sh/u/3820237) | 251.09 | 1 |
+| 6793 | [Misaki Tobisawa](https://osu.ppy.sh/u/1715977) | 251.03 | 1 |
+| 6794 | [Aguynamedpie](https://osu.ppy.sh/u/4913065) | 250.97 | 1 |
+| 6795 | [Gyve](https://osu.ppy.sh/u/3322279) | 250.88 | 1 |
+| 6796 | [redqoo](https://osu.ppy.sh/u/864491) | 250.76 | 1 |
+| 6797 | [Taamusin](https://osu.ppy.sh/u/2208762) | 250.59 | 1 |
+| 6798 | [NoF41l](https://osu.ppy.sh/u/4973669) | 250.49 | 1 |
+| 6799 | [MomiG](https://osu.ppy.sh/u/5576883) | 250.26 | 1 |
+| 6800 | [Pab](https://osu.ppy.sh/u/4753430) | 250.26 | 1 |
+| 6801 | [ALi](https://osu.ppy.sh/u/2425559) | 250.24 | 1 |
+| 6802 | [Kriips](https://osu.ppy.sh/u/2163519) | 250.14 | 1 |
+| 6803 | [xxluizxx47](https://osu.ppy.sh/u/4687701) | 250.08 | 1 |
+| 6804 | [monomosc](https://osu.ppy.sh/u/2299178) | 249.93 | 1 |
+| 6805 | [outohere](https://osu.ppy.sh/u/906609) | 249.89 | 1 |
+| 6806 | [Manjulas](https://osu.ppy.sh/u/5476181) | 249.69 | 1 |
+| 6807 | [Mirinae-](https://osu.ppy.sh/u/7909109) | 249.20 | 1 |
+| 6808 | [NickyG](https://osu.ppy.sh/u/9722307) | 248.75 | 1 |
+| 6809 | [Kirmat](https://osu.ppy.sh/u/5402272) | 248.57 | 1 |
+| 6810 | [benbenbenbenbin](https://osu.ppy.sh/u/5126831) | 248.57 | 1 |
+| 6811 | [KylezPro](https://osu.ppy.sh/u/5046560) | 248.57 | 1 |
+| 6812 | [Shunix](https://osu.ppy.sh/u/3312252) | 248.57 | 1 |
+| 6813 | [Ch1Ch1D](https://osu.ppy.sh/u/7786460) | 248.53 | 1 |
+| 6814 | [Zacck](https://osu.ppy.sh/u/6429932) | 248.53 | 1 |
+| 6815 | [pyyyk](https://osu.ppy.sh/u/6060168) | 248.53 | 1 |
+| 6816 | [Nuime](https://osu.ppy.sh/u/3455200) | 248.53 | 1 |
+| 6817 | [Moete](https://osu.ppy.sh/u/4824692) | 248.28 | 1 |
+| 6818 | [K0019](https://osu.ppy.sh/u/6177169) | 248.21 | 1 |
+| 6819 | [M P 4](https://osu.ppy.sh/u/8401905) | 248.19 | 1 |
+| 6820 | [sk0rbuto](https://osu.ppy.sh/u/4026323) | 248.12 | 1 |
+| 6821 | [Tshemmp](https://osu.ppy.sh/u/903686) | 247.88 | 1 |
+| 6822 | [McackO_O](https://osu.ppy.sh/u/3380335) | 247.79 | 1 |
+| 6823 | [ruikkari](https://osu.ppy.sh/u/5640061) | 247.54 | 1 |
+| 6824 | [Chey](https://osu.ppy.sh/u/5438009) | 247.54 | 1 |
+| 6825 | [Koniroku](https://osu.ppy.sh/u/4590480) | 247.54 | 1 |
+| 6826 | [SubitoSwarm](https://osu.ppy.sh/u/4458101) | 247.54 | 1 |
+| 6827 | [Empax](https://osu.ppy.sh/u/4439343) | 247.54 | 1 |
+| 6828 | [Park Shin Hye](https://osu.ppy.sh/u/4246304) | 247.54 | 1 |
+| 6829 | [Kynto](https://osu.ppy.sh/u/5806095) | 247.47 | 1 |
+| 6830 | [Chosun-Univ](https://osu.ppy.sh/u/2434278) | 247.21 | 1 |
+| 6831 | [osu sucks](https://osu.ppy.sh/u/2361479) | 247.21 | 1 |
+| 6832 | [Rodrigo-O_O-](https://osu.ppy.sh/u/4628293) | 247.17 | 1 |
+| 6833 | [Rashus](https://osu.ppy.sh/u/5106650) | 247.03 | 1 |
+| 6834 | [Mara](https://osu.ppy.sh/u/194294) | 247.03 | 1 |
+| 6835 | [SageNT10](https://osu.ppy.sh/u/5440679) | 246.69 | 1 |
+| 6836 | [trevrasher](https://osu.ppy.sh/u/3893420) | 246.66 | 1 |
+| 6837 | [khaotixzz](https://osu.ppy.sh/u/4594537) | 246.65 | 1 |
+| 6838 | [CookieZed](https://osu.ppy.sh/u/2320085) | 246.57 | 1 |
+| 6839 | [Regou](https://osu.ppy.sh/u/419954) | 246.44 | 1 |
+| 6840 | [VirtualParadise](https://osu.ppy.sh/u/8052351) | 246.13 | 1 |
+| 6841 | [intu13](https://osu.ppy.sh/u/5985741) | 246.10 | 1 |
+| 6842 | [-E l S A-](https://osu.ppy.sh/u/2660439) | 245.99 | 1 |
+| 6843 | [Venrue](https://osu.ppy.sh/u/3004893) | 245.91 | 1 |
+| 6844 | [Don Omar](https://osu.ppy.sh/u/689414) | 245.83 | 1 |
+| 6845 | [threerda](https://osu.ppy.sh/u/4516434) | 245.83 | 1 |
+| 6846 | [KOOOOOOOOOOOOOR](https://osu.ppy.sh/u/4574482) | 245.65 | 1 |
+| 6847 | [Nairod](https://osu.ppy.sh/u/7278087) | 245.50 | 1 |
+| 6848 | [Dynamic](https://osu.ppy.sh/u/6737943) | 245.50 | 1 |
+| 6849 | [sammy711](https://osu.ppy.sh/u/2089693) | 245.45 | 1 |
+| 6850 | [Sniperhappy](https://osu.ppy.sh/u/4347305) | 245.42 | 1 |
+| 6851 | [NG4411](https://osu.ppy.sh/u/2738604) | 245.37 | 1 |
+| 6852 | [ohad1881](https://osu.ppy.sh/u/3656068) | 245.33 | 1 |
+| 6853 | [Autistic Bear](https://osu.ppy.sh/u/5455371) | 245.18 | 1 |
+| 6854 | [NO TAI NO LAIFU](https://osu.ppy.sh/u/1832540) | 245.08 | 1 |
+| 6855 | [I Like Kimas](https://osu.ppy.sh/u/2490195) | 244.76 | 1 |
+| 6856 | [XeXeeD Kawaii](https://osu.ppy.sh/u/5271781) | 244.62 | 1 |
+| 6857 | [kohaku -](https://osu.ppy.sh/u/9526338) | 244.58 | 1 |
+| 6858 | [Jose](https://osu.ppy.sh/u/1320779) | 244.38 | 1 |
+| 6859 | [TheBurningFlame](https://osu.ppy.sh/u/1192594) | 244.30 | 1 |
+| 6860 | [Lami](https://osu.ppy.sh/u/899031) | 244.21 | 1 |
+| 6861 | [koreapenguin](https://osu.ppy.sh/u/1458069) | 244.21 | 1 |
+| 6862 | [[YAMATO]](https://osu.ppy.sh/u/6077567) | 244.19 | 1 |
+| 6863 | [Blazman](https://osu.ppy.sh/u/2960497) | 244.00 | 1 |
+| 6864 | [SoGa](https://osu.ppy.sh/u/2818699) | 244.00 | 1 |
+| 6865 | [To Love Rudy](https://osu.ppy.sh/u/2895333) | 243.92 | 1 |
+| 6866 | [Weimu](https://osu.ppy.sh/u/4878503) | 243.75 | 1 |
+| 6867 | [proteendeen](https://osu.ppy.sh/u/2121308) | 243.75 | 1 |
+| 6868 | [Hanniix](https://osu.ppy.sh/u/4806224) | 243.65 | 1 |
+| 6869 | [Swerro](https://osu.ppy.sh/u/4507667) | 243.60 | 1 |
+| 6870 | [Phaley](https://osu.ppy.sh/u/2108996) | 243.60 | 1 |
+| 6871 | [okotaso](https://osu.ppy.sh/u/1299498) | 243.60 | 1 |
+| 6872 | [Sluiba](https://osu.ppy.sh/u/4376563) | 243.58 | 1 |
+| 6873 | [AppleKruit](https://osu.ppy.sh/u/3712319) | 243.55 | 1 |
+| 6874 | [HailDaChicken](https://osu.ppy.sh/u/6546664) | 243.51 | 1 |
+| 6875 | [Fusyon](https://osu.ppy.sh/u/6598324) | 243.47 | 1 |
+| 6876 | [Doge_YasuoZ](https://osu.ppy.sh/u/9305959) | 243.37 | 1 |
+| 6877 | [tdks123](https://osu.ppy.sh/u/1328414) | 243.37 | 1 |
+| 6878 | [Xansving](https://osu.ppy.sh/u/6427905) | 243.30 | 1 |
+| 6879 | [SCuZZ](https://osu.ppy.sh/u/6381003) | 243.30 | 1 |
+| 6880 | [vKye](https://osu.ppy.sh/u/4332259) | 243.03 | 1 |
+| 6881 | [Atarame](https://osu.ppy.sh/u/4256250) | 242.99 | 1 |
+| 6882 | [ThVocaloid21](https://osu.ppy.sh/u/2437468) | 242.91 | 1 |
+| 6883 | [Troyable](https://osu.ppy.sh/u/7940438) | 242.62 | 1 |
+| 6884 | [-minT](https://osu.ppy.sh/u/6359355) | 242.62 | 1 |
+| 6885 | [wolosiczek](https://osu.ppy.sh/u/3524797) | 242.49 | 1 |
+| 6886 | [ChainedTomb](https://osu.ppy.sh/u/4966523) | 242.35 | 1 |
+| 6887 | [Subaru Takamaru](https://osu.ppy.sh/u/1762922) | 242.25 | 1 |
+| 6888 | [Merrou](https://osu.ppy.sh/u/4515091) | 242.14 | 1 |
+| 6889 | [Jocklel](https://osu.ppy.sh/u/4631235) | 242.09 | 1 |
+| 6890 | [Kiwisama](https://osu.ppy.sh/u/660311) | 242.06 | 1 |
+| 6891 | [Reoxyn](https://osu.ppy.sh/u/3969269) | 242.06 | 1 |
+| 6892 | [-Arthus-](https://osu.ppy.sh/u/1869492) | 241.92 | 1 |
+| 6893 | [Flare-kun](https://osu.ppy.sh/u/7095286) | 241.90 | 1 |
+| 6894 | [pekkanto](https://osu.ppy.sh/u/3733240) | 241.81 | 1 |
+| 6895 | [Epoch](https://osu.ppy.sh/u/4232145) | 241.77 | 1 |
+| 6896 | [tossu](https://osu.ppy.sh/u/2824723) | 241.71 | 1 |
+| 6897 | [Rem-chan](https://osu.ppy.sh/u/3056461) | 241.70 | 1 |
+| 6898 | [Kayneinn](https://osu.ppy.sh/u/8387939) | 241.58 | 1 |
+| 6899 | [dobbo2468](https://osu.ppy.sh/u/6286507) | 241.56 | 1 |
+| 6900 | [GamingCrimes](https://osu.ppy.sh/u/6188915) | 241.56 | 1 |
+| 6901 | [-Nagi-](https://osu.ppy.sh/u/4511404) | 241.56 | 1 |
+| 6902 | [PeNia](https://osu.ppy.sh/u/6844096) | 241.56 | 1 |
+| 6903 | [Smiffi](https://osu.ppy.sh/u/5289196) | 241.44 | 1 |
+| 6904 | [Asfyxie](https://osu.ppy.sh/u/7438530) | 241.33 | 1 |
+| 6905 | [Antoniii](https://osu.ppy.sh/u/2941274) | 241.28 | 1 |
+| 6906 | [zuuts](https://osu.ppy.sh/u/3226310) | 241.02 | 1 |
+| 6907 | [Karolina](https://osu.ppy.sh/u/5725033) | 241.00 | 1 |
+| 6908 | [Setsuco](https://osu.ppy.sh/u/613405) | 240.95 | 1 |
+| 6909 | [Aigis_MpL](https://osu.ppy.sh/u/9522896) | 240.86 | 1 |
+| 6910 | [KuliPa](https://osu.ppy.sh/u/1189003) | 240.86 | 1 |
+| 6911 | [Harrharrqi](https://osu.ppy.sh/u/2744592) | 240.03 | 1 |
+| 6912 | [Move](https://osu.ppy.sh/u/2602441) | 239.91 | 1 |
+| 6913 | [MNK](https://osu.ppy.sh/u/5726811) | 239.90 | 1 |
+| 6914 | [danmaek](https://osu.ppy.sh/u/3669729) | 239.65 | 1 |
+| 6915 | [vKy](https://osu.ppy.sh/u/6824840) | 239.62 | 1 |
+| 6916 | [Frostykun](https://osu.ppy.sh/u/4639609) | 239.39 | 1 |
+| 6917 | [dectopia](https://osu.ppy.sh/u/2845904) | 239.38 | 1 |
+| 6918 | [HeliX Jr](https://osu.ppy.sh/u/6638201) | 239.20 | 1 |
+| 6919 | [Senna](https://osu.ppy.sh/u/3733510) | 239.18 | 1 |
+| 6920 | [Supermaty](https://osu.ppy.sh/u/4116917) | 239.11 | 1 |
+| 6921 | [IcedCocaCola](https://osu.ppy.sh/u/2995844) | 238.97 | 1 |
+| 6922 | [Animeshka92](https://osu.ppy.sh/u/5757063) | 238.66 | 1 |
+| 6923 | [Shllaggy](https://osu.ppy.sh/u/2860559) | 238.55 | 1 |
+| 6924 | [Perinator](https://osu.ppy.sh/u/4850191) | 238.47 | 1 |
+| 6925 | [Cedohran](https://osu.ppy.sh/u/4943578) | 238.24 | 1 |
+| 6926 | [iAlfar](https://osu.ppy.sh/u/3234164) | 238.20 | 1 |
+| 6927 | [Darkz](https://osu.ppy.sh/u/5208218) | 237.94 | 1 |
+| 6928 | [_KamiSama](https://osu.ppy.sh/u/6905649) | 237.88 | 1 |
+| 6929 | [DaijiYume](https://osu.ppy.sh/u/5962147) | 237.69 | 1 |
+| 6930 | [Sensade](https://osu.ppy.sh/u/7751707) | 237.24 | 1 |
+| 6931 | [uniwolfsky](https://osu.ppy.sh/u/6778438) | 237.24 | 1 |
+| 6932 | [Saber](https://osu.ppy.sh/u/3184402) | 237.24 | 1 |
+| 6933 | [Ookura Risona](https://osu.ppy.sh/u/2073644) | 237.24 | 1 |
+| 6934 | [Hanabi Shira](https://osu.ppy.sh/u/6864181) | 237.19 | 1 |
+| 6935 | [Jimmy](https://osu.ppy.sh/u/5401788) | 237.19 | 1 |
+| 6936 | [sinn](https://osu.ppy.sh/u/4262229) | 237.19 | 1 |
+| 6937 | [LoveSongForYou](https://osu.ppy.sh/u/3807889) | 237.19 | 1 |
+| 6938 | [Diidzyh](https://osu.ppy.sh/u/1497090) | 237.19 | 1 |
+| 6939 | [Battleer](https://osu.ppy.sh/u/6343058) | 237.11 | 1 |
+| 6940 | [leepdesu](https://osu.ppy.sh/u/1143744) | 236.86 | 1 |
+| 6941 | [Nikko](https://osu.ppy.sh/u/2937387) | 236.74 | 1 |
+| 6942 | [DasherQ](https://osu.ppy.sh/u/3742271) | 236.69 | 1 |
+| 6943 | [DaddysDaddy](https://osu.ppy.sh/u/7733766) | 236.64 | 1 |
+| 6944 | [MegaGG](https://osu.ppy.sh/u/5506219) | 236.63 | 1 |
+| 6945 | [SubParGaming](https://osu.ppy.sh/u/7470487) | 236.59 | 1 |
+| 6946 | [Ernte23](https://osu.ppy.sh/u/6557848) | 236.46 | 1 |
+| 6947 | [MySticZ](https://osu.ppy.sh/u/5100991) | 236.34 | 1 |
+| 6948 | [Ossiger](https://osu.ppy.sh/u/4700719) | 236.32 | 1 |
+| 6949 | [Kitokuari](https://osu.ppy.sh/u/4441282) | 236.32 | 1 |
+| 6950 | [Giang](https://osu.ppy.sh/u/4646784) | 236.20 | 1 |
+| 6951 | [DivineWafflezz](https://osu.ppy.sh/u/4011447) | 236.20 | 1 |
+| 6952 | [Avishay](https://osu.ppy.sh/u/2597311) | 236.20 | 1 |
+| 6953 | [Gafla](https://osu.ppy.sh/u/3799629) | 236.13 | 1 |
+| 6954 | [HiroM](https://osu.ppy.sh/u/3359654) | 236.13 | 1 |
+| 6955 | [Halcryo](https://osu.ppy.sh/u/5316975) | 236.12 | 1 |
+| 6956 | [Koizumi Chineko](https://osu.ppy.sh/u/3079411) | 236.12 | 1 |
+| 6957 | [-StormHeart-](https://osu.ppy.sh/u/2785785) | 236.12 | 1 |
+| 6958 | [[Virgin Killer]](https://osu.ppy.sh/u/1338243) | 236.12 | 1 |
+| 6959 | [bes_joker](https://osu.ppy.sh/u/1393642) | 236.05 | 1 |
+| 6960 | [VDess](https://osu.ppy.sh/u/8559909) | 236.00 | 1 |
+| 6961 | [Sileko](https://osu.ppy.sh/u/6905676) | 236.00 | 1 |
+| 6962 | [Ruhok](https://osu.ppy.sh/u/2030467) | 235.94 | 1 |
+| 6963 | [MentaiCosmic](https://osu.ppy.sh/u/6798971) | 235.91 | 1 |
+| 6964 | [rkrow](https://osu.ppy.sh/u/7420225) | 235.78 | 1 |
+| 6965 | [churuchuru](https://osu.ppy.sh/u/2794596) | 235.77 | 1 |
+| 6966 | [a32264454](https://osu.ppy.sh/u/6176422) | 235.71 | 1 |
+| 6967 | [santiagoblanco](https://osu.ppy.sh/u/5006355) | 235.71 | 1 |
+| 6968 | [Leon1408](https://osu.ppy.sh/u/4457064) | 235.44 | 1 |
+| 6969 | [a s e R i a s](https://osu.ppy.sh/u/8288987) | 235.35 | 1 |
+| 6970 | [Momoka](https://osu.ppy.sh/u/3044645) | 235.13 | 1 |
+| 6971 | [PantyhoseFetish](https://osu.ppy.sh/u/7429016) | 235.09 | 1 |
+| 6972 | [Nayro](https://osu.ppy.sh/u/3375842) | 235.08 | 1 |
+| 6973 | [Palopiita](https://osu.ppy.sh/u/6777732) | 235.04 | 1 |
+| 6974 | [-Fruity-](https://osu.ppy.sh/u/3580331) | 235.02 | 1 |
+| 6975 | [Mak Kau Hijau](https://osu.ppy.sh/u/3556629) | 235.00 | 1 |
+| 6976 | [Lufi](https://osu.ppy.sh/u/1909087) | 234.93 | 1 |
+| 6977 | [Lifeless](https://osu.ppy.sh/u/3253988) | 234.77 | 1 |
+| 6978 | [Grim12](https://osu.ppy.sh/u/2900241) | 234.75 | 1 |
+| 6979 | [Saikou6665](https://osu.ppy.sh/u/1733097) | 234.72 | 1 |
+| 6980 | [Tisgeh](https://osu.ppy.sh/u/3586517) | 234.54 | 1 |
+| 6981 | [Zerrah](https://osu.ppy.sh/u/7216681) | 234.19 | 1 |
+| 6982 | [EnderBot](https://osu.ppy.sh/u/1869470) | 234.04 | 1 |
+| 6983 | [0melee](https://osu.ppy.sh/u/2677431) | 233.91 | 1 |
+| 6984 | [Blind](https://osu.ppy.sh/u/2880399) | 233.59 | 1 |
+| 6985 | [Winter1](https://osu.ppy.sh/u/1936533) | 233.54 | 1 |
+| 6986 | [[ Daniel ]](https://osu.ppy.sh/u/4464566) | 233.46 | 1 |
+| 6987 | [Mitsuka](https://osu.ppy.sh/u/5473599) | 233.16 | 1 |
+| 6988 | [samlu1999](https://osu.ppy.sh/u/5068171) | 233.04 | 1 |
+| 6989 | [Elata](https://osu.ppy.sh/u/8040128) | 233.03 | 1 |
+| 6990 | [Chaos](https://osu.ppy.sh/u/2628870) | 232.90 | 1 |
+| 6991 | [Chishiki](https://osu.ppy.sh/u/6296509) | 232.56 | 1 |
+| 6992 | [Juvia Lokser](https://osu.ppy.sh/u/6146933) | 232.47 | 1 |
+| 6993 | [Decheitful](https://osu.ppy.sh/u/8142065) | 232.38 | 1 |
+| 6994 | [nub](https://osu.ppy.sh/u/6518949) | 232.38 | 1 |
+| 6995 | [YuukaRosenzweig](https://osu.ppy.sh/u/6199479) | 232.38 | 1 |
+| 6996 | [LunaWu](https://osu.ppy.sh/u/4088853) | 232.38 | 1 |
+| 6997 | [TaMul](https://osu.ppy.sh/u/1142692) | 232.38 | 1 |
+| 6998 | [SnowManHD](https://osu.ppy.sh/u/2363838) | 232.30 | 1 |
+| 6999 | [Shrik](https://osu.ppy.sh/u/4433177) | 232.15 | 1 |
+| 7000 | [Alexmrmongolo69](https://osu.ppy.sh/u/3320183) | 232.14 | 1 |
+| 7001 | [NuunMoon](https://osu.ppy.sh/u/6432872) | 232.12 | 1 |
+| 7002 | [Haipur](https://osu.ppy.sh/u/7375508) | 232.11 | 1 |
+| 7003 | [Heros5k](https://osu.ppy.sh/u/6676303) | 232.10 | 1 |
+| 7004 | [tonnylim24710](https://osu.ppy.sh/u/7321111) | 231.98 | 1 |
+| 7005 | [WolfWolfy](https://osu.ppy.sh/u/3492382) | 231.98 | 1 |
+| 7006 | [Dakurako](https://osu.ppy.sh/u/2670771) | 231.88 | 1 |
+| 7007 | [shatan7](https://osu.ppy.sh/u/7604671) | 231.85 | 1 |
+| 7008 | [Benjo](https://osu.ppy.sh/u/5997009) | 231.65 | 1 |
+| 7009 | [-Onoya An](https://osu.ppy.sh/u/2725984) | 231.54 | 1 |
+| 7010 | [GamesElmo](https://osu.ppy.sh/u/7917864) | 231.46 | 1 |
+| 7011 | [[-BlackZ-]](https://osu.ppy.sh/u/2043341) | 231.42 | 1 |
+| 7012 | [Chocopikel](https://osu.ppy.sh/u/382840) | 231.36 | 1 |
+| 7013 | [Navi](https://osu.ppy.sh/u/926304) | 231.33 | 1 |
+| 7014 | [I will be back](https://osu.ppy.sh/u/477704) | 231.26 | 1 |
+| 7015 | [[ Tamako ]](https://osu.ppy.sh/u/7925498) | 231.19 | 1 |
+| 7016 | [Line-](https://osu.ppy.sh/u/1888064) | 231.17 | 1 |
+| 7017 | [[ Nekosando ]](https://osu.ppy.sh/u/8642377) | 231.16 | 1 |
+| 7018 | [Moge-ko3](https://osu.ppy.sh/u/4895681) | 231.16 | 1 |
+| 7019 | [admiralsam](https://osu.ppy.sh/u/3878093) | 231.16 | 1 |
+| 7020 | [Vmz](https://osu.ppy.sh/u/3562602) | 231.16 | 1 |
+| 7021 | [Sayori-sama](https://osu.ppy.sh/u/3396814) | 231.16 | 1 |
+| 7022 | [xBepo](https://osu.ppy.sh/u/3331422) | 231.16 | 1 |
+| 7023 | [panda96](https://osu.ppy.sh/u/1612906) | 231.08 | 1 |
+| 7024 | [1xmiss](https://osu.ppy.sh/u/2914552) | 231.03 | 1 |
+| 7025 | [k1oku](https://osu.ppy.sh/u/3971794) | 231.02 | 1 |
+| 7026 | [G Sabelette](https://osu.ppy.sh/u/5761765) | 231.00 | 1 |
+| 7027 | [-A n i c c a-](https://osu.ppy.sh/u/4560359) | 230.82 | 1 |
+| 7028 | [LoLXII](https://osu.ppy.sh/u/2865638) | 230.82 | 1 |
+| 7029 | [SEREJK](https://osu.ppy.sh/u/519337) | 230.69 | 1 |
+| 7030 | [ComplexCow](https://osu.ppy.sh/u/4793635) | 230.62 | 1 |
+| 7031 | [xiaoteddy](https://osu.ppy.sh/u/930718) | 230.58 | 1 |
+| 7032 | [Apyhsconyl](https://osu.ppy.sh/u/264862) | 230.57 | 1 |
+| 7033 | [Big Gulp](https://osu.ppy.sh/u/6358293) | 230.54 | 1 |
+| 7034 | [Music Lord](https://osu.ppy.sh/u/2808144) | 230.54 | 1 |
+| 7035 | [Hipek](https://osu.ppy.sh/u/2029259) | 230.54 | 1 |
+| 7036 | [RilipWorldWider](https://osu.ppy.sh/u/3395312) | 230.54 | 1 |
+| 7037 | [DOmiF0rz](https://osu.ppy.sh/u/4593498) | 230.53 | 1 |
+| 7038 | [willy6677](https://osu.ppy.sh/u/5208892) | 230.49 | 1 |
+| 7039 | [Karl](https://osu.ppy.sh/u/2218519) | 230.21 | 1 |
+| 7040 | [Elcy](https://osu.ppy.sh/u/861107) | 229.95 | 1 |
+| 7041 | [SaryMooMoo](https://osu.ppy.sh/u/3718293) | 229.69 | 1 |
+| 7042 | [Retro Cat](https://osu.ppy.sh/u/5010113) | 229.54 | 1 |
+| 7043 | [Gatekeepers](https://osu.ppy.sh/u/8045604) | 229.41 | 1 |
+| 7044 | [Doxa](https://osu.ppy.sh/u/3570817) | 229.41 | 1 |
+| 7045 | [fl0wy](https://osu.ppy.sh/u/211781) | 229.41 | 1 |
+| 7046 | [Kappe_mk](https://osu.ppy.sh/u/1776615) | 229.34 | 1 |
+| 7047 | [sushipack321](https://osu.ppy.sh/u/4146587) | 229.23 | 1 |
+| 7048 | [LXShade](https://osu.ppy.sh/u/6092990) | 229.22 | 1 |
+| 7049 | [Eltryo](https://osu.ppy.sh/u/5415394) | 229.19 | 1 |
+| 7050 | [Dzony1337](https://osu.ppy.sh/u/6330030) | 229.09 | 1 |
+| 7051 | [Yellowraven](https://osu.ppy.sh/u/3645490) | 228.94 | 1 |
+| 7052 | [Twioxie](https://osu.ppy.sh/u/5182216) | 228.91 | 1 |
+| 7053 | [NelsonG14](https://osu.ppy.sh/u/2965164) | 228.91 | 1 |
+| 7054 | [SlyTaco](https://osu.ppy.sh/u/3301398) | 228.77 | 1 |
+| 7055 | [[Ryu]](https://osu.ppy.sh/u/561879) | 228.71 | 1 |
+| 7056 | [TimmyTimTims](https://osu.ppy.sh/u/1254926) | 228.67 | 1 |
+| 7057 | [Ryusensh](https://osu.ppy.sh/u/1156509) | 228.60 | 1 |
+| 7058 | [Virrus](https://osu.ppy.sh/u/949804) | 228.57 | 1 |
+| 7059 | [kTN](https://osu.ppy.sh/u/7050137) | 228.28 | 1 |
+| 7060 | [kilreff45](https://osu.ppy.sh/u/4322853) | 228.28 | 1 |
+| 7061 | [Hadis](https://osu.ppy.sh/u/3396384) | 228.28 | 1 |
+| 7062 | [Victoire](https://osu.ppy.sh/u/1605867) | 228.21 | 1 |
+| 7063 | [Flurble](https://osu.ppy.sh/u/7746354) | 227.99 | 1 |
+| 7064 | [Menani](https://osu.ppy.sh/u/4830426) | 227.99 | 1 |
+| 7065 | [milokcrair](https://osu.ppy.sh/u/4449177) | 227.99 | 1 |
+| 7066 | [szczvr](https://osu.ppy.sh/u/2316480) | 227.87 | 1 |
+| 7067 | [Mazm8](https://osu.ppy.sh/u/4738836) | 227.84 | 1 |
+| 7068 | [FadedLamp](https://osu.ppy.sh/u/4020430) | 227.76 | 1 |
+| 7069 | [CreamPuffChris](https://osu.ppy.sh/u/1901516) | 227.76 | 1 |
+| 7070 | [LoveruiSS](https://osu.ppy.sh/u/1526649) | 227.67 | 1 |
+| 7071 | [ertgbvcd](https://osu.ppy.sh/u/1360769) | 227.58 | 1 |
+| 7072 | [Cray](https://osu.ppy.sh/u/1350338) | 227.43 | 1 |
+| 7073 | [LwL](https://osu.ppy.sh/u/3556856) | 227.35 | 1 |
+| 7074 | [tzamen](https://osu.ppy.sh/u/3577199) | 227.35 | 1 |
+| 7075 | [Maki Nishikino](https://osu.ppy.sh/u/4512058) | 227.23 | 1 |
+| 7076 | [Choululuu7423](https://osu.ppy.sh/u/4753647) | 227.18 | 1 |
+| 7077 | [11s](https://osu.ppy.sh/u/4391431) | 227.18 | 1 |
+| 7078 | [EpicNeo](https://osu.ppy.sh/u/4976614) | 226.82 | 1 |
+| 7079 | [Tusho](https://osu.ppy.sh/u/6786702) | 226.78 | 1 |
+| 7080 | [-CalCulated-](https://osu.ppy.sh/u/6055704) | 226.65 | 1 |
+| 7081 | [Agostino](https://osu.ppy.sh/u/3897665) | 226.65 | 1 |
+| 7082 | [BeeTee311](https://osu.ppy.sh/u/5479393) | 226.63 | 1 |
+| 7083 | [iPhone 7](https://osu.ppy.sh/u/5011379) | 226.57 | 1 |
+| 7084 | [- Winter -](https://osu.ppy.sh/u/9007587) | 226.43 | 1 |
+| 7085 | [Betellgeus](https://osu.ppy.sh/u/5625443) | 226.36 | 1 |
+| 7086 | [BojowyChomik](https://osu.ppy.sh/u/3785871) | 226.36 | 1 |
+| 7087 | [KaZziK](https://osu.ppy.sh/u/3475020) | 226.36 | 1 |
+| 7088 | [hipzjkelol](https://osu.ppy.sh/u/6066667) | 226.31 | 1 |
+| 7089 | [- Alexmal -](https://osu.ppy.sh/u/5443582) | 226.31 | 1 |
+| 7090 | [Tsuki no yaya](https://osu.ppy.sh/u/3580949) | 226.29 | 1 |
+| 7091 | [Oriental Tank](https://osu.ppy.sh/u/3640147) | 226.29 | 1 |
+| 7092 | [-lovely ala-](https://osu.ppy.sh/u/4469565) | 226.23 | 1 |
+| 7093 | [Yoru-hide](https://osu.ppy.sh/u/791121) | 226.15 | 1 |
+| 7094 | [Reey](https://osu.ppy.sh/u/3773119) | 225.76 | 1 |
+| 7095 | [Spinner](https://osu.ppy.sh/u/2735686) | 225.60 | 1 |
+| 7096 | [Stormee](https://osu.ppy.sh/u/1833997) | 225.53 | 1 |
+| 7097 | [Cloud217](https://osu.ppy.sh/u/1413005) | 225.48 | 1 |
+| 7098 | [Statyk](https://osu.ppy.sh/u/2909073) | 225.37 | 1 |
+| 7099 | [- Teto -](https://osu.ppy.sh/u/4574152) | 225.33 | 1 |
+| 7100 | [HiddenHimox](https://osu.ppy.sh/u/6977204) | 225.09 | 1 |
+| 7101 | [Wurf](https://osu.ppy.sh/u/6292292) | 225.09 | 1 |
+| 7102 | [Sneaky](https://osu.ppy.sh/u/2680097) | 224.84 | 1 |
+| 7103 | [ze_or](https://osu.ppy.sh/u/6497935) | 224.83 | 1 |
+| 7104 | [KlaydR](https://osu.ppy.sh/u/3292157) | 224.83 | 1 |
+| 7105 | [markuci](https://osu.ppy.sh/u/2709588) | 224.81 | 1 |
+| 7106 | [TheRandomGuy97](https://osu.ppy.sh/u/5551365) | 224.65 | 1 |
+| 7107 | [[ Shark ]](https://osu.ppy.sh/u/3074610) | 224.54 | 1 |
+| 7108 | [S o L u S](https://osu.ppy.sh/u/2483135) | 224.53 | 1 |
+| 7109 | [Josepher](https://osu.ppy.sh/u/3146113) | 224.30 | 1 |
+| 7110 | [[Snappy]](https://osu.ppy.sh/u/1080957) | 224.23 | 1 |
+| 7111 | [Phanna](https://osu.ppy.sh/u/1801001) | 224.15 | 1 |
+| 7112 | [My Angel Shiro](https://osu.ppy.sh/u/3163992) | 224.06 | 1 |
+| 7113 | [Icebooker](https://osu.ppy.sh/u/8355263) | 224.03 | 1 |
+| 7114 | [aurabby](https://osu.ppy.sh/u/7397211) | 224.03 | 1 |
+| 7115 | [ShinRunner1st](https://osu.ppy.sh/u/2056493) | 224.03 | 1 |
+| 7116 | [Lisha](https://osu.ppy.sh/u/4616407) | 223.88 | 1 |
+| 7117 | [- Dave -](https://osu.ppy.sh/u/3604693) | 223.76 | 1 |
+| 7118 | [[-Lucario-]](https://osu.ppy.sh/u/186193) | 223.76 | 1 |
+| 7119 | [Taburet](https://osu.ppy.sh/u/6745065) | 223.64 | 1 |
+| 7120 | [trkeaAKAnagata](https://osu.ppy.sh/u/3774028) | 223.56 | 1 |
+| 7121 | [- Ene Takane-](https://osu.ppy.sh/u/4074321) | 223.43 | 1 |
+| 7122 | [Gintoki](https://osu.ppy.sh/u/3147797) | 223.25 | 1 |
+| 7123 | [ponponboy](https://osu.ppy.sh/u/341650) | 223.21 | 1 |
+| 7124 | [Shidek](https://osu.ppy.sh/u/6084440) | 223.08 | 1 |
+| 7125 | [-Eat Sparingly-](https://osu.ppy.sh/u/2912782) | 223.03 | 1 |
+| 7126 | [osu is hard](https://osu.ppy.sh/u/3967247) | 222.99 | 1 |
+| 7127 | [Small---Fea](https://osu.ppy.sh/u/3998273) | 222.88 | 1 |
+| 7128 | [Hoppou](https://osu.ppy.sh/u/4479850) | 222.87 | 1 |
+| 7129 | [Matrix666](https://osu.ppy.sh/u/4127779) | 222.66 | 1 |
+| 7130 | [Antoshka1488](https://osu.ppy.sh/u/7147138) | 222.63 | 1 |
+| 7131 | [SugarDaddy](https://osu.ppy.sh/u/4313586) | 222.63 | 1 |
+| 7132 | [Hatred](https://osu.ppy.sh/u/3103850) | 222.63 | 1 |
+| 7133 | [KuroNeko1509](https://osu.ppy.sh/u/4650336) | 222.55 | 1 |
+| 7134 | [bojestvo](https://osu.ppy.sh/u/457735) | 222.55 | 1 |
+| 7135 | [Milaner](https://osu.ppy.sh/u/6108602) | 222.54 | 1 |
+| 7136 | [ArtHotoshev](https://osu.ppy.sh/u/7800914) | 222.43 | 1 |
+| 7137 | [ojosummer](https://osu.ppy.sh/u/4146000) | 222.34 | 1 |
+| 7138 | [Muisey](https://osu.ppy.sh/u/1882593) | 222.34 | 1 |
+| 7139 | [CrimsonClaw](https://osu.ppy.sh/u/1894546) | 222.32 | 1 |
+| 7140 | [KarenDesu](https://osu.ppy.sh/u/4714093) | 222.21 | 1 |
+| 7141 | [ShallICompareThee](https://osu.ppy.sh/u/936088) | 222.13 | 1 |
+| 7142 | [bornsurvivor](https://osu.ppy.sh/u/6662549) | 222.02 | 1 |
+| 7143 | [p[ LYNCH ]c](https://osu.ppy.sh/u/2946428) | 222.02 | 1 |
+| 7144 | [Shibatora](https://osu.ppy.sh/u/3209442) | 221.98 | 1 |
+| 7145 | [Ice Tea citron](https://osu.ppy.sh/u/7298776) | 221.97 | 1 |
+| 7146 | [James17](https://osu.ppy.sh/u/4157830) | 221.90 | 1 |
+| 7147 | [OPzzzz](https://osu.ppy.sh/u/6221581) | 221.87 | 1 |
+| 7148 | [Tled](https://osu.ppy.sh/u/7751333) | 221.85 | 1 |
+| 7149 | [Lunihoch3](https://osu.ppy.sh/u/2723016) | 221.71 | 1 |
+| 7150 | [Anhedonia](https://osu.ppy.sh/u/2182848) | 221.59 | 1 |
+| 7151 | [CaptainMerr](https://osu.ppy.sh/u/5052768) | 221.52 | 1 |
+| 7152 | [triace](https://osu.ppy.sh/u/583918) | 221.43 | 1 |
+| 7153 | [Vellali](https://osu.ppy.sh/u/1047933) | 221.13 | 1 |
+| 7154 | [MoYuO](https://osu.ppy.sh/u/594547) | 220.85 | 1 |
+| 7155 | [Corinne](https://osu.ppy.sh/u/8550292) | 220.73 | 1 |
+| 7156 | [Bloodfang](https://osu.ppy.sh/u/7449455) | 220.45 | 1 |
+| 7157 | [FadingXIII](https://osu.ppy.sh/u/7268137) | 220.45 | 1 |
+| 7158 | [Testo](https://osu.ppy.sh/u/5200881) | 220.45 | 1 |
+| 7159 | [Sebasten](https://osu.ppy.sh/u/5177530) | 220.45 | 1 |
+| 7160 | [Diabolikha](https://osu.ppy.sh/u/5050907) | 220.45 | 1 |
+| 7161 | [iHalcyonK](https://osu.ppy.sh/u/4242676) | 220.45 | 1 |
+| 7162 | [MastaWinda](https://osu.ppy.sh/u/3123398) | 220.26 | 1 |
+| 7163 | [FoolB](https://osu.ppy.sh/u/925170) | 220.24 | 1 |
+| 7164 | [yezplz](https://osu.ppy.sh/u/4082093) | 220.24 | 1 |
+| 7165 | [Kapson](https://osu.ppy.sh/u/2872875) | 220.24 | 1 |
+| 7166 | [Necroluttah](https://osu.ppy.sh/u/2917471) | 220.15 | 1 |
+| 7167 | [Fusatskuu](https://osu.ppy.sh/u/4827907) | 219.85 | 1 |
+| 7168 | [- auhueu -](https://osu.ppy.sh/u/2511275) | 219.65 | 1 |
+| 7169 | [fr1Z](https://osu.ppy.sh/u/8457459) | 219.63 | 1 |
+| 7170 | [Bonk](https://osu.ppy.sh/u/4209965) | 219.58 | 1 |
+| 7171 | [Jormungand](https://osu.ppy.sh/u/5145890) | 219.57 | 1 |
+| 7172 | [Rarth](https://osu.ppy.sh/u/5018017) | 219.38 | 1 |
+| 7173 | [kuur0](https://osu.ppy.sh/u/3544985) | 219.12 | 1 |
+| 7174 | [Heidiii](https://osu.ppy.sh/u/9423837) | 218.86 | 1 |
+| 7175 | [osu](https://osu.ppy.sh/u/4574161) | 218.86 | 1 |
+| 7176 | [wildcookie](https://osu.ppy.sh/u/4018392) | 218.86 | 1 |
+| 7177 | [grumd](https://osu.ppy.sh/u/530913) | 218.81 | 1 |
+| 7178 | [VSblueiceflame](https://osu.ppy.sh/u/3321166) | 218.71 | 1 |
+| 7179 | [Rus Tea](https://osu.ppy.sh/u/5078479) | 218.67 | 1 |
+| 7180 | [Sinku](https://osu.ppy.sh/u/1258181) | 218.66 | 1 |
+| 7181 | [Letrus](https://osu.ppy.sh/u/3939685) | 218.65 | 1 |
+| 7182 | [StickyFigures](https://osu.ppy.sh/u/3131312) | 218.63 | 1 |
+| 7183 | [XxCheesesteak](https://osu.ppy.sh/u/8106988) | 218.61 | 1 |
+| 7184 | [Kaosu-](https://osu.ppy.sh/u/5177310) | 218.51 | 1 |
+| 7185 | [SatoriKomeiji](https://osu.ppy.sh/u/5268476) | 218.36 | 1 |
+| 7186 | [DroW](https://osu.ppy.sh/u/5190363) | 218.25 | 1 |
+| 7187 | [-N a n a k o-](https://osu.ppy.sh/u/1407516) | 218.09 | 1 |
+| 7188 | [[Zenith]](https://osu.ppy.sh/u/6400718) | 218.08 | 1 |
+| 7189 | [Nuiko](https://osu.ppy.sh/u/1740207) | 218.08 | 1 |
+| 7190 | [Krimek](https://osu.ppy.sh/u/2345078) | 218.03 | 1 |
+| 7191 | [bgfighter21](https://osu.ppy.sh/u/3367047) | 217.98 | 1 |
+| 7192 | [Ongaku](https://osu.ppy.sh/u/3885609) | 217.96 | 1 |
+| 7193 | [ownageboss](https://osu.ppy.sh/u/4764886) | 217.95 | 1 |
+| 7194 | [Lucrisiah](https://osu.ppy.sh/u/4245167) | 217.89 | 1 |
+| 7195 | [Iksu](https://osu.ppy.sh/u/3306295) | 217.79 | 1 |
+| 7196 | [pythonQQ](https://osu.ppy.sh/u/3403541) | 217.68 | 1 |
+| 7197 | [Kuranto](https://osu.ppy.sh/u/2929736) | 217.68 | 1 |
+| 7198 | [zhuangsi](https://osu.ppy.sh/u/2401600) | 217.61 | 1 |
+| 7199 | [Trans_Am](https://osu.ppy.sh/u/149752) | 217.47 | 1 |
+| 7200 | [-Dani-](https://osu.ppy.sh/u/8310910) | 217.34 | 1 |
+| 7201 | [[ Valex ]](https://osu.ppy.sh/u/3100669) | 217.26 | 1 |
+| 7202 | [freeze113](https://osu.ppy.sh/u/4237503) | 217.06 | 1 |
+| 7203 | [mutant1324](https://osu.ppy.sh/u/3836488) | 217.04 | 1 |
+| 7204 | [KawaiiChick](https://osu.ppy.sh/u/4994803) | 217.02 | 1 |
+| 7205 | [azer467](https://osu.ppy.sh/u/4775600) | 217.02 | 1 |
+| 7206 | [-R_](https://osu.ppy.sh/u/7633616) | 217.01 | 1 |
+| 7207 | [aTangy](https://osu.ppy.sh/u/8263075) | 216.95 | 1 |
+| 7208 | [Fatfan Kolek](https://osu.ppy.sh/u/2308676) | 216.84 | 1 |
+| 7209 | [justanybody](https://osu.ppy.sh/u/4467619) | 216.80 | 1 |
+| 7210 | [suzukip3](https://osu.ppy.sh/u/4512136) | 216.77 | 1 |
+| 7211 | [Kyouma](https://osu.ppy.sh/u/2070247) | 216.75 | 1 |
+| 7212 | [Yippz](https://osu.ppy.sh/u/2996092) | 216.73 | 1 |
+| 7213 | [Ang1l](https://osu.ppy.sh/u/5499567) | 216.71 | 1 |
+| 7214 | [AndrewSoaD](https://osu.ppy.sh/u/4825842) | 216.71 | 1 |
+| 7215 | [[ Thanatos ]](https://osu.ppy.sh/u/2707041) | 216.48 | 1 |
+| 7216 | [[ -BELYOND- ]](https://osu.ppy.sh/u/4922260) | 216.38 | 1 |
+| 7217 | [ded](https://osu.ppy.sh/u/7488089) | 216.32 | 1 |
+| 7218 | [DonHD](https://osu.ppy.sh/u/5820233) | 216.31 | 1 |
+| 7219 | [tomatoes](https://osu.ppy.sh/u/5394989) | 215.57 | 1 |
+| 7220 | [Ille Snarf](https://osu.ppy.sh/u/7417034) | 215.49 | 1 |
+| 7221 | [Volvox](https://osu.ppy.sh/u/4483049) | 215.42 | 1 |
+| 7222 | [Swift](https://osu.ppy.sh/u/2254206) | 215.42 | 1 |
+| 7223 | [Iiro](https://osu.ppy.sh/u/3671630) | 215.31 | 1 |
+| 7224 | [AH1MeLLIKO](https://osu.ppy.sh/u/6511254) | 215.18 | 1 |
+| 7225 | [sylfux](https://osu.ppy.sh/u/3713209) | 215.10 | 1 |
+| 7226 | [GPlayGamer](https://osu.ppy.sh/u/2319855) | 215.08 | 1 |
+| 7227 | [Kars](https://osu.ppy.sh/u/5348364) | 214.62 | 1 |
+| 7228 | [MasterDaniel](https://osu.ppy.sh/u/5512933) | 214.62 | 1 |
+| 7229 | [LastNamedTwice](https://osu.ppy.sh/u/6339618) | 214.61 | 1 |
+| 7230 | [VolTroX](https://osu.ppy.sh/u/4299430) | 214.61 | 1 |
+| 7231 | [SamPokLord](https://osu.ppy.sh/u/8626631) | 214.42 | 1 |
+| 7232 | [McKay](https://osu.ppy.sh/u/3321909) | 214.33 | 1 |
+| 7233 | [Turneetup](https://osu.ppy.sh/u/2733540) | 214.33 | 1 |
+| 7234 | [Troy](https://osu.ppy.sh/u/2253645) | 214.33 | 1 |
+| 7235 | [Discretos](https://osu.ppy.sh/u/8625228) | 214.30 | 1 |
+| 7236 | [FunColeman](https://osu.ppy.sh/u/3711541) | 214.29 | 1 |
+| 7237 | [Akatsuki Nagi](https://osu.ppy.sh/u/4622278) | 214.25 | 1 |
+| 7238 | [SneakY NickY](https://osu.ppy.sh/u/8847379) | 214.18 | 1 |
+| 7239 | [Cozzzy](https://osu.ppy.sh/u/2003917) | 214.18 | 1 |
+| 7240 | [qinqinyubaobao](https://osu.ppy.sh/u/2814340) | 214.04 | 1 |
+| 7241 | [VilaZ](https://osu.ppy.sh/u/5155680) | 213.95 | 1 |
+| 7242 | [MyA1mSucks](https://osu.ppy.sh/u/6807718) | 213.82 | 1 |
+| 7243 | [HelloBlack](https://osu.ppy.sh/u/4844743) | 213.72 | 1 |
+| 7244 | [Gilinor](https://osu.ppy.sh/u/3105086) | 213.64 | 1 |
+| 7245 | [-Riho](https://osu.ppy.sh/u/2551505) | 213.51 | 1 |
+| 7246 | [Romero](https://osu.ppy.sh/u/6497311) | 213.47 | 1 |
+| 7247 | [vrei](https://osu.ppy.sh/u/4711096) | 213.47 | 1 |
+| 7248 | [ProfessionalBox](https://osu.ppy.sh/u/3250792) | 213.24 | 1 |
+| 7249 | [Venitros](https://osu.ppy.sh/u/4264464) | 213.07 | 1 |
+| 7250 | [Aezakmi](https://osu.ppy.sh/u/4572634) | 213.05 | 1 |
+| 7251 | [iWhorse](https://osu.ppy.sh/u/2199638) | 213.03 | 1 |
+| 7252 | [My Acc Sucks](https://osu.ppy.sh/u/3971190) | 212.99 | 1 |
+| 7253 | [Wheatley_z](https://osu.ppy.sh/u/5238119) | 212.87 | 1 |
+| 7254 | [RedKing](https://osu.ppy.sh/u/2754924) | 212.87 | 1 |
+| 7255 | [lh5532](https://osu.ppy.sh/u/4502656) | 212.72 | 1 |
+| 7256 | [[ Kami ]](https://osu.ppy.sh/u/3168810) | 212.62 | 1 |
+| 7257 | [Mouse2Hard](https://osu.ppy.sh/u/3291983) | 212.58 | 1 |
+| 7258 | [Vanaely](https://osu.ppy.sh/u/2677440) | 212.46 | 1 |
+| 7259 | [MarGenDo](https://osu.ppy.sh/u/3340086) | 212.41 | 1 |
+| 7260 | [FirosGamer](https://osu.ppy.sh/u/3896302) | 212.34 | 1 |
+| 7261 | [Alleria](https://osu.ppy.sh/u/2617038) | 212.29 | 1 |
+| 7262 | [MixAX20](https://osu.ppy.sh/u/296823) | 212.22 | 1 |
+| 7263 | [piedalicious](https://osu.ppy.sh/u/4710568) | 211.90 | 1 |
+| 7264 | [polishguy123](https://osu.ppy.sh/u/3456761) | 211.81 | 1 |
+| 7265 | [t4ikutsun4](https://osu.ppy.sh/u/2235791) | 211.67 | 1 |
+| 7266 | [Kubor](https://osu.ppy.sh/u/3770363) | 211.66 | 1 |
+| 7267 | [rmanz](https://osu.ppy.sh/u/1920194) | 211.65 | 1 |
+| 7268 | [plz](https://osu.ppy.sh/u/897187) | 211.57 | 1 |
+| 7269 | [- Xiao -](https://osu.ppy.sh/u/8114269) | 211.54 | 1 |
+| 7270 | [0034192](https://osu.ppy.sh/u/7133351) | 211.54 | 1 |
+| 7271 | [casual clown](https://osu.ppy.sh/u/6222657) | 211.54 | 1 |
+| 7272 | [Haglax](https://osu.ppy.sh/u/3991313) | 211.54 | 1 |
+| 7273 | [Alminair-sky](https://osu.ppy.sh/u/3885775) | 211.29 | 1 |
+| 7274 | [- A s u n a -](https://osu.ppy.sh/u/4867824) | 211.20 | 1 |
+| 7275 | [Coffin](https://osu.ppy.sh/u/2709316) | 211.08 | 1 |
+| 7276 | [Aesti](https://osu.ppy.sh/u/2856265) | 210.65 | 1 |
+| 7277 | [maksimm](https://osu.ppy.sh/u/5506137) | 210.64 | 1 |
+| 7278 | [Takatsuki Ayumi](https://osu.ppy.sh/u/2083468) | 210.64 | 1 |
+| 7279 | [Goat](https://osu.ppy.sh/u/3436384) | 210.52 | 1 |
+| 7280 | [AngelRikka](https://osu.ppy.sh/u/8812593) | 210.45 | 1 |
+| 7281 | [Halgoh](https://osu.ppy.sh/u/4109923) | 210.08 | 1 |
+| 7282 | [S a d](https://osu.ppy.sh/u/1443235) | 210.08 | 1 |
+| 7283 | [Kyle73](https://osu.ppy.sh/u/3767927) | 209.89 | 1 |
+| 7284 | [Akkuto](https://osu.ppy.sh/u/4649165) | 209.82 | 1 |
+| 7285 | [ImAfraidOfDoors](https://osu.ppy.sh/u/7770322) | 209.79 | 1 |
+| 7286 | [[ Micaloda ]](https://osu.ppy.sh/u/8434383) | 209.56 | 1 |
+| 7287 | [egedi](https://osu.ppy.sh/u/3975137) | 209.52 | 1 |
+| 7288 | [RedLight748](https://osu.ppy.sh/u/4192805) | 209.38 | 1 |
+| 7289 | [LynkaLy](https://osu.ppy.sh/u/6988563) | 209.38 | 1 |
+| 7290 | [HK_BLAU](https://osu.ppy.sh/u/3073332) | 209.34 | 1 |
+| 7291 | [ninjavision2749](https://osu.ppy.sh/u/5593865) | 208.95 | 1 |
+| 7292 | [spikele](https://osu.ppy.sh/u/4718079) | 208.85 | 1 |
+| 7293 | [AlX64](https://osu.ppy.sh/u/6971802) | 208.73 | 1 |
+| 7294 | [FroozNe](https://osu.ppy.sh/u/2965740) | 208.72 | 1 |
+| 7295 | [Maximaniac](https://osu.ppy.sh/u/2911504) | 208.72 | 1 |
+| 7296 | [CombustionZ](https://osu.ppy.sh/u/2751326) | 208.69 | 1 |
+| 7297 | [HyphyNut](https://osu.ppy.sh/u/5049077) | 208.66 | 1 |
+| 7298 | [Saut](https://osu.ppy.sh/u/3799202) | 208.51 | 1 |
+| 7299 | [Haruki](https://osu.ppy.sh/u/5031503) | 208.51 | 1 |
+| 7300 | [112servis](https://osu.ppy.sh/u/3953470) | 208.49 | 1 |
+| 7301 | [pandomonia](https://osu.ppy.sh/u/7806386) | 208.22 | 1 |
+| 7302 | [Average](https://osu.ppy.sh/u/4960867) | 208.12 | 1 |
+| 7303 | [soba](https://osu.ppy.sh/u/549556) | 208.07 | 1 |
+| 7304 | [rus](https://osu.ppy.sh/u/2075376) | 208.07 | 1 |
+| 7305 | [ImBuGs](https://osu.ppy.sh/u/4292262) | 207.84 | 1 |
+| 7306 | [Malteser](https://osu.ppy.sh/u/5218178) | 207.81 | 1 |
+| 7307 | [Asagi](https://osu.ppy.sh/u/2439246) | 207.80 | 1 |
+| 7308 | [Xentarlion](https://osu.ppy.sh/u/2713906) | 207.57 | 1 |
+| 7309 | [spirit flare](https://osu.ppy.sh/u/3442136) | 207.34 | 1 |
+| 7310 | [MakesnoSensei](https://osu.ppy.sh/u/4287108) | 207.14 | 1 |
+| 7311 | [Tokuchi](https://osu.ppy.sh/u/6893396) | 207.11 | 1 |
+| 7312 | [Ignas](https://osu.ppy.sh/u/6391852) | 207.11 | 1 |
+| 7313 | [iT3chnoHD](https://osu.ppy.sh/u/3095685) | 207.11 | 1 |
+| 7314 | [LLLol0_0IAY](https://osu.ppy.sh/u/6716108) | 207.04 | 1 |
+| 7315 | [saga](https://osu.ppy.sh/u/1021742) | 207.04 | 1 |
+| 7316 | [ITzYaBOiRYAn](https://osu.ppy.sh/u/8382345) | 206.87 | 1 |
+| 7317 | [Ampharos](https://osu.ppy.sh/u/7236080) | 206.72 | 1 |
+| 7318 | [WolfyToast](https://osu.ppy.sh/u/4668425) | 206.63 | 1 |
+| 7319 | [Beboch](https://osu.ppy.sh/u/4004891) | 206.57 | 1 |
+| 7320 | [EmingK](https://osu.ppy.sh/u/2021118) | 206.44 | 1 |
+| 7321 | [Mestarisyotti](https://osu.ppy.sh/u/8419753) | 206.39 | 1 |
+| 7322 | [Yuki-zakura](https://osu.ppy.sh/u/8155983) | 206.33 | 1 |
+| 7323 | [Dmitriy1602](https://osu.ppy.sh/u/3749938) | 206.33 | 1 |
+| 7324 | [Scarlet Sisters](https://osu.ppy.sh/u/409142) | 206.10 | 1 |
+| 7325 | [IcarusSenpai](https://osu.ppy.sh/u/2942942) | 206.00 | 1 |
+| 7326 | [xenon233](https://osu.ppy.sh/u/1747532) | 205.93 | 1 |
+| 7327 | [6 digit](https://osu.ppy.sh/u/2095582) | 205.90 | 1 |
+| 7328 | [The Spectre](https://osu.ppy.sh/u/8319501) | 205.87 | 1 |
+| 7329 | [Scimister](https://osu.ppy.sh/u/2441195) | 205.82 | 1 |
+| 7330 | [xX_MusicMan_Xx](https://osu.ppy.sh/u/5718989) | 205.49 | 1 |
+| 7331 | [Flat](https://osu.ppy.sh/u/2232134) | 205.25 | 1 |
+| 7332 | [doggu](https://osu.ppy.sh/u/5961601) | 205.19 | 1 |
+| 7333 | [Daracula](https://osu.ppy.sh/u/10661520) | 205.19 | 1 |
+| 7334 | [Rybos](https://osu.ppy.sh/u/7887028) | 205.19 | 1 |
+| 7335 | [KrYuTiCk](https://osu.ppy.sh/u/7054910) | 205.02 | 1 |
+| 7336 | [HNANDRA](https://osu.ppy.sh/u/4431528) | 205.02 | 1 |
+| 7337 | [My Rank Sucks](https://osu.ppy.sh/u/6817322) | 204.83 | 1 |
+| 7338 | [321Jump](https://osu.ppy.sh/u/4715598) | 204.78 | 1 |
+| 7339 | [Katsuyuki](https://osu.ppy.sh/u/3917325) | 204.71 | 1 |
+| 7340 | [bruce2585](https://osu.ppy.sh/u/2187161) | 204.43 | 1 |
+| 7341 | [pabuyan](https://osu.ppy.sh/u/416728) | 204.41 | 1 |
+| 7342 | [I still believe](https://osu.ppy.sh/u/1667906) | 204.40 | 1 |
+| 7343 | [Kannagi](https://osu.ppy.sh/u/2608083) | 204.32 | 1 |
+| 7344 | [dzh4bftks](https://osu.ppy.sh/u/445299) | 204.25 | 1 |
+| 7345 | [Flutteh](https://osu.ppy.sh/u/5042507) | 204.20 | 1 |
+| 7346 | [KoMo](https://osu.ppy.sh/u/1033427) | 204.08 | 1 |
+| 7347 | [Kendais](https://osu.ppy.sh/u/1919513) | 203.91 | 1 |
+| 7348 | [jakster448](https://osu.ppy.sh/u/4172285) | 203.72 | 1 |
+| 7349 | [Rik0](https://osu.ppy.sh/u/7842699) | 203.69 | 1 |
+| 7350 | [Nexic-](https://osu.ppy.sh/u/4293965) | 203.69 | 1 |
+| 7351 | [SkatePvP](https://osu.ppy.sh/u/2398490) | 203.68 | 1 |
+| 7352 | [getsuga10shou](https://osu.ppy.sh/u/2254047) | 203.49 | 1 |
+| 7353 | [HardChan](https://osu.ppy.sh/u/6581780) | 203.47 | 1 |
+| 7354 | [lS9lRyan](https://osu.ppy.sh/u/451852) | 203.47 | 1 |
+| 7355 | [vidya](https://osu.ppy.sh/u/413305) | 203.19 | 1 |
+| 7356 | [harmonics0122](https://osu.ppy.sh/u/966992) | 203.15 | 1 |
+| 7357 | [Rioteck](https://osu.ppy.sh/u/2905884) | 203.10 | 1 |
+| 7358 | [HDNC](https://osu.ppy.sh/u/4338018) | 203.06 | 1 |
+| 7359 | [_WarGhost_](https://osu.ppy.sh/u/8683075) | 203.02 | 1 |
+| 7360 | [SacredSage](https://osu.ppy.sh/u/3168544) | 202.69 | 1 |
+| 7361 | [Astaylic](https://osu.ppy.sh/u/7255906) | 202.17 | 1 |
+| 7362 | [NvX](https://osu.ppy.sh/u/2045671) | 201.74 | 1 |
+| 7363 | [-Raijin](https://osu.ppy.sh/u/5380583) | 201.74 | 1 |
+| 7364 | [[Cal]](https://osu.ppy.sh/u/7959945) | 201.58 | 1 |
+| 7365 | [waltz](https://osu.ppy.sh/u/3499910) | 201.49 | 1 |
+| 7366 | [Stuehlchen](https://osu.ppy.sh/u/6227972) | 201.38 | 1 |
+| 7367 | [cKat](https://osu.ppy.sh/u/4606826) | 200.62 | 1 |
+| 7368 | [DahplA](https://osu.ppy.sh/u/4162273) | 200.62 | 1 |
+| 7369 | [Jaquah](https://osu.ppy.sh/u/4035325) | 200.62 | 1 |
+| 7370 | [Fendon](https://osu.ppy.sh/u/3168875) | 200.62 | 1 |
+| 7371 | [Zanza](https://osu.ppy.sh/u/2306307) | 200.62 | 1 |
+| 7372 | [RafiiX](https://osu.ppy.sh/u/1858352) | 200.62 | 1 |
+| 7373 | [Bartmargos](https://osu.ppy.sh/u/5527033) | 200.58 | 1 |
+| 7374 | [SlovakRanger](https://osu.ppy.sh/u/6510759) | 200.41 | 1 |
+| 7375 | [Etyio](https://osu.ppy.sh/u/1338235) | 200.26 | 1 |
+| 7376 | [SnakeBite](https://osu.ppy.sh/u/4783121) | 200.19 | 1 |
+| 7377 | [marseen](https://osu.ppy.sh/u/7578295) | 199.92 | 1 |
+| 7378 | [Gajarus](https://osu.ppy.sh/u/4452029) | 199.80 | 1 |
+| 7379 | [Likwidator](https://osu.ppy.sh/u/6237598) | 199.66 | 1 |
+| 7380 | [Chrubble](https://osu.ppy.sh/u/2594280) | 199.22 | 1 |
+| 7381 | [-Seiko-](https://osu.ppy.sh/u/6104772) | 199.17 | 1 |
+| 7382 | [Fujys](https://osu.ppy.sh/u/1405768) | 199.00 | 1 |
+| 7383 | [C4maLK](https://osu.ppy.sh/u/3138668) | 198.75 | 1 |
+| 7384 | [Q_Kharma](https://osu.ppy.sh/u/8816877) | 198.70 | 1 |
+| 7385 | [Future](https://osu.ppy.sh/u/2675643) | 198.70 | 1 |
+| 7386 | [Termitis](https://osu.ppy.sh/u/4056411) | 198.62 | 1 |
+| 7387 | [-Kon-](https://osu.ppy.sh/u/3907000) | 198.48 | 1 |
+| 7388 | [1Computer](https://osu.ppy.sh/u/5060320) | 198.47 | 1 |
+| 7389 | [KnutzFR](https://osu.ppy.sh/u/7912153) | 198.24 | 1 |
+| 7390 | [Bubbler](https://osu.ppy.sh/u/5153039) | 197.92 | 1 |
+| 7391 | [oxugen1337](https://osu.ppy.sh/u/6210840) | 197.80 | 1 |
+| 7392 | [Ruda](https://osu.ppy.sh/u/589082) | 197.71 | 1 |
+| 7393 | [sabergod](https://osu.ppy.sh/u/2604848) | 197.70 | 1 |
+| 7394 | [High_on_Milk](https://osu.ppy.sh/u/3910108) | 197.51 | 1 |
+| 7395 | [Lewis](https://osu.ppy.sh/u/3119578) | 197.39 | 1 |
+| 7396 | [suspequiti](https://osu.ppy.sh/u/1439615) | 197.39 | 1 |
+| 7397 | [NROB](https://osu.ppy.sh/u/3965277) | 196.75 | 1 |
+| 7398 | [VipR3](https://osu.ppy.sh/u/7451035) | 196.66 | 1 |
+| 7399 | [flappy494](https://osu.ppy.sh/u/2014383) | 196.53 | 1 |
+| 7400 | [Celleste](https://osu.ppy.sh/u/1091398) | 196.48 | 1 |
+| 7401 | [PReds21](https://osu.ppy.sh/u/3661295) | 196.19 | 1 |
+| 7402 | [T_eoH](https://osu.ppy.sh/u/4129509) | 196.12 | 1 |
+| 7403 | [Eaave](https://osu.ppy.sh/u/6133328) | 196.08 | 1 |
+| 7404 | [Nathaniel](https://osu.ppy.sh/u/6534748) | 195.45 | 1 |
+| 7405 | [[1Min_1Sec]](https://osu.ppy.sh/u/5297759) | 195.26 | 1 |
+| 7406 | [Asphyxia](https://osu.ppy.sh/u/1715720) | 194.85 | 1 |
+| 7407 | [OrangeW](https://osu.ppy.sh/u/7943634) | 194.34 | 1 |
+| 7408 | [dkles](https://osu.ppy.sh/u/1982847) | 194.28 | 1 |
+| 7409 | [-Rain and Snow-](https://osu.ppy.sh/u/5000550) | 193.85 | 1 |
+| 7410 | [OmgCamper](https://osu.ppy.sh/u/3650319) | 193.85 | 1 |
+| 7411 | [- VictoRiQue -](https://osu.ppy.sh/u/1509797) | 193.62 | 1 |
+| 7412 | [Meow-Mix](https://osu.ppy.sh/u/3021634) | 193.51 | 1 |
+| 7413 | [Gary](https://osu.ppy.sh/u/5639555) | 193.45 | 1 |
+| 7414 | [blank space](https://osu.ppy.sh/u/1738181) | 193.15 | 1 |
+| 7415 | [Sugimoto](https://osu.ppy.sh/u/5932021) | 192.85 | 1 |
+| 7416 | [kasskristo](https://osu.ppy.sh/u/2059508) | 192.58 | 1 |
+| 7417 | [erich](https://osu.ppy.sh/u/2647636) | 192.29 | 1 |
+| 7418 | [erdeka](https://osu.ppy.sh/u/2729653) | 192.26 | 1 |
+| 7419 | [DysReguLqte](https://osu.ppy.sh/u/3743107) | 191.90 | 1 |
+| 7420 | [AkashiDagara](https://osu.ppy.sh/u/6118485) | 191.12 | 1 |
+| 7421 | [xOverElemenTx](https://osu.ppy.sh/u/7726332) | 191.05 | 1 |
+| 7422 | [Brendan](https://osu.ppy.sh/u/5116662) | 191.00 | 1 |
+| 7423 | [arronchu1207](https://osu.ppy.sh/u/2226083) | 190.69 | 1 |
+| 7424 | [graves](https://osu.ppy.sh/u/7745663) | 190.33 | 1 |
+| 7425 | [wayayan](https://osu.ppy.sh/u/453450) | 190.14 | 1 |
+| 7426 | [NaterPotater](https://osu.ppy.sh/u/1332006) | 189.46 | 1 |
+| 7427 | [Hikomorii](https://osu.ppy.sh/u/2927665) | 189.16 | 1 |
+| 7428 | [66Luki](https://osu.ppy.sh/u/6294045) | 189.16 | 1 |
+| 7429 | [XIV](https://osu.ppy.sh/u/2837525) | 189.15 | 1 |
+| 7430 | [sbgshadow](https://osu.ppy.sh/u/4490948) | 188.81 | 1 |
+| 7431 | [Worminators](https://osu.ppy.sh/u/5262493) | 187.73 | 1 |
+| 7432 | [- kyon -](https://osu.ppy.sh/u/4064505) | 186.68 | 1 |
+| 7433 | [vkruhi](https://osu.ppy.sh/u/8183902) | 185.95 | 1 |
+| 7434 | [Livstvichka](https://osu.ppy.sh/u/6531873) | 185.88 | 1 |
+| 7435 | [Bread-chan](https://osu.ppy.sh/u/8107099) | 185.88 | 1 |
+| 7436 | [Kykypy3ka](https://osu.ppy.sh/u/3654950) | 185.53 | 1 |
+| 7437 | [-E v a n d r o-](https://osu.ppy.sh/u/6184431) | 185.18 | 1 |
+| 7438 | [5wixy](https://osu.ppy.sh/u/5223711) | 185.14 | 1 |
+| 7439 | [121Brian121](https://osu.ppy.sh/u/6192975) | 184.89 | 1 |
+| 7440 | [DDD](https://osu.ppy.sh/u/6922333) | 184.30 | 1 |
+| 7441 | [SpicabuP](https://osu.ppy.sh/u/8856806) | 183.96 | 1 |
+| 7442 | [C6H8O7](https://osu.ppy.sh/u/1911497) | 182.95 | 1 |
+| 7443 | [Patrykosek](https://osu.ppy.sh/u/2062881) | 182.12 | 1 |
+| 7444 | [- UmaruChan -](https://osu.ppy.sh/u/2822595) | 180.70 | 1 |
+| 7445 | [youi](https://osu.ppy.sh/u/7537133) | 179.95 | 1 |
+| 7446 | [HH9563623](https://osu.ppy.sh/u/3301859) | 179.56 | 1 |
+| 7447 | [FuzzyRookie](https://osu.ppy.sh/u/6421802) | 179.47 | 1 |
+| 7448 | [tkp205074](https://osu.ppy.sh/u/2984074) | 179.46 | 1 |
+| 7449 | [tabasa](https://osu.ppy.sh/u/421528) | 178.77 | 1 |
+| 7450 | [Curly](https://osu.ppy.sh/u/7237044) | 178.43 | 1 |
+| 7451 | [bonbon](https://osu.ppy.sh/u/2727475) | 178.28 | 1 |
+| 7452 | [Graczeu](https://osu.ppy.sh/u/8493884) | 177.50 | 1 |
+| 7453 | [- Josh -](https://osu.ppy.sh/u/3539462) | 177.20 | 1 |
+| 7454 | [Zyaqix](https://osu.ppy.sh/u/6085753) | 177.00 | 1 |
+| 7455 | [NepNep-](https://osu.ppy.sh/u/4800093) | 176.45 | 1 |
+| 7456 | [Shyuu](https://osu.ppy.sh/u/5267685) | 176.44 | 1 |
+| 7457 | [usao](https://osu.ppy.sh/u/3006529) | 173.60 | 1 |
+| 7458 | [Skeep](https://osu.ppy.sh/u/7855932) | 172.99 | 1 |
+| 7459 | [Maxii](https://osu.ppy.sh/u/2383506) | 169.00 | 1 |
+| 7460 | [black0000z](https://osu.ppy.sh/u/1296916) | 155.94 | 1 |
+| 7461 | [Kairooo](https://osu.ppy.sh/u/7429629) | 154.26 | 1 |
+| 7462 | [beerholders](https://osu.ppy.sh/u/4116119) | 153.55 | 1 |
+| 7463 | [My Angel Mae](https://osu.ppy.sh/u/3695504) | 87.74 | 1 |
+| 7464 | [zyhaha](https://osu.ppy.sh/u/863377) | 87.09 | 1 |
